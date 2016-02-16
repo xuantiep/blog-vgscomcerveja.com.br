@@ -1,0 +1,13 @@
+# Site settings
+title: Videogames com Cerveja
+email: vgscomcerveja@gmail.com
+description: >
+  Nosso objetivo é compartilhar experiências e opiniões gamísticas, tanto na jogatina
+  quanto no colecionismo.. E que adoramos uma cerveja!
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.vgscomcerveja.com.br"
+twitter_username: vgscomcerveja
+github_username:  felipebbarbosa
+
+# Build settings
+markdown: kramdown
