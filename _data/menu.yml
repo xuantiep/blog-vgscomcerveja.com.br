@@ -1,0 +1,30 @@
+- title: Home
+  url: /
+  classe: icon-home
+- title: Jogando
+  url: /jogando/
+  classe: icon-gamepad
+  subitems:
+    - title: Drops Semanal
+      url: /jogando/drops/
+    - title: Game Over
+      url: /jogando/gameover/
+    - title: Toplists
+      url: jogando/toplists/
+- title: Colecionando
+  url: /colecionando/
+  classe: icon-database
+  subitems:
+    - title: Coleção Pessoal
+      url: /colecionando/colecao-pessoal/
+    - title: Edição de Colecionador
+      url: /colecionando/edicao-colecionador/
+    - title: Relíquias
+      url: /colecionando/reliquias/
+    - title: Utilidade Pública
+      url: /colecionando/utilidade-publica/
+    - title: Toplists
+      url: /colecionando/toplists/
+- title: Sobre
+  url: /sobre/
+  classe: icon-copyright

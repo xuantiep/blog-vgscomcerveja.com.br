@@ -23,6 +23,14 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+*,
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
 
 
 /**
@@ -98,7 +106,6 @@ a {
 
     &:hover {
         color: $text-color;
-        text-decoration: underline;
     }
 }
 
@@ -154,8 +161,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$spacing-unit} * 2));
-    max-width:         calc(800px - (#{$spacing-unit} * 2));
+    max-width: -webkit-calc(1024px - (#{$spacing-unit} * 2));
+    max-width:         calc(1024px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -163,8 +170,8 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(800px - (#{$spacing-unit}));
-        max-width:         calc(800px - (#{$spacing-unit}));
+        max-width: -webkit-calc(1024px - (#{$spacing-unit}));
+        max-width:         calc(1024px - (#{$spacing-unit}));
         padding-right: $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
@@ -176,11 +183,12 @@ pre {
  * Clearfix
  */
 %clearfix {
-
+    &:before,
     &:after {
         content: "";
         display: table;
         clear: both;
+        line-height: 0;
     }
 }
 

@@ -1,45 +1,110 @@
 /**
- * Site header
+ * Cabeçalho
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+    position: fixed;
+    width: 100%;
+    height: 191px;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    -webkit-transition: height 0.12s;
+    -moz-transition: height 0.12s;
+    -ms-transition: height 0.12s;
+    -o-transition: height 0.12s;
+    transition: height 0.12s;
+    text-align: center;
+    background-color: #fff;
+    border-bottom: 4px solid #ccc;
 }
 
-.site-title {
-    font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
-    margin-bottom: 0;
-    float: left;
+#header-logo #logo-grande {
+    width: 800px;
+    margin-top: 20px;
+    -webkit-transition: height 0.3s;
+    -moz-transition: height 0.3s;
+    -ms-transition: height 0.3s;
+    -o-transition: height 0.3s;
+    transition: height 0.3s;
+}
 
-    &,
-    &:visited {
-        color: $grey-color-dark;
-    }
+#header-logo #logo-pequeno {
+    display: none;
+}
+
+#control-nav {
+  visibility: hidden;
+  position: absolute;
+  left: -9999px;
+  opacity: 0;
 }
 
 .site-nav {
-    float: right;
-    line-height: 56px;
+    position: fixed;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1em;
+    font-weight: 400;
 
-    .menu-icon {
-        display: none;
+    ul {
+        text-align: center;
+        list-style: none;
     }
 
-    .page-link {
-        color: $text-color;
-        line-height: $base-line-height;
-
-        // Gaps between nav items, but not on the first one
-        &:not(:first-child) {
-            margin-left: 20px;
-        }
+    li {
+      position: relative;
+      display: inline;
+      padding: 15px 10px;
     }
+
+    li.submenu-link {
+      padding: 15px 10px 15px 20px;
+    }
+
+    li a {
+        color: gray;
+        margin: 0 auto;
+    }
+
+    li:hover {
+      background-color: #f0f0f0;
+      border-bottom: 4px solid #61964a;
+      color: #61964a;
+    }
+
+    li:hover .submenu {
+        display: block;
+    }
+
+    .submenu {
+      position: absolute;
+      top: 55px;
+      left: 0;
+      background-color: #4d7c34;
+      z-index: 1000;
+      display: none;
+      padding: 0;
+      margin: 0;
+      border-top: 4px solid #61964a;
+      width: 100%;
+      color: #fff;
+      font-size: 0.9em;
+    }
+
+    .submenu li {
+      display: block;
+      padding: 10px 20px;
+      text-align: left;
+
+      a { color: white; }
+    }
+
+    .submenu li:hover {
+      background-color: #61964a;
+      border: 0;
+    }
+
 
     @include media-query($on-palm) {
         position: absolute;
@@ -89,7 +154,57 @@
 
 
 /**
- * Site footer
+ * Cabeçalho pequeno
+ */
+ .site-header {
+
+   .smaller {
+       position: fixed;
+       top: 0;
+       left: 0;
+       right: 0;
+       background-color: #61964a;
+       border-bottom: 4px solid #4d7c34;
+       height: 60px;
+       display: flex;
+       justify-content: space-around;
+       flex-direction: row;
+    }
+
+ }
+
+.site-nav.smaller {
+     display: inline-flex;
+     background-color: red;
+
+     ul {
+       justify-content: flex-end;
+     }
+
+     li {
+       position: relative;
+       float: left;
+       display: inline;
+       padding: 19px 10px;
+     }
+
+     li a { color: #fff; }
+}
+
+ #header-logo.smaller #logo-pequeno {
+   display: inline-flex;
+   width: 300px;
+   margin: 8px 10px 2px;
+ }
+
+ #header-logo.smaller #logo-grande {
+   display: none;
+ }
+
+
+
+/**
+ * Rodapé
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
@@ -162,6 +277,7 @@
  * Page content
  */
 .page-content {
+    margin: 192px auto 30px;
     padding: $spacing-unit 0;
 }
 
