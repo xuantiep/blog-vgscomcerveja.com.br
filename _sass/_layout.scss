@@ -156,43 +156,55 @@
 /**
  * Cabeçalho pequeno
  */
- .site-header {
+ .site-header.smaller {
+    background-color: #61964a;
+    border-bottom: 4px solid #4d7c34;
+    height: 60px;
 
-   .smaller {
-       position: fixed;
-       top: 0;
-       left: 0;
-       right: 0;
-       background-color: #61964a;
-       border-bottom: 4px solid #4d7c34;
-       height: 60px;
-       display: flex;
-       justify-content: space-around;
-       flex-direction: row;
+    .site-nav {
+      position: relative;
+      float: right;
+      width: auto;
+
+      ul {
+        margin: 0;
+      }
+
+      li {
+        position: relative;
+        float: left;
+        display: inline;
+
+        a { color: #fff; }
+      }
+
+      li:hover {
+        color: #fff;
+        background-color: #4d7c34;
+        border-bottom: 4px solid #375626;
+      }
+    }
+
+    .submenu {
+        background-color: gray;
+
+        li {
+          a:hover {
+            color: orange;
+          }
+        }
+
+        li:hover {
+          background-color: inherit;
+          border: 0;
+        }
     }
 
  }
 
-.site-nav.smaller {
-     display: inline-flex;
-     background-color: red;
-
-     ul {
-       justify-content: flex-end;
-     }
-
-     li {
-       position: relative;
-       float: left;
-       display: inline;
-       padding: 19px 10px;
-     }
-
-     li a { color: #fff; }
-}
-
  #header-logo.smaller #logo-pequeno {
-   display: inline-flex;
+   display: block;
+   float: left;
    width: 300px;
    margin: 8px 10px 2px;
  }
