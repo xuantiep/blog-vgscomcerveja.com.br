@@ -1,22 +1,27 @@
 function init() {
+  checkScroll();
   window.addEventListener('scroll', function(e) {
-    if (window.innerWidth >= 860) {
-      var distanciaY = window.pageYOffset || document.documentElement.scrollTop,
-          tamanhoCab = 150,
-          cab = document.querySelector(".site-header");
-          cabLogo = document.querySelector("#header-logo");
-      var classe = "smaller";
-      if (distanciaY > tamanhoCab) {
-        addClass(cab, classe);
-        addClass(cabLogo, classe);
-      } else {
-        if (hasClass(cab, classe)) {
-          removeClass(cab, classe);
-          removeClass(cabLogo, classe);
-        }
+    checkScroll();
+  });
+}
+
+function checkScroll() {
+  if (window.innerWidth >= 860) {
+    var distanciaY = window.pageYOffset || document.documentElement.scrollTop,
+        tamanhoCab = 100,
+        cab = document.querySelector(".site-header");
+        cabLogo = document.querySelector("#header-logo");
+    var classe = "smaller";
+    if (distanciaY > tamanhoCab) {
+      addClass(cab, classe);
+      addClass(cabLogo, classe);
+    } else {
+      if (hasClass(cab, classe)) {
+        removeClass(cab, classe);
+        removeClass(cabLogo, classe);
       }
     }
-  });
+  }
 }
 
 function hasClass(e, className) {

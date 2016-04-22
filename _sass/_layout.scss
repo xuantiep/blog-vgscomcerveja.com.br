@@ -17,6 +17,72 @@
     text-align: center;
     background-color: #fff;
     border-bottom: 4px solid #ccc;
+
+    .site-nav {
+        position: fixed;
+        width: 100%;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 1.1em;
+        font-weight: 400;
+
+        ul {
+            text-align: center;
+            list-style: none;
+        }
+
+        li {
+            position: relative;
+            display: inline;
+            padding: 15px 10px;
+        }
+
+        li.submenu-link {
+            padding: 15px 10px 15px 20px;
+        }
+
+        li a {
+            color: gray;
+            margin: 0 auto;
+        }
+
+        li:hover {
+            background-color: #f0f0f0;
+            border-bottom: 4px solid $verde-vcc;
+            color: $verde-vcc;
+        }
+
+        li:hover .submenu {
+            display: block;
+        }
+
+        .submenu {
+            position: absolute;
+            top: 55px;
+            left: 0;
+            background-color: $verde-vcc-escuro;
+            z-index: 1000;
+            display: none;
+            padding: 0;
+            margin: 0;
+            border-top: 4px solid $verde-vcc;
+            width: 100%;
+            color: #fff;
+            font-size: 0.9em;
+        }
+
+        .submenu li {
+            display: block;
+            padding: 10px 20px;
+            text-align: left;
+
+            a { color: white; }
+        }
+
+        .submenu li:hover {
+            background-color: $verde-vcc;
+            border: 0;
+        }
+    }
 }
 
 #header-logo #logo-grande {
@@ -34,184 +100,178 @@
 }
 
 #control-nav {
-  visibility: hidden;
-  position: absolute;
-  left: -9999px;
-  opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    left: -9999px;
+    opacity: 0;
 }
 
-.site-nav {
-    position: fixed;
-    width: 100%;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 1.1em;
-    font-weight: 400;
-
-    ul {
-        text-align: center;
-        list-style: none;
-    }
-
-    li {
-      position: relative;
-      display: inline;
-      padding: 15px 10px;
-    }
-
-    li.submenu-link {
-      padding: 15px 10px 15px 20px;
-    }
-
-    li a {
-        color: gray;
-        margin: 0 auto;
-    }
-
-    li:hover {
-      background-color: #f0f0f0;
-      border-bottom: 4px solid #61964a;
-      color: #61964a;
-    }
-
-    li:hover .submenu {
-        display: block;
-    }
-
-    .submenu {
-      position: absolute;
-      top: 55px;
-      left: 0;
-      background-color: #4d7c34;
-      z-index: 1000;
-      display: none;
-      padding: 0;
-      margin: 0;
-      border-top: 4px solid #61964a;
-      width: 100%;
-      color: #fff;
-      font-size: 0.9em;
-    }
-
-    .submenu li {
-      display: block;
-      padding: 10px 20px;
-      text-align: left;
-
-      a { color: white; }
-    }
-
-    .submenu li:hover {
-      background-color: #61964a;
-      border: 0;
-    }
-
-
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: 30px;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-        }
-    }
+#control-nav:checked ~ .control-nav-close {
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
 }
 
+#control-nav:checked ~ nav {
+  -webkit-transform: translate(0,0);
+  -ms-transform: translate(0,0);
+  transform: translate(0,0);
+}
 
 
 /**
  * Cabeçalho pequeno
  */
- .site-header.smaller {
-    background-color: #61964a;
-    border-bottom: 4px solid #4d7c34;
+.site-header.smaller {
+    background-color: $verde-vcc;
+    border-bottom: 4px solid $verde-vcc-escuro;
     height: 60px;
 
     .site-nav {
-      position: relative;
-      float: right;
-      width: auto;
-
-      ul {
-        margin: 0;
-      }
-
-      li {
         position: relative;
-        float: left;
-        display: inline;
+        float: right;
+        width: auto;
 
-        a { color: #fff; }
-      }
+        ul { margin: 0; }
 
-      li:hover {
-        color: #fff;
-        background-color: #4d7c34;
-        border-bottom: 4px solid #375626;
-      }
+        li {
+            position: relative;
+            float: left;
+            display: inline;
+
+            a { color: #fff; }
+        }
+
+        li:hover {
+            color: #fff;
+            background-color: $verde-vcc-escuro;
+            border-bottom: 4px solid #375626;
+        }
     }
 
     .submenu {
         background-color: gray;
 
-        li {
-          a:hover {
-            color: orange;
-          }
-        }
+        li a:hover { color: orange; }
 
         li:hover {
-          background-color: inherit;
-          border: 0;
+            background-color: inherit;
+            border: 0;
         }
     }
+}
 
- }
+#header-logo.smaller #logo-pequeno {
+    display: block;
+    float: left;
+    width: 300px;
+    margin: 8px 10px 2px;
+}
 
- #header-logo.smaller #logo-pequeno {
-   display: block;
-   float: left;
-   width: 300px;
-   margin: 8px 10px 2px;
- }
+#header-logo.smaller #logo-grande {
+    display: none;
+}
 
- #header-logo.smaller #logo-grande {
-   display: none;
- }
+
+
+/*
+ * Cabeçalho on mobile devices
+ */
+@media screen and (max-width: $on-palm) {
+    .site-header {
+        background-color: $verde-vcc;
+        border-bottom: 4px solid $verde-vcc-escuro;
+        height: 60px;
+
+        .site-nav {
+            position: fixed;
+            width: 250px;
+            top: 60px;
+            right: 0;
+            bottom: 0;
+            background-color: gray;
+            overflow-x: auto;
+            z-index: 3;
+            -webkit-transition: all 500ms ease;
+            transition: all 500ms ease;
+            -webkit-transform: translate(100%, 0);
+            -ms-transform: translate(100%, 0);
+            transform: translate(100%, 0);
+
+            ul {
+                margin: 0;
+                padding: 0;
+                width: 100%;
+            }
+
+            li {
+                display: block;
+
+                a { color: #fff; }
+            }
+
+            li:hover {
+                background-color: #ccc;
+                border: 0;
+            }
+        }
+
+        .submenu {
+            top: 50px;
+            border: 0;
+        }
+
+        .control-nav {
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            display: block;
+            width: 30px;
+            padding: 5px 0;
+            border: solid #fff;
+            border-width: 3px 0;
+            z-index: 3;
+            cursor: pointer;
+            color: #fff;
+        }
+
+        .control-nav:before {
+            content: "";
+            display: block;
+            height: 3px;
+            background: #fff;
+        }
+
+        .control-nav-close {
+            position: fixed;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            display: block;
+            z-index: 1;
+            -webkit-transition: all 500ms ease;
+            transition: all 500ms ease;
+            -webkit-transform: translate(100%, 0);
+            -ms-transform: translate(100%, 0);
+            transform: translate(100%, 0);
+        }
+
+    }
+
+    #header-logo #logo-pequeno {
+        display: block;
+        float: left;
+        width: 300px;
+        margin: 8px 10px 2px;
+    }
+
+    #header-logo #logo-grande {
+        display: none;
+    }
+
+
+}
 
 
 
