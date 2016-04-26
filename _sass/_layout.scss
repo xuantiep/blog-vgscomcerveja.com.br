@@ -15,7 +15,7 @@
     -o-transition: height 0.12s;
     transition: height 0.12s;
     text-align: center;
-    background-color: #fff;
+    background-color: yellow;
     border-bottom: 4px solid #ccc;
 
     .site-nav {
@@ -279,12 +279,101 @@
  * Rodapé
  */
 .site-footer {
+    float: left;
+    position: relative;
     margin: 30px 0 0;
     background-color: $verde-vcc-escuro;
     color: white;
     padding: 30px;
+    width: 100%;
 }
 
+
+
+/**
+ * Slider Principal
+ */
+ #slider-figure {
+     position: relative;
+     margin: 167px auto 30px;
+     width: 100%;
+     background-color: red;
+
+     span {
+         cursor: pointer;
+         position: absolute;
+         width: 60px;
+         height: 100%;
+         z-index: 5;
+     }
+ }
+
+ #slider-figure:hover {
+     span {
+         opacity: 0.76;
+         filter: alpha(opacity=76);
+     }
+ }
+
+#slider {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+
+    a {
+        position: absolute;
+        top: 0;
+        left: 0;
+        opacity: 0;
+        filter: alpha(opacity=0);
+        overflow: hidden;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    figcaption {
+        position: absolute;
+        background-color: black;
+        bottom: 2px;
+        width: 100%;
+        padding: 20px;
+        opacity: 0.7;
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    }
+}
+
+.ativo {
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+}
+
+.next {
+    right: 0;
+    //background-image: url(../imgs/arrow_right.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.prev {
+    left: 0;
+    //background-image: url(../imgs/arrow_left.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 2;
+}
+
+.trs {
+    -webkit-transition: all ease-out 0.5s;
+    -moz-transition: all ease-out 0.5s;
+    -o-transition: all ease-out 0.5s;
+    -ms-transition: all ease-out 0.5s;
+    transition: all ease-out 0.5s;
+}
 
 
 /**
