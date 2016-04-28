@@ -392,22 +392,63 @@
 }
 
 .post-list {
-    margin-left: 0;
-    list-style: none;
+    > article {
+        margin: 0 auto;
+        padding: 20px 0;
+        overflow: hidden;
+        text-align: center;
+        border-bottom: 2px dashed #ccc;
 
-    > li {
-        margin-bottom: $spacing-unit;
+        > h1 {
+            margin: 15px 0 0;
+            font-size: 2.5em;
+            line-height: 20px;
+            text-rendering: optimizeLegibility;
+            padding: 10px 0;
+        }
+
+        > figure {
+            margin: 0 auto 15px;
+            padding: 0 20px;
+
+            img { width: 100%; }
+        }
+
+        p {
+            padding: 0 20px 10px;
+            text-indent: 20px;
+            text-align: left;
+            line-height: 1.5em;
+            font-weight: normal;
+            font-size: 1.2em;
+        }
     }
+}
+
+.post-category {
+    background-color: #2489bc;
+    padding: 1px 10px;
+    color: white;
+    border-bottom: 3px solid #1b5e80;
 }
 
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    margin: 0 0 20px 0;
+
+    span:before {
+        margin-right: 8px;
+    }
 }
 
-.post-link {
-    display: block;
-    font-size: 24px;
+.read-more {
+    float: left;
+    padding: 10px;
+    text-align: left;
+    background-color: #2288bb;
+    color: white !important;
+    margin-left: 20px;
 }
 
 

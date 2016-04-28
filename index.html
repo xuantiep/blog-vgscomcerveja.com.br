@@ -4,19 +4,33 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Teste</h1>
-
-  <ul class="post-list">
+  <div class="post-list">
     {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <article>
+        <span class="post-category">Teste</span>
 
-        <h2>
+        <h1>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
+        </h1>
+
+        <div class="post-meta">
+          <span class="post-author icon-user">Felipe Barbosa</span>
+          <span class="post-date icon-calendar">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-comments icon-comment-empty">0</span>
+        </div>
+
+        <figure>
+          <img src="http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg">
+        </figure>
+
+        <p>
+          Teste teste teste teste teste teste teste
+        </p>
+
+        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo..</a>
+      </article>
     {% endfor %}
-  </ul>
+  </div>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
