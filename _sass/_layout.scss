@@ -461,9 +461,11 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    text-align: center;
 }
 
 .post-title {
+    text-align: center;
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
@@ -475,6 +477,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    font-weight: normal;
 
     h2 {
         font-size: 32px;
@@ -498,5 +501,12 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    }
+
+    img {
+        display: block;
+        margin: 0 auto;
+        padding: 5px;
+        border: 1px solid #bfbfbf;
     }
 }
