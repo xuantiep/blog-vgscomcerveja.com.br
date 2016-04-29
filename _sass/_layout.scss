@@ -427,6 +427,9 @@
 
 .post-category {
     background-color: #2489bc;
+    font-weight: normal;
+    font-variant: small-caps;
+    text-transform: lowercase;
     padding: 1px 10px;
     color: white;
     border-bottom: 3px solid #1b5e80;
@@ -435,7 +438,7 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
-    margin: 0 0 20px 0;
+    margin: 10px 0 20px 0;
 
     span:before {
         margin-right: 8px;

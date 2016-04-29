@@ -7,7 +7,7 @@ layout: default
   <div class="post-list">
     {% for post in site.posts %}
       <article>
-        <span class="post-category">Teste</span>
+        <span class="post-category">{{ post.session }}</span>
 
         <h1>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
@@ -20,12 +20,10 @@ layout: default
         </div>
 
         <figure>
-          <img src="http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg">
+          <img src="{{ post.cover }}">
         </figure>
 
-        <p>
-          Teste teste teste teste teste teste teste
-        </p>
+        <p>{{ post.sinopse }}</p>
 
         <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo..</a>
       </article>

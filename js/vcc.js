@@ -8,7 +8,7 @@ function init() {
 function checkScroll() {
   if (window.innerWidth >= 860) {
     var distanciaY = window.pageYOffset || document.documentElement.scrollTop,
-        tamanhoCab = 100,
+        tamanhoCab = 125,
         cab = document.querySelector(".site-header");
         cabLogo = document.querySelector("#header-logo");
     var classe = "smaller";
