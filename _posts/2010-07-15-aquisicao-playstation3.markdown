@@ -4,7 +4,7 @@ title:  "PlayStation 3 Slim"
 date:   2010-07-15 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
-categories: colecao-pessoal
+categories: colecionando/colecao-pessoal
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Este foi um grande achado! Comprei um PS3 novo por incríveis R$ 899,00 e ainda pude parcelar
