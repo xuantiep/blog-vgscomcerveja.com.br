@@ -387,6 +387,10 @@
 
 }
 
+.page-content.smaller > .wrapper {
+    margin-top: 200px;
+}
+
 .page-heading {
     font-size: 20px;
 }
@@ -401,8 +405,6 @@
 
         > h1 {
             margin: 15px 0 0;
-            font-size: 2.5em;
-            line-height: 20px;
             text-rendering: optimizeLegibility;
             padding: 10px 0;
         }
@@ -428,8 +430,7 @@
 .post-category {
     background-color: #2489bc;
     font-weight: normal;
-    font-variant: small-caps;
-    text-transform: lowercase;
+    text-transform: uppercase;
     padding: 1px 10px;
     color: white;
     border-bottom: 3px solid #1b5e80;
@@ -509,4 +510,15 @@
         padding: 5px;
         border: 1px solid #bfbfbf;
     }
+}
+
+.post-highlight {
+  height: 400px;
+  overflow: hidden;
+  width: 150%;
+  margin-top:-30px;
+  margin-left:-25%;
+  margin-bottom: 20px;
+  z-index:-1;
+  visibility: visible;
 }

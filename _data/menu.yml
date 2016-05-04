@@ -1,14 +1,15 @@
 - title: Home
   url: /
   classe: icon-home
+- title: Notícias
+  url: /noticias/
+  classe: icon-newspaper
 - title: Jogando
   url: /jogando/
   classe: icon-gamepad
   subitems:
-    - title: Drops Semanal
-      url: /jogando/drops/
-    - title: Game Over
-      url: /jogando/gameover/
+    - title: Análises
+      url: /jogando/analise/
     - title: Toplists
       url: jogando/toplists/
 - title: Colecionando
@@ -19,8 +20,8 @@
       url: /colecionando/colecao-pessoal/
     - title: Edição de Colecionador
       url: /colecionando/edicao-colecionador/
-    - title: Relíquias
-      url: /colecionando/reliquias/
+    - title: Mosca Branca
+      url: /colecionando/mosca-branca/
     - title: Utilidade Pública
       url: /colecionando/utilidade-publica/
     - title: Toplists

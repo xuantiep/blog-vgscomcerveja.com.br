@@ -8,17 +8,20 @@ function init() {
 function checkScroll() {
   if (window.innerWidth >= 860) {
     var distanciaY = window.pageYOffset || document.documentElement.scrollTop,
-        tamanhoCab = 125,
-        cab = document.querySelector(".site-header");
+        tamanhoCab = 180,
+        cab = document.querySelector(".site-header"),
         cabLogo = document.querySelector("#header-logo");
+        pageContent = document.querySelector(".page-content");
     var classe = "smaller";
-    if (distanciaY > tamanhoCab) {
+    if (distanciaY >= tamanhoCab) {
       addClass(cab, classe);
       addClass(cabLogo, classe);
+      addClass(pageContent, classe);
     } else {
       if (hasClass(cab, classe)) {
         removeClass(cab, classe);
         removeClass(cabLogo, classe);
+        removeClass(pageContent, classe);
       }
     }
   }

@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+<div class="post-highlight"
+    style="background: url({{ page.cover  }}) 50% 50% / cover, 50% 50% no-repeat;"></div>
+
 <div class="post">
 
   <header class="post-header">
@@ -13,7 +17,9 @@ layout: default
   </header>
 
   <article class="post-content">
-    {{ content }}
+    <div class="wrapper">
+      {{ content }}
+    </div>
   </article>
 
 </div>
