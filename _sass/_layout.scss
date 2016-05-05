@@ -515,17 +515,16 @@
 }
 
 .post-highlight {
-    height: 400px;
+    height: 300px;
     overflow: hidden;
-    width: 150%;
+    width: 100%;
     margin-top:-30px;
-    margin-left:-25%;
     margin-bottom: 20px;
     z-index:-1;
     visibility: visible;
 
     @include media-query($on-palm) {
-        height: 200px;
+        height: 180px;
     }
 
 }
