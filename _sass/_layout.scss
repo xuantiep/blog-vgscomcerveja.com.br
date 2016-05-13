@@ -484,6 +484,7 @@
 
     h2 {
         font-size: 32px;
+        color: $brand-color;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -492,6 +493,7 @@
 
     h3 {
         font-size: 26px;
+        color: $brand-color;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -500,6 +502,7 @@
 
     h4 {
         font-size: 20px;
+        color: $brand-color;
 
         @include media-query($on-laptop) {
             font-size: 18px;
@@ -512,6 +515,11 @@
         padding: 5px;
         border: 1px solid #bfbfbf;
     }
+
+    p {
+        text-indent: 1.5em;
+    }
+
 }
 
 .post-highlight {
