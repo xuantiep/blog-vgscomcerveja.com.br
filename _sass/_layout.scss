@@ -381,8 +381,12 @@
 .page-content {
     padding: $spacing-unit 0;
 
+    p {
+        font-family: $base-font-post;
+    }
+
     @media (max-width: $on-palm) {
-      margin-top: 60px;
+        margin-top: 60px;
     }
 
 }
@@ -518,7 +522,7 @@
 
     p {
         font-family: $base-font-post;
-        //font-size: 1.2em;
+        font-size: 1.35em;
         text-indent: 1.5em;
     }
 
