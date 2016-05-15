@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Nintendo Sixty Fooouur!"
+title:      "Aquisição - Nintendo Sixty Fooouur!"
 date:       2011-11-19 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal

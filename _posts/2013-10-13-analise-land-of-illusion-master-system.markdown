@@ -1,0 +1,45 @@
+---
+layout:     post
+title:      "Análise - Land of Illusion (Master System)"
+date:       2013-10-13 19:00
+author:     Felipe B. Barbosa
+session:    Game Over &#35 11
+categories: jogando/analise
+cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+sinopse: >
+  Logo após terminar o Castle of Illusion, me empolguei e parti logo para o segundo jogo da trilogia "Illusion" (Castle, Land e Legend of Illusion) do Master System: o Land of Illusion, e só tenho uma coisa a se dizer: muito bom!
+---
+Logo após terminar o Castle of Illusion, me empolguei e parti logo para o segundo jogo da trilogia *"Illusion"* (Castle, Land e Legend of Illusion) do **Master System**: o **Land of Illusion**, e só tenho uma coisa a se dizer: muito bom!
+
+Era um dia chuvoso quando **_Mickey_** resolveu abrir um livro de conto de fadas para ler e, quando se deu conta já estava dormindo! Porém, quando abriu os olhos, viu que já não estava mais na sua casa e sim em um sinistro vilarejo, as árvores e arbustos estavam desfolhados, com os galhos negros e retorcidos. O céu era cheio de ameaçadoras nuvens escuras, que brilhavam com os relâmpagos. Quando de repente, ele ouve um grito e viu uma garota da vila sendo carregada por um monstro. Mickey derrubou o monstro, salvou a garota e descobriu o que estava acontecendo no vilarejo: um fantasma havia roubado o cristal mágico que protegia o lugar. Com o desaparecimento do cristal, tudo o que era bom tinha sido roubado, transformando a vila em um lugar sombrio. Ao saber disso, Mickey partiu em busca do fantasma e do cristal. Esta é a história de **Land of Illusion**! :)
+
+Lançado em 1992 (um ano após seu antecessor), ele é um exclusivo 8-bit da **Sega**, ou seja, saiu apenas para **Master System** e **Game Gear** (um ano depois, em 1993). Apesar de ser uma sequência do Castle of Illusion, a história do jogo, como pode perceber, não tem conexão nenhuma, a não ser pelo fato de ambos serem estrelados por **_Mickey Mouse_**! :o)
+
+A jogabilidade e os gráficos são praticamente os mesmos, porém a quantidade de fases é mais do que o dobro, são ao todos 14 estágios:
+
+- A Floresta
+- O Lago
+- O Castelo do Ferreiro
+- As Ruínas do Castelo
+- A Caverna Estreita
+- O Campo de Flores
+- A Oficina de Brinquedos
+- As Ruínas do Palácio
+- O Penhasco Escarpado
+- O Deserto
+- O Castelo da Boa Princesa
+- O Castelo de Areia
+- A Ilha
+- O Castelo do Fantasma
+
+Cada estágio possui uma *Power Star* escondida, se você encontrar todas elas, você ganha 1.000.000 de pontos no final do jogo!
+
+Outra coisa interessante é que alguns estágios requerem determinados objetos especiais para poder avançar e, caso você ainda não tenha, você terá que voltar à algum estágio anterior para conseguir este objeto. Mas não se preocupe, cada vez que terminar um estágio, você receberá pistas de onde encontrar estes objetos, são eles:
+
+- **Flauta Mágica**: Permite voltar para a tela do mapa de qualquer estágio terminado;
+- **Poção para Encolher**: Faz Mickey diminuir de tamanho;
+- **Corda**: Permite escalar quase todas as superfícies;
+- **Sapatos de Nuvem**: Com eles você pode andar sobre as nuvens sem cair;
+- **Feijão Mágico**: Quando plantado no local correto, ele se transformará em um pé de feijão gigante que o levará ao Castelo do Fantasma;
+
+Bom para finalizar, a **Sega** conseguiu melhorar o que já era bom, manteve o mesmo nível de dificuldade, mas novas dinâmicas de jogo o tornou melhor que seu antecessor. O desafio maior é pegar todas as *Power Stars*!

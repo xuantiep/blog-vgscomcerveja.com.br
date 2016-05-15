@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Última IV (Master System)"
+title:      "Aquisição - Última IV (Master System)"
 date:       2011-01-09 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal

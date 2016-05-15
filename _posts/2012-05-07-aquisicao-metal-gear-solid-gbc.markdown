@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Metal Gear Solid (Game Boy Color)"
+title:      "Aquisição - Metal Gear Solid (Game Boy Color)"
 date:       2012-05-07 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal

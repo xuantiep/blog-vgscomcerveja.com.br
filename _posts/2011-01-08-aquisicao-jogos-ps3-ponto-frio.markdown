@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Jogos de PS3 por Ótimos Preços"
+title:      "Aquisição - Jogos de PS3 por Ótimos Preços"
 date:       2011-01-08 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
@@ -23,4 +23,4 @@ Tinha algumas edições de colecionadores como o **Batman: Arkham Asylum** e **R
 R$ 59,90 cada! Vários jogos por R$ 29,90 como esses dois que consegui! Eu acho que a liquidação
 durou menos do que 20 minutos, foi a melhor liquidação de jogos que já vi! :)
 
-O **Ponto Frio** está de parabéns, espero que tenha mais este ano! 
+O **Ponto Frio** está de parabéns, espero que tenha mais este ano!

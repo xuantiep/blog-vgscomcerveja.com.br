@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Sonic Blast (Master System)"
+title:      "Aquisição - Sonic Blast (Master System)"
 date:       2012-09-04 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal

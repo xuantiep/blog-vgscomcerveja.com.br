@@ -382,7 +382,7 @@
     padding: $spacing-unit 0;
 
     p {
-        font-family: $base-font-post;
+        //font-family: $base-font-post;
     }
 
     @media (max-width: $on-palm) {
@@ -424,7 +424,7 @@
 
         p {
             padding: 0 20px 10px;
-            text-indent: 20px;
+            //text-indent: 20px;
             text-align: left;
             line-height: 1.5em;
             font-weight: normal;
@@ -521,9 +521,13 @@
     }
 
     p {
-        font-family: $base-font-post;
-        font-size: 1.35em;
-        text-indent: 1.5em;
+        //font-family: $base-font-post;
+        //font-size: 1.35em;
+        //text-indent: 1.5em;
+
+        a {
+            font-weight: bold;
+        }
     }
 
 }

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PlayStation 3 Slim"
+title:  "Aquisição - PlayStation 3 Slim"
 date:   2010-07-15 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal

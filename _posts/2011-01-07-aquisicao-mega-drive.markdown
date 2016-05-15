@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Mega Drive"
+title:      "Aquisição - Mega Drive"
 date:       2011-01-08 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal

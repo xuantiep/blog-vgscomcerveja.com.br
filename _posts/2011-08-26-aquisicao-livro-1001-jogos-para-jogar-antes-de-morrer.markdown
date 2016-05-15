@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Livro 1001 Jogos Que Você Deve Jogar Antes de Morrer"
+title:      "Aquisição - Livro 1001 Jogos Que Você Deve Jogar Antes de Morrer"
 date:       2011-08-26 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal

@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Análise - The Great Battle VI (PS1)"
+date:       2013-11-15 19:00
+author:     Felipe B. Barbosa
+session:    Game Over &#35 12
+categories: jogando/analise
+cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+sinopse: >
+  Depois de ouvir um podcast sobre o saudoso PS1, resolvi visitar minha prateleira de jogos "alternativos" do console para reviver alguns jogos já clássicos. Porém, ao invés disso, resolvi explorar os não tão famosos. E o primeiro deles foi o, até legalzinho, The Great Battle VI.
+---
+Depois de ouvir um *podcast* sobre o saudoso PS1, resolvi visitar minha prateleira de jogos "alternativos" do console para reviver alguns jogos já clássicos. Porém, ao invés disso, resolvi explorar os não tão famosos. E o primeiro deles foi o, até legalzinho, **The Great Battle VI**.
+
+Lançado em 1997 pela **Banpresto**, esse jogo só foi lançado em território japonês e pertence à uma série iniciada no **Super Famicom** e, este é o primeiro e único lançado para PS1.
+
+##Mas Qual é Desse Jogo?##
+
+Simples, é um *crossover* entre os personagens japoneses **_Ultraman_**, **_Kamen Rider_** (mais especificamente o **_Black Kamen Rider RX_**) e o **_Gundam_** desenhados em forma de caricaturas cabeçudas, oficialmente definido como SD ou *Super Deformed*.
+
+Bom, o jogo é uma espécie de *beat 'em up* com plataforma e que em algumas fases se transforma em um *shoot 'em up* e algumas outras em uma luta de robôs gigantes. Doideira! :)
+
+O jogo te dá três opções para seleção do seu personagem, que são os três mencionados acima: Ultraman, Black Kamen Rider e o Gundam, eu particularmente joguei o jogo inteiro com o Kamen Rider!
+
+A jogabilidade é bem simples (e um pouco travada): o botão QUADRADO ele usa a espada, o XIS pula, o BOLINHA solta o poder especial *(Mighty Power)*, L1 corre, L1 + XIS pulo mais longo e se segurar o QUADRADO ele solta um tiro especial, ao estilo Mega Man, porém bem limitado, pois você não consegue se movimentar com o botão apertado.
+
+Ao todos são apenas 5 fases com 2 estágios cada e um chefão no final. A primeira fase o chefão é um inimigo do *Gundam* (cujo o nome eu não sei), na segunda é do *Ultraman* e na terceira do *Kamen Rider*, o *Kingdark*. Após derrotá-los, o chefão maior, o *Inferios*, cria um vilão mutante com os três chefões anteriores (esta é a quarta fase) e se você derrotá-lo, irá enfrentar finalmente o próprio *Inferios* (quinta e última fase).
+
+O jogo em si é bem fácil, os inimigos são bem fracos e os chefões não são difíceis, basta pegar as manhas. Além disso, o jogo tem *continues* infinitos e quando você os usa, volta exatamente aonde parou. Bem fácil! :)

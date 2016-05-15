@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Entrei Para o Lado Verde da Força, Ganhei um Xbox 360!"
+title:      "Aquisição - Xbox 360!"
 date:       2012-06-12 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
