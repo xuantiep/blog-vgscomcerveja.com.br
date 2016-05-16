@@ -26,3 +26,14 @@ As músicas e os efeitos sonoros são bem legais, mas não chegam a serem marcan
 **Castle of Illusion** é jogo relativamente fácil de terminar. Os obstáculos são tranquilos e os chefes também, mas mesmo assim, o jogo possui um modo chamado *Practice* onde você pode "pegar" todas as manhas do jogo! Além disso, o jogo conta com vários *continues* que permitem você continuar exatamente da onde parou!
 
 Recentemente, Castle of Illusion teve um *remake* lançado para PlayStation 3, PS Vita, Xbox 360, Android e PC.
+
+{% include ficha.html
+  cover=''
+  titulo='Castle of Illusion'
+  plataforma='Master System'
+  desenvolvedor='Sega'
+  publicador='Sega'
+  lancamento='1991'
+  genero='Aventura / Plataforma'
+  data='07 de Setembro de 2013'
+  nota='9.0' %}

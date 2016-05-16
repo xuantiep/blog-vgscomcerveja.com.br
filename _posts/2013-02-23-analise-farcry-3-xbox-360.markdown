@@ -19,4 +19,15 @@ Você consegue escapar dos piratas e conhece os membros da tribo **Rakyat** que 
 
 Você tem que ativar torres para liberar àreas no mapa, caçar animais para aumentar a capacidade do seu inventário, conquistar bases inimigas para subir de nível, além, é claro, da história principal que é fantástica.
 
-Bom é isso, eu recomendo Far Cry 3 sem pensar duas vezes, é um jogo muito bom mesmo! E outra coisa, para quem gosta de Conquistas/Troféus, ele não é tão difícil de conseguir 100%! :) 
+Bom é isso, eu recomendo Far Cry 3 sem pensar duas vezes, é um jogo muito bom mesmo! E outra coisa, para quem gosta de Conquistas/Troféus, ele não é tão difícil de conseguir 100%! :)
+
+{% include ficha.html
+  cover=''
+  titulo='Far Cry 3'
+  plataforma='Xbox 360'
+  desenvolvedor='Ubisoft Montreal'
+  publicador='Ubisoft'
+  lancamento='2012'
+  genero='FPS'
+  data='5 de Janeiro de 2013'
+  nota='9.5' %}

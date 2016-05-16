@@ -43,3 +43,14 @@ Outra coisa interessante é que alguns estágios requerem determinados objetos e
 - **Feijão Mágico**: Quando plantado no local correto, ele se transformará em um pé de feijão gigante que o levará ao Castelo do Fantasma;
 
 Bom para finalizar, a **Sega** conseguiu melhorar o que já era bom, manteve o mesmo nível de dificuldade, mas novas dinâmicas de jogo o tornou melhor que seu antecessor. O desafio maior é pegar todas as *Power Stars*!
+
+{% include ficha.html
+  cover=''
+  titulo='Land of Illusion'
+  plataforma='Master System'
+  desenvolvedor='Sega'
+  publicador='Sega'
+  lancamento='1992'
+  genero='Aventura / Plataforma'
+  data='08 de Setembro de 2013'
+  nota='9.5' %}

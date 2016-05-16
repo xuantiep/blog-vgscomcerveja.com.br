@@ -20,3 +20,14 @@ Apesar da história ser simples, este jogo te prende de tal maneira, que mesmo n
 O grande atrativo do jogo são os *puzzles*, que por sua vez, são muito variados, alguns são bem simples, outros são bem complicadinhos, mas nenhum deles você resolve na adivinhação, todos eles tem uma lógica que é demonstrada no jogo, inclusive, o jogo tem um recurso de dicas que acaba ajudando bastante em algumas partes.
 
 Graficamente o jogo é muito bonito, todo desenhado e muito bem trabalhado nos detalhes. A trilha sonora também é muito boa. Enfim, é um jogo espetacular, que me deixou com vontade de explorar mais jogos do gênero, inclusive, rejogar o antigo **Criatura Crunch** citado no começo do post! :)
+
+{% include ficha.html
+  cover=''
+  titulo='Machinarium'
+  plataforma='PlayStation 3'
+  desenvolvedor='Amanita Design'
+  publicador='Amanita Design'
+  lancamento='2012'
+  genero='Aventura / Puzzle Point-and-Click'
+  data='29 de Dezembro de 2013'
+  nota='9.0' %}

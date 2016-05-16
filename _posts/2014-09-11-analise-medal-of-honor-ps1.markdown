@@ -26,4 +26,15 @@ A inteligência artificial dos inimigos foi algo que chamou muita atenção na �
 
 Ao todo o jogo possui apenas sete missões, porém com algumas fases em cada uma delas. Dependendo do seu desempenho, você ganha uma medalha.. Talvez seja por isso que o jogo se chama medalha de honra! ^^'
 
-Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha sonora e jogabilidade! Recomendo para quem gosta de FPS, principalmente para sentir a diferença entre os jogos atuais. Apesar de eu não ser um grande fã do gênero, fiquei curioso para jogar agora o **Goldeneye 007** (N64) para comparar, pois existia um *mimimi* entre *"istas"* da época para ver qual era melhor. Eu acho que ambos contribuiram para industria. 
+Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha sonora e jogabilidade! Recomendo para quem gosta de FPS, principalmente para sentir a diferença entre os jogos atuais. Apesar de eu não ser um grande fã do gênero, fiquei curioso para jogar agora o **Goldeneye 007** (N64) para comparar, pois existia um *mimimi* entre *"istas"* da época para ver qual era melhor. Eu acho que ambos contribuiram para industria.
+
+{% include ficha.html
+  cover=''
+  titulo='Medal of Honor'
+  plataforma='PlayStation'
+  desenvolvedor='DreamWorks Interactive'
+  publicador='Eletronic Arts'
+  lancamento='1999'
+  genero='FPS'
+  data='16 de Agosto de 2014'
+  nota='9.0' %}

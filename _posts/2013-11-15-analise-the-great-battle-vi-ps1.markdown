@@ -26,3 +26,14 @@ A jogabilidade é bem simples (e um pouco travada): o botão QUADRADO ele usa a 
 Ao todos são apenas 5 fases com 2 estágios cada e um chefão no final. A primeira fase o chefão é um inimigo do *Gundam* (cujo o nome eu não sei), na segunda é do *Ultraman* e na terceira do *Kamen Rider*, o *Kingdark*. Após derrotá-los, o chefão maior, o *Inferios*, cria um vilão mutante com os três chefões anteriores (esta é a quarta fase) e se você derrotá-lo, irá enfrentar finalmente o próprio *Inferios* (quinta e última fase).
 
 O jogo em si é bem fácil, os inimigos são bem fracos e os chefões não são difíceis, basta pegar as manhas. Além disso, o jogo tem *continues* infinitos e quando você os usa, volta exatamente aonde parou. Bem fácil! :)
+
+{% include ficha.html
+  cover=''
+  titulo='The Great Battle VI'
+  plataforma='PlayStation'
+  desenvolvedor='Banpresto'
+  publicador='Banpresto'
+  lancamento='1997'
+  genero='Aventura / Plataforma'
+  data='22 de Outubro de 2013'
+  nota='7.5' %}

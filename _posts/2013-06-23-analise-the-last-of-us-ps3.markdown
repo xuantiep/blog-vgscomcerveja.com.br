@@ -54,3 +54,14 @@ Terminei o jogo e ganhei apenas 3 troféus, sendo dois deles por ter terminado o
 ## Resumindo##
 
 Terminei o jogo em 18 horas e queria mais! Eu acho que o jogo é um fortíssimo candidato ao jogo do ano! Gráficos excelentes, jogabilidade muito boa, história envolvente, uma mistura de drama, ação, aventura, *stealth*, suspense e terror muito bem dosados. IMPERDÍVEL!
+
+{% include ficha.html
+  cover=''
+  titulo='The Last of Us'
+  plataforma='PlayStation 3'
+  desenvolvedor='Naughty Dog'
+  publicador='SCEA'
+  lancamento='2013'
+  genero='Ação'
+  data='20 de Junho de 2013'
+  nota='10' %}

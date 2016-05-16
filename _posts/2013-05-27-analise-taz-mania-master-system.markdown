@@ -28,3 +28,14 @@ A história do jogo é a seguinte:
 *Se o impaciente Taz tivesse esperado o final da história, saberia dos mil perigos que o separam do tão sonhado ovo: florestas impenetráveis, carvenas escuras, ruínas que desmoronam..."*
 
 Enfim, **Taz-Mania** é um jogo bem legal, apanhei muito para zerá-lo na minha infância, mas hoje, vejo que não é um jogo difícil, apesar de ter algumas fases que exige uma boa habilidade para dar pulos precisos, mas nada que algumas tentativas não resolvam! :)
+
+{% include ficha.html
+  cover=''
+  titulo='Taz-Mania'
+  plataforma='Master System'
+  desenvolvedor='Warner Bros.'
+  publicador='Sega'
+  lancamento='1992'
+  genero='Aventura / Plataforma'
+  data='27 de Maio de 2013'
+  nota='8.0' %}

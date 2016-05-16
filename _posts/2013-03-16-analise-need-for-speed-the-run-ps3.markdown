@@ -24,3 +24,14 @@ Os troféus do **Challenge Series** (modalidade do jogo) também são meio chati
 ##Resumindo##
 
 **Need for Speed: The Run** é um jogo legal, mas ao meu ver não chegou ao nível de diversão do Hot Pursuit! Além disso, o *Story Mode* é muito curto, você consegue terminar em algumas horas! Mas como eu peguei para platiná-lo, acabei curtindo bastante o jogo e achei bastante desafiador conseguir todos os troféus. Valeu a pena! :)
+
+{% include ficha.html
+  cover=''
+  titulo='Need for Speed: The Run'
+  plataforma='PlayStation 3'
+  desenvolvedor='Black Box'
+  publicador='Eletronic Arts'
+  lancamento='2011'
+  genero='Corrida (Arcade)'
+  data='10 de Fevereiro de 2013'
+  nota='8.0' %}

@@ -35,3 +35,14 @@ TR é um jogão! Talvez o melhor da série, e é imperdível para quem é fã do
 
 ####Atualização 04/05/2013####
 Finalmente consegui platinar o jogo! O pessoal pisou na bola ao colocar um troféu que exija que você chegue ao nível 60 no *multiplayer*, muita sacanagem! Mas a sacanagem seria muito maior se não fosse o *update 1.03* onde retiraram o Samurai do troféu **Shopaholic**, que para ganhá-lo você teria que adquirir todos os personagens e equipamentos do jogo, e para adquirir o Samurai exigia o *prestige 2*, ou seja, você teria que chegar ao nível 60 duas ou três vezes (uma vez já cansativo). Mas ainda bem que consertaram isso e não é mais necessário adquirir o Samurai! :)
+
+{% include ficha.html
+  cover=''
+  titulo='Tomb Raider'
+  plataforma='PlayStation 3'
+  desenvolvedor='Crystal Dynamics'
+  publicador='Square-Enix'
+  lancamento='2013'
+  genero='Ação / Aventura'
+  data='23 de Março de 2013'
+  nota='10' %}

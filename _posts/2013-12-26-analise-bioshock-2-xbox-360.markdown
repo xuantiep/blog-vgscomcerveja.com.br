@@ -34,3 +34,14 @@ Dependendo das suas escolhas, você consegue fazer até 5 finais diferentes. Eu 
 Os gráficos e a trilha sonora são muito bons! Te põe num clima de um "passado futurista" muito sensacional. Tem uma história intrigante, principalmente se você coletar todos os diários de áudio.
 
 Bom, é isso! Acho que ele fechará minha lista de jogos terminados em 2013! :)
+
+{% include ficha.html
+  cover=''
+  titulo='BioShock 2'
+  plataforma='Xbox 360'
+  desenvolvedor='2K Marin'
+  publicador='2K'
+  lancamento='2010'
+  genero='FPS'
+  data='20 de Novembro de 2013'
+  nota='9.5' %}

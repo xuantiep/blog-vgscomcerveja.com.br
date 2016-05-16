@@ -52,3 +52,14 @@ Agora, se você acertar as notas na sequência sem errar, você irá aumentar o 
 Eu terminei jogando no *Hard* com a guitarra, até porque este jogo **não tem suporte para jogar com controle**. Eu jogo neste nível porque assim todas as cinco teclas coloridas são utilizadas, no modo *Normal*, somente quatro teclas são usadas e é bem mais lento o ritmo. No *Hard* dá para jogar legal! :)
 
 No final das contas, não encontrei muita dificuldade para tocas as 18 músicas, entretanto, isso foi sem me preocupar em fazer 100% em cada música, pois tem algumas que são impossíveis! ^^
+
+{% include ficha.html
+  cover=''
+  titulo='AC/DC Live: Rockband Track Pack'
+  plataforma='PlayStation 3'
+  desenvolvedor='Harmonix'
+  publicador='MTV Games / Eletronic Arts'
+  lancamento='2008'
+  genero='Musical'
+  data='09 de Outubro de 2014'
+  nota='8.0' %}

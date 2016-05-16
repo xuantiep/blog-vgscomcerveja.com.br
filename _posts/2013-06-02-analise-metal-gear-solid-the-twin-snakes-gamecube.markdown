@@ -24,3 +24,14 @@ Entretanto, a história continua a mesma! Você está no papel de **_Solid Snake
 Como disse, eu considero **Metal Gear Solid** um dos melhores jogos de todos os tempos, pois joguei muito a versão do saudoso PS1. Sendo assim, não encontrei dificuldades para terminar essa versão. Mesmo conhecendo praticamente todas as manhas para derrotar os chefões, me diverti bastante jogando "novamente" e foi muito bom relembrar cenas e vilões memoráveis, como **_Revolver Ocelot_**, **_Ninja Gray Fox_**, **_Psycho Mantis_**, **_Sniper Wolf_**, **_Vulcan Raven_**, **_Liquid Snake_** e o **_Metal Gear Rex_**. Além disso, andar novamente pela **_Outer Heaven_** foi demais!
 
 Terminei o jogo em 10 horas, porque simplesmente quis aproveitar ao máximo todas as *cut-scenes*, diálogos e momentos do jogo, estava com saudades! :)
+
+{% include ficha.html
+  cover=''
+  titulo='Metal Gear Solid: The Twin Snakes'
+  plataforma='Game Cube'
+  desenvolvedor='Silicon Knights'
+  publicador='Konami'
+  lancamento='2004'
+  genero='Ação'
+  data='02 de Junho de 2013'
+  nota='9.5' %}

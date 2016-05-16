@@ -26,3 +26,14 @@ Por falar nisso, o sistema de *save* é realizado através cristais azuis locali
 Tomb Raider não é um jogo difícil, mas exige paciência, alías, muita paciência, pois as vezes, tinha que me segurar para não jogar o controle na parede! rs. Sério! A maior dificuldade é controlar a Lara em seus saltos com uma jogabilidade que ficou muito "datada", e ainda por cima, não possui suporte ao controle analógico, é somente pelo D-Pad mesmo, demorei um tempinho para me acostumar com isso!
 
 Mas enfim, sobrevivi e cheguei ao final! Tomb Raider é um grande jogo e que fez história. Uma pena que envelheceu um pouco mau, mas com certeza foi uma revolução na época. Sua nota no [Metacritic](http://www.metacritic.com/game/playstation/tomb-raider) é de 9.1, nada mau, e concordo com eles, minha nota é 9.0!
+
+{% include ficha.html
+  cover=''
+  titulo='Tomb Raider'
+  plataforma='playstation'
+  desenvolvedor='Core Design'
+  publicador='Eidos Interactive'
+  lancamento='Novembro de 1996'
+  genero='Ação / aventura'
+  data='20 de Agosto de 2013'
+  nota='9.0' %}

@@ -37,3 +37,14 @@ Quanto aos gráficos e jogabilidade, o jogo não peca em nada. Um recurso intere
 Talvez, o ponto fraco do jogo seja a demorada tela de *loading*, que chega a incomodar um pouquinho, pois quando você morre, demora um pouco para retornar a ação.
 
 Bom, é isso, recomendo esse jogo que descobri meio por acaso, pois estava disponível gratuitamente para assinantes da PS+. Terminei o jogo com 45% dos troféus, pois para pegar a platina você que terminar pelo menos duas vezes, pois como o jogo tem algumas tomadas de decisões importantes, você ganha um troféu para cada tipo de decisão que tomar. Como tenho bastante jogo na fila, deixarei para uma oportunidade futura.
+
+{% include ficha.html
+  cover=''
+  titulo='Spec Ops: The Line'
+  plataforma='PlayStation 3'
+  desenvolvedor='Yagek'
+  publicador='2K Games'
+  lancamento='2012'
+  genero='Tiro / Ação'
+  data='24 de Junho de 2014'
+  nota='9.5' %}

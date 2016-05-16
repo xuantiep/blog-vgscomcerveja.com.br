@@ -37,3 +37,14 @@ O jogo possui um sistema de *saves* das antigas, pois você só pode salvar em p
 Ah, uma das coisas legais é o mapa, sem ele eu ficaria perdido, através dele, você pode se orientar melhor, pois os lugares que você já passou são marcados automaticamente.
 
 Enfim, SH: Origins é um jogo muito bom, terminei o jogo apenas uma vez, mas como é de praxe da série, o jogo conta com vários finais alternativos, inclusive o final que o produtores tiram uma onda: o final UFO! :D
+
+{% include ficha.html
+  cover=''
+  titulo='Silent Hill: Origins'
+  plataforma='PSP'
+  desenvolvedor='Climax Studios'
+  publicador='Konami'
+  lancamento='2007'
+  genero='Ação / Survival Horror'
+  data='25 de Julho de 2014'
+  nota='9.0' %}

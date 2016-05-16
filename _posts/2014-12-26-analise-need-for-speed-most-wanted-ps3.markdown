@@ -62,3 +62,14 @@ Tirando os onlines, que são apenas quatro, o mais chatinho é o *Second is Noth
 ##Resumindo##
 
 O jogo é excelente! Recomendo para os fãs de um bom jogo de corrida *arcade*, onde não exige que o jogador tenha que se preocupar em ajustar ou até mesmo pilotar o carro com precisão. O jogo é muito divertido e empolgante, a **Criterion** acertou mais uma vez!
+
+{% include ficha.html
+  cover=''
+  titulo='Need for Speed: Most Wanted'
+  plataforma='PlayStation 3'
+  desenvolvedor='Criterion'
+  publicador='Eletronic Arts'
+  lancamento='2012'
+  genero='Corrida (Arcade)'
+  data='17 de Novembro de 2014'
+  nota='9.0' %}

@@ -19,4 +19,15 @@ O jogo em si não apresenta muitas melhorias, a jogabilidade continua excelente,
 
 O ponto forte continua sendo a narrativa envolvente. É impressionante como o jogo te prende do início ao fim e os personagens "te conquistam", é muito difícil encontrar isso em jogos, por isso que acho que The Last of Us um jogo excepcional!
 
-Bom, não tem muito o que falar, simplesmente joguem, pois apesar de ser um *DLC* com um valor (R$) relativamente alto, valeu a pena! 
+Bom, não tem muito o que falar, simplesmente joguem, pois apesar de ser um *DLC* com um valor (R$) relativamente alto, valeu a pena!
+
+{% include ficha.html
+  cover=''
+  titulo='The Last of Us: Left Behind'
+  plataforma='PlayStation 3'
+  desenvolvedor='Naughty Dog'
+  publicador='Naughty Dog'
+  lancamento='2014'
+  genero='Ação'
+  data='23 de Fevereiro de 2014'
+  nota='10' %}
