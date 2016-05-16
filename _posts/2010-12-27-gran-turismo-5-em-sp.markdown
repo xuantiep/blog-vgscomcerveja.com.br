@@ -19,7 +19,7 @@ Lamborghini Gallardo, Nissan GT-R, Mitsubishi Lancer Evo X e mais alguns outros.
 
 Confira o vídeo:
 
-[![Vídeo Gran Turismo 5](http://img.youtube.com/vi/yinvunh-d7Y/0.jpg)](http://www.youtube.com/watch?v=yinvunh-d7Y "Gran Turismo 5 em SP")
+{% include youtubePlayer.html id='yinvunh-d7Y' %}
 
 A trilha sonora do vídeo é a mesma da abertura do jogo (versão americana), ou seja, é a música
 "Planetary (Go!)" da banda My Chemical Romance.

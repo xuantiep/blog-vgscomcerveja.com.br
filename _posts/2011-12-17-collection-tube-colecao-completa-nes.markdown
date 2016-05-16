@@ -18,6 +18,6 @@ não-licenciados, totalizando 744 cartuchos.
 Tem vários cartuchos raros, como: **Flintstones Dino Peak**, **Bubble Bobble 2**, **Snow Brothers**,
 **Little Samson** e **Panic Restaurant**. É uma coleção e tanto! Ele está pedindo apenas US$ 2.400.
 
-[![Coleção NES](http://img.youtube.com/vi/8ipVfQvi4ek/0.jpg)](http://www.youtube.com/watch?v=8ipVfQvi4ek)
+{% include youtubePlayer.html id='8ipVfQvi4ek' %}
 
 Ah, se eu tivesse dinheiro! :)

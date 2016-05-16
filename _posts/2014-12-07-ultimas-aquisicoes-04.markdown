@@ -1,0 +1,60 @@
+---
+layout:     post
+title:      "Últimas Aquisições #04"
+date:       2014-12-07 19:00
+author:     Felipe B. Barbosa
+session:    Coleção Pessoal
+categories: colecionando/colecao-pessoal
+cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+sinopse: >
+  Este post era para ter saído no meio do ano, porém, como este blog participa do movimento Slow Web.. Brincadeira! Confira quais foram minhas últimas aquisições! :)
+---
+Este post era para ter saído no meio do ano, porém, como este blog participa do movimento [Slow Web](http://theslowweb.com/).. Brincadeira! Confira quais foram minhas últimas aquisições! :)
+
+##Bonkers Wax Up! (Master System)##
+
+Se no final do ano passado eu fechei com chave de ouro com o jogo **As Férias Frustradas do Pica-Pau** para o Master. Esse eu abri com chave de ouro: **Bonkers Wax Up!**.
+
+Este é um daqueles jogos que não se encontra em qualquer esquina. Ele faz parte dos jogos exclusivos da Tectoy e foi lançado em uma época que o Master já tinha sido descontinuado no resto do mundo, ou seja, quase ninguém deu atenção à ele, por isso se tornou raro!
+
+##Jogos de Game Gear##
+
+**Castle of Illusion**, **Psychic World**, **Sonic The Hedgehog** e **Wonder Boy**. Estes jogos eu peguei numa oportunidade que apareceu sem mesmo eu ter um **Game Gear** para jogá-los. Pois estavam por menos de R$ 15 cada e estão impecáveis.
+
+##MD Play##
+
+Este item é bem interessante, pois trata-se de um **Mega Drive** portátil com 20 jogos na memória e ainda tem a possibilidade de colocar mais, pois tem entrada para cartão SD. Comprei ele no site [Walmart](https://www.walmart.com.br/md-play-20-jogos-tectoy/2019655/pr).
+
+##Master System Evolution##
+
+Acredito que esse seja o último Master System que será lançado pela Tectoy, se é que podemos chamar de Master System, pois este console tem 132 jogos na memória e sem entrada para cartuchos. :/
+
+##Master System Portátil##
+
+Esse é outro console Master System que aparentemente é só um controle, mas não, você pluga ele na TV e sai jogando (se tiver pilhas)! :D
+
+Ele vem com apenas 30 jogos na memória e sem possibildades de colocar mais.
+
+##God of War Ascension + Controle (PS3)##
+
+Esse foi a união do útil ao agradável, pois estava precisando de um segundo controle no PS3. Peguei numa promoção da Saraiva, onde na compra do controle, ganhava o jogo! :)
+
+##LEGO Rockband (PS3)##
+
+Paguei apenas R$ 20 neste jogo na Ricardo Eletro. Como eu tenho a guitarra, quanto mais jogos do gênero eu tiver melhor! :)
+
+##Jogos de Sega Saturn##
+
+**Nights Into Dreams** e **Resident Evil**, eles se enquadram no mesmo esquema dos jogos de Game Gear: comprei sem ainda ter o console. Mas como trata-se de jogos bons e estavam por um preço bacana, peguei, pois ainda pretendo ter um Saturn em minha coleção!
+
+##Wii Zapper##
+
+Como ainda pretendo tirar poeira do meu Nintendo Wii, esta Zapper irá vir a calhar e por menos de R$ 20, não podia deixar passar!
+
+##Metal Gear Solid V: Ground Zeroes (Xbox 360)##
+
+Como alguns já sabem, sou fã da série **Metal Gear Solid**, e estou ansioso para o próximo jogo da série, que já dá para sentir um gostinho com este aqui. :)
+
+##Plants vs. Zombies: Garden Warfare (Xbox 360)##
+
+E por fim, este divertido jogo! A única coisa chata nele, é que ele é somente online. Então, me arrependi um pouco de ter pego a versão de 360, pois compensava a versão de PS3, pois você não precisa pagar pela PSN (para jogar online), já a LIVE do Xbox sim! Mas na época que peguei, ele ainda era exclusivo Xbox. :/

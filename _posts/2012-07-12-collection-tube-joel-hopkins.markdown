@@ -11,4 +11,4 @@ sinopse: >
 ---
 O vídeo de hoje é de um colecionador australiano de videogames, o **Joel Hopkins**. O vídeo é curto, mas é bem interessante, começando pela Ferrari na garagem! rs. Bom, brincadeiras à parte, a coleção dele é impressionante, e um dos destaques do vídeo é o **Tetris** japonês para **Mega Drive**, que raríssimo. Vários sites especializados em **Sega** apontam como o "jogo que nunca existiu" ou o "jogo de videogame mais caro do mundo". Mas enfim, confira o vídeo:
 
-[![Joel Hopkins](http://img.youtube.com/vi/CdfmLwyI0P8/0.jpg)](http://www.youtube.com/watch?v=CdfmLwyI0P8)
+{% include youtubePlayer.html id='CdfmLwyI0P8' %}

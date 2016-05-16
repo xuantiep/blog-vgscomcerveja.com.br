@@ -17,7 +17,7 @@ possui uma coleção incrível de jogos e outros itens referente à série Resid
 
 Vale a pena conferir:
 
-[![Resident Evil Collection](http://img.youtube.com/vi/IFCvX6LbdaU/0.jpg)](http://www.youtube.com/watch?v=IFCvX6LbdaU)
+{% include youtubePlayer.html id='IFCvX6LbdaU' %}
 
 Legal, né? Caso deseje conhecer mais vídeos da coleção dela, visite o [canal](http://goo.gl/7cEFK)
 dela no YouTube que tem mais! :)

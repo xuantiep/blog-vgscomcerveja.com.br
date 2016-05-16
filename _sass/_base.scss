@@ -8,7 +8,10 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+hr {
+    margin: 30px 0 30px;
+    border: 2px dashed #ccc;
+}
 
 /**
  * Basic styling
@@ -234,5 +237,27 @@ table {
 
     tr:nth-child(odd) td {
         background-color: #fcfcfc;
+    }
+}
+
+
+
+/*
+ * Youtube Player
+ */
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+
+    iframe, object, embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
     }
 }
