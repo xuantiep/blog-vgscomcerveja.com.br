@@ -19,13 +19,17 @@ layout: default
           <span class="post-comments icon-comment-empty">0</span>
         </div>
 
-        <figure>
-          <img src="{{ post.cover }}">
-        </figure>
+        <div class="post-cover">
+          <figure>
+            <img src="{{ post.cover }}">
+          </figure>
+        </div>
+        <div class="post-sinopse">
+          <p>{{ post.sinopse }}</p>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo..</a>
+        </div>
 
-        <p>{{ post.sinopse }}</p>
 
-        <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo..</a>
       </article>
     {% endfor %}
 

@@ -5,7 +5,8 @@ date:       2013-05-04 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Quando tomei conhecimento deste controle na internet, logo corri atrás de conseguir um para mim! Pois, além de ser um grande fã da série, eu achei esse controle muito bonito!
 ---
@@ -14,5 +15,3 @@ Quando tomei conhecimento deste controle na internet, logo corri atrás de conse
 Criado em parceria com a **Crystal Dynamics** e **Square-Enix**, este controle possui uma tiragem limitada e é inspirado no que a Lara sofre no jogo. De cor vermelho escuro, o controle contém marcas para dar impressão de desgastado e sujo.
 
 Além disso, ele acompanha um código para download de um personagem exclusivo no *multiplayer* do jogo. Confira as fotos do controle:
-
- 

@@ -5,7 +5,8 @@ date:   2012-03-30 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Se tem uma coisa que curto demais, são listas! E a lista de hoje é dos primeiros jogos para PlayStation lançados no formato Longbox. Para quem não sabe, nos primeiros anos de vida, os jogos de PS1 eram lançados em caixas grandes similares à dos jogos do Sega Saturn.
 ---

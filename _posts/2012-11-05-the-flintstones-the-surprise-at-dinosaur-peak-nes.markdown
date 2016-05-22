@@ -5,7 +5,8 @@ date:       2012-11-05 19:00
 author:     Felipe B. Barbosa
 session:    Mosca Branca &#35 02
 categories: colecionando/mosca-branca
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Quase um ano depois, está de volta a sessão Mosca Branca e a raridade de hoje é o jogo The Flintstones: The Surprise at Dinosaur Peak! para Nintendinho (NES). Este jogo é um dos jogos licenciados mais raros do console.
 ---

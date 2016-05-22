@@ -5,7 +5,8 @@ date:       2013-11-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 12
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Depois de ouvir um podcast sobre o saudoso PS1, resolvi visitar minha prateleira de jogos "alternativos" do console para reviver alguns jogos já clássicos. Porém, ao invés disso, resolvi explorar os não tão famosos. E o primeiro deles foi o, até legalzinho, The Great Battle VI.
 ---

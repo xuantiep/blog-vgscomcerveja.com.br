@@ -5,7 +5,8 @@ date:       2014-08-03 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 18
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Após praticamente um ano depois de ter comprado o PSP de um amigo que eu finalmente terminei um jogo nele! E esse jogo foi Silent Hill: Origins, o jogo que explica como tudo começou, pois ele se passa sete anos antes dos acontecimentos do primeiro Silent Hill.
 

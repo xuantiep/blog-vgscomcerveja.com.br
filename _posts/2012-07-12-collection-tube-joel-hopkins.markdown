@@ -5,7 +5,8 @@ date:   2012-07-12 19:00
 author: Felipe B. Barbosa
 session: Collection Tube &#35 04
 categories: colecionando/collection-tube
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   O vídeo de hoje é de um colecionador australiano de videogames, o Joel Hopkins. O vídeo é curto, mas é bem interessante, começando pela Ferrari na garagem! rs. Bom, brincadeiras à parte, a coleção dele é impressionante, e um dos destaques do vídeo é o Tetris japonês para Mega Drive, que raríssimo. Vários sites especializados em Sega apontam como o "jogo que nunca existiu" ou o "jogo de videogame mais caro do mundo".
 ---

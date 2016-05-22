@@ -5,7 +5,8 @@ date:       2013-06-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 07
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Cara, que jogo fantástico! Não é a toa que recebeu notas altíssimas pelas críticas especializadas, The Last of Us conseguiu unir drama, ação, aventura, suspense, terror e até stealth em um só jogo! Desenvolvido pela Naughty Dog e lançado este mês, o jogo é mais um exclusivo para a biblioteca do PlayStation 3!
 ---

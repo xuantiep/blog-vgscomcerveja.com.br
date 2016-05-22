@@ -5,7 +5,8 @@ date:       2013-02-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 01
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Começando com as mudanças no blog com uma nova sessão, a **Game Over**. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que Far Cry 3 para Xbox 360, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
 ---

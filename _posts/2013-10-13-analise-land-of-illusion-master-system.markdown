@@ -5,7 +5,8 @@ date:       2013-10-13 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 11
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Logo após terminar o Castle of Illusion, me empolguei e parti logo para o segundo jogo da trilogia "Illusion" (Castle, Land e Legend of Illusion) do Master System: o Land of Illusion, e só tenho uma coisa a se dizer: muito bom!
 ---

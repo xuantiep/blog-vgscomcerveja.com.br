@@ -5,7 +5,8 @@ date:       2011-07-30 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
    A Sony está investindo forte no mercado brasileiro de videogames, segundo uma matéria do site G1,
    ela fabricou cinco (apenas) consoles de PS3 exclusivos em homenagem a Copa do Mundo FIFA 2014

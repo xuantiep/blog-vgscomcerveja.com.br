@@ -5,7 +5,8 @@ date:   2010-10-31 19:00
 author: Felipe B. Barbosa
 session: Edição de Colecionador &#35 01
 categories: colecionando/edicao-colecionador
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Resident Evil 5 pode não ser o melhor jogo da série, mas a Capcom caprichou nesta versão de
   colecionador. O kit conta com vários itens bacanas, confira!

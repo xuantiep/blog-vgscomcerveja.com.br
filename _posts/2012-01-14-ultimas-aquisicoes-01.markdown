@@ -5,7 +5,8 @@ date:       2012-01-14 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Como primeiro post do ano, resolvi mostrar meus últimos jogos adquiridos para a coleção, que está
   começando a tomar a forma que eu quero, estou quase chegando aos 100 jogos! :)

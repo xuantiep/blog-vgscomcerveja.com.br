@@ -5,7 +5,8 @@ date:       2013-03-29 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 04
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo Tomb Raider lançado pela Square-Enix agora neste mês de Março para PS3, Xbox 360 e PC.
 ---

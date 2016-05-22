@@ -5,7 +5,8 @@ date:       2012-05-07 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Eis um jogo que a algum tempo buscava para minha coleção, Metal Gear Solid para Game Boy Color é um jogo que está se tornando cada vez mais raro de encontrar completo e em bom estado. E para minha felicidade, consegui um do jeito que queria para minha coleção! :)
 ---

@@ -1,16 +1,15 @@
 ---
 layout:     post
-title:      "Resumo da Semana - Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.."
+title:      "Resumo da Semana #01"
 date:       2014-12-08 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
-   Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
+   Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.. Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
 ---
-Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
-
 ##Vencedores da The Game Awards (TGA)##
 
 Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game Awards** se tornou praticamente o Oscar dos games, ou seja, é a principal premiação para os melhores jogos do ano. A edição de 2014 ocorreu no último dia 5 de Dezembro. Confira quem foram os concorrentes e ganhadores:
@@ -191,7 +190,7 @@ Para quem perdeu confira a premiação na íntegra:
 
 ---
 
-##Primeiro Gameplay de Uncharted 4##
+##Primeiro gameplay de Uncharted 4##
 
 Sábado, dia 6 de Dezembro, na inauguração do serviço **PlayStation Experience**, a **Sony** e a **Naughty Dog** revelaram o primeiro *gameplay* do novo **Uncharted 4: A Thief's End**. São mais ou menos 15 minutos de vídeo, mas foram suficientes para aumentar minha *hype* pelo jogo! Confira:
 
@@ -199,7 +198,7 @@ Sábado, dia 6 de Dezembro, na inauguração do serviço **PlayStation Experienc
 
 ---
 
-###Grim Fandango Remastered###
+##Grim Fandango Remastered##
 
 Outra novidade legal, foi o anúncio do retorno de **Grim Fandango**, um clássico dos PCs, agora remasterizado para PS4 e PS Vita, com previsão de lançamento para já em Janeiro de 2015, veja o trailer:
 
@@ -207,7 +206,7 @@ Outra novidade legal, foi o anúncio do retorno de **Grim Fandango**, um clássi
 
 ---
 
-###Street Fighter V Exclusivo para PS4 e PC?###
+##Street Fighter V exclusivo para PS4 e PC?##
 
 E a grande surpresa do final de semana foi o anúncio da **Capcom** sobre o novo **Street Fighter V** ser exclusivamente para donos de PS4 e PC! Será uma resposta da **Sony** em relação do **Killer Instinct** exclusivo Xbox? Veja o trailer:
 
@@ -215,6 +214,6 @@ E a grande surpresa do final de semana foi o anúncio da **Capcom** sobre o novo
 
 ---
 
-###R.I.P. Ralph Baer###
+##R.I.P. Ralph Baer##
 
 E por fim uma notícia triste! Faleceu neste sábado (06/12), Ralph Baer, aos 92 anos. Ele que é considerado o "pai dos videogames" por ter criado o primeiro console doméstico, o **Magnavox Odyssey**. Descanse em Paz! :(

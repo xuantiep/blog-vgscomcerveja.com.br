@@ -5,7 +5,8 @@ date:       2013-03-16 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 03
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Lançado em 2011 pela Eletronic Arts e produzido desta vez pela Black Box, Need for Speed: The Run trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem Jack Rourke que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
 ---

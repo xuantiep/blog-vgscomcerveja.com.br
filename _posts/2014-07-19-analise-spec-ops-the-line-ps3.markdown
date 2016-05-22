@@ -5,7 +5,8 @@ date:       2014-07-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 17
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Finalmente voltando a ativa, depois de passado a correria do casamento (sim, me casei! :D), volto a jogar e o primeiro jogo terminado como casado foi o surpreendente Spec Ops: The Line.
 

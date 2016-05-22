@@ -1,0 +1,44 @@
+---
+layout:     post
+title:      "Análise - Conker's Bad Fur Day (N64)"
+date:       2015-11-11 19:00
+author:     Felipe B. Barbosa
+session:    Game Over &#35 25
+categories: jogando/analise
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+sinopse: >
+  Ao contrário do que você possa achar, esta é a primeira vez que termino o jogo cujo o personagem é o "mascote" oficial do blog! E também, acredite se quiser, foi meu primeiro jogo de Nintendo 64 terminado! ^^
+---
+**Conker's Bad Fur Day** é o típico jogo que te engana pela aparências, você olha para o Conker, o esquilo vermelho protagonista, e imagina que se trata de mais um jogo de plataforma que qualquer criança possa jogá-lo, mas aí, você olha mais atenção já para a capa do jogo, e nota que ele está segurando um copo de cerveja (eis o motivo dele ser o mascote do blog ^^) com uma cara de mau, e nota também que existe o seguinte aviso: "Este game não é recomendado para menores de 18 anos!", *"eita! Como assim?"*.
+
+Lançado em 2001 pela **Rareware**, sim a famosa pelos jogos carismáticos para SNES e N64! O jogo conta a história de como um esquilo vermelho se tornou rei de um dia para o outro, literalmente!
+
+O jogo começa com Conker tentando telefonar para sua namorada Berri, para dizer que irá se atrasar, pois resolveu sair para beber com os amigos para comemorar seu aniversário de 21 anos. Porém, ele acaba exagerando na dose, e nem o caminho de volta para casa ele consegue achar, acabando assim, dormindo em qualquer lugar mesmo.
+
+Nesse meio tempo, o vilão do jogo, o Rei Pantera, está em seu castelo prestes à curtir seu copo de leite noturno em sua poltrona favorita, mas ao colocar o copo em sua mesinha, o copo cai ao chão devido à uma perna quebrada da mesa. Furioso, ele pede para um dos seus capangas chamar seu cientista (maluco) para encontrar uma solução para este problema.. E após vários estudos, ele chegou na conclusão que o único jeito de consertar a mesa é colocando um esquilo vermelho como apoio da mesa! ^^
+
+O dia amanhece e você assume o controle de Conker, que acorda com uma forte ressaca e totalmente perdido! Você já começa a notar a jogabilidade elaborada do jogo, pois como ele está de ressaca, seus movimentos são bem limitados, andando lentamente e cambaleando, nem se quer consegue dar um soco direito.. Até que você encontra um espantalho chamado Birdy, que começa a te ensinar como as coisas funcionam! Inclusive, te ensina que se tomar aspirinas, sua ressaca cura na hora, normalizando seus movimentos!
+
+Sua vida é controlada através de uma barra de seis "gomos" de chocolate, que após perder todos eles, você obviamente morre, e suas vidas são contabilizadas através de caudas de esquilos que você encontra algumas espalhadas em todo o jogo. Sinceramente, eu não me preocupei nenhum um pouco com isso, porque, aparentemente, os *continues* são infinitos!
+
+O jogo é uma zueira só, você racha de rir com os diálogos, chefões e com as cenas de animações. Ele satiriza filmes como Matrix, Resgate do Soldado Ryan, O Exorcista, Poderoso Chefão, Alien e até outro jogos como Mario e Resident Evil. ^^
+
+Os gráficos são ótimos, lógico que para o padrão da época. Mas isso não é uma coisa que me incomoda, pois consigo me adaptar, desde que seja bons! O som também é excelente, joguei com fones de ouvido e fiquei impressionado, não esperava "tamanha" qualidade sonora!
+
+O modo *multiplayer*, dizem que é muito bom também, mas não joguei, sou *forever alone*. ^^'
+
+Enfim, é um grande jogo de Nintendo 64 que saiu no final da vida do console, sendo assim, o jogo acabou se tornando um pouco raro de se encontrar, e quando encontra, o pessoal está pedindo muito caro, algo em torno de R$ 300 ~ R$ 400 para um cartucho *loose*, um absurdo! Ainda bem que comprei [a minha cópia em 2012](/colecionando/colecao-pessoal/2012/01/14/ultimas-aquisicoes-01.html) e paguei algo em torno de R$ 150 no jogo completo e impecável!
+
+Mas se você não é colecionador, ou não faz questão de jogar no console real, recomendo fortemente jogar esse jogo, mesmo no emulador, ou então, se você tiver um Xbox ONE, ele também está disponível na coletânea Rare Replay, recém lançada!
+
+{% include ficha.html
+  cover=''
+  titulo='Conker's Bad Fur Day'
+  plataforma='Nintendo 64'
+  desenvolvedor='Rareware'
+  publicador='Nintendo'
+  lancamento='2001'
+  genero='Aventura / Plataforma'
+  data='12 de Agosto de 2015'
+  nota='9.5' %}

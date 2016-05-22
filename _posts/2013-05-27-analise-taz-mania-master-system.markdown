@@ -5,7 +5,8 @@ date:       2013-05-27 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 05
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Hoje recebi o que estava planejando em ter a um bom tempo, um Master System III Compact com saída A/V! E graças ao amigo e colecionador Flávio, o Shiningstar, que faz esse tipo de modificação, recebi muito mais do que isso, recebi um Master com led de power, saída A/V e S-Video! Mas enfim, pretendo falar sobre ele em outro post, pois com a chegada do console, fui logo relembrar e zerar um jogo que considero um clássico da minha infância: Taz-Mania!
 ---

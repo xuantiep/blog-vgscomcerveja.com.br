@@ -1,4 +1,4 @@
-- title: 
+- title:
   url: /
   classe: icon-home
 - title: Notícias
@@ -10,8 +10,10 @@
   subitems:
     - title: Análises
       url: /jogando/analise/
+    - title: Especiais
+      url: /jogando/especiais/
     - title: Toplists
-      url: jogando/toplists/
+      url: /jogando/toplists/
 - title: Colecionando
   url: /colecionando/
   classe: icon-database

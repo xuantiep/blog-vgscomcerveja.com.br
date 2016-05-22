@@ -5,7 +5,8 @@ date:       2013-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 13
 categories: jogando/analise
-cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
+post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
 sinopse: >
   Fala aí, tudo bom? Como passou o Natal? Espero que bem! Bom, praticamente um ano após eu terminar o primeiro BioShock, joguei e terminei o segundo. Mas o que falar dele? Simples, jogaço!
 ---
