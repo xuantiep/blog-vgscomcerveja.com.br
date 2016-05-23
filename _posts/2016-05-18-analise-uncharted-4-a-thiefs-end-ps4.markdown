@@ -5,8 +5,8 @@ date:       2016-05-18 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 30
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+cover:      /imgs/uncharted4.png
+post_cover: /imgs/uncharted4_2.png
 sinopse: >
   Maravilhoso, incrível, espetacular.. Faltam elogios para Uncharted 4 que atendeu, ou melhor, superou todas as expectativas que tinha sobre o jogo.
 ---

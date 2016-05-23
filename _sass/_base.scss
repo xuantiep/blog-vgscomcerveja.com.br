@@ -169,8 +169,10 @@ pre {
     max-width:         calc(1024px - (#{$spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
+    padding-top: $spacing-unit;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+    background-color: white;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
