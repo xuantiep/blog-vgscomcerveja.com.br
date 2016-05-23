@@ -34,7 +34,7 @@ Mas se você não é colecionador, ou não faz questão de jogar no console real
 
 {% include ficha.html
   cover=''
-  titulo='Conker's Bad Fur Day'
+  titulo='Conkers Bad Fur Day'
   plataforma='Nintendo 64'
   desenvolvedor='Rareware'
   publicador='Nintendo'
