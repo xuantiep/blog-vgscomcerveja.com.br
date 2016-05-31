@@ -5,8 +5,8 @@ date:       2013-06-02 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 06
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Se tem um jogo que eu queria muito ter e jogar, este jogo é o Metal Gear Solid: The Twin Snakes para Game Cube! Não sei se é porque sou fã da série e principalmente do Metal Gear Solid para PS1 que considero um dos melhores jogos de todos os tempos ou se é porque o jogo é bom mesmo!
 ---

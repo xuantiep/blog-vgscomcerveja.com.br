@@ -5,8 +5,8 @@ date:       2015-03-23 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Novidades da Nintendo, filme Pixels, Bloodborne, Hideo Kojima, God of War e mais.. Confira as novidades da semana do dia 16/03 à 22/03 de 2015!
 ---

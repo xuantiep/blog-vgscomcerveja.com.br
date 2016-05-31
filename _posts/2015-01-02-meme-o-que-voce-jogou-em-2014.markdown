@@ -5,8 +5,8 @@ date:       2015-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando/especiais
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Feliz Ano Novo! Nada melhor do que começar 2015 relembrando o que jogamos em 2014, né? Por isso estou participando da quarta edição do MeMe O Que Você Jogou No Ano Passado? que já é praticamente uma tradição entre os editores de blogs (e afins) de games e foi iniciada pelo blog Marvox Brasil em 2011.
 

@@ -5,8 +5,8 @@ date:       2016-03-12 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
 categories: jogando/toplist
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Dando continuidade (finalmente) a série "Pecados Gamísticos", agora é a vez dos jogos dos consoles da sexta geração!
 ---

@@ -5,8 +5,8 @@ date:       2013-06-27 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 08
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Há um ano mais ou menos adquiri um Xperia PLAY e confesso que fiquei um pouco decepcionado com a quantidade de jogos que dão suporte aos controles dele. Entretanto, não fui muito a fundo com ele e acabei deixando seu ótimo joystick de lado. Mas recentemente, resolvi dar uma segunda chance ao aparelho e saí a caça de jogos que tenham suporte e acabei encontrando Gunman Clive!
 ---

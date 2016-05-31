@@ -5,8 +5,8 @@ date:       2011-01-18 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Não é somente aqui no Brasil que as enchentes estão atacando com tudo, na Austrália teve uma triste
   história de um colecionador de videogames, identificado como NFC, que teve sua coleção praticamente

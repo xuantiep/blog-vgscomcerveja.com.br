@@ -5,8 +5,8 @@ date:       2015-04-13 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Mortal Kombat X, Deus Ex: Mankind Divided, continuação do filme de Need for Speed e mais.. Confira as novidades do dia 07/04 à 13/04 de 2015!
 ---

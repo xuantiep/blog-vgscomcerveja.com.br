@@ -5,8 +5,8 @@ date:       2014-09-11 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 19
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Já fazia um tempinho que queria relembrar Medal of Honor. Sim,  o primeiro deles no PS1, eu acredito que ele foi um marco importante para indústria, principalmente para jogos FPS. Sendo assim, mesmo com uma lista enorme de jogos que tenho para jogar, resolvi encaixá-lo.
 

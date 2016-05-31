@@ -5,8 +5,8 @@ date:       2015-01-11 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
    Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.. Confira algumas novidades da semana!
 ---

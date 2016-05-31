@@ -5,8 +5,8 @@ date:       2015-03-04 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
 categories: jogando/toplist
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Hoje o PlayStation 2 está comemorando 15 anos, mas como no final do ano a Sony comemorou 20 anos da marca PlayStation, então decidir "comemorar" (tomando uma cervejinha) relembrando quais são meus jogos favoritos do console que revolucionou o mercado.
 ---

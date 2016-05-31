@@ -5,8 +5,8 @@ date:       2014-11-04 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 20
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Desde que joguei Guitar Hero pela primeira vez no PlayStation 2 que me tornei fã dos jogos do gênero musical do tipo "de guitarra", porém confesso que sempre joguei de maneira casual e, AC/DC Live: Rockband Track Pack é o primeiro que peguei para jogar até o final o modo carreira.
 

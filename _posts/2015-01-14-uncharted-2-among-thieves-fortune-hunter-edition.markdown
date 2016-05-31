@@ -5,8 +5,8 @@ date:   2015-01-14 19:00
 author: Felipe B. Barbosa
 session: Edição de Colecionador &#35 03
 categories: colecionando/edicao-colecionador
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Ressuscitando uma série do blog que havia morrido em seu segundo capítulo em 2011. Sim, voltei com a série "Edição de Colecionador", onde pretendo apresentar as edições de colecionadores mais  bancanas lançadas (e que gostaria te ter em minha coleção)! E como retorno, nada melhor do que uma edição que é extremamente rara, digna da série "Mosca Branca", estou falando de Uncharted 2: Among Thieves Fortune Hunter Edition.
 ---

@@ -5,8 +5,8 @@ date:       2016-02-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 27
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Para quem viu minha participação no MeMe: "O Que Você Jogou em 2015?" deve ter notado que joguei o tal do Guacamelee!, um "metroidvania" muito divertido e viciante!
 ---

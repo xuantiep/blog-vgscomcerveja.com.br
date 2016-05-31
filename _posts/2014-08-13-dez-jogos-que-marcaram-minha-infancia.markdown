@@ -5,8 +5,8 @@ date:       2014-08-13 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
 categories: jogando/toplist
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Dias atrás vi um post de um amigo no grupo de Master System no Facebook cujo a ideia era listar cinco jogos que tinham marcado sua infância. Na verdade, trata-se de uma brincadeira que estava rolando entre os youtubers. Porém, gostei da ideia e resolvi listar meus jogos marcantes, mas como não estou na brincadeira, mudei de cinco para dez jogos, que irei listar em ordem cronológica! :)
 ---

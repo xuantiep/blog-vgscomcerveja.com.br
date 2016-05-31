@@ -5,8 +5,8 @@ date:   2012-01-24 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Que a Tectoy fez um excelente trabalho com o Master System no Brasil todo mundo sabe!
   Inclusive, chegou a lançar jogos exclusivos para o nosso querido Master como o lendário Street Fighter II, Mortal Kombat 3, jogos da Turma da Mônica e outros que só foram lançados em território nacional e são muitos cobiçados por colecionadores mundiais. Mas enfim, você sabe quais jogos, além dos exclusivos, a Tectoy lançou no Brasil?

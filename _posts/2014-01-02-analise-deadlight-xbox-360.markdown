@@ -5,8 +5,8 @@ date:       2014-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 15
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   A contagem de jogos terminados em 2014 já começou! Talvez não em grande estilo, mas com um jogo relativamente bom: Deadlight!
 ---

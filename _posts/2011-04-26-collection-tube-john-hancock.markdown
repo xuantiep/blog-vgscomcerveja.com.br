@@ -5,8 +5,8 @@ date:   2011-04-26 19:00
 author: Felipe B. Barbosa
 session: Collection Tube &#35 02
 categories: colecionando/collection-tube
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   E vamos a mais um Collection Tube! O vídeo de hoje mostra uma entrevista que a RecycledGamer
   fez com o colecionador John Hancock, se você não o conhece, entre e confira!

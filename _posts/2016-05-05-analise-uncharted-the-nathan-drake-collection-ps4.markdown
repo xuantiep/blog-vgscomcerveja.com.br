@@ -5,8 +5,8 @@ date:       2016-05-05 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 29
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   A Naughty Dog lançou no final do ano passado uma coletânea remasterizada dos três primeiros capítulos da série para ir aquecendo os fãs, ou para preparar os que não conhecem, pois o quarto capítulo está prestes a ser lançado. E eu, como fã da série, não podia deixar de conferir (de novo) a trilogia.
 ---

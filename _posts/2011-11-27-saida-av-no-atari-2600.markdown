@@ -5,8 +5,8 @@ date:   2011-11-27 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Há aproxidamente 6 meses atrás, adquiri um Atari 2600 Polyvox original com dois controles,
   recuperando assim meu primeiro videogame! Sim, o Atari foi o meu primeiro videogame que tive

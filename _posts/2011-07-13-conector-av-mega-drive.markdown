@@ -5,8 +5,8 @@ date:   2011-07-13 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   No começo deste ano, eu ganhei um Mega Drive modelo asiático do meu cunhado e desde então
   vinha sofrendo com a péssima imagem que meu adaptador RF transmitia para a televisão, com isso

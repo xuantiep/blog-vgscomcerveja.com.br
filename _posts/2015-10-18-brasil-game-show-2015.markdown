@@ -5,8 +5,8 @@ date:       2015-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando/especiais
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Eu nunca tinha ido antes e esta edição não seria exceção, pois simplesmente não estava nos meus planos ir. Mas como o feriado coincidiu com o dia de folga da minha esposa, resolvemos dar uma volta por lá, e olha, ela que nem joga videogame estava muito mais empolgado do que eu para ir, se não fosse por ela, com certeza, seria mais um ano sem ir.
 ---

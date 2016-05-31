@@ -5,8 +5,8 @@ date:       2013-08-22 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 09
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Se tem uma série que sou fã é da série Tomb Raider! Entretanto, o primeiro jogo que terminei da franquia foi Tomb Raider III e desde então venho jogando e terminando todos os jogos (ou quase, The Angel of Darkness eu pulei). Mas como disse, comecei pelo terceiro, os dois primeiros sempre foram uns dos meus pecados gamísticos, pelo menos era, até que resolvi encarar o desafio e terminar o jogo que deu origem a tudo! E não foi uma tarefa fácil, não!
 ---

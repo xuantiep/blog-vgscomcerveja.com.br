@@ -5,8 +5,8 @@ date:       2014-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 21
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Eaí, como passou o Natal? Espero que bem! Bom, vou falar de um jogo que quase desisti no ano passado (2013) quando comecei a jogá-lo, não sei exatamente o motivo, mas algo não em agradou na época. Porém, resolvi dar uma segunda chance ao jogo e descobri que é um jogo muito bom!
 

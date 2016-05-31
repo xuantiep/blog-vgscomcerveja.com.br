@@ -5,8 +5,8 @@ date:       2011-04-09 19:00
 author:     Felipe B. Barbosa
 session:    Mosca Branca &#35 01
 categories: colecionando/mosca-branca
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Para inaugurar a sessão Mosca Branca nada melhor do que este grande clássico de Master System:
   Phantasy Star! Este jogo pertence a lista dos 36 exclusivos Tectoy para Master System lançados apenas para o Brasil.

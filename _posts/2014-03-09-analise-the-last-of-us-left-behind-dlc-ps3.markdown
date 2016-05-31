@@ -5,8 +5,8 @@ date:       2014-03-09 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 16
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Após ver o anúncio de um DLC single player para The Last of Us, pensei comigo mesmo (e pelo Twitter): "Acho que este será o primeiro DLC que comprarei na vida!", dito e feito, DLC comprada, finalizada e sem arrependimentos! ^^
 ---

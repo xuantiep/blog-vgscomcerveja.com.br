@@ -5,8 +5,8 @@ date:   2011-04-17 19:00
 author: Felipe B. Barbosa
 session: Collection Tube &#35 01
 categories: colecionando/collection-tube
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Estreando uma nova sessão no blog: Collection Tube. Sim, tem tudo a ver com o YouTube, pois
   nela pretendo compartilhar vídeos de coleções bacanas. Como esta de Laura (Itchytasty06) que

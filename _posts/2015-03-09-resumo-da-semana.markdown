@@ -5,8 +5,8 @@ date:       2015-03-09 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
    Metal Gear Solid V: The Phantom Pain ganhou data de lançamento, Rockband 4 será lançado, Battletoads de volta?, jogos grátis e mais.. Confira as novidades da semana do dia 02/03 à 08/03 de 2015!
 ---

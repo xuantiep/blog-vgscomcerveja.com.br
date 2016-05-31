@@ -5,8 +5,8 @@ date:       2011-01-09 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Última IV é o quarto jogo da série Última e por curiosidade é o último jogo da série lançado
   para um console da Sega (no caso, Master System). Lançado pela Tectoy aqui no Brasil com caixa

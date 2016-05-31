@@ -5,8 +5,8 @@ date:       2016-05-18 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 30
 categories: jogando/analise
-cover:      /imgs/uncharted4.png
-post_cover: /imgs/uncharted4_2.png
+thumbnail:  
+cover: 
 sinopse: >
   Maravilhoso, incrível, espetacular.. Faltam elogios para Uncharted 4 que atendeu, ou melhor, superou todas as expectativas que tinha sobre o jogo.
 ---

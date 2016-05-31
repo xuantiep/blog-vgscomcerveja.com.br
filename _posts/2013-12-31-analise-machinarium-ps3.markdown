@@ -5,8 +5,8 @@ date:       2013-12-31 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 14
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   E não é que ainda deu tempo de terminar mais um jogo ainda em 2013! E foi um jogo de um gênero que há tempos não jogava (talvez desde Criatura Crunch no PC em meados de 1999), que é o de puzzle de aventura point-and-click. Estamos falando de Machinarium!
 ---

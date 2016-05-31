@@ -5,8 +5,8 @@ date:       2016-01-03 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando/especiais
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Feliz Ano Novo! Já está se tornando uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico, e nada melhor para isso do que participando do MeMe do Marvox Brasil, que chega à sua 5a edição: "O Que Você Jogou Em 2015?". Esta é minha segunda participação, e o que acho mais legal, é que é uma espécie de confraternização entre os editores de blogs de games! Enfim, vamos lá que a lista é grande, selecionei 20 jogos que mais joguei em 2015! ^^'
 ---

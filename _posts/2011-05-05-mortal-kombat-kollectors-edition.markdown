@@ -5,8 +5,8 @@ date:   2011-05-05 19:00
 author: Felipe B. Barbosa
 session: Edição de Colecionador &#35 02
 categories: colecionando/edicao-colecionador
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   A edição de colecionador deste mês está animal! Trata-se da edição de Mortal Kombat recém
   lançada para PlayStation 3 e Xbox 360. Confira!

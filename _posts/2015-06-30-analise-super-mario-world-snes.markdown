@@ -5,8 +5,8 @@ date:       2015-06-30 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 24
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   No início do ano eu tinha meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu falhei na missão, mas pelo menos consegui terminar o Super Mario World! ^^
 ---

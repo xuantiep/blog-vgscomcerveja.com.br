@@ -5,8 +5,8 @@ date:       2015-03-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 22
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Encerrei meu ano gamístico de 2014 com um jogo que tinha ótimos ingredientes, porém, o modo de preparo não foi muito legal, resultando em um jogo não muito satisfatório para mim! Mas pode ser que eu que não segui a receita direito.
 

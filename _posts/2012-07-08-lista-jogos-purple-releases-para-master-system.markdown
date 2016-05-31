@@ -5,8 +5,8 @@ date:   2012-07-08 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Como todo mundo já deve saber (pelo menos quem acompanha o blog), a Tectoy fez um excelente trabalho com o Master System por aqui no Brasil, lançando consoles e jogos, sendo alguns deles exclusivamente brasileiros. O que pouco gente sabe é que ela também atuou no mercado de Portugal, lógico que não passou nem perto do trabalho que fizeram por aqui, mas mesmo assim, são itens muito apreciados e desejados por colecionadores do mundo inteiro, principalmente os próprios portugueses.
 ---

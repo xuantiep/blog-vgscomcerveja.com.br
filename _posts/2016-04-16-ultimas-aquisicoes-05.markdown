@@ -5,8 +5,8 @@ date:       2016-04-16 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Prometi a mim mesmo jogar mais e comprar menos, mas apesar de estar seguindo isso, no último mês de Março, o espírito colecionador falou mais alto! Tanto que resolvi voltar com os posts de "Últimas Aquisições" para mostrar o que tenho comprado para a coleção! :)
 ---

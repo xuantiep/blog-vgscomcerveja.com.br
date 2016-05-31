@@ -5,8 +5,8 @@ date:       2013-09-17 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 10
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Feriado, 7 de Setembro de 2013, sábado.. Para muita gente o fato do feriado ser no sábado não fez diferença alguma, mas para mim fez! Então aproveitei para ligar meu bom e velho Master System e jogar um clássico: Castle of Illusion estrelando Mickey Mouse! Pelo incrível que pareça, acredito que nunca tinha terminado, pois lembro de ter jogado quando criança, mas não lembro de ter chegado no final.
 ---

@@ -5,8 +5,8 @@ date:       2015-03-30 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Forza Horizon 2 Fast & Furious grátis, novo Guitar Hero, Batman, novidades do Xbox, mais informações de Kojima e mais.. Confira as novidades da semana do dia 23/03 à 30/03 de 2015!
 ---

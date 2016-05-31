@@ -19,14 +19,20 @@ layout: default
           <span class="post-comments icon-comment-empty">0</span>
         </div>
 
-        <div class="post-cover">
-          <img src="{{ post.thumbnail }}">
-        </div>
-        <div class="post-sinopse">
-          <p>{{ post.sinopse }}</p>
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo</a>
-        </div>
-
+        {% if post.thumbnail %}
+          <div class="post-cover">
+            <img src="{{ post.thumbnail }}">
+          </div>
+          <div class="post-sinopse">
+            <p>{{ post.sinopse }}</p>
+            <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo</a>
+          </div>
+        {% else %}
+          <div class="post-sinopse" style="width:100%">
+            <p>{{ post.sinopse }}</p>
+            <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo</a>
+          </div>
+        {% endif %}
 
       </article>
     {% endfor %}

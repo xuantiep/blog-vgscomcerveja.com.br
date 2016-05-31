@@ -5,8 +5,8 @@ date:       2016-03-24 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 28
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Neste mês de Março, mais precisamente, no último dia 22, a série Resident Evil completou 20 anos! E nada melhor para comemorar do rejogar o primeiro game da série no bom e velho PS1, né?
 ---

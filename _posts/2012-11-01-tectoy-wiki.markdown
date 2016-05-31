@@ -5,8 +5,8 @@ date:   2012-11-01 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   O site Sega-Brasil está de parabéns pelo lançamento do projeto Tectoy Wiki, uma enciclopédia sobre o trabalho da Tectoy no Brasil com os produtos relacionados à Sega. E o mais legal, o projeto é colaborativo, como o Wikipédia, então se tiver algo que possua contribuir, ajude! :)
 ---

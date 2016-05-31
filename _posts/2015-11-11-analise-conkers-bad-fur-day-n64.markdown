@@ -5,8 +5,8 @@ date:       2015-11-11 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 25
 categories: jogando/analise
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Ao contrário do que você possa achar, esta é a primeira vez que termino o jogo cujo o personagem é o "mascote" oficial do blog! E também, acredite se quiser, foi meu primeiro jogo de Nintendo 64 terminado! ^^
 ---

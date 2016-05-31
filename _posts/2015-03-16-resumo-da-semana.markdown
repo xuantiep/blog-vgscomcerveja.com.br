@@ -5,8 +5,8 @@ date:       2015-03-16 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Uncharted 4 é adiado para 2016, novo jogo da Game Freak (e não é Pokémon), trailer de LEGO Jurassic World e mais.. Confira as novidades da semana do dia 09/03 à 15/03 de 2015!
 ---

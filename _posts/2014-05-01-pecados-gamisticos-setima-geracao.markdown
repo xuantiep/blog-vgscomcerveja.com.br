@@ -5,8 +5,8 @@ date:       2014-05-01 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
 categories: jogando/toplist
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
   Que todo mundo tem pecados é fato, e por consequência todo jogador de videogame também tem seus pecados.. pecados gamísticos! Sabe aquele jogo que você nunca terminou ou até mesmo nunca teve a oportunidade de jogar, pois é, esses são seus pecados gamísticos! Hoje vou "confessar" dez pecados gamísticos meus, porém, como tenho muito mais do que isso, resolvi separar por geração de videogames, selecionei dez da sétima geração!
 ---

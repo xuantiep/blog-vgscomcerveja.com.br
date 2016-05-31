@@ -5,8 +5,8 @@ date:       2014-12-14 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:  
+cover: 
 sinopse: >
    The Last Guardian, Rise of the Tomb Raider, PS4 edição limitada no Brasil e mais.. Confira as principais notícias da semana!
 ---
