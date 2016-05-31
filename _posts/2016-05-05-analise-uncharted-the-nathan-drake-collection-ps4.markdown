@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Game Over &#35 29
 categories: jogando/analise
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   A Naughty Dog lançou no final do ano passado uma coletânea remasterizada dos três primeiros capítulos da série para ir aquecendo os fãs, ou para preparar os que não conhecem, pois o quarto capítulo está prestes a ser lançado. E eu, como fã da série, não podia deixar de conferir (de novo) a trilogia.
 ---
@@ -28,7 +28,7 @@ Talvez, o grande atrativo de jogar essa coletânea, é que os três jogos foram 
 
 Entretanto, se você gosta de *multiplayer*, más notícias: eles foram removidos! Até faz sentido, eles não iriam abrir um novo servidor para manter os jogadores em um jogo já "obsoleto", ainda mais, com o *marketing* que estão fazendo com o novo *multiplayer* do Uncharted 4.
 
-##Enfim, vale a pena?##
+##Enfim, vale a pena?
 
 Bom, eu acho que vale sim, mesmo se você já tenha jogado no PS3, pois foi muito bom relembrar antes de encarar o quatro! E também, tem a opção de áudio e legendas em português, que fazem uma diferença!
 
