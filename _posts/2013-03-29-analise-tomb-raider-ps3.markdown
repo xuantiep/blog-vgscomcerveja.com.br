@@ -30,6 +30,8 @@ Os troféus do *single player* se resume a encontrar todos os coletáveis, tumba
 
 Entretanto, tem uma coisa muito chata que dificulta bastante a platina do jogo, que são os troféus de multiplayer. São uns 15 no total, mas um deles é o de chegar ao nível 60! Muito chato! :(
 
+{% include youtubePlayer.html id='OY-lqEtf5UA' %}
+
 ##Resumindo##
 
 TR é um jogão! Talvez o melhor da série, e é imperdível para quem é fã do gênero e da série. Quem ainda não jogou está perdendo tempo, a Crystal Dynamics fez um ótimo trabalho.

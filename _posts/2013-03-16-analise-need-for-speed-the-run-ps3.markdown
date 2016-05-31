@@ -22,6 +22,8 @@ A platina não é fácil e dá muito trabalho para consegui-la! O site [MyPSt](h
 
 Os troféus do **Challenge Series** (modalidade do jogo) também são meio chatinhos, pois você tem que conseguir ouro em todos os desafios, e alguns não são nada fáceis! **Time Hunter** que eu diga! ^^
 
+{% include youtubePlayer.html id='v-4msZsoe18' %}
+
 ##Resumindo##
 
 **Need for Speed: The Run** é um jogo legal, mas ao meu ver não chegou ao nível de diversão do Hot Pursuit! Além disso, o *Story Mode* é muito curto, você consegue terminar em algumas horas! Mas como eu peguei para platiná-lo, acabei curtindo bastante o jogo e achei bastante desafiador conseguir todos os troféus. Valeu a pena! :)

@@ -5,8 +5,8 @@ date:   2010-06-11 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/01_inicio/post_thumbnail_zpsri5fzs8l.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/01_inicio/post_header_zpsvbfgwpwf.jpg
 sinopse: >
   Pois é, não resisti! Comecei a colecionar videogames.
   Sempre fui apaixonado por jogos eletrônicos e sempre tive dó de me desfazer dos meus videogames antigos!
@@ -17,7 +17,7 @@ Pois é, não resisti! Comecei a colecionar videogames.
 Sempre fui apaixonado por jogos eletrônicos e sempre tive dó de me desfazer dos meus videogames antigos!
 Mas agora, todos eles fazem parte da minha coleção! :)
 
-![coleção](http://3.bp.blogspot.com/-IFxOxoYtAFs/TjQXF_BT7WI/AAAAAAAAAu0/JGiNa-dDM6Q/s640/DSC07574.JPG "Teste")
+![coleção](http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/01_inicio/foto_zpsnhq025ou.jpg "O Início da Coleção!")
 
 Minha coleção é recente, porém já tenho alguns itens que considero interessantes, como por exemplo,
 o jogo Phantasy Star para Master System, o jogo é totalmente em português e está completo com caixa

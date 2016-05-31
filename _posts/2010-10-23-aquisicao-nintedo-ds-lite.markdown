@@ -5,8 +5,8 @@ date:   2010-10-23 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/post_thumbnail_zps7av3hryn.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/post_header_zps9rpxezwe.jpg
 sinopse: >
   Sempre quis ter um Nintendo DS e agora meu desejo está realizado. Adquiri um Nintendo DS Lite
   edição especial e limitada New Super Mario Bros. que por sinal é muito bonita!
@@ -14,7 +14,7 @@ sinopse: >
 Sempre quis ter um Nintendo DS e agora meu desejo está realizado. Adquiri um **Nintendo DS Lite**
 edição especial e limitada **New Super Mario Bros.** que por sinal é muito bonita!
 
-![Nintendo DS Lite](http://2.bp.blogspot.com/-5UHLBWypxNk/TjQU0hAbC6I/AAAAAAAAAuI/IG_uMtEJyaY/s640/DSC07812.JPG "Nintendo DS Lite")
+![Nintendo DS Lite](http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/foto1_zpsxgkjua9z.jpg "Nintendo DS Lite")
 
 Comprei pelo site **Deal Extreme** por incríveis R$ 100. Agora só faltam os jogos!
 Quais jogos você me indica?

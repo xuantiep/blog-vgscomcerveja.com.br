@@ -64,6 +64,8 @@ Ter um Xbox 360 e não ter jogado a série **Gears of War** é um pecado GRAVÍS
 
 Acho que se aplica na mesma categoria de Gears of War, porém só muda o console! Ter um Wii e não jogar **Super Mario Galaxy** é um dos pecados mais graves, e ficou em primeiro, pois é considerado um dos melhores Marios de todos os tempos e pior, eu tenho o jogo e simplesmente ainda NÃO coloquei no console, como isso é possível? :/
 
+{% include youtubePlayer.html id='tRFQePBxfM0' %}
+
 ---
 
 Bom é isso! Espero que tenham gostado da ideia e se sintam a vontade para confessar seus pecados também! Agora é partir e correr atrás do prejuízo, vou criar vergonha na cara e jogar esses jogos!

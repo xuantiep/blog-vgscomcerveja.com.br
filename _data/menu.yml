@@ -31,3 +31,10 @@
 - title: Sobre
   url: /sobre/
   classe: icon-copyright
+  subitems:
+    - title: Blog
+      url: /sobre/blog/
+    - title: Parceiros
+      url: /sobre/parceiros/
+    - title: Feed RSS
+      url: /feed.xml

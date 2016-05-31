@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Resumo da Semana #07"
-date:       2015-04-06 19:00
+date:       2015-03-30 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias

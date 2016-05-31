@@ -14,6 +14,8 @@ E não é que ainda deu tempo de terminar mais um jogo ainda em 2013! E foi um j
 
 Desenvolvido em 2009 pela **Amanita Design**, **Machinarium** é um jogo *indie* que está disponível para diversas plataformas: Windows, OS X, Linux, iPad, BlackBerry PlayBook, Android, PlayStation 3 e PS Vita. Joguei a versão de PS3, pois estava disponível gratuitamente para assinantes da PS+ (diga-se de passagem, que quem tem PS3 e ainda não e assinante, não sabe o que está perdendo).
 
+{% include youtubePlayer.html id='uwZBdWRSBRs' %}
+
 O jogo conta a história de um robô que foi literalmente jogado no lixo em mundo chamado *Machinarium*, onde existem alguns robôs que não são muito amigáveis e sua missão é salvar a garota e fugir deste planeta! :)
 
 Apesar da história ser simples, este jogo te prende de tal maneira, que mesmo não tendo nenhum diálogo, os personagens são cativantes e simpáticos. Enquanto você não vê o final, você não sossega (pelo menos comigo foi assim)!

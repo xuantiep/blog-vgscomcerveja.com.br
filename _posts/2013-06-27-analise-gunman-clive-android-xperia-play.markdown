@@ -20,6 +20,8 @@ O jogo é um *sidescrolling* das antigas. Porém, com gráficos modernos e inova
 
 O jogo possui 20 fases no total, e são bem diversificadas, com inimigos e desafios diferentes.
 
+{% include youtubePlayer.html id='PMDfq8PLfLM' %}
+
 Resumindo, gostei! É um jogo *indie* muito bacana e barato, vale o investimento. Pena que é muito curto, poderia ter mais fases. Mas de qualquer forma, recomendo! :)
 
 {% include ficha.html

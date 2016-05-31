@@ -5,8 +5,8 @@ date:   2010-07-15 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/02_ps3/post_thumbnail_zpsnzqpnqgv.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/02_ps3/post_header_zpsy3fezkmo.jpg
 sinopse: >
   Este foi um grande achado! Comprei um PS3 novo por incríveis R$ 899,00 e ainda pude parcelar
   sem juros, e o melhor, foi numa grande loja de varejo brasileira! Como isso? Simples, foi numa

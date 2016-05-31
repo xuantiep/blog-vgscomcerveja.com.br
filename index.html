@@ -20,11 +20,11 @@ layout: default
         </div>
 
         <div class="post-cover">
-          <img src="{{ post.cover }}">
+          <img src="{{ post.thumbnail }}">
         </div>
         <div class="post-sinopse">
           <p>{{ post.sinopse }}</p>
-          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo..</a>
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">Continue lendo</a>
         </div>
 
 
@@ -33,18 +33,16 @@ layout: default
 
     <div class="pagination">
       {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+        <a href="{{ paginator.previous_page_path }}" class="previous">Anterior</a>
       {% else %}
-        <span class="previous">Previous</span>
+        <span class="previous page-disabled">Anterior</span>
       {% endif %}
-      <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+      <span class="page_number ">{{ paginator.page }} de {{ paginator.total_pages }}</span>
       {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+        <a href="{{ paginator.next_page_path }}" class="next">Próxima</a>
       {% else %}
-        <span class="next ">Next</span>
+        <span class="next page-disabled">Próxima</span>
       {% endif %}
     </div>
   </div>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>

@@ -12,6 +12,8 @@ sinopse: >
 ---
 Após ver o anúncio de um *DLC single player* para **The Last of Us**, pensei comigo mesmo (e pelo [Twitter](https://twitter.com/felipebbarbosa/status/422834851637493760)): *"Acho que este será o primeiro DLC que comprarei na vida!"*, dito e feito, *DLC* comprada, finalizada e sem arrependimentos! ^^
 
+{% include youtubePlayer.html id='FjkM414zZRU' %}
+
 **The Last of Us: Left Behind** é um *DLC* (*Downloadable Content* ou Conteúdo para Download, em Português) lançado pela **Naughty Dog** em Fevereiro deste ano, onde transformou a jovem **_Ellie_** na protagonista do jogo!
 
 A história se passa em um momento específico do jogo original, porém não vivenciada por nós jogadores. Entretanto, durante esta aventura, o jogo volta ao passado e conta uma história de **_Ellie_** antes dos acontecimentos da trama principal,  onde ela vive uma aventura em um *shopping* abandonado com sua amiga **_Riley_**, ou seja, o jogo tem duas linha narrativas. E o jeito que elas são alternadas é brilhante e sutil!

@@ -415,13 +415,6 @@
             padding: 10px 0;
         }
 
-        > figure {
-            margin: 0 auto 15px;
-            padding: 0 20px;
-
-            img { width: 100%; }
-        }
-
         p {
             padding: 0 20px 10px;
             //text-indent: 20px;
@@ -437,6 +430,7 @@
     width:40.65%;
     float:left;
     text-align: center;
+    border: 1px solid gray;
 
     @include media-query($on-palm) {
         width: 100%;
@@ -567,4 +561,62 @@
 .ficha-tecnica {
     border: 1px solid #ccc;
     padding: 20px;
+}
+
+
+
+/*
+ * Paginator
+ */
+
+.pagination {
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+
+    .previous, .next {
+        color: white;
+        background: gray;
+        display: inline-block;
+        height: 30px;
+        position: relative;
+        width: 70px;
+        padding-top: 1px;
+        font-variant: small-caps;
+        text-transform: lowercase;
+    }
+
+    .previous {
+        float: left;
+        margin-left: 15px;
+    }
+
+    .next {
+        float: right;
+        margin-right: 15px;
+    }
+
+    .previous:before, .next:before {
+        border-top: 15px solid transparent;
+        border-bottom: 15px solid transparent;
+        content: "";
+        height: 0;
+        position: absolute;
+        top: 0;
+        width: 0;
+    }
+
+    .previous:before {
+        border-right: 10px solid gray;
+        left: -10px;
+    }
+
+    .next:before {
+        border-left: 10px solid gray;
+        right: -10px;
+    }
+
+    .page-disabled, .page-disabled:before {
+        opacity: 0;
+    }
 }

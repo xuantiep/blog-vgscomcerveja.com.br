@@ -5,8 +5,8 @@ date:   2010-10-02 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/04_re/post_thumbnail_zps6nnqh6cv.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/04_re/post_header_zpsc7q3lkcg.jpg
 sinopse: >
   Recentemente adquiri meu primeiro jogo original da série Resident Evil. Uma série que faz parte
   da minha lista de jogos que quero ter na coleção. E nada melhor do que começar a série com o

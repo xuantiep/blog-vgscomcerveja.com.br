@@ -5,8 +5,8 @@ date:   2010-09-05 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
 categories: colecionando/colecao-pessoal
-cover:      http://cdn.wccftech.com/wp-content/uploads/2015/11/Dead-island-cover.png
-post_cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/banner3_1_zpsplzx2idj.jpg
+thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/03_gt/post_thumbnail_zpsonfbxofa.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/03_gt/post_header_zps2eif88fh.jpg
 sinopse: >
   Gran Turismo foi simplesmente o jogo mais vendido do PlayStation com 10,5 milhões de cópias
   vendidas e Gran Turismo 2 é o terceiro, perdendo apenas para Final Fantasy VII, com 9,4 milhões
@@ -17,6 +17,8 @@ sinopse: >
 vendidas e **Gran Turismo 2** é o terceiro, perdendo apenas para Final Fantasy VII, com 9,4 milhões
 de cópias. Ambos foram produzidos pela **Polyphony Digital** e lançados pela **Sony** em 1997 e 1999
 respectivamente.
+
+![GT e GT 2](http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/03_gt/foto1_zpsrmtrxl1b.jpg "GT e GT 2")
 
 Gran Turismo tem história na minha vida de jogador e colecionador. Ele foi simplesmente o motivo
 para eu comprar meu PS1. Conheci na casa de um amigo através de uma demo do **CD Interactive Vol.9**
@@ -30,10 +32,14 @@ Mas enfim, algum tempo depois, finalmente eu iria ganhar meu PlayStation dos meu
 corri até a locadora e adquiri o Gran Turismo completo (*não mais a demo*) antes mesmo de ter o
 console que ganhei dois dias depois, mas eu lembro até hoje, paguei R$ 12 na cópia pirata! :)
 
+![Gran Turismo](http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/03_gt/foto2_zpsxcnngz3k.jpg "Gran Turismo")
+
 Algum tempo depois de ter terminado o primeiro, Gran Turismo 2 foi lançado! E sem ter pedido ou
 encomendado, quando GT2 chegou na mesma locadora que comprei o primeiro, a dona me ligou avisando
 que GT2 tinha acabado de chegar (*saudades deste tempo das locadoras*)! Então fui correndo e fui
 o primeiro a alugar! :)
+
+![Gran Turismo 2](http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/03_gt/foto3_zpsguwvne7u.jpg "Gran Turismo 2")
 
 Agora, praticamente 10 anos depois, eu adquiri ambos originais, pois são obrigatórios em minha
 coleção!

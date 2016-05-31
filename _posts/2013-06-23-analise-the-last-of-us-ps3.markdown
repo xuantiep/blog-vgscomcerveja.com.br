@@ -18,6 +18,8 @@ A história do jogo acontece em um mundo pós-apocalíptico, onde os seres human
 
 Não dá para se aprofundar muito na história sem estragar as surpresas que você terá durante o jogo, mas posso dizer que é muito envolvente e logo você se apegará muito com os personagens, pois os mesmos possuem personalidade e alma, você sente isso durante o jogo!
 
+{% include youtubePlayer.html id='W01L70IGBgE' %}
+
 ##Os Gráficos São Impressionantes!##
 
 Apesar de ser um jogo totalmente linear, a imersão e a riqueza dos detalhes dos cenários são de impressionar até mesmo os jogadores de PC (rs). Os personagens também estão muito bem feitos, eles conseguem transmitir ao jogador todo seu "sentimento" e carisma! A Naughty Dog conseguiu mostrar todo o poder do PS3 neste jogo, eles já vinham fazendo isso com a série Uncharted, mas nesse eles se superaram! Fico imaginando como será na próxima geração de consoles!
@@ -51,6 +53,8 @@ O jogo foi totalmente adaptado ao nosso idioma com dublagem, legenda e menus tot
 Outra coisa que me incomodou um pouco foi o estilo dos troféus adotado, pois simplesmente não existem troféus intermediários, ou seja, ou você pega todos os itens e ganha o troféu ou nada feito! Não existe um troféu do estilo "colete 50% do itens", você tem coletar os 100% dos itens.
 
 Terminei o jogo e ganhei apenas 3 troféus, sendo dois deles por ter terminado o jogo no modo Normal e do modo Easy vem de lambuja. Além disso, tem quatro troféus que são do modo online!
+
+{% include youtubePlayer.html id='OQpdSVF_k_w' %}
 
 ## Resumindo##
 

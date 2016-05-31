@@ -22,6 +22,8 @@ Uma outra coisa legal é o sistema **Autolog**, uma "rede social", onde seus dad
 
 E para quem gosta de troféus/conquistas, o troféu de platina não é tão difícil, a maioria deles são liberados de acordo com seu avanço no jogo, e somente dois, exigem que você jogue no multiplayer online (sim, eu também não gosto de troféus que exijam que você jogue online).
 
+{% include youtubePlayer.html id='D6ouHWP0KrY' %}
+
 Enfim, eu sou suspeito para falar, pois sou fã do gênero de corrida, mas NFS: Hot Pursuit é um ótimo jogo de corrida, bem ao estilo arcade! A Criterion Games conseguiu trazer de volta o que a série tinha de melhor! Recomendo!
 
 {% include ficha.html

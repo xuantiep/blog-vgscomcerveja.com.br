@@ -14,6 +14,8 @@ A contagem de jogos terminados em 2014 já começou! Talvez não em grande estil
 
 Lançado em 2012 pela **Microsoft Studios** e desenvolvido pela **Tequila Works**, **Deadlight** é um jogo de *survival horror* totalmente *sidescroller* para **Xbox 360 (XBLA)** e **Windows**.
 
+{% include youtubePlayer.html id='R5xK8Z6zSPE' %}
+
 O jogo conta a história de **_Randall Wayne_** que está em busca da sua família (esposa e filha) em um mundo pós-apocalíptico dominado pelas sombras - espécie de zumbis do jogo.
 
 Ao começar o jogo, você fica encantado com os gráficos e com sua jogabilidade, pois é um jogo *sidescroller* ao estilo do primeiro **Prince of Persia**. Entretanto, com o avanço no jogo, algumas falhas começam a aparecer, como o tempo de resposta para realizar um ataque ao inimigo ou então para saltar em uma plataforma.

@@ -16,6 +16,8 @@ Lançado em 2010 pela **2K Games** e desenvolvido pela **2K Marin**, **BioShock 
 
 Desta vez você está no papel de um **_Big Daddy_**, o primeiro deles, chamado de *"Subject Delta"*. Que esteve desativado por 10 anos e como isso foi separado de sua **_Little Sister_**, a **_Eleanor Lamb_**, filha de Sofia. Seu objetivo é reencontra-la e para isto fará de tudo!
 
+{% include youtubePlayer.html id='T6YTOtqwVQg' %}
+
 O jogo manteve todos os elementos que fez de BioShock um FPS totalmente diferenciado dos outros, ou seja, ainda temos o uso de *Plasmids* (para seus poderes especiais), exploração de cenários e corpos para encontrar itens e munições para as mais variadas armas que, agora por ser um Big Daddy, você tem também a poderosa broca, mas ela depende de combustível para funcionar.
 
 Para quem gosta de exploração de ambientes, o jogo irá lhe agradar bastante, pois tem itens escondidos em vários lugares diferentes, por exemplo, nos corpos dos inimigos mortos, nas lixeiras, em malas, geladeiras e até em cofres, porém estes precisam ser *hackeados* para abrir.

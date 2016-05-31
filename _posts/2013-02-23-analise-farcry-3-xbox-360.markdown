@@ -20,6 +20,8 @@ Você consegue escapar dos piratas e conhece os membros da tribo **Rakyat** que 
 
 Você tem que ativar torres para liberar àreas no mapa, caçar animais para aumentar a capacidade do seu inventário, conquistar bases inimigas para subir de nível, além, é claro, da história principal que é fantástica.
 
+{% include youtubePlayer.html id='i2c1f_RDgGg' %}
+
 Bom é isso, eu recomendo Far Cry 3 sem pensar duas vezes, é um jogo muito bom mesmo! E outra coisa, para quem gosta de Conquistas/Troféus, ele não é tão difícil de conseguir 100%! :)
 
 {% include ficha.html

@@ -15,6 +15,8 @@ Finalmente voltando a ativa, depois de passado a correria do casamento (sim, me 
 
 Lançado em 2012, para PS3 e Xbox 360, pela **2K Games** e desenvolvido pela **Yagek Development**, este é o primeiro **Spec Ops** a levar o subtítulo **The Line** e é uma adaptação moderna de **Heart of Darkness**, romance de **_Joseph Conrad_**, que confesso que não o conheço.
 
+{% include youtubePlayer.html id='-7Usy6zFA7Q' %}
+
 O jogo é de tiro em terceira pessoa um pouco diferente da maioria dos jogos do gênero, pois possui uma história fascinante que te faz querer progredir ainda mais no jogo, porém, as vezes, você irá até se sentir mal por certos momentos/decisões, que não posso contar para não estragar a surpresa.
 
 Mas o jogo conta a história do capitão **_Martin Walker_** que, junto com sua equipe *Delta Force*, foram enviados a uma *Dubai* devastada e fictícia em uma missão de resgate do coronel do exército americano, **_John Konrad_**. Porém, essa missão não será tão simples e você logo perceberá! :)

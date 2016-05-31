@@ -10,15 +10,13 @@ post_cover: /imgs/uncharted4_2.png
 sinopse: >
   Maravilhoso, incrível, espetacular.. Faltam elogios para Uncharted 4 que atendeu, ou melhor, superou todas as expectativas que tinha sobre o jogo.
 ---
-A **Naughty Dog** provou mais uma vez, que sabe contar uma boa história com doses perfeitas de ação, aventura, drama e bom humor, sem deixar de lado a ótima experiência de jogar!
-
-Fiz questão de comprar o jogo no lançamento, e após 16 horas de jogo, concluí o que teoricamente encerra a saga de Nathan Drake.
+A **Naughty Dog** provou mais uma vez, que sabe contar uma boa história com doses perfeitas de ação, aventura, drama e bom humor, sem deixar de lado a ótima experiência de jogar! Fiz questão de comprar o jogo no lançamento, e após 16 horas de jogo, concluí o que teoricamente encerra a saga de Nathan Drake.
 
 Lançado oficialmente no último dia 10 de Maio, **Uncharted 4: A Thief's End** conta a história de um Drake aposentado de suas aventuras, vivendo uma "vida normal" ao lado de sua esposa Elena. Porém, essa rotina não é muito a cara de Drake, que claramente não está feliz com isso. Mas como ele prometeu que não se arriscaria mais em aventuras perigosas e ilegais em busca de tesouros perdidos, ele tenta de alguma forma encontrar a felicidade em sua rotina.
 
 Até que o inusitado acontece, seu irmão mais velho, Sam Drake, que era dado como morto à mais de 15 anos, aparece e precisa de sua ajuda para encontrar um lendário tesouro pirata de Henry Avery. Porém, desta vez, não é simplesmente uma busca ao tesouro, a vida de Sam está em jogo e eles precisam do tesouro para salvá-lo!
 
-Este é mais ou menos o contexto do jogo, não vou entrar muito em detalhe para não dar *spoilers*, mas como sempre, eles não são os únicos que estão em busca deste tesouro, e muitos confronts estão por vir.
+Este é mais ou menos o contexto do jogo, não vou entrar muito em detalhe para não dar *spoilers*, mas como sempre, eles não são os únicos que estão em busca deste tesouro, e muitos confrontos estão por vir.
 
 Eles também contam com a ajuda de seu velho amigo, Victor Sullivan, para seguirem as pistas e chegarem primeiro ao tesouro. Não sei se é a melhor, mas é uma incrível história de aventura, contada da melhor forma possível, simplesmente você não querer parar de jogar antes de chegar no final. E para quem é fã da série, o jogo possui várias homenagens aos jogos anteriores. :)
 
@@ -34,21 +32,19 @@ Esse modo furtivo foi aprimorado, agora em cada inimigo aparece uma barrinha bra
 
 E por falar em beleza, o visual do game está espetacular, não é exagero! Confira algumas telas que capturei:
 
-Quando disse no [post passado](/jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html) sobre que a trilogia remasterizada não tinha gráficos 100% para PS4, era disso que eu estava falando! Não sei se esse é todo o poder do PS4, mas é com certeza, um dos melhores gráficos que já vi! É tudo muito caprichado e detalhado: cenários, personagens e suas expressões, roupas sujas, molhadas ou manchadas de suor, enfim, tudo muito bem feito!
+Quando disse no [post passado](/jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html) sobre que a trilogia remasterizada não tinha gráficos 100% para PS4, era disso que eu estava falando! Não sei se esse é todo o poder do PS4, mas é com certeza, um dos gráficos mais detalhados que já vi! É tudo muito caprichado: cenários, personagens e suas expressões, roupas sujas, molhadas ou manchadas de suor, enfim, tudo muito bem feito!
 
-O jogo não é de mundo aberto (e isso é muito bom), mas os cenários tem algumas áreas de tamanho razoável, onde você pode explorar à vontade cada canto, e você não ficará entediado ou perdido, pois são altamente detalhados e únicos, dá prazer em explorá-los!
+O jogo não é de mundo aberto (e isso é muito bom), mas os cenários tem algumas áreas de tamanho razoável, onde você pode explorar à vontade cada canto, e você não ficará entediado ou perdido, pois são altamente detalhados e únicos.. dá prazer em explorá-los!
 
-E por falar nisso, para quem gosta, o jogo mantém os tradicionais tesouros espalhados e escondidos pelos cenários, e conta também, com cartas de antepassados e anotações de pontos específicos que Drake faz em seu diário, que complementam bastante a história.
+E por falar nisso, para quem gosta, o jogo mantém os tradicionais tesouros espalhados e escondidos pelos cenários, e conta também, com cartas de antepassados e anotações que Drake faz em seu diário, que complementam bastante a história e te auxiliam nos *puzzles*, que desta vez, estão bem criativos e elaborados, mas nada muito complexo ou demorado!
 
 Como nos jogos anteriores, você ainda só pode carregar duas armas, mas a variedade do arsenal aumentou bastante, com armas inéditas. Mas uma coisa que me chamou a atenção foram os efeitos sonoros, os tiros e as explosões estão muito mais realistas! Nossa, as explosões estão muito legais! ^^
 
 Vale destacar também, a dublagem para nosso idioma, que desta vez está muito bem feita! Eu que geralmente gosto de jogar no idioma original (com legendas), não me incomodei em jogar dublado!
 
-Bom, o que mais? Não vou falar do modo *multiplayer* por enquanto, pois joguei só um pouco, mas me pareceu promissor, talvez eu complemente este post no futuro.
+Bom, o que mais? Não vou falar do modo *multiplayer* por enquanto, pois joguei só um pouco, mas me pareceu promissor, talvez eu complemente este post no futuro. Tem muitos detalhes bacanas que gostaria de comentar por aqui, mas aí estaria estragando a surpresa de quem ainda não jogou!
 
-Mas enfim, Uncharted 4 é um daqueles jogos que não precisam de muito para me convencer a jogá-los, pois ele já tinha me ganho pela qualidade dos seus excelentes jogos anteriores, e para nossa felicidade, ele conseguiu superar todos eles!
-
-Tem muitos detalhes bacanas que gostaria de comentar por aqui, mas aí estaria estragando a surpresa de quem ainda não jogou! Bom, acho que não preciso dizer que o jogo é bom e recomendo, né? ^^
+Mas enfim, Uncharted 4 é um daqueles jogos que não precisam de muito para me convencer a jogá-los, pois ele já tinha me ganho pela qualidade dos seus excelentes jogos anteriores, e para nossa felicidade, ele conseguiu superar todos eles! Foi um ótimo desfeicho da série, que certamente irá deixar saudades!
 
 {% include ficha.html
   cover=''
