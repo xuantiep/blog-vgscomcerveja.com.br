@@ -6,7 +6,7 @@ author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   No começo deste ano, eu ganhei um Mega Drive modelo asiático do meu cunhado e desde então
   vinha sofrendo com a péssima imagem que meu adaptador RF transmitia para a televisão, com isso
@@ -29,7 +29,7 @@ saída A/V no formato do conector DIN, como na foto abaixo:
 Em segundo lugar, não me responsabilizo sobre qualquer dano que seu videogame possa sofrer.
 Afinal, é um procedimento que encontrei na internet e não é de minha autoria! Enfim, vamos lá!
 
-###Materiais necessários###
+### Materiais necessários
 
 - 1 Conector DIN macho de 5 pinos (igual aqueles de teclados antigos);
 - 2 Conectores RCA machos;
@@ -39,7 +39,7 @@ Afinal, é um procedimento que encontrei na internet e não é de minha autoria!
 É um material fácil e barato de se encontrar, talvez o conector DIN seja o mais chatinho de achar,
 mas você pode usar o de um teclado antigo.
 
-###Procedimento###
+### Procedimento
 
 Bom, após conseguir os materiais, veja a pinagem do conector DIN:
 

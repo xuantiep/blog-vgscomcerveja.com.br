@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Game Over &#35 03
 categories: jogando/analise
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Lançado em 2011 pela Eletronic Arts e produzido desta vez pela Black Box, Need for Speed: The Run trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem Jack Rourke que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
 ---
@@ -16,7 +16,7 @@ Outra novidade, que é no mínimo curiosa, é que na história, além de pilotar
 
 Bom, voltando para dentro do carro, o jogo possui gráficos muito bonitos, pois é um dos primeiros jogos, que não seja de tiro em primeira pessoa (FPS), a usar a *engine* **Frostbite 2**. Ela fornece recursos visuais muito impressionantes e uma jogabilidade distinta, um pouco diferente do Hot Pursuit, ficou mais realista!
 
-##Troféus / Conquistas##
+## Troféus / Conquistas
 
 A platina não é fácil e dá muito trabalho para consegui-la! O site [MyPSt](http://www.mypst.com.br/) classifica o jogo como [Dificuldade 77 - Difícil pra p#####](http://mypst.com.br/jogos/1756-need-for-speed-the-run/) e um dos troféus mais difícil é o de ouro **Bonus Wheel**, onde você tem que terminar uma sessão online em primeiro quando a roleta cair no troféu, ou seja, você tem jogar muito online e ainda contar com um pouco de sorte. Como todos sabem, troféus de multiplayer online são muitos chatos! :D
 
@@ -24,7 +24,7 @@ Os troféus do **Challenge Series** (modalidade do jogo) também são meio chati
 
 {% include youtubePlayer.html id='v-4msZsoe18' %}
 
-##Resumindo##
+## Resumindo
 
 **Need for Speed: The Run** é um jogo legal, mas ao meu ver não chegou ao nível de diversão do Hot Pursuit! Além disso, o *Story Mode* é muito curto, você consegue terminar em algumas horas! Mas como eu peguei para platiná-lo, acabei curtindo bastante o jogo e achei bastante desafiador conseguir todos os troféus. Valeu a pena! :)
 

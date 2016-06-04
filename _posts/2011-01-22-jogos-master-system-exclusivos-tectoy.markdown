@@ -6,7 +6,7 @@ author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   A Tectoy foi sinônimo de Sega na década de 90 para os brasileiros! Pois, além de ser
   representante da marca no Brasil, a Tectoy fez um trabalho impressionante no mercado brasileiro
@@ -25,7 +25,7 @@ inteiro e por consequência se tornaram raros até mesmo para nós brasileiros.
 
 Ao todos são 36 jogos que a Tectoy lançou exclusivamente para o Brasil:
 
-##Coletâneas##
+## Coletâneas
 
 - 20 em 1 (não possui caixa, apenas manual. Pois vinha incluso com o console)
 - Game Box série Corridas (com os jogos: Super Cross, Super Monaco GP e World Gran Prix)
@@ -33,7 +33,7 @@ Ao todos são 36 jogos que a Tectoy lançou exclusivamente para o Brasil:
 - Game Box série Esportes Radicais (com os jogos: Surf e BMX)
 - Game Box série Lutas (com os jogos: Shinobi, The Ninja e Kung Fu Kid)
 
-##Adaptações de Game Gear e Produções Nacionais##
+## Adaptações de Game Gear e Produções Nacionais
 
 - Ariel: The Little Mermaid
 - Baku Baku Animal
@@ -57,7 +57,7 @@ Ao todos são 36 jogos que a Tectoy lançou exclusivamente para o Brasil:
 - Virtua Fighter Animation
 - X-Men: Mojo World
 
-##Adaptações de outros jogos##
+## Adaptações de outros jogos
 
 - As Aventuras da TV Colosso (adaptado de: Asterix)
 - Chapolim x Drácula (adaptado de: Ghost House)
@@ -68,7 +68,7 @@ Ao todos são 36 jogos que a Tectoy lançou exclusivamente para o Brasil:
 - Sapo Xulé vs. Os Invasores do Brejo (adaptado de: Psycho Fox)
 - Turma da Mônica em: O Resgate (adaptado de: Wonder Boy III: The Dragon's Trap)
 
-##Traduções para Português##
+## Traduções para Português
 
 - Phantasy Star
 - Where in the World is Carmen Sandiego?

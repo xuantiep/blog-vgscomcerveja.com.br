@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Game Over &#35 22
 categories: jogando/analise
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Encerrei meu ano gamístico de 2014 com um jogo que tinha ótimos ingredientes, porém, o modo de preparo não foi muito legal, resultando em um jogo não muito satisfatório para mim! Mas pode ser que eu que não segui a receita direito.
 
@@ -17,7 +17,7 @@ Desenvolvido pela **Techland**, publicado pela **Deep Silver** e lançado em 201
 
 {% include youtubePlayer.html id='-o2gPstZ5oA' %}
 
-##História##
+## História
 
 O jogo se passa na ilha de *Banoi*, um lugar paradisíaco, onde é muito frequentado por turistas para relaxarem e terem paz. Entretanto, algo acontece na ilha e tudo se torna o caos e morte. Você assume o papel de uma das quatro pessoas de um grupo sobrevivente: Purna, Logan, Sam B ou Xian Mei e sua principal missão é simplesmente sobreviver e escapar da ilha.
 
@@ -25,7 +25,7 @@ Cada personagem possui uma história e personalidade diferente, mas creio que su
 
 Entretanto, cada personagem possui uma classe de arma preferida e habilidade de fúria única. Eu optei pelo Logan, um ex-astro de futebol americano, sem nenhum motivo específico, apenas o escolhi! :)
 
-##Gameplay##
+## Gameplay
 
 O jogo é um FPS (tiro em primeira pessoa) de mundo aberto, porém, a maior parte do tempo você utiliza armas brancas e não de fogo, tais como, pás, canos, facas, espadas, pedaços de madeiras, remo, enfim, quase qualquer coisa serve para bater! Mas sim, o jogo possui armas de fogo, porém são mais utilizadas contra inimigos humanos.
 
@@ -49,7 +49,7 @@ Além disso, você também possui uma barra de *stamina*, que é gasta quando vo
 
 Você terá várias missões para ajudar o pessoal da ilha, e como em todo jogo de mundo aberto, você também tem as missões paralelas (opcionais).
 
-##Inimigos##
+## Inimigos
 
 A variedade de inimigos é razoável, sendo a maioria zumbis mesmo, mas você também enfrenta humanos. Conheça cada um deles:
 
@@ -62,11 +62,11 @@ A variedade de inimigos é razoável, sendo a maioria zumbis mesmo, mas você ta
 - **Thug** - são lentos e fortes, o soco dele é capaz de te mandar longe. Ele possui um grito semelhante ao *Nemesis* de *Resident Evil 3*. Uma manha para derrotá-lo é fazer ele te perseguir (ele vem lentamente) e abrir uma boa distância dele, assim ele irá desistir e virará de costa para retornar ao seu local inicial, essa é a hora que acerta ele, mas fica esperto, depois da primeira pancada, ele virará rapidamente te dando um soco! ^^
 - **Humanos** - são inimigos que aparecem somente em algumas partes do jogo. A melhor forma de matá-los é com armas de fogo mesmo, pois na maioria dos casos, eles não estão muito próximos e também estão armados.
 
-##Áudiovisual##
+## Áudiovisual
 
 E por fim o jogo possui gráficos muitos bons, não são ótimos, mas são completamente aceitáveis. A ilha é muito bem detalhada com muita variedade de ambientes. Já o som eu achei meio fraco, pois eu joguei com fone de ouvido e às vezes, não dá para perceber que qual direção o inimigo está vindo ou até mesmo se ele já morreu. Porém, a trilha sonora é muito boa!
 
-##Resumindo##
+## Resumindo
 
 O jogo tinha tudo para ser um excelente jogo, porém, no início senti o jogo muito maçante, se resumindo a ir de um ponto ao outro com muitas missões que eram basicamente fazer um favor para alguém. Isso sem contar as missões paralelas que acabei deixando de lado, pois senão não iria aguentar chegar até o final. Mas depois de uma certa parte, até que o jogo se torna interessante.. Mas mesmo assim, não me agradou muito!
 

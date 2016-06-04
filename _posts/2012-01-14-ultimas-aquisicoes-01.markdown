@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Como primeiro post do ano, resolvi mostrar meus últimos jogos adquiridos para a coleção, que está
   começando a tomar a forma que eu quero, estou quase chegando aos 100 jogos! :)
@@ -25,7 +25,7 @@ adquiri 11 jogos! :D
 Como alguns jogos ainda não chegaram, vou listar os que foram adquiridos nos meses de Dezembro
 e Janeiro (até o momento). São eles:
 
-###Master System###
+### Master System
 
 - Alex Kidd in Miracle World
 - Batman Returns
@@ -36,19 +36,19 @@ e Janeiro (até o momento). São eles:
 - Prince of Persia
 - Tom & Jerry - The Movie
 
-###Super Nintendo###
+### Super Nintendo
 
 - Donkey Kong Country 2
 
-###Nintendo 64###
+### Nintendo 64
 
 - Conker's Bad Fur Day
 
-###Game Cube###
+### Game Cube
 
 - Star Fox Adventures
 
-###Nintendo Wii###
+### Nintendo Wii
 
 - Super Mario Galaxy
 

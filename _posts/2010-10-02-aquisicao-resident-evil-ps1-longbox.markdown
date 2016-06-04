@@ -24,7 +24,7 @@ ideia do que era Resident Evil. Pelo incrível que pareça, é serio! Eu estava 
 do mundo dos games naquela época até conhecer o PlayStation. Mas enfim, como RE3 era lançamento
 e todo mundo estava jogando, comecei por ele e também porque veio junto com o console! :)
 
-##Um pouco sobre o jogo##
+## Um pouco sobre o jogo
 
 O jogo começa em 1998 após uma série de acontecimentos estranhos que começavam a surgir na cidade
 de Raccon City. Sendo assim, o departamento de polícia da cidade envia sua tropa de elite para

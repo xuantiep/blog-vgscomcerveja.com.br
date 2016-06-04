@@ -6,12 +6,12 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
    Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.. Confira algumas novidades da semana!
 ---
 
-##Nintendo está fora do Brasil##
+## Nintendo está fora do Brasil
 
 No último dia 9, a **Nintendo** anunciou que a empresa **Gaming Brasil** não distribuirá mais produtos da fabricante japonesa no Brasil devido às altas tarifas dos impostos nacionais. A empresa representava por aqui à quatro anos.
 
@@ -19,7 +19,7 @@ Fonte: [Nintendo World](http://nintendoworld.com.br//4569-ARTIGOS-O-BRASIL-E-UM-
 
 ---
 
-##Console da Razer com Android será vendido no Brasil##
+## Console da Razer com Android será vendido no Brasil
 
 A **Razer**, para quem não conhece, é uma fabricante de excelentes acessórios para jogadores, tais como, *headsets*, mouses, teclados e afins. Só que agora, ela está investindo em algo um pouco diferente: um console que rodará **Android**!
 
@@ -31,7 +31,7 @@ Fonte: [Info](http://info.abril.com.br/noticias/tecnologia-pessoal/2015/01/conso
 
 ---
 
-##Resident Evil HD Remaster##
+## Resident Evil HD Remaster
 
 Para quem está ansioso para conferir o novo *remake* de **Resident Evil**, já pode realizar a pré-venda em sua plataforma favorita (PSN, Xbox LIVE ou Steam). E para quem está muito ansioso e tem um **Xbox ONE** ou **PlayStation 4**, além de fazer a pré-venda, você já pode realizar o *download* prévio do jogo para garantir que possa jogá-lo nas primeiras horas do lançamento, próximo dia 20!
 
@@ -41,7 +41,7 @@ Fonte: [REVIL](http://residentevil.com.br/site/category/jogos-2/serie-principal/
 
 ---
 
-##Jogo Stadium Events lacrado está sendo leiloado no eBay##
+## Jogo Stadium Events lacrado está sendo leiloado no eBay
 
 Para quem não conhece, o jogo **Stadium Events** é praticamente o jogo mais raro (e caro) do NES, pois em 1987, a **Nintendo** comprou os direitos de **Family Fun Fitness** da **Bandai** e com ele veio os direitos do jogo. Sendo assim, foi ordenado o recolhimento do jogo das lojas e quase nenhum sobreviveu, tornando assim, um jogo raríssimo.
 
@@ -51,7 +51,7 @@ Fonte: [RetroCollect](http://www.retrocollect.com/News/the-rarest-a-most-expensi
 
 ---
 
-##Grim Fandango Remastered será localizado em PT-BR?##
+## Grim Fandango Remastered será localizado em PT-BR?
 
 Para quem estava com esta dúvida, a resposta é SIM! Ele será dublado em português brasileiro e, o mais legal (ou não), será usada dublagem original de 1998! Quem confirmou foi **Greg Rice**, um dos produtores da **Double Fine** (produtora do jogo)! O jogo sairá dia 27 de Janeiro para PC, PS4 e PS Vita.
 

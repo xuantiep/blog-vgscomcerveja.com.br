@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Uncharted 4 é adiado para 2016, novo jogo da Game Freak (e não é Pokémon), trailer de LEGO Jurassic World e mais.. Confira as novidades da semana do dia 09/03 à 15/03 de 2015!
 ---
@@ -15,7 +15,7 @@ Semanalmente estou tentando trazer as principais novidades do mundo dos videogam
 
 E essa semana temos uma notícia não muito boa:
 
-##Uncharted 4 é adiado para 2016!##
+## Uncharted 4 é adiado para 2016!
 
 Pois é, o jogo que estou mais ansioso para jogar desta nova geração, só sairá o ano que vem! Segundo o pessoal da **Naughty Dog**, eles precisam de mais tempo para garantir que a história de *Nathan Drake* receba o final que merece. A previsão é para a primavera americana de 2016.
 
@@ -23,7 +23,7 @@ Fonte: [PlayStation Blog](http://blog.br.playstation.com/2015/03/11/uncharted-4-
 
 ---
 
-##Tembo The Badass Elephant##
+## Tembo The Badass Elephant
 
 O estúdio **Game Freak**, muito famoso pela série **Pokemon**, irá lançar um jogo diferente e será, veja só, distribuído pela **Sega**. **Tembo The Badass Elephant** é um jogo 2D de plataforma bem ao estilo de Donkey Kong Country misturado, talvez, com Metal Slug. Confira o trailer para entender melhor! :)
 
@@ -35,7 +35,7 @@ Fonte: [Overloadr](http://overloadr.com.br/noticias/2015/03/tembo-the-badass-ele
 
 ---
 
-##Trailer de LEGO Jurassic World##
+## Trailer de LEGO Jurassic World
 
 Outro trailer que me chamou atenção, mesmo não sendo fã da série LEGO, foi o do **LEGO Jurassic World** que também sairá no meio do ano! O interessante é que mesmo que leva o nome do novo filme, o jogo também contará com momentos dos filmes clássicos. Confesso que fiquei curioso para jogar!
 
@@ -47,7 +47,7 @@ Fonte: [Arkade](http://www.arkade.com.br/zoeira-invade-parque-dinossauros-traile
 
 ---
 
-##Arcades em pró da caridade##
+## Arcades em pró da caridade
 
 E por fim, uma notícia muito bacana, que tal jogar um pouco de fliperama clássico enquanto espere voo e ainda ajudar instituições de caridade? Para ser uma boa, né?
 
@@ -59,7 +59,7 @@ Fonte: [Engadget](http://www.engadget.com/2015/03/16/sweden-airports-arcade-cabi
 
 ---
 
-####Comentários Finais####
+#### Comentários Finais
 
 Enfim, a semana passada começou com uma notícia triste sobre o adiamento de Uncharted 4, mas se for ver pelo lado positivo, até que foi bom, pois assim terei mais tempo para juntar dinheiro para comprar meu PS4. :P
 

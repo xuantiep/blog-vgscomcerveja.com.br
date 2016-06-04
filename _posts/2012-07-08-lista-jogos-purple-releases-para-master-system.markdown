@@ -6,7 +6,7 @@ author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Como todo mundo já deve saber (pelo menos quem acompanha o blog), a Tectoy fez um excelente trabalho com o Master System por aqui no Brasil, lançando consoles e jogos, sendo alguns deles exclusivamente brasileiros. O que pouco gente sabe é que ela também atuou no mercado de Portugal, lógico que não passou nem perto do trabalho que fizeram por aqui, mas mesmo assim, são itens muito apreciados e desejados por colecionadores do mundo inteiro, principalmente os próprios portugueses.
 ---
@@ -16,7 +16,7 @@ Bom, na verdade, esse trabalho foi realizado em parceiria com a empresa **Ecofil
 
 Estes jogos foram lançados com uma *boxart* quadriculada com um fundo degradê de um azul escuro para um mais claro, porém este azul escuro era meio puxado para o roxo, por isso estes jogos ficaram conhecidos como **"Portuguese Purple Releases"**.
 
-###Jogos Lançados###
+### Jogos Lançados
 
 | Nº  | Nome                                            |
 | --- | ----------------------------------------------- |

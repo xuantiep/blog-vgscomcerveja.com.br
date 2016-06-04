@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
    A Sony está investindo forte no mercado brasileiro de videogames, segundo uma matéria do site G1,
    ela fabricou cinco (apenas) consoles de PS3 exclusivos em homenagem a Copa do Mundo FIFA 2014
@@ -22,7 +22,7 @@ instituições de caridade daqui do Brasil para arrecadar fundos. Os outros dois
 Os consoles foram pintados a mão com o logotipo da Copa e com a bandeira do Brasil. As doações
 serão feitas hoje, dia 30.
 
-###PSN Nacional###
+### PSN Nacional
 
 A Sony resolveu investir de vez no mercado brasileiro, semana passada, mas precisamente dia
 21 de Julho de 2011 a Sony inaugurou oficialmente a PSN brasileira, com jogos na PS Store com

@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Game Over &#35 28
 categories: jogando/analise
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Neste mês de Março, mais precisamente, no último dia 22, a série Resident Evil completou 20 anos! E nada melhor para comemorar do rejogar o primeiro game da série no bom e velho PS1, né?
 ---
@@ -18,7 +18,7 @@ Para PS1, foram lançadas ao todo três versões do jogo: o RE (1996), RE: Direc
 
 As diferenças entre elas, consistem basicamente em que na versão Director's Cut foram adicionados novos níveis de dificuldade (Training, Standard e Advanced), que não existiam na versão original (que só possuia o modo Normal). Teve outras pequenas mudanças também, como: novos ângulos de câmera, novas roupas e bônus. Já na versão Director's Cut Dual Shock, foram adicionadas novas músicas de fundo e a compatibilidade com os controles Dual Shock.
 
-##Enfim, do que se trata o jogo?##
+## Enfim, do que se trata o jogo?
 
 *__Missão:__ Floresta Racoon  
 __Data:__ Julho de 1998  
@@ -56,7 +56,7 @@ Para salvar, você terá que encontrar as famosas máquinas de escrever, que ger
 
 Nestas *save rooms* você também encontrará um baú, onde você pode armazenar itens que não sejam necessários carregar contigo no seu inventário no momento, mas você poderá pegar quando quiser em qualquer outro baú, um recurso bem interessante e necessário. Quando você entra nestas salas, toca uma música icônica e tranquilizante, pois ali, você estará seguro.. :)
 
-##Tá, mas e a jogabilidade?##
+## Tá, mas e a jogabilidade?
 
 Esta, talvez seja um dos pontos fracos do jogo, principalmente jogando agora, depois de ver toda evolução dos jogos do gênero. O controle é um pouco travado, parecendo que você está controlando um tanque de guerra: aperte para cima para avançar, aperte para esquerda/direita para girar, e para baixo para recuar.
 
@@ -64,7 +64,7 @@ Mas o pior de tudo: não é possível atirar e andar ao mesmo tempo, ou você at
 
 Porém, sendo muito sincero, essa jogabilidade não em incomoda nem um pouco, não sei se é pela nostalgia, mas joguei totalmente tranquilo, e olha que a versão que tenho, não tem suporte ao Dual Shock, então a movimentação é feita pelo D-Pad mesmo!
 
-##E os gráficos e sons?##
+## E os gráficos e sons?
 
 Os gráficos são ótimos, inferiores aos seus sucessores (óbvio), mas ótimos! Um baita avançado para época, acredito eu!
 
@@ -72,7 +72,7 @@ E a trilha sonora é fantástica também, sendo que algumas foram mantidas no jo
 
 Agora, já a narração dos personagens no jogo em si, não é lá grande coisa, tem algumas partes totalmente desincronizadas! :)
 
-##Resumindo##
+## Resumindo
 
 Me diverti pra caramba jogando novamente, tinha medo de achar que o jogo tinha envelhecido mau, como alguns dizem, mas não achei nada disso! Eu acho o jogo ainda totalmente jogável e recomendo para os fãs do gênero. Agora #partiu jogar o *remake* no Game Cube! ^^
 

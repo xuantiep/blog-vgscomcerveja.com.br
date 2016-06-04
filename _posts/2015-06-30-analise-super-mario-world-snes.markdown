@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Game Over &#35 24
 categories: jogando/analise
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   No início do ano eu tinha meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu falhei na missão, mas pelo menos consegui terminar o Super Mario World! ^^
 ---
@@ -14,7 +14,7 @@ No início do ano eu tinha meta: jogar a série Mario na sequência, fazer uma e
 
 Antes de mais nada, para quem AINDA não conhece, SMW é um jogo de plataforma desenvolvido e publicado pela Nintendo para o Super NES. O jogo foi lançado em 1991 e vendeu mais de 20 milhões de cópias, um sucesso absoluto!
 
-##Paixão à primeira vista..##
+## Paixão à primeira vista..
 
 Meu primeiro contato com o jogo foi quando eu ganhei meu SNES, lá no começo da década de 90, não lembro o ano exatamente (acho que por volta de 1994), mas lembro que veio sem jogos, porém, eu e meus irmãos já tínhamos em mente o que queríamos: o jogo Mario!
 
@@ -32,7 +32,7 @@ O jogo possui muitas fases estão distribuídas em 7 mundos (tirando as fases es
 
 O jogo é tão fascinante, que possui várias maneiras de chegar ao final, e algumas fases possuem mais de uma saída, que leva para fases diferentes, inclusive, algumas secretas! Mas que no final, todas levam ao mesmo destino: o castelo de Bowser!
 
-##Sobre o jogo##
+## Sobre o jogo
 
 A história do jogo é clichê, a princesa Peach foi raptada (pelo Bowser) e você terá que salvá-la! Só que desta vez, vocês (Mário, Luigi e a Peach) estavam de férias na ilha do Yoshi quando Bowser atacou, sendo assim, você terá que atravessar diversas fases até chegar ao castelo, e no meio caminho, você descobre que não foi só a princesa que foi raptada, vários outros Yoshis também foram e estão sob custódia dos sete filhos de Bowser, você terá que ajudá-los também durante sua jornada.
 
@@ -44,7 +44,7 @@ O legal é que você não perde seus *power-ups* ao passar de fase, apenas se mo
 
 A trilha sonora do jogo é outro espetáculo à parte, composta por Koji Kondo, essa trilha é simplesmente marcante e dita o ritmo do jogo, principalmente quando seu tempo está se esgotando, e a música fica mais acelerada. Eu não comentei isso, mas cada fase possui um limite de tempo para completá-la, caso você não consiga dentro do tempo limite, você morrerá! :)
 
-##Resumindo##
+## Resumindo
 
 Super Mario World se destaca devido à sua excelente jogabilidade somado com um ótimo *level design* mais uma trilha sonora marcante. O resultado não poderia ser outro, o jogo foi um sucesso absoluto! Imperdível até para os dias de hoje, o jogo não envelheceu nada! :D
 

@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
    O ano virou e já estamos em 2013! O carnaval não passou ainda, mas "já" vamos voltar a ativa com o blog ^^. Bom, primeiramente, gostaria de contar algumas novidades!
 ---
@@ -15,7 +15,7 @@ O ano virou e já estamos em 2013! O carnaval não passou ainda, mas "já" vamos
 - **Videogames com Cerveja** - ficou focado somente em videogames.
 - **Cerveja com Videogames** - ficou com a parte do colecionismo de itens cervejeiros.
 
-###Porque da mudança?###
+### Porque da mudança?
 
 Simplesmente, porque existem poucos doidos como eu que colecionam videogames e itens de cerveja ao mesmo tempo! :D
 

@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando/especiais
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Eu nunca tinha ido antes e esta edição não seria exceção, pois simplesmente não estava nos meus planos ir. Mas como o feriado coincidiu com o dia de folga da minha esposa, resolvemos dar uma volta por lá, e olha, ela que nem joga videogame estava muito mais empolgado do que eu para ir, se não fosse por ela, com certeza, seria mais um ano sem ir.
 ---
@@ -14,13 +14,13 @@ Eu nunca tinha ido antes e esta edição não seria exceção, pois simplesmente
 
 Bom, para quem não sabe, no final de semana passado, de 08 a 12 de Outubro, aconteceu no Expo Center Norte (SP) a principal e maior feira de videogames da América Latina, a Brasil Game Show (BGS). Ela acontece anualmente desde 2009, porém, somente apartir de 2012 em São Paulo, antes ela acontecia no Rio de Janeiro. Enfim, vamos começar pelo..
 
-##Trajeto##
+## Trajeto
 
 Foi bem tranquilo, pois moro no interior de SP, cerca de 125 km de distância do local do evento. Então fomos de carro mesmo, com o GPS do celular ligado é claro, pois sou péssimo para caminhos, se precisar voltar lá sem GPS, eu não conseguiria! ^^'
 
 Enfim, chegando na capital pelo caminho traçado, tinha várias sinalizações para o evento, tornando ainda mais fácil o acesso para estacionar o carro. Bom, aí já entra a primeira coisa que me chamou atenção..
 
-##Preços##
+## Preços
 
 Muita gente brinca que a BGS é uma "E3 de pobre", só que para mim, de pobre não tem nada, quando chegamos no estacionamento, descobrimos que o mesmo custava R$ 38,00!
 
@@ -30,7 +30,7 @@ Chegamos a bilheteria.. Eu tinha visto no site que se levasse 1 kg de alimento n
 
 Mas enfim, só aí já se foram R$ 208, isso desconsiderando as revistas, o combustível e os pedágios. Eu achei meio abusivo esta parte.
 
-##A Feira##
+## A Feira
 
 Chegamos lá por voltas 11h, estacionamos, compramos os ingressos e por volta das 11:30 já estávamos prontos para entrar, mas aí, outra surpresa para mim, a feira só abriria às 12h! Então tivemos que esperar no salão que tinha muita gente, entretanto estava muito tranquilo e organizado. As pessoas estavam organizadas por fileiras que ao abrir o portão, os seguranças iriam soltando fileira por fileira para não virar bagunça.
 
@@ -46,7 +46,7 @@ Andamos pela feira toda, paramos para comer na praça de alimentação, muito gr
 
 Enfim, comemos e voltamos à feira! Os maiores *stands*, com certeza, eram do PlayStation e do Xbox! Eu queria ganhas alguns brindes, principalmente os pôsteres, mas para isso teria que jogar e as filas estavam grandes que acabei não encarando nenhuma, fiquei apenas de espectador! :(
 
-##Os jogos##
+## Os jogos
 
 Tinha bastante coisa para jogar lá, mas os que mais me chamaram a atenção foram: o Star-Wars: Battlefront, Street Fighter V, Guitar Hero Live, Rockband 4, Need for Speed e o, que eu mais queria jogar, Rise of the Tomb Raider. Este último, não dava nem para assistir, pois para jogar tinha que entrar em uma sala fechada.. Este eu deveria ter encarado a fila! :(
 
@@ -54,7 +54,7 @@ Uma coisa que achei legal foi o espaço dedicado aos desenvolvedores brasileiros
 
 Mas se quiser saber um pouco sobre os *indies* que estavam por lá, o nosso parceiro [Vão Jogar!](www.vaojogar.com.br) fez um [post falando mais especificamente dos jogos independentes que viram por lá](http://vaojogar.com.br/escrito/brasil-game-show-2015-os-independentes).
 
-##Resumindo##
+## Resumindo
 
 Gsotei, apesar de não ter visto muita novidades e também por ter ido totalmente despreparado, nem consegui tirar muitas fotos, pois o GPS "sugou" a bateria do mue celular e não levei uma câmera decente.
 

@@ -6,12 +6,12 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
    Metal Gear Solid V: The Phantom Pain ganhou data de lançamento, Rockband 4 será lançado, Battletoads de volta?, jogos grátis e mais.. Confira as novidades da semana do dia 02/03 à 08/03 de 2015!
 ---
 
-##MGS V: The Phantom Pain ganhou data de lançamento##
+## MGS V: The Phantom Pain ganhou data de lançamento
 
 O provável último jogo da saga **Metal Gear Solid** tem data de lançamento: 1 de Setembro de 2015! Com lançamento previsto para PS3, PS4, Xbox 360, Xbox ONE e Windows, o jogo continuará o prólogo **Ground Zeroes** lançado ano passado para deixar os fãs com um gostinho do que está por vir! Para aumentar a *hype*, confira o cinematográfico trailer apresentado na E3 do ano passado:
 
@@ -19,7 +19,7 @@ O provável último jogo da saga **Metal Gear Solid** tem data de lançamento: 1
 
 ---
 
-##Novo Rockband vem aí!
+## Novo Rockband vem aí!
 
 A **Harmonix** confirmou semana passada que um novo game da franquia será lançado, ainda este ano, para PS4 e Xbox ONE.
 
@@ -27,7 +27,7 @@ A boa notícia é que você poderá utilizar seus *hardwares* (guitarras, bateri
 
 ---
 
-##Shovel Knight de Xbox ONE poderá ter a volta de Battletoads nos games!##
+## Shovel Knight de Xbox ONE poderá ter a volta de Battletoads nos games!
 
 No anúncio da versão para Xbox ONE de **Shovel Knight** uma surpresa: os sapos mais fodões dda geração 8 e 16-bit apareceram, sim, os sapos de **Battletoads**! Tudo indica que teremos um *crossover* entre os dois jogos, ou até, quem sabe, um novo jogo da franquia?
 
@@ -35,7 +35,7 @@ No anúncio da versão para Xbox ONE de **Shovel Knight** uma surpresa: os sapos
 
 ---
 
-##Syndicate está de graça no Origin##
+## Syndicate está de graça no Origin
 
 **Syndicate**, o cultuado clássico do *cyberpunk* produzido pela **Bullfrog Productions** está grátis no [Por Conta da Casa!](https://www.origin.com/pt-br/store/free-games/on-the-house) deste mês no **Origin** para PC, sim, o clássico jogo de estratégia e ação tática de 1993. O preço original dele era de R$ 9,90.
 
@@ -43,7 +43,7 @@ Só a critério de curiosidade, em 2012 teve um *reboot* do jogo totalmente remo
 
 ---
 
-##Jogos grátis da PS+ de Março##
+## Jogos grátis da PS+ de Março
 
 E por falar em jogos grátis, confira os jogos que estarão disponíveis para os assinantes da **PS+** durante o mês de Março:
 
@@ -56,7 +56,7 @@ E por falar em jogos grátis, confira os jogos que estarão disponíveis para os
 
 ---
 
-##Games with Gold de Março##
+## Games with Gold de Março
 
 Confira também os jogos grátis para os assinantes da **Xbox LIVE Gold**:
 
@@ -66,7 +66,7 @@ Confira também os jogos grátis para os assinantes da **Xbox LIVE Gold**:
 
 ---
 
-####Comentários Finais####
+#### Comentários Finais
 
 Apesar de eu ainda nem ter jogado o **Metal Gear Solid V: Ground Zeroes** estou empolgado para saber como será o suposto último capítulo da série Metal Gear Solid, tomara que não seja!
 

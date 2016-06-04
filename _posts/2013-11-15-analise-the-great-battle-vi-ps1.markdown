@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Game Over &#35 12
 categories: jogando/analise
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Depois de ouvir um podcast sobre o saudoso PS1, resolvi visitar minha prateleira de jogos "alternativos" do console para reviver alguns jogos já clássicos. Porém, ao invés disso, resolvi explorar os não tão famosos. E o primeiro deles foi o, até legalzinho, The Great Battle VI.
 ---
@@ -14,7 +14,7 @@ Depois de ouvir um *podcast* sobre o saudoso PS1, resolvi visitar minha pratelei
 
 Lançado em 1997 pela **Banpresto**, esse jogo só foi lançado em território japonês e pertence à uma série iniciada no **Super Famicom** e, este é o primeiro e único lançado para PS1.
 
-##Mas Qual é Desse Jogo?##
+## Mas Qual é Desse Jogo?
 
 Simples, é um *crossover* entre os personagens japoneses **_Ultraman_**, **_Kamen Rider_** (mais especificamente o **_Black Kamen Rider RX_**) e o **_Gundam_** desenhados em forma de caricaturas cabeçudas, oficialmente definido como SD ou *Super Deformed*.
 

@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Última IV é o quarto jogo da série Última e por curiosidade é o último jogo da série lançado
   para um console da Sega (no caso, Master System). Lançado pela Tectoy aqui no Brasil com caixa
@@ -37,7 +37,7 @@ bom estado. Quem diria?
 
 ---
 
-###Update###
+### Update
 
 Infelizmente meu jogo estava incompleto, estava faltando o manual. Mas no dia 20 de Janeiro de 2011,
 eu consegui o manual que faltava com a ajuda do grande colecionador Frank Jr. Pinto. :)

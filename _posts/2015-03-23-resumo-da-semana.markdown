@@ -6,11 +6,11 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Novidades da Nintendo, filme Pixels, Bloodborne, Hideo Kojima, God of War e mais.. Confira as novidades da semana do dia 16/03 à 22/03 de 2015!
 ---
-##Nintendo está com novidades##
+## Nintendo está com novidades
 
 Empresa revela que fará jogos para plataforma *mobile* (celulares e tablets) após adquirir 10% de uma empresa chamada **DeNA**. Com isso, formou-se uma parceria onde o foco será o desenvolvimento de jogos novos (e não em adaptações de jogos existentes) para esta plataforma.
 
@@ -18,7 +18,7 @@ Fonte [MeioBit](http://meiobit.com/312308/nintendo-se-rende-aos-smartphones-e-an
 
 ---
 
-##Novo trailer do filme Pixels##
+## Novo trailer do filme Pixels
 
 Pixels é um filme que está previsto para sair no meio deste ano (em Julho). O filme é dirigido por Chris Columbus e conta com atores como Adam Sandler, Kevin James, Michelle Monaghan e outros. O filme será no mínimo interessante, confira o trailer:
 
@@ -26,7 +26,7 @@ Pixels é um filme que está previsto para sair no meio deste ano (em Julho). O 
 
 ---
 
-##God of War III Remasterized##
+## God of War III Remasterized
 
 Sexta-feira passada (20/03) a série God of War completou 10 anos! Como presente de aniversário, a Sony anunciou que irá lançar o God of War III remasterizado para o PS4 em Julho deste ano.
 
@@ -34,7 +34,7 @@ Fonte: [PlayStation Blog](http://blog.br.playstation.com/2015/03/20/god-of-war-i
 
 ---
 
-##Estaria Kojima de saída da Konami?##
+## Estaria Kojima de saída da Konami?
 
 Semana passada rolou vários rumores de que Hideo Kojima, criador da série Metal Gear, estaria de saída da Konami. Tudo começou pelo próprio site da Konami, que retirou toda menção à Kojima na parte da série Metal Gear Solid.
 
@@ -48,7 +48,7 @@ Fonte: [MeioBit](http://meiobit.com/312532/hideo-kojima-estaria-prestes-a-deixar
 
 ---
 
-##Doe sangue e ganhe uma cópia do jogo Bloodborne##
+## Doe sangue e ganhe uma cópia do jogo Bloodborne
 
 Se na [semana passada tivemos uma ação solidária com os arcades nos aeroportos suécos](/noticias/2015/03/16/resumo-da-semana.html), nesta semana, hoje para ser mais preciso (23/03), temos uma campanha da Sony na Dinamarca, onde se você doar sangue, terá garantido uma cópia do jogo Bloodborne para PS4. A campanha visa aumentar o número de doadores no país, que está em baixa.
 
@@ -58,7 +58,7 @@ Fonte: [GameHall](http://gamehall.uol.com.br/v10/doe-sangue-e-ganhe-uma-copia-de
 
 ---
 
-##Documentário "1983" está financiado!##
+## Documentário "1983" está financiado!
 
 E para finalizar, uma excelente notícia para todos os entusiastas e amantes de videogames no Brasil: o projeto do [documentário "1983: O Ano dos Videogames no Brasil"](/noticias/2015/03/03/documentario-1983-ano-dos-videogames-no-brasil.html) vai sair do papel!
 

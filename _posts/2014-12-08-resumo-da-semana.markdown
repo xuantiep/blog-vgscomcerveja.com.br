@@ -6,15 +6,15 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
    Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.. Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
 ---
-##Vencedores da The Game Awards (TGA)##
+## Vencedores da The Game Awards (TGA)
 
 Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game Awards** se tornou praticamente o Oscar dos games, ou seja, é a principal premiação para os melhores jogos do ano. A edição de 2014 ocorreu no último dia 5 de Dezembro. Confira quem foram os concorrentes e ganhadores:
 
-###Jogo do Ano###
+### Jogo do Ano
 
 - Bayonetta 2
 - Dark Souls 2
@@ -22,7 +22,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Hearthstone: Heroes of Warcraft
 - Middle-Earth: Shadow of Mordor
 
-###Desenvolvedora do Ano###
+### Desenvolvedora do Ano
 
 - Blizzard
 - Monolith
@@ -30,7 +30,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Telltale Games
 - Ubisoft Montreal
 
-###Melhor Jogo Independente###
+### Melhor Jogo Independente
 
 - Broken Age: Act I
 - Monument Valley
@@ -38,7 +38,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Transistor
 - The Vanishing of Ethan Carter
 
-###Melhor Jogo para Mobile/Portátil###
+### Melhor Jogo para Mobile/Portátil
 
 - Bravely Default
 - **Hearthstone: Heroes of Warcraft (vencedor)**
@@ -46,7 +46,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Super Smash Bros. 3DS
 - Threes!
 
-###Melhor Narrativa###
+### Melhor Narrativa
 
 - South Park: The Stick of Truth
 - The Walking Dead: Season Two
@@ -54,7 +54,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **Valiant Hearts: The Great War (vencedor)**
 - Wolfenstein: The New Order
 
-###Melhor Trilha Sonora###
+### Melhor Trilha Sonora
 
 - Alien: Isolation
 - Child of Light
@@ -62,7 +62,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Sunset Overdrive
 - Transistor
 
-###Melhor Atuação###
+### Melhor Atuação
 
 - Adam Harrington (Bigby Wolf em The Wolf Among Us)
 - Kevin Spacey (Jonathan Irons em Call of Duty: Advanced Warfare)
@@ -70,7 +70,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **Trey Parker (várias vozes em South Park: The Stick of Truth) (vencedor)**
 - Troy Baker (Talion em Middle-Earth: Shadow of Mordor)
 
-###Jogos pelo Desenvolvimento Social###
+### Jogos pelo Desenvolvimento Social
 
 - Never Alone
 - The Last of Us: Left Behind
@@ -78,7 +78,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - This War of Mine
 - **Valiant Hearts: The Great War (vencedor)**
 
-###Melhor Remasterização###
+### Melhor Remasterização
 
 - **Grand Theft Auto V (vencedor)**
 - Halo: The Master Chief Collection
@@ -86,7 +86,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - The Last of Us
 - Tomb Raider: Definitive Edition
 
-###Melhor Shooter###
+### Melhor Shooter
 
 - Call of Duty: Advanced Warfare
 - Destiny
@@ -94,7 +94,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Titanfall
 - Wolfenstein: The New Order
 
-###Melhor Jogo de Ação/Aventura###
+### Melhor Jogo de Ação/Aventura
 
 - Alien: Isolation
 - Assassin's Creed Unity
@@ -102,7 +102,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **Middle-Earth: Shadow of Mordor (vencedor)**
 - Sunset Overdrive
 
-###Melhor RPG###
+### Melhor RPG
 
 - Bravely Default
 - Dark Souls 2
@@ -110,7 +110,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **Dragon Age: Inquisition (vencedor)**
 - South Park: The Stick of Truth
 
-###Melhor Jogo de Luta###
+### Melhor Jogo de Luta
 
 - Killer Instinct: Season Two
 - Persona 4 Arena Ultimax
@@ -118,7 +118,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **Super Smash Bros. WiiU (vencedor)**
 - Ultimate Street Fighter IV
 
-###Melhor Jogo para Família###
+### Melhor Jogo para Família
 
 - Disney Infinity 2.0
 - Fantasia: Music Envolved
@@ -126,7 +126,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Skylanders: trap Team
 - Tomodachi Life
 
-###Melhor Jogo de Esporte/Corrida###
+### Melhor Jogo de Esporte/Corrida
 
 - Fifa 15
 - Forza Horizon 2
@@ -134,7 +134,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - NBA 2K15
 - Trials Fusion
 
-###Melhor Experiência Online###
+### Melhor Experiência Online
 
 - Call of Duty: Advanced Warfare
 - Dark Souls 2
@@ -142,9 +142,9 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - Hearthstone: Heroes of Warcraft
 - Titanfall
 
-####**Categorias Eleitas pelos Jogadores**####
+#### **Categorias Eleitas pelos Jogadores**
 
-###Jogo Mais Esperado###
+### Jogo Mais Esperado
 
 - Batman: Arkham Knight
 - Bloodborne
@@ -152,7 +152,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **The Witcher 3: Wild Hunt (vencedor)**
 - Uncharted 4: A Thief's End
 
-###Jogador de e-Sports do Ano###
+### Jogador de e-Sports do Ano
 
 - Christopher "GeT_RiGhT" Alesund (Counter Strike: GO)
 - James "Firebat" Kostesich (Hearthstone: Heroes of Warcraft)
@@ -160,7 +160,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **Matt "NaDeSHoT" Haag (Call of Duty) (vencedor)**
 - Xu "Fy" Linsen (Dota 2)
 
-###Equipe de e-Sports do Ano###
+### Equipe de e-Sports do Ano
 
 - Edward Gaming (League of Legends)
 - Evil Geniuses (Dota 2)
@@ -168,7 +168,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - **Ninjas in Pajamas (Counter Strike: GO) (vencedor)**
 - Samsung White (League of Legends)
 
-###Jogador Mais Influente###
+### Jogador Mais Influente
 
 - Evan "Vanoss" Fong
 - Jeff Gerstmann
@@ -176,7 +176,7 @@ Anteriormente chamada de **Video Game Awards (VGA)**, a premiação **The Game A
 - StampyLongHead
 - **TotalBiscuit (vencedor)**
 
-###Melhor Criação de Fãs###
+### Melhor Criação de Fãs
 
 - BEST Zelda Rap EVER!! (por Egoraptor)
 - Luigi Death Stare (por CZBwoi e Rizupicorr)
@@ -190,7 +190,7 @@ Para quem perdeu confira a premiação na íntegra:
 
 ---
 
-##Primeiro gameplay de Uncharted 4##
+## Primeiro gameplay de Uncharted 4
 
 Sábado, dia 6 de Dezembro, na inauguração do serviço **PlayStation Experience**, a **Sony** e a **Naughty Dog** revelaram o primeiro *gameplay* do novo **Uncharted 4: A Thief's End**. São mais ou menos 15 minutos de vídeo, mas foram suficientes para aumentar minha *hype* pelo jogo! Confira:
 
@@ -198,7 +198,7 @@ Sábado, dia 6 de Dezembro, na inauguração do serviço **PlayStation Experienc
 
 ---
 
-##Grim Fandango Remastered##
+## Grim Fandango Remastered
 
 Outra novidade legal, foi o anúncio do retorno de **Grim Fandango**, um clássico dos PCs, agora remasterizado para PS4 e PS Vita, com previsão de lançamento para já em Janeiro de 2015, veja o trailer:
 
@@ -206,7 +206,7 @@ Outra novidade legal, foi o anúncio do retorno de **Grim Fandango**, um clássi
 
 ---
 
-##Street Fighter V exclusivo para PS4 e PC?##
+## Street Fighter V exclusivo para PS4 e PC?
 
 E a grande surpresa do final de semana foi o anúncio da **Capcom** sobre o novo **Street Fighter V** ser exclusivamente para donos de PS4 e PC! Será uma resposta da **Sony** em relação do **Killer Instinct** exclusivo Xbox? Veja o trailer:
 
@@ -214,6 +214,6 @@ E a grande surpresa do final de semana foi o anúncio da **Capcom** sobre o novo
 
 ---
 
-##R.I.P. Ralph Baer##
+## R.I.P. Ralph Baer
 
 E por fim uma notícia triste! Faleceu neste sábado (06/12), Ralph Baer, aos 92 anos. Ele que é considerado o "pai dos videogames" por ter criado o primeiro console doméstico, o **Magnavox Odyssey**. Descanse em Paz! :(

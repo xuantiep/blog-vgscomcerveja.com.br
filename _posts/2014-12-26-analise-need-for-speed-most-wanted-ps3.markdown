@@ -6,7 +6,7 @@ author:     Felipe B. Barbosa
 session:    Game Over &#35 21
 categories: jogando/analise
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Eaí, como passou o Natal? Espero que bem! Bom, vou falar de um jogo que quase desisti no ano passado (2013) quando comecei a jogá-lo, não sei exatamente o motivo, mas algo não em agradou na época. Porém, resolvi dar uma segunda chance ao jogo e descobri que é um jogo muito bom!
 
@@ -32,7 +32,7 @@ Ao todo são 61 eventos diferentes, porém estão distribuídos por carro, que p
 
 Além dos eventos, o jogo conta com alguns desafios opcionais, herdados de Burnout, que também te dão *Speed Points*, tais como, destruir *outdoors* *(billboards)*, quebrar grades de segurança *(security gates)* e passar em alta velocidade em radares *(speed cameras)*. São passatempo legais, mas se tornam muito chatos quando você quer localizar todos para conquistar os troféus/conquistas, principalmente, as grades de segurança que não são marcadas no mapa.
 
-##Carros##
+## Carros
 
 Como dito anteriormente, o jogo possui 41 carros diferentes que vão desde um **Alfa Romeo 4C Concept** até um **Koenigsegg Agera R**, todos eles licenciados. Logicamente, você não tem todos os carros liberados desde o início, você os encontra em ponto específicos da cidade, chamados de *jack spots*. Exceto, é claro, pelos dez carros mais procurados, que são só liberados após você derrotar seus pilotos.
 
@@ -40,27 +40,27 @@ Você pode melhorar seu carro conforme você ganha corridas com ele. Essas melho
 
 Além disso, cada melhoria tem uma versão *Pro*, que é habilitada depois de cumprir certos desafios com ela, por exemplo, para ganhar a versão *Pro* do câmbio, você tem que passar por 25 carros da cidade na contra-mão sem bater neles.
 
-##Jogabilidade##
+## Jogabilidade
 
 Pilotar os carros não tem muito segredo, pois a jogabilidade, apesar dos seus detalhes, não é nada realista, garantindo assim, muita diversão ao fazer curvas a mais de 200 km/h deslizando de lado *(drift)*.
 
-##Áudiovisual##
+## Áudiovisual
 
 Os gráficos continuam no mesmo padrão de qualidade (ou até melhor) desde o *Hot Pursuit*, ou seja, ótimos! Mas o destaque, como é de praxe da série, é a trilha sonora e esta, tá bem caprichada! :)
 
-##Multiplayer e o Autolog##
+## Multiplayer e o Autolog
 
 O *multiplayer* é bem legal e funciona da seguinte maneira: você entra em uma série de eventos com diversos jogadores, cada evento é liberado em um ponto específico da cidade, se você chegar primeiro no ponto, você já ganha mais pontos, aí quando todos chegam, a corrida começa! No final da série, vence quem tiver mais pontos. Lembrando, que *takedowns* também te dá pontos! :P
 
 Mas o grande barato do jogo é o sistema **Autolog** que registra seus recordes, mesmo no *single player*, e compara com os dos seus amigos. Se você é um cara competitivo, não irá querer ficar atrás dos seus amigos, né? :D
 
-##Troféus##
+## Troféus
 
 Para os caçadores de troféus, *Most Wanted* não é difícil de conseguir a platina, no meu caso, os troféus mais chatos foram o *Nothing Personal* e o *Mix Master*, que dependiam de um amigo para ganhá-los e como o jogo já é um pouquinho antigo, não tinha nenhum jogando no momento, então tive que recorrer aos *boosts* do site [MyPST](http://www.mypst.com.br)! É por isso que não gosto de troféus online! :P
 
 Tirando os onlines, que são apenas quatro, o mais chatinho é o *Second is Nothing*, onde você tem que chegar em primeiro em todos os eventos.
 
-##Resumindo##
+## Resumindo
 
 O jogo é excelente! Recomendo para os fãs de um bom jogo de corrida *arcade*, onde não exige que o jogador tenha que se preocupar em ajustar ou até mesmo pilotar o carro com precisão. O jogo é muito divertido e empolgante, a **Criterion** acertou mais uma vez!
 

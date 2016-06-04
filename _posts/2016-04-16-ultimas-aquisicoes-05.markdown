@@ -6,29 +6,29 @@ author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando/colecao-pessoal
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Prometi a mim mesmo jogar mais e comprar menos, mas apesar de estar seguindo isso, no último mês de Março, o espírito colecionador falou mais alto! Tanto que resolvi voltar com os posts de "Últimas Aquisições" para mostrar o que tenho comprado para a coleção! :)
 ---
-##The Eye of Judgment (PS3)##
+## The Eye of Judgment (PS3)
 
 Gosto de colecionar jogos de PS3, e este jogo sempre tive muita curiosidade de saber como ele era. Sendo assim, quando recebi um *newsletter* da **Big Boy Games** anunciando este game novo (lacrado) e por um preço razoável, não pensei duas vezes, ele vem com a **PlayStation Eye Camera**! ^^' ..Eu nunca vou usá-la além deste jogo, mas quem coleciona sabe: compre, compre! Comprei! :)
 
 A princípio fiquei com dó de abrir (deslacrar), mas não sou do tipo de colecionador que mantém jogos lacrados, gosto de jogá-los, este é o grande barato de colecionar videogames. Além disso, estava curioso para saber o que vinha no pacote. Pois para quem não conhece, este jogo é uma espécie de jogo de RPG de cartas com realidade aumentada, ou seja, basicamente, você interage com o jogo usando cartas de verdade, que são "lidas" atrás da Eye Camera. Joguei só uma vez por enquanto, e não peguei muito bem qual é do jogo, assim que entender melhor, prometo fazer uma análise por aqui! :)
 
-##Super Mario World 2: Yoshi's Island (SNES)##
+## Super Mario World 2: Yoshi's Island (SNES)
 
 Jogos de Super Nintendo estão cada vez mais difíceis de conseguir com preços razoáveis, o pessoal está cobrando muito caro! Sendo assim, quando aparece uma oportunidade tem que aproveitar. E neste caso, foi através de um pacote que fechei com um colecionador membro do clube Canal-3, que no qual participo (não tanto quanto gostaria).
 
 O pacote foi formado com este jogo, que dispensa comentários, o jogo Goldeneye 007 (N64), juntamente com os consoles Sega Dreamcast e um Xbox clássico, que estão na sequência abaixo.
 
-##Goldeneye 007 (N64)##
+## Goldeneye 007 (N64)
 
 Nintendo 64 foi um console que sempre tive muita vontade de ter na época. Eu tive um PS1 e o pouco do conseole da Nintendo que conheço, foi através de jogatinas de 1-2 horas nas locadoras, ou então na casa de um único amigo que possuia o console! E Goldeneye esteve presente em 95% destas jogatinas, porém, sempre foi no famoso modo *multiplayer*, nunca tive a oportunidade de jogar a campanha principal, peguei por este motivo! :)
 
 Este cartucho que peguei não está no jeito que gosto de colecionar, pois está com caixa recortada para locadora, e o cartucho com etiqueta refeita (*relabel*), mas vai servir por enquanto! ;)
 
-##Xbox Clássico##
+## Xbox Clássico
 
 Os itens mais interessantes do pacote, com certeza, são os consoles! Xbox clássico não era um console que tinha muita vontade de ter na época, eu não via muitos jogos interessantes para ele, além dos quais eram lançados para o PS2 também.
 
@@ -36,7 +36,7 @@ Mas depois que comecei a colecionar, comecei a achá-lo mais interessante, princ
 
 Junto com o console, veio um controle da primeira versão (foto), um controle paralelo da segunda versão e o jogo Phantasy Star Online Episode I & II, que provavelmente, só dá para jogar online, e como a rede já está extinta, vai ficar só na prateleira.
 
-##Sega Dreamcast##
+## Sega Dreamcast
 
 Este sim! O DC foi um console que sempre despertou meu interesse, ele estava estampado na capa da minha primeira revista de videogames que tive, a Ação Games Nº 143 de Setembro de 1999 (sim, eu pesquisei! ^^).
 
@@ -46,41 +46,41 @@ Nisso, o DC ficou esquecido, mas no fundo, sempre tive vontade de conhecê-lo. A
 
 Bom, no pacote veio: o console americano com caixa e manuais, dois controles e VMU.
 
-##Streets of Rage II (MD)##
+## Streets of Rage II (MD)
 
 Navegando pelo site do OLX, eis que encontro esta relíquia: **Streets of Rage II** versão **Tectoy** completinha, e o melhor, com um preço totalmente aceitável! O jogo em si, dispensa comentários, né? Muito bom! Mas o que me fez ficar com ele realmente, foi o fato de ser Tectoy, está cada ve mais difícil de encontrá-los em bom estado.
 
 Minha coleção de jogos para Mega Drive é bem pequena ainda, por volta de 5 jogos agora, mas assim como a de Master System, eu adoro as versões nacionais e só pretendo colecionar elas! :)
 
-##Lara Croft Tomb Raider: Legend (PSP)##
+## Lara Croft Tomb Raider: Legend (PSP)
 
 Gosto de jogos para PSP, e mais ainda de jogos da série Tomb Raider! Este mês tive a oportunidade de conseguir os dois TR lançados para o portátil: **TR: Legend** e o **TR: Annivesary** (abaixo).
 
 Eu ainda não os joguei, mas com certeza, o farei em breve, pois quero muito ver como ficou estas versões para o portátil. Encontrei o jogo no OLX também! :)
 
-##Lara Croft Tomb Raider: Annivesary (PSP)##
+## Lara Croft Tomb Raider: Annivesary (PSP)
 
 Assim como o Legend, consegui este no site do OLX também, juntamente com o Silent Hill abaixo. O engraçado é que achei que iria tomar calote neste dois jogos, pois eu negociei com vendedor SOMENTE pelo chat do aplicativo do OLX, e quando realizei o pagamento e passei meus dados para envio, o vendedor apagou o anúncio, e por consequência, a conversa do chat também foi apagada (deve ser algum *bug* do aplicativo), ou seja, perdi totalmente o contato com o vendedor! Ainda bem que ele era honesto e dias depois os jogos chegaram!
 
 Mas fica a dica: nunca negociem apenas pelo chat! ^^
 
-##Silent Hill: Shattered Memories (PSP)##
+## Silent Hill: Shattered Memories (PSP)
 
 Este é o segundo e último jogo da série lançado para o portátil, o primeiro foi o Origins (que já terminei e [comentei por aqui](/jogando/analise/2014/08/03/analise-silent-hill-origins-psp.html)).
 
 Eu ainda não cheguei a jogá-lo, mas pelo que andei vendo, ele é uma releitura (não *remake*) do primeiro jogo da série. Interessante, né? Jogarei em breve também! :)
 
-##Legacy of Kain: Soul Reaver (DC)##
+## Legacy of Kain: Soul Reaver (DC)
 
 E o meu primeiro jogo de DC é um jogo que me deixou frustrado na época do PS1, pois estava jogando uma versão "pirata" deste jogo, e acabei entrando num limbo, não tinha para onde ir, acho que era alguma espécia de *bug* ou realmente me perdi no jogo. :)
 
 Depois disso, nunca mais joguei! Agora tenho um incentivo maior para rejogá-lo! A propósito, esta é a versão da Tectoy! s2
 
-##Deep Duck Trouble (MS)##
+## Deep Duck Trouble (MS)
 
 E por falar em Tectoy.. Fazia tempo que não pegava nada para o Master System, aí num grupo do Facebook, apareceu esta versão completa do segundo jogo do pato Donald para o console, que não resisti, peguei! Já fazia um tempinho que estava namorando este jogo! :)
 
-##Fallout 4 (PS4)##
+## Fallout 4 (PS4)
 
 E por último, peguei este jogo para PS4 numa promoção bacana do site da Americanas.com, o preço estava bom, mas comprei por impulso, acho que dava para esperar um pouco mais, até porque quero jogar o Fallout 3 antes! :(
 

@@ -6,11 +6,11 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Filme de Metal Gear Solid?, Nintendo Direct, Assassin's Creed Chronicles e mais.. Confira as novidades da semana do dia 31/03 à 06/04 de 2015!
 ---
-##Possível filme de Metal Gear Solid ganha roteirista##
+## Possível filme de Metal Gear Solid ganha roteirista
 
 Mesmo apesar de uma possível saída de Hideo Kojima da Konami, parece mesmo que o filme da série Metal Gear Solid irá sair do papel. A Sony Pictures, encarregada dessa adaptação aos cinemas, anunciou a contratação do roteirista [Jay Basu](http://www.imdb.com/name/nm1951398/) para o filme.
 
@@ -18,7 +18,7 @@ Fonte: [Vida de Gamer](http://www.vidadegamer.com.br/filme-do-metal-gear-solid-g
 
 ---
 
-##Assassin's Creed Chronicles##
+## Assassin's Creed Chronicles
 
 Um novo jogo da série sairá em breve (21 de Abril), e desta vez, será um pouco diferente do que os fãs estão acostumados, pois a jogabilidade será em 2.5D. O jogo se chama Assassin's Creed Chronicles e sairá em três partes: China, Índia e Rússia para PS4, Xbox ONE e PC. O preço sugerido será de R$ 29,90, mas quem tem o AC:Unity, eles serão gratuitos.
 
@@ -28,7 +28,7 @@ Fonte: [Arkade](http://www.arkade.com.br/jogamos-assassins-creed-chronicles-jogo
 
 ---
 
-##Novidade da Nintendo Direct##
+## Novidade da Nintendo Direct
 
 No dia primeiro aconteceu o segundo Nintendo Direct do ano. Para quem não conhece, trata-se de uma apresentação online da empresa para mostrar suas novidades ao mundo. Confira os principais tópicos, bem resumido, do que rolou:
 
@@ -48,7 +48,7 @@ Fonte: [N-Party](http://www.nparty.com.br/2015/04/um-breve-resumo-do-que-foi-apr
 
 ---
 
-##Jogos grátis de Abril da PS+##
+## Jogos grátis de Abril da PS+
 
 E para  finalizar, confira a lista de jogos gratuitos para assinantes da PS+ no mês de Abril:
 

@@ -6,11 +6,11 @@ author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Mortal Kombat X, Deus Ex: Mankind Divided, continuação do filme de Need for Speed e mais.. Confira as novidades do dia 07/04 à 13/04 de 2015!
 ---
-##Lançamento de Mortal Kombat X##
+## Lançamento de Mortal Kombat X
 
 MKX será lançado amanhã, dia 14, na PS Store (PS4), Xbox LIVE (Xbox ONE) e no Steam. Já as mídias físicas estão previstas para quinta-feira, dia 16. Os valores são um tanto quanto salgados, R$ 249,99 nos consoles e R$ 99,99 no PC.
 
@@ -20,7 +20,7 @@ Lembrando que o jogo será totalmente localizado em PT-BR, onde uma das dublador
 
 ---
 
-##Deus Ex: Manking Divided é anunciado!##
+## Deus Ex: Manking Divided é anunciado!
 
 Confira o trailer de revelação do novo jogo da Square-Enix:
 
@@ -30,13 +30,13 @@ A data não está confirmada, mas o jogo sairá para PS4, Xbox ONE e PC.
 
 ---
 
-##EA pretende lançar sequência do filme Need for Speed##
+## EA pretende lançar sequência do filme Need for Speed
 
 Segundo rumores, a Eletronic Arts está trabalhando, em parceria com a China Movie Channel, na produção de uma possível sequência do filme Need for Speed. A produção deve ser iniciada no final do ano, se as empresas conseguirem os direitos do filme com a Dreamworks.
 
 ---
 
-##DuckTales Remastered é lançado para tablets e smartphones!##
+## DuckTales Remastered é lançado para tablets e smartphones!
 
 Em 2013, donos de PS3, Xbox 360, WiiU e PC tiveram a chance de conferir o *remake* de um dos maiores clássicos do NES: DuckTales! Agora, quase dois anos depois, os donos de *tablets* e *smartphones* também poderão conferir!
 
@@ -44,7 +44,7 @@ O jogo já está disponível por US$ 10 (+/- R$ 32) na App Store e [Google Play]
 
 ---
 
-##Novo Call of Duty?##
+## Novo Call of Duty?
 
 E por fim, um novo Call of Duty vem aí! E isso não é muita novidade, né? Pois, praticamente todo ano temos um, mas pelo que o *teaser* abaixo sugere, será um novo Black Ops!
 

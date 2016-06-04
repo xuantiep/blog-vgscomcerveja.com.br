@@ -6,7 +6,7 @@ author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
 thumbnail:  
-cover: 
+cover:
 sinopse: >
   Que a Tectoy fez um excelente trabalho com o Master System no Brasil todo mundo sabe!
   Inclusive, chegou a lançar jogos exclusivos para o nosso querido Master como o lendário Street Fighter II, Mortal Kombat 3, jogos da Turma da Mônica e outros que só foram lançados em território nacional e são muitos cobiçados por colecionadores mundiais. Mas enfim, você sabe quais jogos, além dos exclusivos, a Tectoy lançou no Brasil?
@@ -21,7 +21,7 @@ E após o árduo trabalho do pessoal, chegou ao seguinte: Existem 5 tipos, ou me
 
 Além disso, alguns jogos possuíam variações nas letras na capa que eram referências de preço com base numa tabela da época. Mas enfim, eis a lista:
 
-###Caixa de Papelão###
+### Caixa de Papelão
 
 | Nº  | Nome                                            | Letra / Variação*                       |
 | --- | ----------------------------------------------- | --------------------------------------- |
@@ -88,7 +88,7 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 61  | Zaxxon 3D                                       | (sem letra - 1V) (A - 1V)               |
 | 62  | Zillion II                                      | (sem letra - 1V)                        |
 
-###Caixa Plástica com Encarte Branco com Quadrados Grandes###
+### Caixa Plástica com Encarte Branco com Quadrados Grandes
 
 | Nº  | Nome                                            | Letra / Variação*                       |
 | --- | ----------------------------------------------- | --------------------------------------- |
@@ -193,7 +193,7 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 99  | Y's                                             | (B)                                     |
 | 100 | Zillion                                         | (A)                                     |
 
-###Caixa Plástica com Encarte Branco com Quadrados Pequenos###
+### Caixa Plástica com Encarte Branco com Quadrados Pequenos
 
 | Nº  | Nome                                            | Letra / Variação*                       |
 | --- | ----------------------------------------------- | --------------------------------------- |
@@ -211,7 +211,7 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 12  | Taz-Mania                                       | (D)                                     |
 | 13  | Wimbledon                                       | (A)                                     |
 
-###Caixa Plástica com Encarte Azul e Branco###
+### Caixa Plástica com Encarte Azul e Branco
 
 | Nº  | Nome                                            | Letra / Variação*                       |
 | --- | ----------------------------------------------- | --------------------------------------- |
@@ -272,7 +272,7 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 55  | World Cup USA 94                                | (sem letra)                             |
 | 56  | WWF Wrestlemania Steel Cage Challenge           | (C)                                     |
 
-###Caixa Plástica com Encarte Azul###
+### Caixa Plástica com Encarte Azul
 
 | Nº  | Nome                                            | Letra / Variação*                       |
 | --- | ----------------------------------------------- | --------------------------------------- |
@@ -316,14 +316,14 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 38  | Virtua Fighter Animation                        | (sem letra)                             |
 | 39  | X-Men Mojo World                                | (sem letra)                             |
 
-###Jogos sem Caixa###
+### Jogos sem Caixa
 
 | Nº  | Nome                                            |
 | --- | ----------------------------------------------- |
 | 1   | Hang On / Safari Hunt                           |
 | 2   | 20 em 1                                         |
 
-####Obs.####
+#### Obs.
 - As letras eram referências de preço com base numa tabela na época;
 - x-V é a quantidade de vincos/abas que as caixas de papelão possuíam.
 
