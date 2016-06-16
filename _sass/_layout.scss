@@ -527,12 +527,19 @@
         }
     }
 
-    img {
+    figure {
         display: block;
-        margin: 0 auto;
+        margin: 0 auto 20px;
         padding: 5px;
         border: 1px solid #bfbfbf;
+
+        img {
+          width: 100%;
+          margin-bottom: 5px;
+        }
     }
+
+
 
     p {
         //font-family: $base-font-post;

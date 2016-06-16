@@ -17,7 +17,7 @@ Pois é, não resisti! Comecei a colecionar videogames.
 Sempre fui apaixonado por jogos eletrônicos e sempre tive dó de me desfazer dos meus videogames antigos!
 Mas agora, todos eles fazem parte da minha coleção! :)
 
-![coleção](http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/01_inicio/foto_zpsnhq025ou.jpg "O Início da Coleção!")
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/01_inicio/foto_zpsnhq025ou.jpg" description="O Início da Coleção!" %}
 
 Minha coleção é recente, porém já tenho alguns itens que considero interessantes, como por exemplo,
 o jogo Phantasy Star para Master System, o jogo é totalmente em português e está completo com caixa
@@ -26,7 +26,6 @@ incomum (estou apredendo ainda). E só para citar mais um, recentemente comprei 
 Metal Gear Solid para PlayStation. Este jogo é simplesmente sensacional e obrigatório em toda coleção!
 
 ---
-
 
 Depois da reformulação do blog em 2013, declaro o dia deste post como a data do nascimento oficial
 do Videogames com Cerveja! :)

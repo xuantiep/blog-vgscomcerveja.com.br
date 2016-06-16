@@ -14,7 +14,7 @@ sinopse: >
 Sempre quis ter um Nintendo DS e agora meu desejo está realizado. Adquiri um **Nintendo DS Lite**
 edição especial e limitada **New Super Mario Bros.** que por sinal é muito bonita!
 
-![Nintendo DS Lite](http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/foto1_zpsxgkjua9z.jpg "Nintendo DS Lite")
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/foto1_zpsxgkjua9z.jpg" description="Nintendo DS Lite" %}
 
 Comprei pelo site **Deal Extreme** por incríveis R$ 100. Agora só faltam os jogos!
 Quais jogos você me indica?
