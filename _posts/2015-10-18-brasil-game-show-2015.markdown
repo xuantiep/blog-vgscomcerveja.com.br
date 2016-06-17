@@ -5,8 +5,8 @@ date:       2015-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando/especiais
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/02_bgs2015/post_thumbnail_zpsrou3ouyv.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/02_bgs2015/post_header_zpsefluddj1.jpg
 sinopse: >
   Eu nunca tinha ido antes e esta edição não seria exceção, pois simplesmente não estava nos meus planos ir. Mas como o feriado coincidiu com o dia de folga da minha esposa, resolvemos dar uma volta por lá, e olha, ela que nem joga videogame estava muito mais empolgado do que eu para ir, se não fosse por ela, com certeza, seria mais um ano sem ir.
 ---

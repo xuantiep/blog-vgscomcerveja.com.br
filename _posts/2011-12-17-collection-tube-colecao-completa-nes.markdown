@@ -5,8 +5,8 @@ date:   2011-12-17 19:00
 author: Felipe B. Barbosa
 session: Collection Tube &#35 03
 categories: colecionando/collection-tube
-thumbnail:  
-cover: 
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/03_nes/post_thumbnail_zpsgucfj3ch.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/03_nes/post_header_zpsg88tvoy5.jpg
 sinopse: >
   Esse cara do vídeo de hoje está simplesmente vendendo sua coleção completa de jogos NES
   (vulgo Nintendinho) no eBay! São ao todos 677 jogos oficiais lançados nos EUA mais 67
