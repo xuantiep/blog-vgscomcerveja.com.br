@@ -5,10 +5,11 @@ date:       2013-06-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 07
 categories: jogando/analise
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/07_tlou/post_thumbnail_zpspa6pmufj.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/07_tlou/post_header_zps3us1ikvy.jpg
 sinopse: >
   Cara, que jogo fantástico! Não é a toa que recebeu notas altíssimas pelas críticas especializadas, The Last of Us conseguiu unir drama, ação, aventura, suspense, terror e até stealth em um só jogo! Desenvolvido pela Naughty Dog e lançado este mês, o jogo é mais um exclusivo para a biblioteca do PlayStation 3!
+game_cover:
 ---
 Cara, que jogo fantástico! Não é a toa que recebeu notas altíssimas pelas [críticas especializadas](http://www.metacritic.com/game/playstation-3/the-last-of-us), **The Last of Us** conseguiu unir drama, ação, aventura, suspense, terror e até *stealth* em um só jogo! Desenvolvido pela **Naughty Dog** e lançado este mês, o jogo é mais um exclusivo para a biblioteca do **PlayStation 3**!
 
@@ -24,6 +25,8 @@ Não dá para se aprofundar muito na história sem estragar as surpresas que voc
 
 Apesar de ser um jogo totalmente linear, a imersão e a riqueza dos detalhes dos cenários são de impressionar até mesmo os jogadores de PC (rs). Os personagens também estão muito bem feitos, eles conseguem transmitir ao jogador todo seu "sentimento" e carisma! A Naughty Dog conseguiu mostrar todo o poder do PS3 neste jogo, eles já vinham fazendo isso com a série Uncharted, mas nesse eles se superaram! Fico imaginando como será na próxima geração de consoles!
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/07_tlou/foto2_zpsf2tvvyn7.jpg" description="Cenários ricos em detalhes!" %}
+
 ## Gameplay Incrível
 
 A movimentação do personagem e o sistema de combate, tanto corpo-a-corpo quanto com armas, ficaram excelentes! Podemos dizer que é uma versão aprimorada da série Uncharted, porém mais fluida e real.
@@ -33,6 +36,8 @@ Além disso, as armas e as habilidades de Joel possuem um sistema de evolução 
 Os itens podem ser criados a qualquer momento do jogo, basta ter os objetos necessários e combiná-los, entretanto a criação leva um certo tempo (inclusive, esta é uma das habilidades que pode ser aprimorada), então é bom fazê-los em um local seguro!
 
 Com as armas é um pouco diferente, para aprimora-las, você deve coletar peças e encontrar bancadas exclusivas para isto! Já as habilidades de Joel, são aprimoradas de duas formas: uma é encontrando manuais de treinamentos que lhe ensinam uma nova habilidade e a outra é através da coleta de cápsulas que aprimoram sua vida, mira e audição por exemplo! Aliás, esta última habilidade é um dom de Joel, pois possui uma audição que através do barulho dos inimigos, consegue localiza-los até mesmo atrás de paredes (não modo sobrevivente, esta habilidade não existe).
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/07_tlou/foto1_zpsdsrcqy9g.jpg" description="Audição super apurada!" %}
 
 ## Um Defeito?
 
@@ -61,7 +66,6 @@ Terminei o jogo e ganhei apenas 3 troféus, sendo dois deles por ter terminado o
 Terminei o jogo em 18 horas e queria mais! Eu acho que o jogo é um fortíssimo candidato ao jogo do ano! Gráficos excelentes, jogabilidade muito boa, história envolvente, uma mistura de drama, ação, aventura, *stealth*, suspense e terror muito bem dosados. IMPERDÍVEL!
 
 {% include ficha.html
-  cover=''
   titulo='The Last of Us'
   plataforma='PlayStation 3'
   desenvolvedor='Naughty Dog'

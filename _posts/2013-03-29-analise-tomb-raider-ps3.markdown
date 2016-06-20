@@ -5,10 +5,11 @@ date:       2013-03-29 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 04
 categories: jogando/analise
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/post_thumbnail_zpsmnk3kz8a.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/post_header_zps3nizjhlm.jpg
 sinopse: >
   Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo Tomb Raider lançado pela Square-Enix agora neste mês de Março para PS3, Xbox 360 e PC.
+game_cover:
 ---
 Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo **Tomb Raider** lançado pela **Square-Enix** agora neste mês de Março para PS3, Xbox 360 e PC.
 
@@ -19,6 +20,8 @@ O jogo está fantástico, a narrativa te envolve de uma tal maneira que você n�
 Os gráficos estão ótimos, a jogabilidade está excelente, é um jogo que você passa horas jogando e nem percebe. O jogo conta com um sistema de evolução muito parecida com o Far Cry 3, onde você evolui suas habilidades (sobrevivência, caça e exploração) e suas armas (arco, pistola, rifle e escopeta) conforme avança no jogo.
 
 A jogabilidade é bem parecida com a série Uncharted, porém um pouco melhorada, como o cover automático, não sendo necessário apertar um botão para se proteger dos inimigos em um tiroteio, ela automaticamente já se esconde! Ainda em comparação com Uncharted, senti falta do uso de granadas e da possibilidade de atirar em seus inimigos quando estiver pendurado na parede, mas nada que prejudique o jogo, é só uma observação! :)
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/foto1_zpsnjewkxk9.jpg" description="Os gráficos já estão muito bonitos no PS3, fico imaginando a versão para PC ^^" %}
 
 Para quem gosta de exploração, o jogo conta com bastante itens coletáveis, como tesouros GPS, relíquias, diários, além das tumbas opcionais. Ah, tem também os desafios (challenges) de cada parte da ilha, ou seja, para quem gosta (como eu) é um prato cheio! O lado bom, é que mesmo que você termine o jogo sem coletar todos, você pode voltar a ilha simplesmente para coletá-los e terminar o jogo em 100%.
 
@@ -40,7 +43,6 @@ TR é um jogão! Talvez o melhor da série, e é imperdível para quem é fã do
 Finalmente consegui platinar o jogo! O pessoal pisou na bola ao colocar um troféu que exija que você chegue ao nível 60 no *multiplayer*, muita sacanagem! Mas a sacanagem seria muito maior se não fosse o *update 1.03* onde retiraram o Samurai do troféu **Shopaholic**, que para ganhá-lo você teria que adquirir todos os personagens e equipamentos do jogo, e para adquirir o Samurai exigia o *prestige 2*, ou seja, você teria que chegar ao nível 60 duas ou três vezes (uma vez já cansativo). Mas ainda bem que consertaram isso e não é mais necessário adquirir o Samurai! :)
 
 {% include ficha.html
-  cover=''
   titulo='Tomb Raider'
   plataforma='PlayStation 3'
   desenvolvedor='Crystal Dynamics'

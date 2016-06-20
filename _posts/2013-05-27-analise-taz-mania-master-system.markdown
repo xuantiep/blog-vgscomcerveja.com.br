@@ -5,10 +5,11 @@ date:       2013-05-27 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 05
 categories: jogando/analise
-thumbnail:  
-cover: 
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/05_taz/post_thumbnail_zpschwmjlux.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/05_taz/post_header_zpskiwzofgv.jpg
 sinopse: >
   Hoje recebi o que estava planejando em ter a um bom tempo, um Master System III Compact com saída A/V! E graças ao amigo e colecionador Flávio, o Shiningstar, que faz esse tipo de modificação, recebi muito mais do que isso, recebi um Master com led de power, saída A/V e S-Video! Mas enfim, pretendo falar sobre ele em outro post, pois com a chegada do console, fui logo relembrar e zerar um jogo que considero um clássico da minha infância: Taz-Mania!
+game_cover:
 ---
 Hoje recebi o que estava planejando em ter a um bom tempo, um **Master System III Compact** com saída A/V! E graças ao amigo e colecionador Flávio, o Shiningstar, que faz esse tipo de modificação, recebi muito mais do que isso, recebi um Master com led de power, saída A/V e S-Video! Mas enfim, pretendo falar sobre ele em outro post, pois com a chegada do console, fui logo relembrar e zerar um jogo que considero um clássico da minha infância: Taz-Mania!
 
@@ -19,6 +20,8 @@ A jogabilidade do jogo é bem fluída e fácil, pois o Taz só tem basicamente d
 A única maneira de derrotar os inimigos é com seu tornado, pois pular na cabeça não funciona! ^^
 
 O jogo em si possui apenas 5 estágios: Planície, Floresta, Caverna, Ruínas e o Vale. E cada um dos estágios são divididos em três fases: duas normais e uma com o chefão.
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/05_taz/foto1_zps9uvfu47o.png" description="O visual do game é muito bonito, você concorda?" %}
 
 A história do jogo é a seguinte:
 
@@ -31,7 +34,6 @@ A história do jogo é a seguinte:
 Enfim, **Taz-Mania** é um jogo bem legal, apanhei muito para zerá-lo na minha infância, mas hoje, vejo que não é um jogo difícil, apesar de ter algumas fases que exige uma boa habilidade para dar pulos precisos, mas nada que algumas tentativas não resolvam! :)
 
 {% include ficha.html
-  cover=''
   titulo='Taz-Mania'
   plataforma='Master System'
   desenvolvedor='Warner Bros.'

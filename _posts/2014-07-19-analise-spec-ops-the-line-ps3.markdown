@@ -5,11 +5,11 @@ date:       2014-07-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 17
 categories: jogando/analise
-thumbnail:  
-cover: 
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/post_thumbnail_zpskdagmlbh.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/post_header_zpsd4a8lons.jpg
 sinopse: >
   Finalmente voltando a ativa, depois de passado a correria do casamento (sim, me casei! :D), volto a jogar e o primeiro jogo terminado como casado foi o surpreendente Spec Ops: The Line.
-
+game_cover:
 ---
 Finalmente voltando a ativa, depois de passado a correria do casamento (sim, me casei! :D), volto a jogar e o primeiro jogo terminado como casado foi o surpreendente **Spec Ops: The Line**.
 
@@ -20,6 +20,8 @@ Lançado em 2012, para PS3 e Xbox 360, pela **2K Games** e desenvolvido pela **Y
 O jogo é de tiro em terceira pessoa um pouco diferente da maioria dos jogos do gênero, pois possui uma história fascinante que te faz querer progredir ainda mais no jogo, porém, as vezes, você irá até se sentir mal por certos momentos/decisões, que não posso contar para não estragar a surpresa.
 
 Mas o jogo conta a história do capitão **_Martin Walker_** que, junto com sua equipe *Delta Force*, foram enviados a uma *Dubai* devastada e fictícia em uma missão de resgate do coronel do exército americano, **_John Konrad_**. Porém, essa missão não será tão simples e você logo perceberá! :)
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/foto2_zps3o3fbcza.jpg" description="" %}
 
 Uma das coisas legais que me chamou a atenção foi que a maioria das partes de ação (tiroteios), rola um rock bem empolgante que dá um clima muito bacana ao jogo. Para você ter uma ideia, veja uma parte da lista de músicas licenciadas do jogo (além da trilha original):
 
@@ -36,6 +38,8 @@ Uma das coisas legais que me chamou a atenção foi que a maioria das partes de 
 - Nine Inch Nails - [The Day The World Went Away](http://youtu.be/DNrnjyuD4fE)
 
 Quanto aos gráficos e jogabilidade, o jogo não peca em nada. Um recurso interessante é que como sempre você anda com sua equipe, você pode coordenar os ataques dos seus parceiros quando achar necessário.
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/foto1_zpsbha7mfyz.jpg" description="" %}
 
 Talvez, o ponto fraco do jogo seja a demorada tela de *loading*, que chega a incomodar um pouquinho, pois quando você morre, demora um pouco para retornar a ação.
 

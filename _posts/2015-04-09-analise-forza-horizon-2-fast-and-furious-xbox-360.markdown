@@ -5,8 +5,8 @@ date:       2015-04-09 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 23
 categories: jogando/analise
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/23_fh2ff/post_thumbnail_zpsqfpnswcj.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/23_fh2ff/post_header_zpsvzdmtemp.jpg
 sinopse: >
   DLC standalone de Forza Horizon 2 que vale muito a pena conferir!
 ---

@@ -5,10 +5,11 @@ date:       2014-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 15
 categories: jogando/analise
-thumbnail:  
-cover: 
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/15_deadlight/post_thumbnail_zpsyjahhodq.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/15_deadlight/post_header_zpsyum2vdzl.jpg
 sinopse: >
   A contagem de jogos terminados em 2014 já começou! Talvez não em grande estilo, mas com um jogo relativamente bom: Deadlight!
+game_cover:
 ---
 A contagem de jogos terminados em 2014 já começou! Talvez não em grande estilo, mas com um jogo relativamente bom: **Deadlight**!
 
@@ -22,10 +23,11 @@ Ao começar o jogo, você fica encantado com os gráficos e com sua jogabilidade
 
 Outra coisa chata é que em alguns pontos do jogo, a mecânica do jogo simplesmente muda e você tem que morrer algumas vezes para descobrir como passar, por exemplo, no jogo inteiro para atravessar as grades, você tinha que pular e agarrar a parte de cima (caso esteja em alcance) e subir, aí chega em uma parte onde você está fugindo de um helicóptero e chega numa grade, tentei várias pular no parte de cima dela e sem sucesso, até que percebi que a grade era escalável desde embaixo.
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/15_deadlight/foto1_zpshchsdik3.jpg" description="Os cenários são muito bonitos!" %}
+
 Bom, em resumo até que gostei do jogo, pois o investimento que tive nele foi baixo (peguei numa dessas promoções de final de ano da LIVE) e também porque gosto bastante dessa temática. Além disso, o jogo não é longo a ponto de enjoar dele e deixar de lado.
 
 {% include ficha.html
-  cover=''
   titulo='Deadlight'
   plataforma='Xbox 360'
   desenvolvedor='Tequila Works'

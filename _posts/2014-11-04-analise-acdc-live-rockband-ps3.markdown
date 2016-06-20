@@ -5,11 +5,11 @@ date:       2014-11-04 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 20
 categories: jogando/analise
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/post_thumbnail_zpsn4qcpjyr.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/post_header_zpsw3tudwvc.jpg
 sinopse: >
   Desde que joguei Guitar Hero pela primeira vez no PlayStation 2 que me tornei fã dos jogos do gênero musical do tipo "de guitarra", porém confesso que sempre joguei de maneira casual e, AC/DC Live: Rockband Track Pack é o primeiro que peguei para jogar até o final o modo carreira.
-
+game_cover:
 ---
 Desde que joguei **Guitar Hero** pela primeira vez no **PlayStation 2** que me tornei fã dos jogos do gênero musical do tipo *"de guitarra"*, porém confesso que sempre joguei de maneira casual e, **AC/DC Live: Rockband Track Pack** é o primeiro que peguei para jogar até o final o modo carreira.
 
@@ -44,6 +44,8 @@ Ele é composto por 18 músicas que não tem o que por nem tirar, em ordem alfab
 
 O jogo segue o mesmo padrão de todos os jogos do gênero, ou seja, você tem que apertar as teclas coloridas (acordes) de acordo com as notas da música que aparecem na tela e no momento certo, apertar a barra central (strum bar), que simula uma palheta, para tocar a nota.
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/foto1_zpstyxdzg65.jpg" description="" %}
+
 Conforme você toca, você é avaliado através da sua barra de desempenho, se você erra, ela desce para o vermelho, e se você continuar errando muito, você falhará na música e terá que começá-la no início.
 
 Agora, se você acertar as notas na sequência sem errar, você irá aumentar o fator de multiplicação dos pontos, podendo chegar até em 4x. E com isso, sua barra de especial também encherá e, quando estiver cheia, você pode usá-la para dobrar seu fator de multiplicação, podendo assim, chegar até em 8x. Isso ajuda muito em partes difíceis, pois você escapa de ficar no vermelho! :)
@@ -51,6 +53,8 @@ Agora, se você acertar as notas na sequência sem errar, você irá aumentar o 
 ## Minha Performace
 
 Eu terminei jogando no *Hard* com a guitarra, até porque este jogo **não tem suporte para jogar com controle**. Eu jogo neste nível porque assim todas as cinco teclas coloridas são utilizadas, no modo *Normal*, somente quatro teclas são usadas e é bem mais lento o ritmo. No *Hard* dá para jogar legal! :)
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/foto2_zpsex0kaqp4.jpg" description="" %}
 
 No final das contas, não encontrei muita dificuldade para tocas as 18 músicas, entretanto, isso foi sem me preocupar em fazer 100% em cada música, pois tem algumas que são impossíveis! ^^
 

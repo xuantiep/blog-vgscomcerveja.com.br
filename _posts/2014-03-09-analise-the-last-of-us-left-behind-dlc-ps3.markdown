@@ -5,10 +5,11 @@ date:       2014-03-09 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 16
 categories: jogando/analise
-thumbnail:  
-cover: 
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/16_tlou_dlc/post_thumbnail_zps82wwdebu.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/16_tlou_dlc/post_header_zpsddfnvgqu.jpg
 sinopse: >
   Após ver o anúncio de um DLC single player para The Last of Us, pensei comigo mesmo (e pelo Twitter): "Acho que este será o primeiro DLC que comprarei na vida!", dito e feito, DLC comprada, finalizada e sem arrependimentos! ^^
+game_cover:
 ---
 Após ver o anúncio de um *DLC single player* para **The Last of Us**, pensei comigo mesmo (e pelo [Twitter](https://twitter.com/felipebbarbosa/status/422834851637493760)): *"Acho que este será o primeiro DLC que comprarei na vida!"*, dito e feito, *DLC* comprada, finalizada e sem arrependimentos! ^^
 
@@ -18,14 +19,17 @@ Após ver o anúncio de um *DLC single player* para **The Last of Us**, pensei c
 
 A história se passa em um momento específico do jogo original, porém não vivenciada por nós jogadores. Entretanto, durante esta aventura, o jogo volta ao passado e conta uma história de **_Ellie_** antes dos acontecimentos da trama principal,  onde ela vive uma aventura em um *shopping* abandonado com sua amiga **_Riley_**, ou seja, o jogo tem duas linha narrativas. E o jeito que elas são alternadas é brilhante e sutil!
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/16_tlou_dlc/foto1_zpsreuvj0od.jpg" description="" %}
+
 O jogo em si não apresenta muitas melhorias, a jogabilidade continua excelente, os gráficos continuam perfeitos.. Entretanto, notei algo que acredito que seja novidade: a possibilidade de enfrentar humanos e infectados ao mesmo tempo, onde as vezes é possível armar para que eles se enfrentem entre si e você passar ilesa pelo caminho, muito bacana! :)
 
 O ponto forte continua sendo a narrativa envolvente. É impressionante como o jogo te prende do início ao fim e os personagens "te conquistam", é muito difícil encontrar isso em jogos, por isso que acho que The Last of Us um jogo excepcional!
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/16_tlou_dlc/foto2_zpsya1lwbj7.jpg" description="" %}
+
 Bom, não tem muito o que falar, simplesmente joguem, pois apesar de ser um *DLC* com um valor (R$) relativamente alto, valeu a pena!
 
 {% include ficha.html
-  cover=''
   titulo='The Last of Us: Left Behind'
   plataforma='PlayStation 3'
   desenvolvedor='Naughty Dog'
