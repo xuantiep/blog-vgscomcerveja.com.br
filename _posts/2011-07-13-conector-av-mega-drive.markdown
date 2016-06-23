@@ -5,8 +5,8 @@ date:   2011-07-13 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/02_av_md/post_thumbnail_zps5iwdry2l.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/02_av_md/post_header_zpstpkaqsc7.jpg
 sinopse: >
   No começo deste ano, eu ganhei um Mega Drive modelo asiático do meu cunhado e desde então
   vinha sofrendo com a péssima imagem que meu adaptador RF transmitia para a televisão, com isso
@@ -26,6 +26,8 @@ simples que resolvi compartilhar.
 Primeiramente, estamos falando de um cabo A/V para **Mega Drive modelo asiático** que possua
 saída A/V no formato do conector DIN, como na foto abaixo:
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/02_av_md/md_traseira_zpsjq3g61xp.jpg" description="Traseira do Mega Drive modelo asiático" %}
+
 Em segundo lugar, não me responsabilizo sobre qualquer dano que seu videogame possa sofrer.
 Afinal, é um procedimento que encontrei na internet e não é de minha autoria! Enfim, vamos lá!
 
@@ -42,6 +44,10 @@ mas você pode usar o de um teclado antigo.
 ### Procedimento
 
 Bom, após conseguir os materiais, veja a pinagem do conector DIN:
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/02_av_md/conector_din_1_zpsjcs3b13i.png" description="Pinagem do conector DIN vista de frente." %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/02_av_md/conector_din_2_zpsrgqz4nxf.png" description="Conector DIN visto de frente." %}
 
 Só iremos utilizar os pinos 1, 3 e 5. Sendo o **Pino 1** para o sinal de vídeo, o **Pino 5** para
 o sinal de áudio e o **Pino 3** será o terra.

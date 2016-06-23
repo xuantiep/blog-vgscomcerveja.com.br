@@ -5,8 +5,8 @@ date:   2012-03-30 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando/utilidade-publica
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/post_thumbnail_zpsst4rdhmx.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/post_header_zpsrxhihkpa.jpg
 sinopse: >
   Se tem uma coisa que curto demais, são listas! E a lista de hoje é dos primeiros jogos para PlayStation lançados no formato Longbox. Para quem não sabe, nos primeiros anos de vida, os jogos de PS1 eram lançados em caixas grandes similares à dos jogos do Sega Saturn.
 ---
@@ -27,6 +27,8 @@ A maioria dos jogos *longbox* forma relançados em caixa de CD depois, tornando 
 Este jogo é bem curioso e não está na lista, pois há uma discussão muito grande em torno dele por ter sido lançado ou não neste formato. O último jogo lançado neste formato foi o **Tecmo World Golf** em Julho de 1996 e o **Space Hulk** foi lançado em Setembro de 1996, dois meses de diferença. Neste intervalo, já tinham sido lançados 15 jogos no formato padrão de CD.  
 
 Mas tem uma ou duas cópias deste jogo no formato *longbox* conhecidas no mundo. Porém, estão sem o manual! Sendo assim, acredita-se que estas caixas foram feitas antes do lançamento do jogo e foram usadas apenas para exibição promocional, já que no lançamento oficial do jogo foi já no formato de caixa de CD mesmo.
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/space-hulk-ps1-playstation-1-psx-long-box_zps7vgi1yhb.jpg" description="" %}
 
 Entretanto, mesmo sendo uma caixa promocional, ela é considerada um dos itens mais raros para PS1.
 
