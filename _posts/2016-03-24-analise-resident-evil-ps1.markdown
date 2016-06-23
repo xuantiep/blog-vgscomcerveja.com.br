@@ -5,10 +5,11 @@ date:       2016-03-24 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 28
 categories: jogando/analise
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/post_thumbnail_zpsrx8hykgp.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/post_header_zps2iwvhlnk.jpg
 sinopse: >
   Neste mês de Março, mais precisamente, no último dia 22, a série Resident Evil completou 20 anos! E nada melhor para comemorar do rejogar o primeiro game da série no bom e velho PS1, né?
+game_cover:
 ---
 Para quem acompanha o blog, já deve saber que no final do ano passado, eu tinha finalizado a campanha com a Jill, que é moleza comparada a do Chris. Porém, só fui retomar e terminar a campanha do Chris recentemente! Para quem não está entendendo nada do que estou falando, continue a leitura que já explico! ;)
 
@@ -40,21 +41,29 @@ d) Controlar a situação.*
 *__Equipe Alpha:__ Barry Burton, Joseph Frost, Chris Redfield, Jill Valentine, Brad Vickers e Albert Wesker.  
 __Equipe Bravo:__ Richard Aiken, Rebecca Chambers, Enrico Marini, Forest Speyer e Kenneth J. Sullivan.*
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto4_zpsdkul5cv8.jpg" description="Jill Valentine!" %}
+
 Este é o contexto do jogo, que começa com uma "incrível" apresentação em *live action* (atores reais) da equipe Alpha chegando à floresta onde o helicóptero da equipe Bravo pousou, porém são surpreendidos por cães furiosos e se veem obrigados a fugirem correndo, pois o helicóptero deles já havia partido, até que depararam com uma mansão misteriosa, eles não tem outra opção a não ser entrar nela e se protegerem do perigo. Lá dentro, eles começam a investigar o local para tentar descobrir o que está acontecendo!
 
 Você pode escolher entre dois membros da equipa para assumir o controle: Jill Valentine ou Chris Redfield. O engraçado que a história contada pelo personagem da sua escolha são distintas, ou seja, não ocorrem simultaneamente, como em RE 2.
 
 Se você escolher a Jill, sua vida será bem mais fácil, com mais espaço no inventário (oito espaços) e algumas mordomias logo de início que fazem a diferença na dificuldade, como o *Lockpick* que você ganha, e serve para abrir algumas portas sem a necessidade da chave correta. Já se você jogar com Chris, a coisa complica um pouco, você não ganha esse *Lockpick*, e tem dois espaços a menos no inventário, só isso já dificulta bem as coisas, pois você vai ter que remanejar bem seu inventário.
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto3_zpsczbyyppb.jpg" description="Mapa da mansão e seu inventário!" %}
+
 RE é um jogo de *survival horror old-school*, então não tem essa de sair descarregando sua arma nos inimigos, pois as munições são bem escassas. Assim como as ervas medicinais, que recuperam sua vida.
 
 Por falar em inimigos, todo mundo deve saber que são zumbis, né? E neste primeiro, eles são toscos e lentos, fáceis de desviar. Porém, conforme você avança no jogo, vai surgindo novas ameaças, tais como: cachorros zumbis (MA-39 Cerberus), tubarões (Fi-3 Neptune), cobras, *hunters* (MA-121 Hunter) e o *Tyrant* (T-002 Tyrant)! E o mais chatos deles, com certeza, são os *hunters*, se bobear com eles, te arrancam sua cabeça em um só golpe, e aí meu amigo, Game Over!
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto1_zpsaczc2xn3.jpg" description="O primeiro zumbi do jogo!" %}
 
 Deu Game Over!? Putz, em RE não tem essa de *continue* não, você voltará para a tela de título e poderá no máximo voltar para o último local salvo. Ah, não salvou? Sinto muito, mas terá que voltar desde o início! Tá, mas como funciona o sistema de *save*, não é automático? Não! ;P
 
 Para salvar, você terá que encontrar as famosas máquinas de escrever, que geralmente ficam em *save rooms*. Mas não é só isso, você também terá que ter *Ink Ribbons* (fitas usadas em máquinas de escrever) disponíveis para conseguir salvar seu progresso. E estas fitas, também são escassas, então é bom você economizar!
 
 Nestas *save rooms* você também encontrará um baú, onde você pode armazenar itens que não sejam necessários carregar contigo no seu inventário no momento, mas você poderá pegar quando quiser em qualquer outro baú, um recurso bem interessante e necessário. Quando você entra nestas salas, toca uma música icônica e tranquilizante, pois ali, você estará seguro.. :)
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto5_zps6w156tfm.jpg" description="Quem já jogou, lembra muito bem desta parte! ^^" %}
 
 ## Tá, mas e a jogabilidade?
 
@@ -64,6 +73,8 @@ Mas o pior de tudo: não é possível atirar e andar ao mesmo tempo, ou você at
 
 Porém, sendo muito sincero, essa jogabilidade não em incomoda nem um pouco, não sei se é pela nostalgia, mas joguei totalmente tranquilo, e olha que a versão que tenho, não tem suporte ao Dual Shock, então a movimentação é feita pelo D-Pad mesmo!
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto2_zps8masepot.jpg" description="Tem que tomar cuidado com estes lugares apertados!" %}
+
 ## E os gráficos e sons?
 
 Os gráficos são ótimos, inferiores aos seus sucessores (óbvio), mas ótimos! Um baita avançado para época, acredito eu!
@@ -71,6 +82,8 @@ Os gráficos são ótimos, inferiores aos seus sucessores (óbvio), mas ótimos!
 E a trilha sonora é fantástica também, sendo que algumas foram mantidas no jogos seguintes. Em tempo, acho que a narração da chamada do nome do jogo na tela de título é totalmente icônica! Aposto que quem já jogou, acabou de ouvi-la mentalmente! ^^
 
 Agora, já a narração dos personagens no jogo em si, não é lá grande coisa, tem algumas partes totalmente desincronizadas! :)
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto6_zpsj3hoiy9l.jpg" description="Os gráficos são bem caprichados!" %}
 
 ## Resumindo
 

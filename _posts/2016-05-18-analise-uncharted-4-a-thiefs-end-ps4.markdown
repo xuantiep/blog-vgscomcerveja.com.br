@@ -5,10 +5,11 @@ date:       2016-05-18 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 30
 categories: jogando/analise
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/post_thumbnail_zpsv8qg40yr.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/post_header_zpsdtauy0t7.jpg
 sinopse: >
   Maravilhoso, incrível, espetacular.. Faltam elogios para Uncharted 4 que atendeu, ou melhor, superou todas as expectativas que tinha sobre o jogo.
+game_cover:
 ---
 A **Naughty Dog** provou mais uma vez, que sabe contar uma boa história com doses perfeitas de ação, aventura, drama e bom humor, sem deixar de lado a ótima experiência de jogar! Fiz questão de comprar o jogo no lançamento, e após 16 horas de jogo, concluí o que teoricamente encerra a saga de Nathan Drake.
 
@@ -31,6 +32,40 @@ O sistema de combate está fantástico, muito detalhado, você pode optar por sa
 Esse modo furtivo foi aprimorado, agora em cada inimigo aparece uma barrinha branca quando você fica no campo de visão dele, aí quando ela enche, ela fica amarela, e significa que ele desconfiou de algo e vai investigar, se ele te descobrir, a barra fica laranja, e você é alertado ao outros, iniciando o confronto. Ainda assim, é possível que você despiste deles e tudo volta ao normal. Um detalhe interessante é o recurso do mato alto para se esconder, que aliás, é muito bonito! ^^
 
 E por falar em beleza, o visual do game está espetacular, não é exagero! Confira algumas telas que capturei:
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160512101429_zpsfoajs5ad.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160512113436_zpsqicppcdm.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160512094518_zpsqb6vgfgz.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160512003018_zps2ruc5ucc.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160511133135_zps6ewrylsr.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160511145925_zpsue45lr8q.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160511113849_zpsjtgh2ppn.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160511110024_zpsqfcbgqft.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160511104746_zpsx5d6rogk.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160511104803_zpslwuvke5m.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160510174635_zpsywecexp1.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160510213433_zpshhcmaoij.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160510175211_zpspgm5l1vr.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160510215920_zpsfn9d8eov.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160511112340_zpsvfp4oycg.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160510175059_zpsnjss1y8s.jpg" description="" %}
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/Uncharted%204_%20A%20Thiefrsquos%20Endtrade_20160510211527_zpshad0sjm5.jpg" description="" %}
 
 Quando disse no [post passado](/jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html) sobre que a trilogia remasterizada não tinha gráficos 100% para PS4, era disso que eu estava falando! Não sei se esse é todo o poder do PS4, mas é com certeza, um dos gráficos mais detalhados que já vi! É tudo muito caprichado: cenários, personagens e suas expressões, roupas sujas, molhadas ou manchadas de suor, enfim, tudo muito bem feito!
 

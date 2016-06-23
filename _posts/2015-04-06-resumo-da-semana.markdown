@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "Resumo da Semana #08"
+title:      "Resumo da Semana - Filme de Metal Gear Solid?; Nintendo Direct; Assassin's Creed Chronicles e mais.."
 date:       2015-04-06 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/14_resumo08/post_thumbnail_zpsjntnuhox.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/14_resumo08/post_header_zpsnr5smkf0.jpg
 sinopse: >
-  Filme de Metal Gear Solid?, Nintendo Direct, Assassin's Creed Chronicles e mais.. Confira as novidades da semana do dia 31/03 à 06/04 de 2015!
+  Confira as novidades da semana do dia 31/03 à 06/04 de 2015!
 ---
 ## Possível filme de Metal Gear Solid ganha roteirista
 
@@ -51,6 +51,8 @@ Fonte: [N-Party](http://www.nparty.com.br/2015/04/um-breve-resumo-do-que-foi-apr
 ## Jogos grátis de Abril da PS+
 
 E para  finalizar, confira a lista de jogos gratuitos para assinantes da PS+ no mês de Abril:
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/14_resumo08/ps_plus_abril_zpsjqk5hnz4.jpg" description="" %}
 
 - Tower of Guns (PS3 / PS4);
 - Never Alone (PS4);

@@ -1,14 +1,14 @@
 ---
 layout:     post
-title:      "Resumo da Semana #01"
+title:      "Resumo da Semana - Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.."
 date:       2014-12-08 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/06_resumo01/post_thumbnail_zpsb5uomtqq.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/06_resumo01/post_header_zpswrdxk1ww.jpg
 sinopse: >
-   Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.. Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
+  Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
 ---
 ## Vencedores da The Game Awards (TGA)
 
@@ -216,4 +216,6 @@ E a grande surpresa do final de semana foi o anúncio da **Capcom** sobre o novo
 
 ## R.I.P. Ralph Baer
 
-E por fim uma notícia triste! Faleceu neste sábado (06/12), Ralph Baer, aos 92 anos. Ele que é considerado o "pai dos videogames" por ter criado o primeiro console doméstico, o **Magnavox Odyssey**. Descanse em Paz! :(
+E por fim uma notícia triste! Faleceu neste sábado (06/12), Ralph Baer, aos 92 anos. Ele que é considerado o "pai dos videogames" por ter criado o primeiro console doméstico, o **Magnavox Odyssey**.
+
+  {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/06_resumo01/ralph-baer_zpshqqs5tj2.jpg" description="Descanse em Paz! :(" %}

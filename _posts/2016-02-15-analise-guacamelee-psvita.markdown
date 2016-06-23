@@ -5,10 +5,11 @@ date:       2016-02-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 27
 categories: jogando/analise
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/post_thumbnail_zpsrih5irqv.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/post_header_zpskzbucnrf.jpg
 sinopse: >
   Para quem viu minha participação no MeMe: "O Que Você Jogou em 2015?" deve ter notado que joguei o tal do Guacamelee!, um "metroidvania" muito divertido e viciante!
+game_cover: 
 ---
 Lançado originalmente em 2013 para PS Vita, PS3 e PC pela [DrinkBox Studios](http://www.drinkboxstudios.com/), e mais tarde foi lançado uma versão incrementada, o **Guacamelee! Super Turbo Championship Edition**, para PS4, Xbox 360, Xbox ONE e WiiU, ou seja, você praticamente não tem desculpas para não jogá-lo! ^^
 
@@ -36,6 +37,8 @@ Uma destas habilidades é o poder de alternar entre o mundo dos vivos com o dos 
 
 A questão de exploração, não é nenhum pouco maçante, muito pelo contrário, a sensação de recompensa é enorme, seja pelo novos poderes adquiridos, como também com os troféus conquistados rapidamente! :)
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/foto1_zpsqaax1wh9.jpg" description="Você consegue sequências de combos incríveis!" %}
+
 ## Por falar em troféus..
 
 O jogo não é muito difícil de conquistar todos e ganhar a platina! Talvez, o troféu mais chato, seja o de zerar no modo *Hard*, mas aí vai uma dica: existe uma dica que permite ganhar este troféu, sem ter jogar o jogo inteiro novamente no *Hard*. Para isto, você vai no menu principal, faça a combinação (caso você já tenha atualizado o jogo): trás, frente, trás, frente, quadrado, triângulo, quadrado e quadrado.. E ao zerar o jogo, vá em novo jogo, selecione *Hard* e coloque em Não. Você irá iniciar o jogo no último *checkpoint*, aí basta derrotar o último chefão e o troféu será seu! :)
@@ -48,12 +51,13 @@ Uma das coisas mais legais, são as referências à filmes, memes da internet e 
 
 Para você ter uma ideia, tem referências ao Mega Man, Zelda, Metroid, Mario, Grumpy Cat (meme da internet), Alex Kidd, Donkey Kong e vários outros.. Muito legal!
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/foto2_zpsphsiuejt.jpg" description="Por exemplo, nesta imagem tem referências à dois jogos! :)" %}
+
 ## Conclusão
 
 O jogo vale muito a pena! É perfeito para jogar no PS Vita, e ele é *cross-over*, ou seja, dá para jogá-lo no PS Vita e depois continuar no PS3, e vice-versa! Para você ter uma ideia do quanto adorei o jogo, esses dias estava em promoção a versão para PS4 na PS Store (este jogo não tem em mídia física), que acabei adquirindo só para ter motivo para jogá-lo em um futuro breve! Enfim, recomendo DEMAIS!
 
 {% include ficha.html
-  cover=''
   titulo='Guacamelee!'
   plataforma='PS Vita'
   desenvolvedor='DrinkBox Studios'

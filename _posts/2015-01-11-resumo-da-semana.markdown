@@ -1,19 +1,21 @@
 ---
 layout:     post
-title:      "Resumo da Semana #03"
+title:      "Resumo da Semana - Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.."
 date:       2015-01-11 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  
-cover:
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/08_resumo03/post_thumbnail_zpsso3zltd8.jpg
+cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/08_resumo03/post_header_zpshg6uztgs.jpg
 sinopse: >
-   Nintendo abandona o Brasil, Razer lançará console Android, Resident Evil HD já está em pré-venda e mais.. Confira algumas novidades da semana!
+    Confira algumas novidades da semana!
 ---
 
 ## Nintendo está fora do Brasil
 
 No último dia 9, a **Nintendo** anunciou que a empresa **Gaming Brasil** não distribuirá mais produtos da fabricante japonesa no Brasil devido às altas tarifas dos impostos nacionais. A empresa representava por aqui à quatro anos.
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/08_resumo03/Super-Sad-Mario_zpsufbinr0y.jpg" description="" %}
 
 Fonte: [Nintendo World](http://nintendoworld.com.br//4569-ARTIGOS-O-BRASIL-E-UM-MERCADO-UNICO.-NAO-VAMOS-DESISTIR-DELE-DIZ-NINTENDO)
 
@@ -35,6 +37,8 @@ Fonte: [Info](http://info.abril.com.br/noticias/tecnologia-pessoal/2015/01/conso
 
 Para quem está ansioso para conferir o novo *remake* de **Resident Evil**, já pode realizar a pré-venda em sua plataforma favorita (PSN, Xbox LIVE ou Steam). E para quem está muito ansioso e tem um **Xbox ONE** ou **PlayStation 4**, além de fazer a pré-venda, você já pode realizar o *download* prévio do jogo para garantir que possa jogá-lo nas primeiras horas do lançamento, próximo dia 20!
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/08_resumo03/RE-009_bmp_jpgcopy.0_zpstvjagqun.jpg" description="" %}
+
 O jogo custa R$ 39,90 em qualquer plataforma. Porém, no **Steam**, o jogador receberá, além do jogo, a trilha sonora e um *artbook* digital.
 
 Fonte: [REVIL](http://residentevil.com.br/site/category/jogos-2/serie-principal/resident-evil-hd-remaster-serie-principal)
@@ -45,6 +49,8 @@ Fonte: [REVIL](http://residentevil.com.br/site/category/jogos-2/serie-principal/
 
 Para quem não conhece, o jogo **Stadium Events** é praticamente o jogo mais raro (e caro) do NES, pois em 1987, a **Nintendo** comprou os direitos de **Family Fun Fitness** da **Bandai** e com ele veio os direitos do jogo. Sendo assim, foi ordenado o recolhimento do jogo das lojas e quase nenhum sobreviveu, tornando assim, um jogo raríssimo.
 
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/08_resumo03/_57_zpsrkho5sld.jpg" description="" %}
+
 Porém essa semana, apareceu um lacrado de fábrica no site de leilões [eBay](http://www.ebay.co.uk/itm/111567662630?clk_rvr_id=762680720636&rmvSB=true) e, até o momento, faltando ainda quatro dias para encerrar, o valor se encontra em US$ 99.600,00 com 80 lances.. É muito dinheiro! :P
 
 Fonte: [RetroCollect](http://www.retrocollect.com/News/the-rarest-a-most-expensive-nintendo-nes-game-stadium-events-up-for-sale-on-ebay-a-factory-sealed.html)
@@ -54,5 +60,7 @@ Fonte: [RetroCollect](http://www.retrocollect.com/News/the-rarest-a-most-expensi
 ## Grim Fandango Remastered será localizado em PT-BR?
 
 Para quem estava com esta dúvida, a resposta é SIM! Ele será dublado em português brasileiro e, o mais legal (ou não), será usada dublagem original de 1998! Quem confirmou foi **Greg Rice**, um dos produtores da **Double Fine** (produtora do jogo)! O jogo sairá dia 27 de Janeiro para PC, PS4 e PS Vita.
+
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/08_resumo03/gr_zpsigwlaqp5.jpg" description="" %}
 
 Fonte: [Scub](http://www.scub.info/grim-fandango-remastered-portugues)
