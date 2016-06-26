@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Brasil Game Show 2015"
-date:       2015-01-02 19:00
+date:       2015-10-18 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando/especiais

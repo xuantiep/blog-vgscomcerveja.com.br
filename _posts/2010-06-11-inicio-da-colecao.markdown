@@ -11,6 +11,7 @@ sinopse: >
   Pois é, não resisti! Comecei a colecionar videogames.
   Sempre fui apaixonado por jogos eletrônicos e sempre tive dó de me desfazer dos meus videogames antigos!
   Mas agora, todos eles fazem parte da minha coleção! :)
+comments: true
 ---
 Pois é, não resisti! Comecei a colecionar videogames.
 
