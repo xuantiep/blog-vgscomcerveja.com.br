@@ -20,8 +20,8 @@ E por fim, em 2016, o blog foi migrado do blogspot.com para o domínio www.vgsco
 
 ## Redes Sociais
 
-[Facebook](http://www.facebook.com/vgscomcerveja)
+{% include social-links.html %}
 
-[Twitter](http://www.twitter.com/vgscomcerveja)
+## Quem Faz?
 
-[Google+](https://plus.google.com/u/0/b/111556768346884042042/111556768346884042042/posts)
+{% include autor-profile.html %}
