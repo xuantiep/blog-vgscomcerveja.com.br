@@ -16,7 +16,7 @@ layout: default
         <div class="post-meta">
           <span class="post-author icon-user">{{ post.author }}</span>
           <span class="post-date icon-calendar">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <span class="post-comments icon-comment-empty">0</span>
+          <span class="post-comments icon-comment-empty"><a href="{{ post.url }}#disqus_thread"></a></span>
         </div>
 
         {% if post.thumbnail %}
