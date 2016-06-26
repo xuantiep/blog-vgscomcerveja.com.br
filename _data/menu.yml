@@ -1,6 +1,9 @@
 - title:
   url: /
   classe: icon-home
+- title:
+  url: /feed.xml
+  classe: icon-rss
 - title: Notícias
   url: /noticias/
   classe: icon-newspaper
@@ -36,5 +39,3 @@
       url: /sobre/blog/
     - title: Parceiros
       url: /sobre/parceiros/
-    - title: Feed RSS
-      url: /feed.xml
