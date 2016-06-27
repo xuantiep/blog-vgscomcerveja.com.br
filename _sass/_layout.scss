@@ -381,12 +381,19 @@
  */
 .page-content {
     //padding: $spacing-unit 0;
+    padding: 50px 0;
     p {
         //font-family: $base-font-post;
     }
 
     @media (max-width: $on-palm) {
-        margin-top: 60px;
+      padding: 0;
+      margin-top: 60px;
+    }
+
+    .main-wrapper {
+        box-shadow: 2px 2px 10px #dcdcdc;
+        border: 1px solid #ededed;
     }
 
 }
@@ -563,6 +570,7 @@
     width: 100%;
     z-index:-1;
     visibility: visible;
+    margin-bottom: 20px;
 }
 
 
@@ -640,4 +648,15 @@
 
 .display-flex {
   display: inline-flex;
+}
+
+.page-title {
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 100;
+  margin-bottom: 20px;
+
+  span {
+    font-size: 4em;
+  }
 }
