@@ -4,7 +4,7 @@ title:  "Tectoy Wiki"
 date:   2012-11-01 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
-categories: colecionando/utilidade-publica
+categories: colecionando utilidade-publica
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/07_tectoy_wiki/post_thumbnail_zps1yqblaqx.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/07_tectoy_wiki/post_header_zpsizest5ip.jpg
 sinopse: >

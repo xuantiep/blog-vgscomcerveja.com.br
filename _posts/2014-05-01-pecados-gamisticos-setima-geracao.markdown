@@ -4,7 +4,7 @@ title:      "Pecados Gamísticos #01 - Sétima Geração"
 date:       2014-05-01 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
-categories: jogando/toplist
+categories: jogando toplist
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/post_thumbnail_zpstgclqajr.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/01_pecados7g/post_header_zpspal0knnh.jpg
 sinopse: >

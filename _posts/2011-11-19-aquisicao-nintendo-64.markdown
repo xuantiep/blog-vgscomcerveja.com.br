@@ -4,7 +4,7 @@ title:      "Aquisição - Nintendo Sixty Fooouur!"
 date:       2011-11-19 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/10_n64/post_thumbnail_zpseuikw0fu.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/10_n64/post_header_zps9xibrtkr.jpg
 sinopse: >

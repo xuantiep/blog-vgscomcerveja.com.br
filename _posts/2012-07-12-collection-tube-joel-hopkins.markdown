@@ -4,7 +4,7 @@ title:  "Joel Hopkins, Colecionador Australiano de Games"
 date:   2012-07-12 19:00
 author: Felipe B. Barbosa
 session: Collection Tube &#35 04
-categories: colecionando/collection-tube
+categories: colecionando collection-tube
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/04_joel_hopkins/post_thumbnail_zpshdwittcc.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/04_joel_hopkins/post_header_zpsf7oqajit.jpg
 sinopse: >

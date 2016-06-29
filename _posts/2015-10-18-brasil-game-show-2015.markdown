@@ -4,7 +4,7 @@ title:      "Brasil Game Show 2015"
 date:       2015-10-18 19:00
 author:     Felipe B. Barbosa
 session:    Especial
-categories: jogando/especiais
+categories: jogando especiais
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/02_bgs2015/post_thumbnail_zpsrou3ouyv.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/02_bgs2015/post_header_zpsefluddj1.jpg
 sinopse: >

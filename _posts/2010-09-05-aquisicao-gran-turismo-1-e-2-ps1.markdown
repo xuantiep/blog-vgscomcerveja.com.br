@@ -4,7 +4,7 @@ title:  "Aquisição - Série Gran Turismo (PS1)"
 date:   2010-09-05 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/03_gt/post_thumbnail_zpsonfbxofa.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/03_gt/post_header_zps2eif88fh.jpg
 sinopse: >

@@ -4,7 +4,7 @@ title:      "10 Jogos que Marcaram Minha Infância"
 date:       2014-08-13 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
-categories: jogando/toplist
+categories: jogando toplist
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/02_infancia/post_thumbnail_zps7gwsuvcc.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/02_infancia/post_header_zpswytcheo5.jpg
 sinopse: >

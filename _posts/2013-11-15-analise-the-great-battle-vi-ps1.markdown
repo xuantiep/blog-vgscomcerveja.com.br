@@ -4,7 +4,7 @@ title:      "Análise - The Great Battle VI (PS1)"
 date:       2013-11-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 12
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/12_great_battle6/post_thumbnail_zpsdv1g7kdy.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/12_great_battle6/post_header_zpsloqmm5ss.jpg
 sinopse: >

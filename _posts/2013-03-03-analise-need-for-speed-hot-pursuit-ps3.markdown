@@ -4,7 +4,7 @@ title:      "Análise - Need for Speed: Hot Pursuit (PS3)"
 date:       2013-03-03 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 02
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/02_nfshp/post_thumbnail_zps6tcsfzu4.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/02_nfshp/post_header_zpsh3t8csrc.jpg
 sinopse: >

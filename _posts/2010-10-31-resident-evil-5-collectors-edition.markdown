@@ -4,7 +4,7 @@ title:  "Resident Evil 5 Collector's Edition"
 date:   2010-10-31 19:00
 author: Felipe B. Barbosa
 session: Edição de Colecionador &#35 01
-categories: colecionando/edicao-colecionador
+categories: colecionando edicao-colecionador
 thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/ed_colecionador/01_re5/post_thumbnail_zpsw28fr4vm.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/ed_colecionador/01_re5/post_header_zpsza8ub1me.jpg
 sinopse: >

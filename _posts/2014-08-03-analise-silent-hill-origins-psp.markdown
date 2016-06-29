@@ -4,7 +4,7 @@ title:      "Análise - Silent Hill: Origins (PSP)"
 date:       2014-08-03 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 18
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/post_thumbnail_zpslpxxygas.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/18_shorigins/post_header_zps8yab8i6h.jpg
 sinopse: >

@@ -4,7 +4,7 @@ title:      "Análise - The Last of Us: Left Behind (PS3)"
 date:       2014-03-09 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 16
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/16_tlou_dlc/post_thumbnail_zps82wwdebu.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/16_tlou_dlc/post_header_zpsddfnvgqu.jpg
 sinopse: >

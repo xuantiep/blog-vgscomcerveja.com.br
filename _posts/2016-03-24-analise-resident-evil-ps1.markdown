@@ -4,7 +4,7 @@ title:      "Análise - Resident Evil (PS1)"
 date:       2016-03-24 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 28
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/post_thumbnail_zpsrx8hykgp.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/post_header_zps2iwvhlnk.jpg
 sinopse: >

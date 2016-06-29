@@ -4,7 +4,7 @@ title:  "Lista de Jogos PlayStation no Formato Longbox"
 date:   2012-03-30 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
-categories: colecionando/utilidade-publica
+categories: colecionando utilidade-publica
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/post_thumbnail_zpsst4rdhmx.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/05_ps1_longbox/post_header_zpsrxhihkpa.jpg
 sinopse: >

@@ -4,7 +4,7 @@ title:  "Aquisição - PlayStation 3 Slim"
 date:   2010-07-15 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/02_ps3/post_thumbnail_zpsnzqpnqgv.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/02_ps3/post_header_zpsy3fezkmo.jpg
 sinopse: >

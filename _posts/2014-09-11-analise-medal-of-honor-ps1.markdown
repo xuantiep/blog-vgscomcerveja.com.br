@@ -4,7 +4,7 @@ title:      "Análise - Medal of Honor (PS1)"
 date:       2014-09-11 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 19
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/19_moh/post_thumbnail_zpst2ewgsm1.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/19_moh/post_header_zps0tex671b.jpg
 sinopse: >

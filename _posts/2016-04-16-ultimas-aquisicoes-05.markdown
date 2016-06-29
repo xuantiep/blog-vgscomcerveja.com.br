@@ -4,7 +4,7 @@ title:      "Últimas Aquisições #05 - Março/16"
 date:       2016-04-16 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/19_aquisicoes05/post_thumbnail_zpsowr5pp5g.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/19_aquisicoes05/post_header_zpsg34z4e8q.jpg
 sinopse: >

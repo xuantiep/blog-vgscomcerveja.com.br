@@ -15,27 +15,29 @@
       url: /jogando/analise/
     - title: Especiais
       url: /jogando/especiais/
+    - title: Util. Pública
+      url: /jogando/utilidade-publica/
     - title: Toplists
-      url: /jogando/toplists/
+      url: /jogando/toplist/
 - title: Colecionando
   url: /colecionando/
   classe: icon-database
   subitems:
     - title: Coleção Pessoal
       url: /colecionando/colecao-pessoal/
-    - title: Edição de Colecionador
+    - title: Edição Colecionador
       url: /colecionando/edicao-colecionador/
     - title: Mosca Branca
       url: /colecionando/mosca-branca/
     - title: Utilidade Pública
       url: /colecionando/utilidade-publica/
     - title: Toplists
-      url: /colecionando/toplists/
+      url: /colecionando/toplist/
 - title: Sobre
   url: /sobre/
-  classe: icon-copyright
+  classe: icon-at
   subitems:
     - title: Blog
-      url: /sobre/
+      url: /sobre/blog/
     - title: Parceiros
       url: /sobre/parceiros/

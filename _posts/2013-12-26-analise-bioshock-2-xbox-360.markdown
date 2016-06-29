@@ -4,7 +4,7 @@ title:      "Análise - BioShock 2 (Xbox 360)"
 date:       2013-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 13
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/13_bioshock2/post_thumbnail_zpsfxrjds8k.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/13_bioshock2/post_header_zpshxqdschw.jpg
 sinopse: >

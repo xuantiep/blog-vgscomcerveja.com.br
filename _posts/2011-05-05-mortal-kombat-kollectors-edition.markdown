@@ -4,7 +4,7 @@ title:  "Mortal Kombat Kollector's Edition"
 date:   2011-05-05 19:00
 author: Felipe B. Barbosa
 session: Edição de Colecionador &#35 02
-categories: colecionando/edicao-colecionador
+categories: colecionando edicao-colecionador
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/ed_colecionador/02_mk/post_thumbnail_zps8pfkfiax.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/ed_colecionador/02_mk/post_header_zps7fdzhzxm.jpg
 sinopse: >

@@ -4,7 +4,7 @@ title:      "Últimas Aquisições #01"
 date:       2012-01-14 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/11_aquisicoes01/post_thumbnail_zpscavshl1w.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/11_aquisicoes01/post_header_zps65srbxye.jpg
 sinopse: >

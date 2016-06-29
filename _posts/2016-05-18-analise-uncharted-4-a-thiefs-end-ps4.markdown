@@ -4,7 +4,7 @@ title:      "Análise - Uncharted 4: A Thief's End (PS4)"
 date:       2016-05-18 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 30
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/post_thumbnail_zpsv8qg40yr.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/30_uncharted4/post_header_zpsdtauy0t7.jpg
 sinopse: >

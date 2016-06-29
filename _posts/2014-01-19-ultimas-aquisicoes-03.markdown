@@ -4,7 +4,7 @@ title:      "Últimas Aquisições #03"
 date:       2014-01-19 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/17_aquisicoes03/post_thumbnail_zpsphnv0rhe.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/17_aquisicoes03/post_header_zpswseapym6.jpg
 sinopse: >

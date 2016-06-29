@@ -4,7 +4,7 @@ title:  "Lista de Jogos de Master System Exclusivos Tectoy"
 date:   2011-01-22 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
-categories: colecionando/utilidade-publica
+categories: colecionando utilidade-publica
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/01_ms_ex_tectoy/post_thumbnail_zps9ffzfle9.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/01_ms_ex_tectoy/post_header_zpsewakmyay.jpg
 sinopse: >

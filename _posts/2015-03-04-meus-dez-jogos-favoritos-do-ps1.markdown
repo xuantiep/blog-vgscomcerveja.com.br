@@ -4,7 +4,7 @@ title:      "Meus 10 Jogos Favoritos do PS1"
 date:       2015-03-04 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
-categories: jogando/toplist
+categories: jogando toplist
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/post_thumbnail_zpshg82rhwy.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/post_header_zpsmcfu7ljk.jpg
 sinopse: >

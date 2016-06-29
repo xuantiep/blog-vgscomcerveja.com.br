@@ -4,7 +4,7 @@ title:  "Monte o seu Conector A/V para Mega Drive"
 date:   2011-07-13 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
-categories: colecionando/utilidade-publica
+categories: jogando utilidade-publica
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/02_av_md/post_thumbnail_zps5iwdry2l.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/02_av_md/post_header_zpstpkaqsc7.jpg
 sinopse: >

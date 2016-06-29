@@ -4,12 +4,12 @@ title:      "Análise - Guacamelee! (PS Vita)"
 date:       2016-02-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 27
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/post_thumbnail_zpsrih5irqv.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/27_guacamelee/post_header_zpskzbucnrf.jpg
 sinopse: >
   Para quem viu minha participação no MeMe: "O Que Você Jogou em 2015?" deve ter notado que joguei o tal do Guacamelee!, um "metroidvania" muito divertido e viciante!
-game_cover: 
+game_cover:
 ---
 Lançado originalmente em 2013 para PS Vita, PS3 e PC pela [DrinkBox Studios](http://www.drinkboxstudios.com/), e mais tarde foi lançado uma versão incrementada, o **Guacamelee! Super Turbo Championship Edition**, para PS4, Xbox 360, Xbox ONE e WiiU, ou seja, você praticamente não tem desculpas para não jogá-lo! ^^
 

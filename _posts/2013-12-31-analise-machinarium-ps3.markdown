@@ -4,7 +4,7 @@ title:      "Análise - Machinarium (PS3)"
 date:       2013-12-31 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 14
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/14_machinarium/post_thumbnail_zpschmjvinl.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/14_machinarium/post_header_zpsdtkxqcjr.jpg
 sinopse: >

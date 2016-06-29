@@ -4,7 +4,7 @@ title:      "Últimas Aquisições #02"
 date:       2013-10-20 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/16_aquisicoes02/post_thumbnail_zpsqi2fpgny.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/16_aquisicoes02/post_header_zpsedsvkunw.jpg
 sinopse: >

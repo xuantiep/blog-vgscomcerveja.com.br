@@ -4,7 +4,7 @@ title:      "Cartucho de Promoção Especial do Master System III Compact da Tec
 date:       2014-12-06 19:00
 author:     Felipe B. Barbosa
 session:    Mosca Branca &#35 03
-categories: colecionando/mosca-branca
+categories: colecionando mosca-branca
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/03_promo_tectoy/post_thumbnail_zpscefcjpm9.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/03_promo_tectoy/post_header_zpslqhvrtwu.jpg
 sinopse: >

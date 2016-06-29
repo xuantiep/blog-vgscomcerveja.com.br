@@ -4,7 +4,7 @@ title:  "Lista de Jogos Master System Portuguese Purple Releases"
 date:   2012-07-08 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
-categories: colecionando/utilidade-publica
+categories: colecionando utilidade-publica
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/06_ms_purple/post_thumbnail_zpsnpcqrzss.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/06_ms_purple/post_header_zpsqz7jhrpm.jpg
 sinopse: >

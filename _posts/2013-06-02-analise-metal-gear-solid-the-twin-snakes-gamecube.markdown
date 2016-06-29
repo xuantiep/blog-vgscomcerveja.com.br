@@ -4,7 +4,7 @@ title:      "Análise - Metal Gear Solid: The Twin Snakes (GC)"
 date:       2013-06-02 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 06
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/06_mgsts/post_thumbnail_zpsebomyvsv.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/06_mgsts/post_header_zpsr5qtmbqn.jpg
 sinopse: >

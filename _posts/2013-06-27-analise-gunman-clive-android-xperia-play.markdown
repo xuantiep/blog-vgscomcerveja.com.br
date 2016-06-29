@@ -4,7 +4,7 @@ title:      "Análise - Gunman Clive (Android - Xperia PLAY)"
 date:       2013-06-27 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 08
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/08_gunmanclive/post_thumbnail_zpskfmqm6rt.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/08_gunmanclive/post_header_zpsieytfzwy.jpg
 sinopse: >

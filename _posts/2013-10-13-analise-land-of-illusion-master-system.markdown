@@ -4,7 +4,7 @@ title:      "Análise - Land of Illusion (Master System)"
 date:       2013-10-13 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 11
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/11_land_illusion/post_thumbnail_zpsygxus6cg.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/11_land_illusion/post_header_zps8pea6ci1.jpg
 sinopse: >

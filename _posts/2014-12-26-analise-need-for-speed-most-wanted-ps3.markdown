@@ -4,7 +4,7 @@ title:      "Análise - Need for Speed: Most Wanted (PS3)"
 date:       2014-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 21
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/21_nfsmw/post_thumbnail_zpslrw2ejyu.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/21_nfsmw/post_header_zpsfinwamio.jpg
 sinopse: >

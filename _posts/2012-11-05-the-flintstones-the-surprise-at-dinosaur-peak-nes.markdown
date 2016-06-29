@@ -4,7 +4,7 @@ title:      "The Flintstones: The Surprise at Dinosaur Peak! (NES)"
 date:       2012-11-05 19:00
 author:     Felipe B. Barbosa
 session:    Mosca Branca &#35 02
-categories: colecionando/mosca-branca
+categories: colecionando mosca-branca
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/02_flintstones/post_thumbnail_zpsvrcmpaia.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/02_flintstones/post_header_zpslujgvzor.jpg
 sinopse: >

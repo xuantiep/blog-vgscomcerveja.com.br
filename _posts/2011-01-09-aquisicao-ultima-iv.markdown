@@ -4,7 +4,7 @@ title:      "Aquisição - Última IV (Master System)"
 date:       2011-01-09 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/08_ultima_iv/post_thumbnail_zpst0ohjacf.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/08_ultima_iv/post_header_zps9tt4qcjq.jpg
 sinopse: >

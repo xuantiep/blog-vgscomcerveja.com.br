@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /sobre/
+title: Sobre o Blog
+permalink: /sobre/blog/
 ---
-{% include page-title.html title="Sobre" icon="icon-copyright" %}
 
 **Videogames com Cerveja** é um blog sobre games, cujo o objetivo principal é compartilhar experiências e opiniões *"videogamísticas"* tanto na jogatina quanto no colecionismo! Aqui você encontrará pequenas análises de jogos, notícias rápidas, curiosidades, itens de coleção e etc.. Tudo de maneira informal e descontraída!
 
@@ -24,4 +24,4 @@ E por fim, em 2016, o blog foi migrado do blogspot.com para o domínio www.vgsco
 
 ## Quem Faz?
 
-{% include autor-profile.html %}
+{% include author-profile.html %}

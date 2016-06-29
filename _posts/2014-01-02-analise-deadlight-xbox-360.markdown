@@ -4,7 +4,7 @@ title:      "Análise - Deadlight (Xbox 360)"
 date:       2014-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 15
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/15_deadlight/post_thumbnail_zpsyjahhodq.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/15_deadlight/post_header_zpsyum2vdzl.jpg
 sinopse: >

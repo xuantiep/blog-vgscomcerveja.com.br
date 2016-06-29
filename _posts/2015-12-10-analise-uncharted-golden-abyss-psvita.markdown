@@ -4,7 +4,7 @@ title:      "Análise - Uncharted: Golden Abyss (PS Vita)"
 date:       2015-12-10 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 26
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/26_uncharted_ga/post_thumbnail_zpsfhcjaf4a.jpg
 cover:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/26_uncharted_ga/post_header_zpsllty9iwa.jpg
 sinopse: >

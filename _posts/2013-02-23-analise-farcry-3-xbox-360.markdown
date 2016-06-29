@@ -4,7 +4,7 @@ title:      "Análise - Far Cry 3 (Xbox 360)"
 date:       2013-02-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 01
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/post_thumbnail_zpszhgbgn3l.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/post_header_zps6zvtdrm8.jpg
 sinopse: >

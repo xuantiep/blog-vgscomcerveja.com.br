@@ -4,7 +4,7 @@ title:  "Lista de Jogos Master System Lançados Pela Tectoy"
 date:   2012-01-24 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
-categories: colecionando/utilidade-publica
+categories: colecionando utilidade-publica
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/04_ms_tectoy/post_thumbnail_zps1jftkwux.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/04_ms_tectoy/post_header_zps6molvgce.jpg
 sinopse: >

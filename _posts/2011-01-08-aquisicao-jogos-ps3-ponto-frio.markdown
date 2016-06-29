@@ -4,7 +4,7 @@ title:      "Aquisição - Jogos de PS3 por Ótimos Preços"
 date:       2011-01-08 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/07_jogos_ps3/post_thumbnail_zpsxeo8nqya.jpg
 cover:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/07_jogos_ps3/post_header_zpsg3p8nrjo.jpg
 sinopse: >

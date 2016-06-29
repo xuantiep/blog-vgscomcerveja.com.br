@@ -4,7 +4,7 @@ title:      "Análise - AC/DC Live: Rockband Track Pack (PS3)"
 date:       2014-11-04 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 20
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/post_thumbnail_zpsn4qcpjyr.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/20_acdc/post_header_zpsw3tudwvc.jpg
 sinopse: >

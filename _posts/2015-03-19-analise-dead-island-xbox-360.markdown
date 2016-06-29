@@ -4,7 +4,7 @@ title:      "Análise - Dead Island (Xbox 360)"
 date:       2015-03-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 22
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/post_thumbnail_zpsd2hkhaky.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/22_deadisland/post_header_zpsbj14bout.jpg
 sinopse: >

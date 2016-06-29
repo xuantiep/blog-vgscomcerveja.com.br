@@ -4,7 +4,7 @@ title:      "MeMe - O Que Você Jogou Em 2014?"
 date:       2015-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Especial
-categories: jogando/especiais
+categories: jogando especiais
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/post_thumbnail_zpspiwelwkw.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/01_meme2014/post_header_zpsjgs8rnpy.jpg
 sinopse: >

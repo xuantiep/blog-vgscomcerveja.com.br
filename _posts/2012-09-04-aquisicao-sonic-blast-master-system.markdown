@@ -4,7 +4,7 @@ title:      "Aquisição - Sonic Blast (Master System)"
 date:       2012-09-04 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/14_sonic_blast/post_thumbnail_zpstmtemedr.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/14_sonic_blast/post_header_zpsmeuwphkk.jpg
 sinopse: >

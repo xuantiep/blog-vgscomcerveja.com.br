@@ -4,7 +4,7 @@ title:      "Pecados Gamísticos #02 - Sexta Geração"
 date:       2016-03-12 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
-categories: jogando/toplist
+categories: jogando toplist
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/05_pecados6g/post_thumbnail_zpsh5gbzrcz.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/05_pecados6g/post_header_zpsqy2auk12.jpg
 sinopse: >

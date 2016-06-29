@@ -4,7 +4,7 @@ title:  "Aquisição - Nintendo DS Lite: Special Edition"
 date:   2010-10-23 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/post_thumbnail_zps7av3hryn.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/05_nds/post_header_zps9rpxezwe.jpg
 sinopse: >

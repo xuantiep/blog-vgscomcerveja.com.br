@@ -4,7 +4,7 @@ title:  "O Início da Coleção de Videogames!"
 date:   2010-06-11 19:00
 author: Felipe B. Barbosa
 session: Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/01_inicio/post_thumbnail_zpsri5fzs8l.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/01_inicio/post_header_zpsvbfgwpwf.jpg
 sinopse: >

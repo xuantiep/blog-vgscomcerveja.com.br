@@ -4,7 +4,7 @@ title:      "Aquisição - Mega Drive"
 date:       2011-01-08 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/06_md/post_thumbnail_zpsszkwfaii.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/06_md/post_header_zps2p51wgcw.jpg
 sinopse: >

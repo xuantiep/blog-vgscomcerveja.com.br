@@ -4,7 +4,7 @@ title:      "Análise - Castle of Illusion (Master System)"
 date:       2013-09-17 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 10
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/10_castle_illusion/post_thumbnail_zpsu5cvtohd.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/10_castle_illusion/post_header_zpsbngnzm6x.jpg
 sinopse: >

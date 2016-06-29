@@ -4,7 +4,7 @@ title:      "Análise - The Last of Us (PS3)"
 date:       2013-06-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 07
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/07_tlou/post_thumbnail_zpspa6pmufj.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/07_tlou/post_header_zps3us1ikvy.jpg
 sinopse: >

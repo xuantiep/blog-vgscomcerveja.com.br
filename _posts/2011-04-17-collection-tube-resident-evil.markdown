@@ -4,7 +4,7 @@ title:  "Resident Evil Collection"
 date:   2011-04-17 19:00
 author: Felipe B. Barbosa
 session: Collection Tube &#35 01
-categories: colecionando/collection-tube
+categories: colecionando collection-tube
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/01_re/post_thumbnail_zpspadqi6ov.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/01_re/post_header_zpso2bbiz4q.jpg
 sinopse: >

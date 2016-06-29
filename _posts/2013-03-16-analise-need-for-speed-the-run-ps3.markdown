@@ -4,7 +4,7 @@ title:      "Análise - Need for Speed: The Run (PS3)"
 date:       2013-03-16 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 03
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/03_nfstr/post_thumbnail_zps6rdkinud.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/03_nfstr/post_header_zpszahagvww.jpg
 sinopse: >

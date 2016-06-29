@@ -4,7 +4,7 @@ title:      "Análise - Spec Ops: The Line (PS3)"
 date:       2014-07-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 17
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/post_thumbnail_zpskdagmlbh.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/17_specops_theline/post_header_zpsd4a8lons.jpg
 sinopse: >

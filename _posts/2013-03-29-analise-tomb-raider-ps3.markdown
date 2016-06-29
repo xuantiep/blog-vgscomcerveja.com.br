@@ -4,7 +4,7 @@ title:      "Análise - Tomb Raider (PS3)"
 date:       2013-03-29 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 04
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/post_thumbnail_zpsmnk3kz8a.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/04_tr/post_header_zps3nizjhlm.jpg
 sinopse: >

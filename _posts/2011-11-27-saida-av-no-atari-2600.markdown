@@ -4,7 +4,7 @@ title:  "Coloque Saída A/V no seu Atari 2600"
 date:   2011-11-27 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
-categories: colecionando/utilidade-publica
+categories: jogando utilidade-publica
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/03_av_atari/post_thumbnail_zpshjaoyemu.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/03_av_atari/post_header_zpsktioawtk.jpg
 sinopse: >

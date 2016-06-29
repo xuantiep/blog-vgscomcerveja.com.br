@@ -4,7 +4,7 @@ title:  "Uncharted 2: Among Thieves Fortune Hunter Edition"
 date:   2015-01-14 19:00
 author: Felipe B. Barbosa
 session: Edição de Colecionador &#35 03
-categories: colecionando/edicao-colecionador
+categories: colecionando edicao-colecionador
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/ed_colecionador/03_unchated2/post_thumbnail_zpsg3iaorhf.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/ed_colecionador/03_unchated2/post_header_zpsqxlu39aj.jpg
 sinopse: >

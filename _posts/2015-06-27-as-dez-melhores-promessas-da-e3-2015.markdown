@@ -4,7 +4,7 @@ title:      "As 10 Melhores Novidades da E3 2015"
 date:       2015-06-27 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
-categories: jogando/toplist
+categories: jogando toplist
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/04_e32015/post_thumbnail_zpsxnc7ixe5.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/04_e32015/post_header_zpsixj4xw12.jpg
 sinopse: >

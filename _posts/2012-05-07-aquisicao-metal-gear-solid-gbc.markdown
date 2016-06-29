@@ -4,7 +4,7 @@ title:      "Aquisição - Metal Gear Solid (Game Boy Color)"
 date:       2012-05-07 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/12_mgs_gbc/post_thumbnail_zpss91hfodx.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/12_mgs_gbc/post_header_zpstddbqpnk.jpg
 sinopse: >

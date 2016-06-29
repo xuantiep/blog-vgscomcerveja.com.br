@@ -4,7 +4,7 @@ title:      "Análise - Uncharted: The Nathan Drake Collection (PS4)"
 date:       2016-05-05 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 29
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/29_uncharted_collection/post_thumbnail_zpsu7ompyfi.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/29_uncharted_collection/post_header_zpsdzzarezn.jpg
 sinopse: >

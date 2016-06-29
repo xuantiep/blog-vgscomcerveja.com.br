@@ -4,7 +4,7 @@ title:      "Análise - Conker's Bad Fur Day (N64)"
 date:       2015-11-11 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 25
-categories: jogando/analise
+categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/25_conkers/post_thumbnail_zps8ji8xp9k.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/25_conkers/post_header_zpsek4kmwsk.jpg
 sinopse: >

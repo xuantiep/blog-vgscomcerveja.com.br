@@ -4,7 +4,7 @@ title:      "Aquisição - Xbox 360!"
 date:       2012-06-12 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
-categories: colecionando/colecao-pessoal
+categories: colecionando colecao-pessoal
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/13_x360/post_thumbnail_zpsqwjrpr5n.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/13_x360/post_header_zps3xm7vc6r.jpg
 sinopse: >
