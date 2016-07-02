@@ -11,9 +11,9 @@ sinopse: >
   Maravilhoso, incrível, espetacular.. Faltam elogios para Uncharted 4 que atendeu, ou melhor, superou todas as expectativas que tinha sobre o jogo.
 game_cover:
 ---
-A **Naughty Dog** provou mais uma vez, que sabe contar uma boa história com doses perfeitas de ação, aventura, drama e bom humor, sem deixar de lado a ótima experiência de jogar! Fiz questão de comprar o jogo no lançamento, e após 16 horas de jogo, concluí o que teoricamente encerra a saga de Nathan Drake.
+A **Naughty Dog** provou mais uma vez, que sabe contar uma boa história! Doses perfeitas de ação, aventura, drama e muito bom humor, sem deixar de lado a ótima experiência de jogar. Fiz QUESTÃO de comprar o jogo no lançamento, e após 16 horas de jogo, concluí o que teoricamente encerra a saga de Nathan Drake!
 
-Lançado oficialmente no último dia 10 de Maio, **Uncharted 4: A Thief's End** conta a história de um Drake aposentado de suas aventuras, vivendo uma "vida normal" ao lado de sua esposa Elena. Porém, essa rotina não é muito a cara de Drake, que claramente não está feliz com isso. Mas como ele prometeu que não se arriscaria mais em aventuras perigosas e ilegais em busca de tesouros perdidos, ele tenta de alguma forma encontrar a felicidade em sua rotina.
+Lançado oficialmente no último dia 10 de Maio, **Uncharted 4: A Thief's End** conta a história de um Drake aposentado de suas aventuras, vivendo uma "vida normal" ao lado de sua esposa Elena. Porém, essa rotina não é a cara de Drake, que claramente não está feliz com isso. Mas como ele prometeu que não se arriscaria mais em aventuras perigosas e ilegais em busca de tesouros perdidos, ele tenta de alguma forma encontrar a felicidade em sua rotina.
 
 Até que o inusitado acontece, seu irmão mais velho, Sam Drake, que era dado como morto à mais de 15 anos, aparece e precisa de sua ajuda para encontrar um lendário tesouro pirata de Henry Avery. Porém, desta vez, não é simplesmente uma busca ao tesouro, a vida de Sam está em jogo e eles precisam do tesouro para salvá-lo!
 

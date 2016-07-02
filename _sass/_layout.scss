@@ -209,14 +209,32 @@
 
             li {
                 display: block;
+                padding: 15px 10px 16px 20px;
+                text-align: left;
 
                 a { color: #fff; }
+                .icon-angle-down { display: none; }
+            }
+
+            li:first-child::after {
+                color: white;
+                content: "Home";
+            }
+
+            li:nth-child(2)::after {
+                color: white;
+                content: "Feed RSS";
             }
 
             li:hover {
                 background-color: #ccc;
                 border: 0;
             }
+
+            li:hover .submenu {
+                display: none;
+            }
+
         }
 
         .submenu {
@@ -692,10 +710,12 @@
         padding: 40px 0;
         margin-bottom: 20px;
         color: #666;
+        background-color: white;
         font-size: 1.2em;
         font-variant: small-caps;
         text-transform: uppercase;
-        width: 280px;
+        /*width: 280px;*/
+        width: 100%;
         text-align: center;
 
         img {
