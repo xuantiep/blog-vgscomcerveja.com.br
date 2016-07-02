@@ -4,7 +4,7 @@ title: Sobre o Blog
 permalink: /sobre/blog/
 ---
 
-**Videogames com Cerveja** é um blog sobre games, cujo o objetivo principal é compartilhar experiências e opiniões *"videogamísticas"* tanto na jogatina quanto no colecionismo! Aqui você encontrará pequenas análises de jogos, notícias rápidas, curiosidades, itens de coleção e etc.. Tudo de maneira informal e descontraída!
+**Videogames com Cerveja** é um blog sobre games, cujo o objetivo principal é compartilhar experiências e opiniões *"videogamísticas"* tanto ao jogo em si quanto no colecionismo! Aqui você encontrará pequenas análises de jogos, notícias rápidas, curiosidades, itens de coleção e etc.. Tudo de maneira informal e descontraída!
 
 Pegue uma cerveja, aperte o START e sinta-se em casa! ^^
 
