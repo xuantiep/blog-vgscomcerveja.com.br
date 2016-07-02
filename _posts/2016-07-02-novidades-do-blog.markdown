@@ -8,8 +8,8 @@ categories: noticias
 thumbnail:  
 cover:
 sinopse: >
-   Olá, como você deve ter notado (ou não), estamos de cara e endereço novos! Eeee \o/
-   Agora seu blog favorito (^^) pode ser acessado através do endereço vgscomcerveja.com.br, e o melhor, de qualquer dispositivo, seja ele, seu desktop ou seu smartphone, tablet, smart TV, PS3, PS Vita, Xbox, fogão, geladeira... :)  
+   Olá, como você deve ter notado, estamos de cara e endereço novos! Eeee \o/
+   Agora você pode acessar nosso blog através do endereço vgscomcerveja.com.br, e o melhor, de qualquer dispositivo, seja ele, seu desktop ou seu smartphone, tablet, smart TV, PlayStation, Xbox, fogão, geladeira... :o)  
 ---
 Olá, como você deve ter notado, estamos de cara e endereço novos! Eeee \o/
 
