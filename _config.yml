@@ -18,6 +18,7 @@ paginate_path: "page:num"
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-feed
 
 exclude:
   - Gemfile
