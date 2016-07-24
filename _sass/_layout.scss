@@ -582,13 +582,19 @@
     figure {
         width: 80%;
         margin: 0 auto 20px;
-        padding: 10px;
-        border: 1px solid #e8ebf2;
-        box-shadow: 2px 2px 10px #dcdcdc;
+        //padding: 10px;
+        //border: 1px solid #e8ebf2;
+        //box-shadow: 2px 2px 10px #dcdcdc;
 
         img {
             width: 100%;
-            margin-bottom: 5px;
+            //margin-bottom: 5px;
+        }
+
+        figcaption {
+            background-color: #eee;
+            padding: 5px 10px;
+            text-align: left;
         }
 
         @include media-query($on-palm) {
