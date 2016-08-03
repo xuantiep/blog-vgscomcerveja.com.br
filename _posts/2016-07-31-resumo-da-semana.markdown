@@ -28,7 +28,7 @@ Esta semana, o site [Eurogamer apontou que o console poderá usar cartuchos ao i
 
 ## Ganhe Tomb Raider: Definitive Edition na compra de Rise of the Tomb Raider!
 
-[Semana passada foi confirmado o lançamento de Rise of the Tomb Raider para PS4](noticias/2016/07/24/resumo-da-semana.html) com diversos "bônus", e agora temos mais uma novidade: quem comprar o jogo na pré-venda, ganhará o Tomb Raider: Definitive Edition gratuitamente, entretanto, só vale para a compra antecipada do jogo digital, o que é uma pena! :(
+[Semana passada foi confirmado o lançamento de Rise of the Tomb Raider para PS4](/noticias/2016/07/24/resumo-da-semana.html) com diversos "bônus", e agora temos mais uma novidade: quem comprar o jogo na pré-venda, ganhará o Tomb Raider: Definitive Edition gratuitamente, entretanto, só vale para a compra antecipada do jogo digital, o que é uma pena! :(
 
 Lembrando que o jogo sairá por R$ 250 no dia 11 de Outubro de 2016.
 
