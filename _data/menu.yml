@@ -2,7 +2,7 @@
   url: /
   classe: icon-home
 - title:
-  url: /feed.xml
+  url: http://feeds.feedburner.com/VideogamesComCerveja
   classe: icon-rss
 - title: Notícias
   url: /noticias/
