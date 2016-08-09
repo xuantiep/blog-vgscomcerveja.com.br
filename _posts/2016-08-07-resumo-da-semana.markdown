@@ -14,13 +14,13 @@ Aeee **Pokémon GO** saiu no Brasil esta semana! Mas vamos deixá-lo de lado, po
 
 ## Novidades do Xbox One
 
-Esta semana a **Microsoft** lançou a nova versão remodelada do Xbox One! Por enquanto, o **Xbox One S** ainda não está disponível no Brasil, mas a edição de lançamento do console contará com um HD de 2TB, mas serão lançadas as versões de 1TB e 500GB também!
+Esta semana a **Microsoft** lançou a nova versão remodelada do Xbox One! Por enquanto, o **Xbox One S** ainda não está disponível no Brasil, mas a edição de lançamento do console contará com um HD de 2TB! Porém, haverão as versões de 1TB e 500GB também!
 
 {% include image.html url='http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/19_resumo12/Xbox-One-S-and-original_zpsnoesmdhs.jpg' description='Nova versão do Xbox One é cerca de 40% menor que a versão original.' %}
 
-Tem várias melhorias nesta versão, a principal delas é o tamanho, que é cerca de 40% menor que a versão original e agora a fonte é embutida! Além disso, ele reproduzirá filmes, tanto em Blu-ray quanto em *streaming* (como o Netflix), com saída em 4K Ultra HD.
+Dentre as melhorias apresentadas, a principal delas é o tamanho, que é cerca de 40% menor que a versão original e agora com fonte embutida! Além disso, ele reproduzirá filmes, tanto em Blu-ray quanto em *streaming* (como o Netflix), com saída em 4K Ultra HD.
 
-E para fechar as novidades Xbox, saiu uma atualização grande no Xbox One (e nos aplicativos Xbox) com diversas novidades, entre elas a possibilidade de ouvir músicas (ou podcasts) de fundo enquanto joga, a coleção de jogos foi melhorada e foi realizada a convergência da Loja Xbox com a do Windows. Mas tem várias outras novidades que você pode conferir melhor no [próprio blog do Xbox](http://blogdoxbox.com/a-nova-atualizacao-do-xbox-one-ja-esta-disponivel/).
+E para fechar as novidades Xbox, saiu também uma atualização grande para o Xbox One (e nos aplicativos Xbox) com diversas novidades, entre elas, a possibilidade de ouvir músicas (ou podcasts) de fundo enquanto joga; coleção de jogos foi melhorada; e foi realizada a convergência da Loja Xbox com a do Windows. Mas tem várias outras novidades legais que você pode conferi-las no detalhe no [próprio blog do Xbox](http://blogdoxbox.com/a-nova-atualizacao-do-xbox-one-ja-esta-disponivel/).
 
 ## Inside chega este mês ao PS4
 
@@ -30,13 +30,15 @@ Lançado em Junho para Xbox One e em Julho para PC, **Inside** chegará dia 23 d
 
 ## Nintendo disponibiliza digitalmente as revistas Nintendo Power
 
-A **Nintendo** disponibilizou gratuitamente o acesso digital as várias edições da revista **Nintendo Power**, que foi circulada entre Julho de 1988 à Dezembro de 2012. Estão disponíveis 145 das 285 edições lançadas e você pode acessá-las através do site [Archive.org](https://archive.org/details/nintendopower&tab=collection). Um prato cheio para quem gosta de nostalgia, até mesmo para nós brasileiros!
+A **Nintendo** disponibilizou gratuitamente o acesso digital de várias edições da revista **Nintendo Power**, que foi circulada entre Julho de 1988 à Dezembro de 2012. Estão disponíveis 145 das 285 edições lançadas e você pode acessá-las através do site [Archive.org](https://archive.org/details/nintendopower&tab=collection).
 
 {% include image.html url='http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/19_resumo12/Nintendo-Power_zpsowyk9uwr.jpg' description='Acesso às 145 edições da revista Nintendo Power gratuitamente!' %}
 
+Um prato cheio para quem gosta de nostalgia, até mesmo para nós brasileiros!
+
 ## Site GOG.com relança para PC três clássicos 16-bit da Disney
 
-E por falar em nostalgia, o site [GOG.com](https://www.gog.com/news/disneys_16bit_platformers_return) relançou três grandes clássicos da Disney na era 16-bit totalmente adaptados para serem compatíveis com os sistemas operacionais modernos. Os jogos são: Aladdin, The Lion King e The Jungle Book!
+E por falar em nostalgia, o site [GOG.com](https://www.gog.com/news/disneys_16bit_platformers_return) relançou três grandes clássicos da **Disney** da era 16-bit! Totalmente adaptados para serem compatíveis com os sistemas operacionais modernos, os jogos são: Aladdin, The Lion King e The Jungle Book!
 
 {% include youtubePlayer.html id='LBbx41UaHVI' %}
 
