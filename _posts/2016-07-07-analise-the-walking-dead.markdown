@@ -19,7 +19,7 @@ O primeiro jogo da desenvolvedora **Telltale** - especialista neste estilo de jo
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/31_twd/twd_zpssfoyfpbt.jpg" description="The Walking Dead!" %}
 
-Bom, vamos focar no **The Walking Dead**.. Atualmente, a série (dos jogos) conta com apenas duas temporadas principais (a terceira foi [anunciada recentemente na E3](http://vaojogar.com.br/escrito/e3-2016-alem-das-conferencias)) e, com uma temporada especial da personagem *Michonne*, famosa no universo de TWD. Mas vamos focar apenas nas duas temporadas principais, pois são as que eu joguei até o final! :)
+Bom, vamos focar no **The Walking Dead**.. Atualmente, a série (dos jogos) conta com duas temporadas principais (a terceira foi [anunciada recentemente na E3](http://vaojogar.com.br/escrito/e3-2016-alem-das-conferencias)) e, com uma temporada especial da personagem *Michonne*, famosa no universo de TWD. Mas vamos focar apenas nas duas temporadas principais, pois são as que eu joguei até o final! :)
 
 Para quem não conhece TWD, saiba que trata-se de uma ficção com um mundo apocalíptico, onde as pessoas estão se transformando em zumbis quando morrem ou quando são mordidos por outros zumbis. E todo esse universo começou nos quadrinhos criado e escrito por **Robert Kirkman**. Sua história é focada num grupo de sobreviventes liderado por *Rick Grimes*.
 
@@ -37,7 +37,7 @@ Resumidamente, eles são jogos do tipo *"point-and-click"* um pouco mais elabora
 
 Mas não pense que é um jogo monótono, onde você só tem que "clicar" nos objetos e escolher as falas para cada conversa, não! Além da história ser muito intrigante, tem momentos que você terá que agir rápido (com sequências de comandos) para não morrer!
 
-Uma das coisas legais do jogo é que ele te "obriga" a tomar decisões importantes, como escolher qual dos seus membros do grupo irá salvar, que te fazem até se sentir mal na escolha, mas que também te deixa curioso para saber como seria a história se tivesse escolhido a outra opção. Lembrando que nenhuma escolha é errada, qualquer uma delas irá te levar ao final do jogo, porém com uma história diferente à cada decisão tomada! O fator *replay* é alto!
+Uma das coisas legais do jogo é que ele te "obriga" a tomar várias decisões importantes, como por exemplo, escolher qual dos seus membros do grupo você irá salvar! Estas escolhas à princípio até te fazem se sentir mal, mas que também te deixa curioso para saber como seria o rumo da história se tivesse escolhido a outra opção. Lembrando que nenhuma escolha é errada, qualquer uma delas irá te levar ao final do jogo, porém com uma história diferente à cada decisão tomada! O fator *replay* é alto!
 
 ## Áudiovisual
 
