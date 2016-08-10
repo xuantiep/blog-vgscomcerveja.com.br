@@ -37,7 +37,7 @@ Resumidamente, eles são jogos do tipo *"point-and-click"* um pouco mais elabora
 
 Mas não pense que é um jogo monótono, onde você só tem que "clicar" nos objetos e escolher as falas para cada conversa, não! Além da história ser muito intrigante, tem momentos que você terá que agir rápido (com sequências de comandos) para não morrer!
 
-Uma das coisas legais do jogo é que ele te "obriga" a tomar várias decisões importantes, como por exemplo, escolher qual dos seus membros do grupo você irá salvar! Estas escolhas à princípio até te fazem se sentir mal, mas que também te deixa curioso para saber como seria o rumo da história se tivesse escolhido a outra opção. Lembrando que nenhuma escolha é errada, qualquer uma delas irá te levar ao final do jogo, porém com uma história diferente à cada decisão tomada! O fator *replay* é alto!
+Uma das coisas legais do jogo é que ele te "obriga" a tomar várias decisões importantes, como por exemplo, escolher qual dos seus membros do grupo você irá salvar! Estas escolhas, à princípio, até te faz se sentir mal, mas que também te deixa curioso para saber como seria o rumo da história se tivesse escolhido a outra opção. Lembrando que nenhuma escolha é errada, qualquer uma delas irá te levar ao final do jogo, porém com uma história diferente à cada decisão tomada! O fator *replay* é alto!
 
 ## Áudiovisual
 
