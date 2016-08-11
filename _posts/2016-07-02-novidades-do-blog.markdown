@@ -35,6 +35,4 @@ Uma outra novidade é quanto a organização dos posts, agora eles estão dividi
 
 Bom, acredito que isto tudo irá trazer novos ânimos ao blog, então espero poder trazer mais novidades em breve, e o principal, espero que você tenha gostado! :)
 
-Ah, atualize seu feed **RSS** para [este](/feed.xml)! ;)
-
 Abraço.
