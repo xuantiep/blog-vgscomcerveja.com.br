@@ -8,11 +8,11 @@ categories: colecionando mosca-branca
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/01_phantasy_star/post_thumbnail_zpsofuu2qlp.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/01_phantasy_star/post_header_zpszsdftuuv.jpg
 sinopse: >
-  Para inaugurar a sessão Mosca Branca nada melhor do que este grande clássico de Master System:
+  Para inaugurar a seção Mosca Branca nada melhor do que este grande clássico de Master System:
   Phantasy Star! Este jogo pertence a lista dos 36 exclusivos Tectoy para Master System lançados apenas para o Brasil.
 ---
 
-Para inaugurar a sessão Mosca Branca nada melhor do que este grande clássico de Master System:
+Para inaugurar a seção Mosca Branca nada melhor do que este grande clássico de Master System:
 **Phantasy Star**!
 
 Este jogo pertence a lista dos [36 exclusivos Tectoy para Master System](../../../../utilidade-publica/2011/01/22/jogos-master-system-exclusivos-tectoy.html) lançados apenas para o

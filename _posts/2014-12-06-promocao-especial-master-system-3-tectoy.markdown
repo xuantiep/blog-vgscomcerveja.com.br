@@ -8,9 +8,9 @@ categories: colecionando mosca-branca
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/03_promo_tectoy/post_thumbnail_zpscefcjpm9.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/03_promo_tectoy/post_header_zpslqhvrtwu.jpg
 sinopse: >
-  'Mosca branca' entre os colecionadores é um apelido dado aos itens muito difíceis de serem encontrados, ou seja, raros! Sendo assim, estou voltando com a sessão para te mostrar um cartucho especial para Master System que a Tectoy fez na época!
+  'Mosca branca' entre os colecionadores é um apelido dado aos itens muito difíceis de serem encontrados, ou seja, raros! Sendo assim, estou voltando com a seção para te mostrar um cartucho especial para Master System que a Tectoy fez na época!
 ---
-**'Mosca branca'** entre os colecionadores é um apelido dado aos itens mais difíceis de serem encontrados, ou seja, muito raros! Sendo assim, estou voltando com a sessão para te mostrar um cartucho especial para **Master System** que a **Tectoy** fez na época!
+**'Mosca branca'** entre os colecionadores é um apelido dado aos itens mais difíceis de serem encontrados, ou seja, muito raros! Sendo assim, estou voltando com a seção para te mostrar um cartucho especial para **Master System** que a **Tectoy** fez na época!
 
 Como todos sabem, a **Tectoy** foi a representante da **Sega** aqui no Brasil, e fez um grande trabalho de *marketing* divulgando seus produtos em revistas, jornais e até televisão!
 

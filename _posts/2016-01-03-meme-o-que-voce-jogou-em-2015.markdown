@@ -58,7 +58,7 @@ Nesse meio tempo, surgiu uma promoção muito boa no site Walmart e acabei adqui
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/03_meme2015/7_mgsv_gz_zps2xuckdmi.jpg" description="" %}
 
-Apartir daqui são os jogos que ainda devo uma análise na sessão Game Over! ^^'
+Apartir daqui são os jogos que ainda devo uma análise na seção Game Over! ^^'
 
 Bom, sobre esse jogo, fazia tempo que ele estava na minha prateleira, aí quando vi que o lançamento do MGS V: The Phantom Pain estava próximo, resolvi tirá-lo para jogar e nossa, que jogo fantástico, é um belo aperitivo para o TPP, com certeza!
 

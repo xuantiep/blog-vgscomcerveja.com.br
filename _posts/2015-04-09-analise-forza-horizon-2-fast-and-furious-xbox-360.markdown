@@ -10,7 +10,7 @@ cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/23_fh2ff/
 sinopse: >
   DLC standalone de Forza Horizon 2 que vale muito a pena conferir!
 ---
-A próxima análise de sessão **Game Over** não era para ser sobre esse jogo, mas devido a minha empolgação, resolvi adiantar um post! ^^
+A próxima análise de seção **Game Over** não era para ser sobre esse jogo, mas devido a minha empolgação, resolvi adiantar um post! ^^
 
 Com o nome de **Forza Horizon 2 presents Fast & Furious**, este DLC é independente do jogo original FH2, ou seja, você não precisa ter o FH2 para jogá-lo. Lançado no dia 27 de Março como uma brilhante ação de *marketing* entre o jogo Forza Horizon 2 e o filme Velozes e Furiosos 7 que está em cartaz nos cinemas.
 

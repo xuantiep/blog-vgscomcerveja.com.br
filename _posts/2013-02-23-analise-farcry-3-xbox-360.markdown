@@ -8,10 +8,10 @@ categories: jogando analise
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/post_thumbnail_zpszhgbgn3l.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/01_farcry3/post_header_zps6zvtdrm8.jpg
 sinopse: >
-  Começando com as mudanças no blog com uma nova sessão, a Game Over. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que Far Cry 3 para Xbox 360, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
+  Começando com as mudanças no blog com uma nova seção, a Game Over. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que Far Cry 3 para Xbox 360, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
 game_cover:
 ---
-Começando com as mudanças no blog com uma nova sessão, a **Game Over**. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que **Far Cry 3** para **Xbox 360**, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
+Começando com as mudanças no blog com uma nova seção, a **Game Over**. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que **Far Cry 3** para **Xbox 360**, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
 
 FC3 foi minha surpresa de final de ano, comprei porque estava numa promoção muito boa! Lógico que já tinha lido algumas análises que diziam que o jogo era bom, mas eu não tinha jogado nenhum outro jogo da série. Mesmo assim, resolvi arriscar e comprei! Para mim, fechei o ano com chave de ouro! Um jogão!
 

@@ -8,9 +8,9 @@ categories: colecionando mosca-branca
 thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/02_flintstones/post_thumbnail_zpsvrcmpaia.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/mosca_branca/02_flintstones/post_header_zpslujgvzor.jpg
 sinopse: >
-  Quase um ano depois, está de volta a sessão Mosca Branca e a raridade de hoje é o jogo The Flintstones: The Surprise at Dinosaur Peak! para Nintendinho (NES). Este jogo é um dos jogos licenciados mais raros do console.
+  Quase um ano depois, está de volta a seção Mosca Branca e a raridade de hoje é o jogo The Flintstones: The Surprise at Dinosaur Peak! para Nintendinho (NES). Este jogo é um dos jogos licenciados mais raros do console.
 ---
-Quase um ano depois, está de volta a sessão **Mosca Branca** e a raridade de hoje é o jogo **The Flintstones: The Surprise at Dinosaur Peak!** para Nintendinho (NES). Este jogo é um dos jogos licenciados mais raros do console.
+Quase um ano depois, está de volta a seção **Mosca Branca** e a raridade de hoje é o jogo **The Flintstones: The Surprise at Dinosaur Peak!** para Nintendinho (NES). Este jogo é um dos jogos licenciados mais raros do console.
 
 Lançado em 1993 pela **Taito**, este jogo é considerado o segundo jogo licenciado mais raro do NES (só perde para o **Stadium Events**), isso se deve exatamente por ser um jogo lançado no fim da vida do console, numa época em que o **Super Nintendo** já estava no mercado!
 
