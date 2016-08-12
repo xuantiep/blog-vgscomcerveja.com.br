@@ -10,7 +10,7 @@ cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/p
 sinopse: >
   Hoje o PlayStation 2 está comemorando 15 anos, mas como no final do ano a Sony comemorou 20 anos da marca PlayStation, então decidir "comemorar" (tomando uma cervejinha) relembrando quais são meus jogos favoritos do console que revolucionou o mercado.
 ---
-Hoje o **PlayStation 2** está comemorando 15 anos, mas como no final do ano a **Sony** comemorou 20 anos da marca **PlayStation**, então decidir "comemorar" (tomando uma cervejinha) relembrando quais são meus jogos favoritos do console que revolucionou o mercado.
+Hoje o **PlayStation 2** está comemorando 15 anos, mas como no final do ano a **Sony** comemorou 20 anos da marca **PlayStation**, então decidir "comemorar" (tomando uma cervejinha) relembrando quais são meus jogos favoritos do console que revolucionou o mercado!
 
 No dia 3 de Dezembro de 2014, a Sony completou exatamente 20 anos desde o lançamento do seu primeiro console no Japão! Um console que veio para mudar completamente a história dos videogames, antes dominado pela Sega com o Mega Drive e pela Nintendo com o Super Nintendo!
 
@@ -20,7 +20,7 @@ Porém, eu só participei desta história praticamente cinco anos depois, em 199
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/10_zpsukdypryl.jpg" description="" %}
 
-Depois do sucesso de **Resident Evil**, a **Capcom** teve a brilhante ideia de trocar zumbis por dinossauros! O resultado foi: **Dino Crisis**, um jogo onde, assim como em RE, você está numa missão de resgate, porém, ao invés de encontrar zumbis pelo caminho, encontrará dinossauros, ao estilo Jurassic Park! Entretanto, a origem deles não é a mesma do filme, pois os dinossauros foram transportados através do tempo.
+Depois do sucesso de **Resident Evil**, a **Capcom** teve a brilhante ideia de trocar zumbis por dinossauros! O resultado foi: **Dino Crisis**, um jogo onde, assim como em RE, você está numa missão de resgate, porém, ao invés de encontrar zumbis pelo caminho, encontrará dinossauros, ao estilo Jurassic Park! Entretanto, a origem deles não é a mesma do filme, pois os dinossauros foram transportados através do tempo!
 
 A **Capcom** lançou uma sequência, com **Dino Crisis 2** que se for analisar é bem melhor. Mas, eu ainda prefiro o primeiro. :)
 
@@ -28,7 +28,7 @@ A **Capcom** lançou uma sequência, com **Dino Crisis 2** que se for analisar �
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/9_zpsnox1hl2d.jpg" description="" %}
 
-**Driver** é um jogo politicamente incorreto, onde você é um piloto de fuga e simplesmente tem que fugir da polícia, mas o que torna o jogo excelente é que ele é totalmente focado na sua habilidade como piloto, ou seja, você não sai do carro, não tem tiros ou atropelamento de pedestres.
+**Driver** é um jogo politicamente incorreto, onde você é um piloto de fuga que simplesmente tem que fugir da polícia, mas o que torna o jogo excelente é que ele é totalmente focado na sua habilidade como piloto, ou seja, você não sai do carro, não tem tiros ou atropelamento de pedestres.
 
 No PS1 ainda tivemos o **Driver 2** que é muito bom também, mas assim como Dino Crisis, eu prefiro o primeiro! :)
 
@@ -36,7 +36,7 @@ No PS1 ainda tivemos o **Driver 2** que é muito bom também, mas assim como Din
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/8_zpsgkel4rm4.jpg" description="" %}
 
-**Medal of Honor** foi um divisor de águas, ele simplesmente remodelou o gênero de jogos de tiros em primeira pessoa (FPS). Acredito que sem ele (e o *multiplayer* de Goldeneye 007 do Nintendo 64), os jogos não seriam como são hoje. Recentemente, eu matei a saudade deste jogo no [Game Over 19](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html).
+**Medal of Honor** foi um divisor de águas, ele simplesmente remodelou o gênero de jogos de tiros em primeira pessoa (FPS). Acredito que sem ele (e o *multiplayer* de Goldeneye 007 do Nintendo 64), os jogos não seriam como são hoje. Recentemente, eu matei a saudade deste jogo e escrevi sobre ele no [Game Over 19](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html).
 
 ## 7. Tony Hawk's Pro Skater 2
 
@@ -48,13 +48,13 @@ No PS1 ainda tivemos o **Driver 2** que é muito bom também, mas assim como Din
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/6_zpsjyma2kwo.jpg" description="" %}
 
-Mesmo apesar de ter jogado fora da sua época (joguei em 2010), este **Castlevania** é simplesmente excelente! A **Konami** preferiu manter o 2D, onde todo mundo estava empolgado com o 3D, e lançou o melhor Castlevania da série!
+Mesmo apesar de ter jogado fora da sua época (joguei em 2010), curti demais este **Castlevania**, ele é totalmente excelente! A **Konami** preferiu manter o 2D, onde todo mundo estava empolgado com o 3D, e lançou talvez o melhor Castlevania da franquia!
 
 ## 5. Silent Hill
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/5_zpsjyifekpv.jpg" description="" %}
 
-Ganhei este jogo de presente de um amigo na época (alternativo, é claro!), pois ele não tinha curtido o jogo e, como diz o ditado: "Cavalo dado não se olha os dentes", peguei e, ao contrário dele, eu curti bastante! :)
+Ganhei este jogo de presente de um amigo na época (alternativo, é claro!), pois ele não tinha curtido e, como diz o ditado: "Cavalo dado não se olha os dentes", peguei sem ao menos conhecer e, ao contrário dele, eu curti bastante! :)
 
 O clima de terror dele é totalmente diferente de Resident Evil e não tem nem como compará-los (então porque eu tô fazendo isso?)! Quem ainda não jogou e gosta do gênero, recomendo!
 
@@ -86,7 +86,7 @@ Algum tempo depois, GT2 foi lançado e conseguiu melhorar o que já era ótimo! 
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/03_ps1fav/1_zps6nwdcdrh.jpg" description="" %}
 
-E por fim, **Metal Gear Solid**, que com certeza é um dos meus jogos favoritos de todas as plataformas! **Hideo Kojima**, criador da série, elevou o nível de jogos para algo mais cinematográfico! Entretanto, além de possuir uma história complexa e fascinante, o *gameplay* é fantástico! Acho que foi o jogo que mais zerei na vida! ^^
+E por fim, **Metal Gear Solid**, que com certeza é um dos meus jogos favoritos de todos os tempos! **Hideo Kojima**, criador da série, elevou o nível de jogos para algo mais cinematográfico! Entretanto, além de possuir uma história complexa e fascinante, o *gameplay* é fantástico! Acho que foi o jogo que mais zerei na vida! ^^
 
 ---
 
