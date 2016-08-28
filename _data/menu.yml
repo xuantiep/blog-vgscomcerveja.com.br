@@ -1,12 +1,15 @@
-- title:
+- title: Home
   url: /
   classe: icon-home
-- title:
+  showtitle: false
+- title: Feed RSS
   url: http://feeds.feedburner.com/VideogamesComCerveja
   classe: icon-rss
+  showtitle: false
 - title: Notícias
   url: /noticias/
   classe: icon-newspaper
+  showtitle: true
 - title: Jogando
   url: /jogando/
   classe: icon-gamepad
@@ -36,8 +39,16 @@
 - title: Sobre
   url: /sobre/
   classe: icon-at
-  subitems:
-    - title: Blog
-      url: /sobre/blog/
-    - title: Parceiros
-      url: /sobre/parceiros/
+  showtitle: true
+- title: Twitter
+  url: https://www.twitter.com/vgscomcerveja
+  classe: icon-twitter
+  showtitle: false
+- title: Facebook
+  url: https://www.facebook.com/vgscomcerveja
+  classe: icon-facebook
+  showtitle: false
+- title: Instagram
+  url: https://www.instagram.com/vgscomcerveja
+  classe: icon-instagram
+  showtitle: false
