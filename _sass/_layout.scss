@@ -624,6 +624,10 @@
 .post-highlight {
     width: auto;
     margin: -31px -31px 20px -31px;
+
+    @include media-query($on-laptop) {
+        margin: -31px -16px 20px -16px;
+    }
 }
 
 .post-navigation {
@@ -631,7 +635,11 @@
     width: auto;
     overflow: hidden;
     background-color: #eee;
-    margin: 10px -61px 10px -61px;
+    margin: 10px -61px;
+
+    @include media-query($on-laptop) {
+        margin: 10px -31px;
+    }
 
     a {
         display: block;
