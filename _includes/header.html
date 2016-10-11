@@ -39,9 +39,13 @@
           <li>
             <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}"
                 title="{{ nav.title }}">
-              {% if nav.showtitle %}
-                <span class="nav-link-title nav-link-title-without-sub">{{ nav.title }}</span>
-              {% endif %}
+
+              <span class="nav-link-title nav-link-title-without-sub">
+                {% if nav.showtitle %}
+                  {{ nav.title }}
+                {% endif %}
+              </span>
+
             </a>
           </li>
         {% endif %}
