@@ -15,5 +15,11 @@ sitemap:
 <div class="post-list">
   {% for post in site.categories.noticias %}
     {% include article-preview.html show_category="false" %}
+
+    {% assign loopindex = forloop.index | modulo: 5 %}
+    {% if loopindex == 1 %}
+      {% include googleads.html %}
+    {% endif %}
+
   {% endfor %}
 </div>

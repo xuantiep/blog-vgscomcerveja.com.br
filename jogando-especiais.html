@@ -12,6 +12,12 @@ permalink: /jogando/especiais/
   {% for post in site.categories.jogando %}
   {% if post.categories contains "jogando" and post.categories contains "especiais" %}
     {% include article-preview.html show_category="false" %}
+
+    {% assign loopindex = forloop.index | modulo: 5 %}
+    {% if loopindex == 1 %}
+      {% include googleads.html %}
+    {% endif %}
+
   {% endif %}
   {% endfor %}
 </div>

@@ -12,6 +12,12 @@ permalink: /colecionando/edicao-colecionador/
   {% for post in site.categories.colecionando %}
     {% if post.categories contains "colecionando" and post.categories contains "edicao-colecionador" %}
       {% include article-preview.html show_category="false" %}
+
+      {% assign loopindex = forloop.index | modulo: 5 %}
+      {% if loopindex == 1 %}
+        {% include googleads.html %}
+      {% endif %}
+
     {% endif %}
   {% endfor %}
 </div>

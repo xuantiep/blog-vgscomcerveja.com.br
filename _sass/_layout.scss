@@ -366,7 +366,7 @@
         padding: 20px 0;
         overflow: hidden;
         text-align: center;
-        border-bottom: 2px dashed #ccc;
+        border-top: 1px solid #ccc;
 
         > h1 {
             margin: 15px 0 0;
@@ -382,6 +382,10 @@
             font-weight: normal;
             font-size: 1.2em;
         }
+    }
+
+    article:first-child {
+        border-top: 0;
     }
 }
 
