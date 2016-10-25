@@ -50,4 +50,4 @@ Finalmente consegui platinar o jogo! O pessoal pisou na bola ao colocar um trof�
   lancamento='2013'
   genero='Ação / Aventura'
   data='23 de Março de 2013'
-  nota='10' %}
+  nota=5 %}

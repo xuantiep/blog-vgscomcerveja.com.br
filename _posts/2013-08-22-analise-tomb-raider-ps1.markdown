@@ -43,4 +43,4 @@ Mas enfim, sobrevivi e cheguei ao final! Tomb Raider é um grande jogo e que fez
   lancamento='Novembro de 1996'
   genero='Ação / aventura'
   data='20 de Agosto de 2013'
-  nota='9.0' %}
+  nota=4 %}

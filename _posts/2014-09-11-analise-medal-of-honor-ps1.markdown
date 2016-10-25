@@ -44,4 +44,4 @@ Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha son
   lancamento='1999'
   genero='FPS'
   data='16 de Agosto de 2014'
-  nota='9.0' %}
+  nota=4 %}

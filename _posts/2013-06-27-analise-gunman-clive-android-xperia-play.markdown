@@ -35,4 +35,4 @@ Resumindo, gostei! É um jogo *indie* muito bacana e barato, vale o investimento
   lancamento='2012'
   genero='Ação / Plataforma'
   data='20 de Junho de 2013'
-  nota='9.0' %}
+  nota=4 %}

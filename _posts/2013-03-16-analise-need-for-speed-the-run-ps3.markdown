@@ -41,4 +41,4 @@ Os troféus do **Challenge Series** (modalidade do jogo) também são meio chati
   lancamento='2011'
   genero='Corrida (Arcade)'
   data='10 de Fevereiro de 2013'
-  nota='8.0' %}
+  nota=3 %}

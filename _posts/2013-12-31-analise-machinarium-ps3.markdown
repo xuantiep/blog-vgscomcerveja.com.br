@@ -35,4 +35,4 @@ Graficamente o jogo é muito bonito, todo desenhado e muito bem trabalhado nos d
   lancamento='2012'
   genero='Aventura / Puzzle Point-and-Click'
   data='29 de Dezembro de 2013'
-  nota='9.0' %}
+  nota=3.5 %}

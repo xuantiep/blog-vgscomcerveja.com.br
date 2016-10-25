@@ -43,4 +43,4 @@ Recentemente, Castle of Illusion teve um *remake* lançado para PlayStation 3, P
   lancamento='1991'
   genero='Aventura / Plataforma'
   data='07 de Setembro de 2013'
-  nota='9.0' %}
+  nota=4.5 %}

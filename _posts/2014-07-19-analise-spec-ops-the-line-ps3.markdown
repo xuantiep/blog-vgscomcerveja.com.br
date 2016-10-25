@@ -54,4 +54,4 @@ Bom, é isso, recomendo esse jogo que descobri meio por acaso, pois estava dispo
   lancamento='2012'
   genero='Tiro / Ação'
   data='24 de Junho de 2014'
-  nota='9.5' %}
+  nota=4.5 %}

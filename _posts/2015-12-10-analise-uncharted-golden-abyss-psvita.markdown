@@ -47,4 +47,4 @@ Uncharted: Golden Abyss é um grande jogo que provavelmente deixou muita gente e
   lancamento='2011'
   genero='Ação / Aventura'
   data='21 de Agosto de 2015'
-  nota='9.5' %}
+  nota=4.5 %}

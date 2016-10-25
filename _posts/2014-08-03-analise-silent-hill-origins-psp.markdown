@@ -56,4 +56,4 @@ Enfim, SH: Origins é um jogo muito bom, terminei o jogo apenas uma vez, mas com
   lancamento='2007'
   genero='Ação / Survival Horror'
   data='25 de Julho de 2014'
-  nota='9.0' %}
+  nota=4 %}

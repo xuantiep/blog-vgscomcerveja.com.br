@@ -60,4 +60,4 @@ Bom para finalizar, a **Sega** conseguiu melhorar o que já era bom, manteve o m
   lancamento='1992'
   genero='Aventura / Plataforma'
   data='08 de Setembro de 2013'
-  nota='9.5' %}
+  nota=4.5 %}

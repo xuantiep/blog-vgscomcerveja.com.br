@@ -35,4 +35,4 @@ Bom, em resumo até que gostei do jogo, pois o investimento que tive nele foi ba
   lancamento='2012'
   genero='Plataforma / Surival Horror'
   data='01 de Janeiro de 2014'
-  nota='8.0' %}
+  nota=3 %}

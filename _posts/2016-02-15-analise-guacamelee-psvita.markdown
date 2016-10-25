@@ -65,4 +65,4 @@ O jogo vale muito a pena! É perfeito para jogar no PS Vita, e ele é *cross-ove
   lancamento='2013'
   genero='Ação / Aventura'
   data='20 de Setembro de 2015'
-  nota='10' %}
+  nota=5 %}

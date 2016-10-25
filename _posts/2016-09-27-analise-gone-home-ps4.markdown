@@ -41,4 +41,4 @@ Resumidamente, o jogo consiste em investigar esse mistério juntando as pistas l
   lancamento='2016'
   genero='Aventura'
   data='29 de Agosto de 2016'
-  nota='7.5' %}
+  nota=2.5 %}

@@ -67,4 +67,4 @@ No final das contas, não encontrei muita dificuldade para tocas as 18 músicas,
   lancamento='2008'
   genero='Musical'
   data='09 de Outubro de 2014'
-  nota='8.0' %}
+  nota=3 %}

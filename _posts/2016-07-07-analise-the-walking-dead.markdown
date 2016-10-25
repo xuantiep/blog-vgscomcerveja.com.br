@@ -65,4 +65,4 @@ Os jogos saíram praticamente para todas plataformas (menos Nintendo): Android, 
   lancamento='2012 / 2013'
   genero='Ação / Aventura / Drama Interativo'
   data='26 de Maio de 2016 / 12 de Junho de 2016'
-  nota='9' %}
+  nota=4 %}

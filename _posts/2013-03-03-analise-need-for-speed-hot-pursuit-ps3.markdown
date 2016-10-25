@@ -39,4 +39,4 @@ Enfim, eu sou suspeito para falar, pois sou fã do gênero de corrida, mas NFS: 
   lancamento='2010'
   genero='Corrida (Arcade)'
   data='29 de Janeiro de 2013'
-  nota='9.5' %}
+  nota=4.5 %}

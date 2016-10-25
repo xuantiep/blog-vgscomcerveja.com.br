@@ -64,4 +64,4 @@ Super Mario World se destaca devido à sua excelente jogabilidade somado com um 
   lancamento='1991'
   genero='Aventura / Plataforma'
   data='04 de Janeiro de 2015'
-  nota='10' %}
+  nota=5 %}

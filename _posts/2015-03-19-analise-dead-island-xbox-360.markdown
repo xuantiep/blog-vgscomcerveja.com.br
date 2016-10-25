@@ -86,4 +86,4 @@ O jogo tinha tudo para ser um excelente jogo, porém, no início senti o jogo mu
   lancamento='2011'
   genero='FPS / Survival Horror'
   data='31 de Dezembro de 2014'
-  nota='7.5' %}
+  nota=3.5 %}

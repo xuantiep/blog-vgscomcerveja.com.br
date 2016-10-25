@@ -144,4 +144,4 @@ Entretanto, tem UM troféu que me impediu de conseguir a platina ainda nos prime
   lancamento='2013'
   genero='Corrida (Simulação)'
   data='6 de Outubro de 2015'
-  nota='9.5' %}
+  nota=4.5 %}

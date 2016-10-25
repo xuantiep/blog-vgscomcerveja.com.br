@@ -43,4 +43,4 @@ O jogo em si é bem fácil, os inimigos são bem fracos e os chefões não são 
   lancamento='1997'
   genero='Aventura / Plataforma'
   data='22 de Outubro de 2013'
-  nota='7.5' %}
+  nota=2.5 %}

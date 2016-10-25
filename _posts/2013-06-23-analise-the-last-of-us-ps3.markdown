@@ -73,4 +73,4 @@ Terminei o jogo em 18 horas e queria mais! Eu acho que o jogo é um fortíssimo 
   lancamento='2013'
   genero='Ação'
   data='20 de Junho de 2013'
-  nota='10' %}
+  nota=5 %}

@@ -1,4 +1,4 @@
-<head>
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,6 +7,17 @@
     <meta name="description" content="{{ site.description }}">
 
     <meta property="fb:pages" content="157027331034690" />
+
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="{{ site.description }}" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@vgscomcerveja">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:creator" content="@felipebbarbosa">
 
     <link rel="shortcut icon" type="image/png" href="{{ '/imgs/favicon.png' }}">
 
@@ -18,27 +29,5 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <!-- Facebook Pixel Code -->
-    <script>
-      !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-      n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-      n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-      t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-      document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-      fbq('init', '162406337502128');
-      fbq('track', "PageView");
-    </script>
-    <noscript>
-      <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=162406337502128&ev=PageView&noscript=1"/>
-    </noscript>
-    <!-- End Facebook Pixel Code -->
-
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-      (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-9886080722871656",
-        enable_page_level_ads: true
-      });
-    </script>
 </head>

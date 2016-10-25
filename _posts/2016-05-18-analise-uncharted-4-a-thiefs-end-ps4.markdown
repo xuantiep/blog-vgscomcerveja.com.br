@@ -90,4 +90,4 @@ Mas enfim, Uncharted 4 é um daqueles jogos que não precisam de muito para me c
   lancamento='2016'
   genero='Ação / Aventura'
   data='12 de Maio de 2016'
-  nota='10' %}
+  nota=5 %}

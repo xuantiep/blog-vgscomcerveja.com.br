@@ -41,4 +41,4 @@ Enfim, **Taz-Mania** é um jogo bem legal, apanhei muito para zerá-lo na minha 
   lancamento='1992'
   genero='Aventura / Plataforma'
   data='27 de Maio de 2013'
-  nota='8.0' %}
+  nota=3 %}

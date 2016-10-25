@@ -98,4 +98,4 @@ Me diverti pra caramba jogando novamente, tinha medo de achar que o jogo tinha e
   lancamento='1996'
   genero='Ação / Survival Horror'
   data='04 de Outubro de 2015 (Jill) / 06 de Março de 2016 (Chris)'
-  nota='9,5' %}
+  nota=4.5 %}

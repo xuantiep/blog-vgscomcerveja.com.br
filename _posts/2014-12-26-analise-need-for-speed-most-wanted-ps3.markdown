@@ -78,4 +78,4 @@ O jogo é excelente! Recomendo para os fãs de um bom jogo de corrida *arcade*, 
   lancamento='2012'
   genero='Corrida (Arcade)'
   data='17 de Novembro de 2014'
-  nota='9.0' %}
+  nota=4 %}

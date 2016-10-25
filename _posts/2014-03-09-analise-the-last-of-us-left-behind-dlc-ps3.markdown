@@ -37,4 +37,4 @@ Bom, não tem muito o que falar, simplesmente joguem, pois apesar de ser um *DLC
   lancamento='2014'
   genero='Ação'
   data='23 de Fevereiro de 2014'
-  nota='10' %}
+  nota=4.5 %}

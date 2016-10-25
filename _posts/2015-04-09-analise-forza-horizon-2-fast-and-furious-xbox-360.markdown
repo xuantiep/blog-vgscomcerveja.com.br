@@ -78,4 +78,4 @@ Gostei! Mesmo que você não consiga ele de graça, acho que vale a pena comprá
   lancamento='27 de Março de 2015'
   genero='Corrida (Arcade)'
   data='03 de Abril de 2015'
-  nota='9.5' %}
+  nota=4.5 %}

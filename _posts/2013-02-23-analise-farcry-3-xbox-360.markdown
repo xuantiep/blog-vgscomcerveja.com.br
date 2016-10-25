@@ -37,4 +37,4 @@ Bom é isso, eu recomendo Far Cry 3 sem pensar duas vezes, é um jogo muito bom 
   lancamento='2012'
   genero='FPS'
   data='5 de Janeiro de 2013'
-  nota='9.5' %}
+  nota=4.5 %}

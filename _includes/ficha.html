@@ -1,9 +1,11 @@
-<div class="ficha-tecnica">
+<div class="ficha-tecnica" itemscope itemtype="http://schema.org/Review">
   <div>
     <img border="0" src="{{ page.game_cover }}">
   </div>
   <div>
-    <h1>{{ include.titulo }}</h1>
+    <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Game">
+      <h1 itemprop="name">{{ include.titulo }}</h1>
+    </div>
     <h4>{{ include.plataforma }}</h4>
     <br>
     <b>Desenvolvido por: </b>{{ include.desenvolvedor }}<br>
@@ -13,6 +15,21 @@
     <br>
     <b>Finalizado em: </b>{{ include.data }}
     <br><br>
-    <b>Nota: </b>{{ include.nota }}
+    <span itemprop="reviewRating" class="rating" itemscope itemtype="http://schema.org/Rating">
+      <span itemprop="ratingValue" style="display:none">{{ include.nota }}</span>
+      {% assign meiaestrela = include.nota | modulo: 2 %}
+      {% for i in (1..5) %}
+        {% if i <= include.nota %}
+          <span class="icon-star"></span>
+        {% else %}
+          {% if meiaestrela == 0.5 %}
+            <span class="icon-star-half-alt"></span>
+          {% else %}
+            <span class=" icon-star-empty"></span>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </span><br>
+    <span itemprop="author">por {{ page.author }}</span>
   </div>
 </div>

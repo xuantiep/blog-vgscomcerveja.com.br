@@ -48,4 +48,4 @@ Para mim, foi ótimo rejogar todos eles, praticamente zerei os três seguidos, e
   lancamento='2015'
   genero='Ação / Aventura'
   data='<br>25 de Dezembro de 2015 (Drakes Fortune)<br>05 de Janeiro de 2016 (Among Thieves)<br>17 de Janeiro de 2016 (Drakes Deception)'
-  nota='9,8' %}
+  nota=4.5 %}

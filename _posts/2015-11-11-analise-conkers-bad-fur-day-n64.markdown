@@ -56,4 +56,4 @@ Mas se você não é colecionador, ou não faz questão de jogar no console real
   lancamento='2001'
   genero='Aventura / Plataforma'
   data='12 de Agosto de 2015'
-  nota='9.5' %}
+  nota=4.5 %}

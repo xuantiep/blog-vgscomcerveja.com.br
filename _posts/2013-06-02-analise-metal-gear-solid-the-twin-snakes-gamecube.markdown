@@ -41,4 +41,4 @@ Terminei o jogo em 10 horas, porque simplesmente quis aproveitar ao máximo toda
   lancamento='2004'
   genero='Ação'
   data='02 de Junho de 2013'
-  nota='9.5' %}
+  nota=4.5 %}

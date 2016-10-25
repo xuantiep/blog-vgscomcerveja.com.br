@@ -53,4 +53,4 @@ Bom, é isso! Acho que ele fechará minha lista de jogos terminados em 2013! :)
   lancamento='2010'
   genero='FPS'
   data='20 de Novembro de 2013'
-  nota='9.5' %}
+  nota=4.5 %}
