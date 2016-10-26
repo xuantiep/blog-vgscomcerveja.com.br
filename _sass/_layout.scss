@@ -361,7 +361,10 @@
     font-size: 20px;
 }
 
+
+
 .post-list {
+
     > article {
         margin: 0 auto;
         padding: 20px 0;
@@ -369,10 +372,11 @@
         text-align: center;
         border-top: 1px solid #ccc;
 
-        > h1 {
+        > h2 {
             margin: 15px 0 0;
             text-rendering: optimizeLegibility;
             padding: 10px 0;
+            font-size: 2em;
         }
 
         p {
@@ -388,6 +392,7 @@
     article:first-child {
         border-top: 0;
     }
+
 }
 
 .post-cover {
@@ -408,8 +413,29 @@
 }
 
 .post-sinopse {
-    width:59.35%;
-    float:left;
+    width: 59.35%;
+    float: left;
+    padding-left: 20px;
+    text-align: left;
+
+    h2 {
+        text-align: left;
+        font-size: 2em;
+    }
+
+    .post-meta {
+        justify-content: flex-start;
+    }
+
+    p {
+        padding: 0 !important;
+        margin-bottom: 10px;
+        font-size: 0.9em !important;
+    }
+
+    .read-more {
+        margin: 0;
+    }
 
     @include media-query($on-palm) {
         width: 100%;
