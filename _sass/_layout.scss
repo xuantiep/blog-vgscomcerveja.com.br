@@ -433,9 +433,7 @@
         font-size: 0.9em !important;
     }
 
-    .read-more {
-        margin: 0;
-    }
+    .read-more { margin: 0; }
 
     @include media-query($on-palm) {
         width: 100%;
