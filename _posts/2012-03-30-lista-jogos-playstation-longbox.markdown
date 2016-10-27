@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lista de Jogos PlayStation no Formato Longbox"
+title:  "Lista de jogos PlayStation no formato Longbox"
 date:   2012-03-30 19:00
 author: Felipe B. Barbosa
 session: Utilidade Pública
