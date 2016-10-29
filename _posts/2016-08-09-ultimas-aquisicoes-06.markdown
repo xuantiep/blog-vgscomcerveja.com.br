@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Últimas Aquisições #06 - Abr-Jun/16"
+title:      "Últimas Aquisições #06 - Abr~Jun/16"
 date:       2016-08-09 19:50
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
@@ -32,7 +32,7 @@ Em sequência, outro *survival horror*, porém não exclusivo, pois chegou a sai
 
 Para quem não me conhece, Abril é o mês do meu aniversário! E este ano, meu irmão me presenteou com este belíssimo jogo!
 
-Sequência do excelente [Far Cry 3](/jogando/analise/2013/02/23/analise-farcry-3-xbox-360.html), FC4 veio para manter a mesma qualidade da série com um mapa ainda maior!
+Sequência do excelente [Far Cry 3](/jogando/analise/2013/02/23/analise-farcry-3-xbox-360.html), FC4 veio para manter a mesma qualidade da série com um mapa maior e um vilão ainda mais excêntrico!
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/20_aquisicoes06/farcry-4_zps1eqbcsta.jpg" description="FPS dos bons!" %}
 
@@ -42,7 +42,7 @@ Com certeza, este foi o grande destaque do mês de Abril! O jogo por si só já 
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/20_aquisicoes06/shenmue_zpsokfs0ten.jpg" description="As versões da Tectoy sempre é um pouco mais difícil de conseguir, fiquei muito contente com a aquisição!" %}
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/20_aquisicoes06/shenmue-verso_zpspmrioasn.jpg" description="As versões da Tectoy sempre é um pouco mais difícil de conseguir, fiquei muito contente com a aquisição!" %}
+{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/20_aquisicoes06/shenmue-verso_zpspmrioasn.jpg" description="O jogo tem a luva e o manual traduzidos em português. Porém o jogo está em inglês!" %}
 
 ## Uncharted 4: A Thief's End (PS4)
 
