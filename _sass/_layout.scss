@@ -148,6 +148,10 @@
             border-bottom: 4px solid #375626;
         }
 
+        li:nth-child(7)  { display: none; }
+        li:nth-child(8)  { display: none; }
+        li:nth-child(9) { display: none; }
+
         .nav-link-title-without-sub {
             display: none;
         }
@@ -229,7 +233,7 @@
                 .icon-angle-down { display: none; }
             }
 
-            li:nth-child(1) a span::after  { content: "Home";      }
+            li:nth-child(1) a span::after { content: "Home";      }
             li:nth-child(2) a span::after { content: "Feed RSS";  }
             li:nth-child(7) a span::after { content: "Twitter";   }
             li:nth-child(8) a span::after { content: "Facebook";  }

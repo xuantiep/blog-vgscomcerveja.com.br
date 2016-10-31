@@ -9,7 +9,7 @@
 - title: Notícias
   url: /noticias/
   classe: icon-newspaper
-  showtitle: true
+  showtitle: false
 - title: Jogando
   url: /jogando/
   classe: icon-gamepad
