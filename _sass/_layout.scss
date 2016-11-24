@@ -462,16 +462,12 @@
 }
 
 .post-share {
-    small {
-        font-size: .7em;
-        font-variant: small-caps;
-        text-transform: lowercase;
-        line-height: 1em;
-    }
-    a { color: white; }
-    .share-twitter  { background-color: #02ACEC; }
-    .share-facebook { background-color: #284A85; }
-    .share-google   { background-color: #DD4B39; }
+    padding-top: 10px;
+
+    a { color: white; font-size: 1.1em; }
+    .share-twitter  { background-color: #02ACEC; padding: 7px; }
+    .share-facebook { background-color: #284A85; padding: 7px; }
+    .share-google   { background-color: #DD4B39; padding: 7px; }
 }
 
 .post-category {
