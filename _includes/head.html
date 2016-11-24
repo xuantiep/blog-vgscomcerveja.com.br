@@ -10,14 +10,18 @@
 
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ site.url }}" />
     <meta property="og:description" content="{{ site.description }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:image" content="{{ post.thumbnail }}" />
 
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@vgscomcerveja">
     <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ post.sinopse }}">
     <meta name="twitter:creator" content="@felipebbarbosa">
+    <meta name="twitter:image" content="{{ post.thumbnail }}">
 
     <link rel="shortcut icon" type="image/png" href="{{ '/imgs/favicon.png' }}">
 
