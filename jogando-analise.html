@@ -8,16 +8,22 @@ permalink: /jogando/analise/
   <h1>Análises</h1>
 </div>
 
-<div class="post-list">
-  {% for post in site.categories.jogando %}
-    {% if post.categories contains "jogando" and post.categories contains "analise" %}
-      {% include article-preview.html show_category="false" %}
+{% include googleads.html %}
 
-      {% assign loopindex = forloop.index | modulo: 5 %}
-      {% if loopindex == 1 %}
-        {% include googleads.html %}
+<div class="post-list review-list">
+  <article>
+    {% for post in site.categories.jogando %}
+      {% if post.categories contains "jogando" and post.categories contains "analise" %}
+
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <img src="{{ post.thumbnail }}">
+        </a>
+
       {% endif %}
+    {% endfor %}
 
-    {% endif %}
-  {% endfor %}
+
+  </article>
 </div>
+
+{% include googleads.html %}
