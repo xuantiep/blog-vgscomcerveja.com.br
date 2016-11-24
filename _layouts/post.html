@@ -20,6 +20,20 @@ layout: default
       <span class="post-date icon-calendar">{{ page.date | date: "%b %-d, %Y" }}</span>
       <span class="post-comments icon-comment-empty"><a href="{{ page.url }}#disqus_thread"></a></span>
     </div>
+
+    <div class="post-share">
+      <small>Compartilhe</small><br>
+      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Compartilhe no Twitter">
+        <span class="icon-twitter share-twitter"></span>
+      </a>
+      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartilhe no Facebook">
+        <span class="icon-facebook share-facebook"></span>
+      </a>
+      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Compartilhe no Google+">
+        <span class="icon-google share-google"></span>
+      </a>
+    </div>
+
   </header>
 
   {% include googleads.html %}
