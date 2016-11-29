@@ -2,7 +2,7 @@
 layout: post
 title:  "Lista de jogos de Master System lançados pela Tectoy"
 date:   2012-01-24 19:00
-lastmod: 2016-10-27 20:30
+lastmod: 2016-11-29 20:30
 author: Felipe B. Barbosa
 session: Utilidade Pública
 categories: colecionando utilidade-publica
@@ -84,7 +84,7 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 56  | Thunder Blade                                   | (sem letra-1V) (C-3V)         |           |
 | 57  | Vigilante                                       | (sem letra-1V) (C-1V) (C-3V)  |           |
 | 58  | Wanted                                          | (sem letra-1V) (B-3V)         |           |
-| 59  | Wonder Boy                                      | (sem letra-1V) (B-1V)         |           |
+| 59  | Wonder Boy                                      | (sem letra-1V) (B-1V) (B-3V)  |           |
 | 60  | World Grand Prix                                | (sem letra-1V) | logo atrás; nome no label; |
 | 61  | Zaxxon 3D                                       | (sem letra-1V) (A-1V)      | nome no label; |
 | 62  | Zillion II                                      | (sem letra-1V)                |           |
@@ -96,7 +96,7 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 1   | Ace of Aces                                     | (A)         |                            |
 | 2   | Action Fighter                                  | (B)         | código de barras;          |
 | 3   | Aerial Assault                                  | (A)         |                            |
-| 4   | After Burner                                    | (sem letra) |                            |
+| 4   | After Burner                                    |             |                            |
 | 5   | Air Rescue                                      | (A)         | código de barras;          |
 | 6   | Alex Kidd in High-Tech World                    | (B)         | label azul; código de barras; |
 | 7   | Alex Kidd in Shinobi World                      | (A)         |                            |
@@ -105,11 +105,11 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 10   | Alien Syndrome                                  | (A)         |                            |
 | 11  | Altered Beast                                   | (B)         |                            |
 | 12  | American Baseball                               | (A)         | código de barras;          |
-| 13  | Asterix                                         | (sem letra) |                            |
+| 13  | Asterix                                         |             |                            |
 | 14  | Astro Warrior                                   | (B)         |                            |
-| 15  | Ayrton Senna's Super Mônaco GP II               | (sem letra) | código de barras;          |
+| 15  | Ayrton Senna's Super Mônaco GP II               |             | código de barras;          |
 | 16  | Back To The Future II                           | (D)         | código de barras;          |
-| 17  | Bank Panic                                      | (sem letra) |                            |
+| 17  | Bank Panic                                      |             |                            |
 | 18  | Basketball Nightmare                            | (A)         | código de barras;          |
 | 19  | Bonanza Bros.                                   | (A)         |                            |
 | 20  | Captain Silver                                  | (B)         |                            |
@@ -121,97 +121,98 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | 26  | Dragon Maze                                     | (A)         |                            |
 | 27  | Dynamite Duke                                   | (B)         |                            |
 | 28  | E-SWAT                                          | (C)         |                            |
-| 29  | F-16 Fighter                                    | (sem letra) | nome no label; código de barras; |
+| 29  | F-16 Fighter                                    |             | nome no label; código de barras; |
 | 30  | Flintstones, The                                | (D)         |                            |
 | 31  | Forgotten Worlds                                | (B)         |                            |
 | 32  | Gain Ground                                     | (A)         |                            |
-| 33  | Gang's Fighter                                  | (sem letra) | código de barras; selo do INMETRO;|
-| 34  | Gauntlet                                        | (B)         |                            |
-| 35  | Ghost House                                     | (sem letra) |                            |
-| 36  | Ghouls 'n Ghosts                                | (B)         |                            |
-| 37  | G-Loc                                           | (B)         |                            |
-| 38  | Golden Axe                                      | (sem letra) | label azul;                |
-| 39  | Golden Axe Warrior                              | (A)         |                            |
-| 40  | Golfamania                                      | (B)         |                            |
-| 41  | Golvellius                                      | (A)         | código de barras;          |
-| 42  | Great Voley                                     | (B)         |                            |
-| 43  | Heavyweight Champ                               | (A)         | código de barras;          |
-| 44  | Heroes of the Lance                             | (sem letra) |                            |
-| 45  | Impossible Mission                              | (B)         | código de barras;          |
-| 46  | Indiana Jones e a Última Cruzada                | (D)         |                            |
-| 47  | Joe Montana Football                            | (A)         |                            |
-| 48  | Jogos de Verão                                  | (C)         | código de barras; label;   |
-| 49  | Jogos Olímpicos                                 | (B)         |                            |
-| 50  | Kenseiden                                       | (C)         |                            |
-| 51  | Kung Fu Kid                                     | (B)         |                            |
-| 51  | Lemmings                                        | (B)         | código de barras;          |
-| 52  | Line of Fire                                    | (sem letra) |                            |
-| 53  | Lord of the Sword                               | (A)         |                            |
-| 54  | Lucky Dime Caper, The                           | (C)         | código de barras;          |
-| 55  | Mercs                                           | (sem letra) |                            |
-| 56  | Minigolf                                        | (B)         |                            |
-| 57  | Miracle Warriors                                | (B)         |                            |
-| 58  | Missile Defense 3D                              | (B)         |                            |
-| 59  | Mônica no Castelo do Dragão                     | (C)         |                            |
-| 60  | Moonwalker                                      | (C)         |                            |
-| 61  | Ms. Pac-Man                                     | (B)         |                            |
-| 62  | Ninja Gaiden                                    | (A)         | código de barras;          |
-| 63  | Nuclear Creature                                | (sem letra) | código de barras; selo do INMETRO;|
-| 64  | Olympic Gold                                    | (D)         |                            |
-| 65  | Out Run Europa                                  | (B)         |                            |
-| 66  | Paperboy                                        | (B)         |                            |
-| 67  | Phantasy Star                                   | (E)         |                            |
-| 68  | Power Strike                                    | (B)         |                            |
-| 69  | Psychic World                                   | (A)         |                            |
-| 70  | Psycho Fox                                      | (B)         |                            |
-| 71  | R.C. Grand Prix                                 | (C)         |                            |
-| 72  | Rampage                                         | (A)         | código de barras;          |
-| 73  | Rastan                                          | (A)         |                            |
-| 74  | Running Battle                                  | (A)         |                            |
-| 75  | Sagaia                                          | (A)         |                            |
-| 76  | Scramble Spirits                                | (A)         |                            |
-| 77  | Secret of Shinobi, The                          | (sem letra) |                            |
-| 78  | Sega Chess                                      | (A)         | código de barras;          |
-| 79  | Shapes and Columns                              | (B)         |                            |
-| 80  | Shinobi                                         | (C)         |                            |
-| 81  | Shooting G                                      | (B)         |                            |
-| 82  | Simpsons Bart vs. The Space Mutants, The        | (D)         |                            |
-| 83  | Sonic The Hedgehog                              | (C)         | número de mega;            |
-| 84  | Sonic The Hedgehog 2                            | (sem letra) | label azul; cód. barras;   |
-| 85  | Spellcaster                                     | (sem letra) |                            |
-| 86  | Spider-Man                                      | (B)         | cód. barras;               |
-| 87  | Spy vs. Spy                                     | (B)         | cód. barras;               |
-| 88  | Strider                                         | (sem letra) |                            |
-| 89  | Submarine Attack                                | (A)         | cód. barras;               |
-| 90  | Super Futebol                                   | (sem letra) |                            |
-| 91  | Super Futebol II                                | (B)         | label azul; fonte label; cód. barras; logo frontal; |
-| 92  | Super Kick Off                                  | (C)         |                            |
-| 93  | Teddy Boy                                       | (sem letra) | cód. barras;               |
-| 94  | Time Soldiers                                   | (A)         |                            |
-| 95  | Tom & Jerry: The Movie                          | (C)         | label azul; cód. barras;   |
-| 96  | Última IV                                       | (E)         |                            |
-| 97  | Vigilante                                       | (C)         |                            |
-| 98  | World Games                                     | (B)         | cód. barras;               |
-| 99  | World Grand Prix                                | (B)         |                            |
-| 100  | Y's                                             | (B)         |                            |
-| 101 | Zillion                                         | (A)         |                            |
+| 33  | Galaxy Force                                    |             |                            |
+| 34  | Gang's Fighter                                  |             | código de barras; selo do INMETRO;|
+| 35  | Gauntlet                                        | (B)         |                            |
+| 36  | Ghost House                                     |             |                            |
+| 37  | Ghouls 'n Ghosts                                | (B)         |                            |
+| 38  | G-Loc                                           | (B)         |                            |
+| 39  | Golden Axe                                      |             | label azul;                |
+| 40  | Golden Axe Warrior                              | (A)         |                            |
+| 41  | Golfamania                                      | (B)         |                            |
+| 42  | Golvellius                                      | (A)         | código de barras;          |
+| 43  | Great Voley                                     | (B)         |                            |
+| 44  | Heavyweight Champ                               | (A)         | código de barras;          |
+| 45  | Heroes of the Lance                             |             |                            |
+| 46  | Impossible Mission                              | (B)         | código de barras;          |
+| 47  | Indiana Jones e a Última Cruzada                | (D)         |                            |
+| 48  | Joe Montana Football                            | (A)         |                            |
+| 49  | Jogos de Verão                                  | (C)         | código de barras; label;   |
+| 50  | Jogos Olímpicos                                 | (B)         |                            |
+| 51  | Kenseiden                                       | (C)         |                            |
+| 52  | Kung Fu Kid                                     | (B)         |                            |
+| 53  | Lemmings                                        | (B)         | código de barras;          |
+| 54  | Line of Fire                                    |             |                            |
+| 55  | Lord of the Sword                               | (A)         |                            |
+| 56  | Lucky Dime Caper, The                           | (C)         | código de barras;          |
+| 57  | Mercs                                           |             |                            |
+| 58  | Minigolf                                        | (B)         |                            |
+| 59  | Miracle Warriors                                | (B)         |                            |
+| 60  | Missile Defense 3D                              | (B)         |                            |
+| 61  | Mônica no Castelo do Dragão                     | (C)         |                            |
+| 62  | Moonwalker                                      | (C)         |                            |
+| 63  | Ms. Pac-Man                                     | (B)         |                            |
+| 64  | Ninja Gaiden                                    | (A)         | código de barras;          |
+| 65  | Nuclear Creature                                |             | código de barras; selo do INMETRO;|
+| 66  | Olympic Gold                                    | (D)         |                            |
+| 67  | Out Run Europa                                  | (B)         |                            |
+| 68  | Paperboy                                        | (B)         |                            |
+| 69  | Phantasy Star                                   | (E)         |                            |
+| 70  | Power Strike                                    | (B)         |                            |
+| 71  | Psychic World                                   | (A)         |                            |
+| 72  | Psycho Fox                                      | (B)         |                            |
+| 73  | R.C. Grand Prix                                 | (C)         |                            |
+| 74  | Rampage                                         | (A)         | código de barras;          |
+| 75  | Rastan                                          | (A)         |                            |
+| 76  | Running Battle                                  | (A)         |                            |
+| 77  | Sagaia                                          | (A)         |                            |
+| 78  | Scramble Spirits                                | (A)         |                            |
+| 79  | Secret of Shinobi, The                          |             |                            |
+| 80  | Sega Chess                                      | (A)         | código de barras;          |
+| 81  | Shapes and Columns                              | (B)         |                            |
+| 82  | Shinobi                                         | (C)         |                            |
+| 83  | Shooting G                                      | (B)         |                            |
+| 84  | Simpsons Bart vs. The Space Mutants, The        | (D)         |                            |
+| 85  | Sonic The Hedgehog                              | (C)         | número de mega;            |
+| 86  | Sonic The Hedgehog 2                            |             | label azul; cód. barras;   |
+| 87  | Spellcaster                                     |             |                            |
+| 88  | Spider-Man                                      | (B)         | cód. barras;               |
+| 89  | Spy vs. Spy                                     | (B)         | cód. barras;               |
+| 90  | Strider                                         |             |                            |
+| 91  | Submarine Attack                                | (A)         | cód. barras;               |
+| 92  | Super Futebol                                   |             |                            |
+| 93  | Super Futebol II                                | (B)         | label azul; fonte label; cód. barras; logo frontal; |
+| 94  | Super Kick Off                                  | (C)         |                            |
+| 95  | Teddy Boy                                       |             | cód. barras;               |
+| 96  | Time Soldiers                                   | (A)         |                            |
+| 97  | Tom & Jerry: The Movie                          | (C)         | label azul; cód. barras;   |
+| 98  | Última IV                                       | (E)         |                            |
+| 99  | Vigilante                                       | (C)         |                            |
+| 100 | World Games                                     | (B)         | cód. barras;               |
+| 101 | World Grand Prix                                | (B)         |                            |
+| 102 | Y's                                             | (B)         |                            |
+| 103 | Zillion                                         | (A)         |                            |
 
 ### Caixa Plástica com Encarte Branco com Quadrados Pequenos
 
 | Nº  | Nome                                            | Letra       | Variação*                  |
 | --- | ----------------------------------------------- | ----------- | -------------------------- |
 | 1   | Batman Returns                                  | (D)         |                            |
-| 2   | Chuck Rock                                      | (sem letra) |                            |
+| 2   | Chuck Rock                                      |             |                            |
 | 3   | Global Gladiators                               | (D)         |                            |
-| 4   | GP Rider                                        | (sem letra) |                            |
-| 5   | Land of Illusion                                | (sem letra) | label azul;                |
+| 4   | GP Rider                                        |             |                            |
+| 5   | Land of Illusion                                |             | label azul;                |
 | 6   | Master of Darkness                              | (B)         |                            |
 | 7   | Ninja, The                                      | (B)         |                            |
 | 8   | Predator 2                                      | (D)         |                            |
 | 9   | Renegade                                        | (B)         |                            |
 | 10  | Sega World Tournament Golf                      | (A)         |                            |
 | 11  | Slap Shot                                       | (A)         |                            |
-| 12  | Streets of Rage                                 | (sem letra) |                            |
+| 12  | Streets of Rage                                 |             |                            |
 | 13  | Taz-Mania                                       | (D)         |                            |
 | 14  | Wimbledon                                       | (A)         |                            |
 | 15  | World Class Leader Board                        | (B)         |                            |
@@ -221,105 +222,105 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 | Nº  | Nome                                            | Letra       | Variação*                  |
 | --- | ----------------------------------------------- | ----------- | -------------------------- |
 | 1   | 007 The Duel                                    | (D)         |                            |
-| 2   | Aladdin                                         | (sem letra) |                            |
+| 2   | Aladdin                                         |             |                            |
 | 3   | Andre Agassi                                    | (B)         |                            |
-| 4   | Asterix and the Great Rescue                    | (sem letra) |                            |
-| 5   | Asterix and the Secret Mission                  | (sem letra) |                            |
-| 6   | Buggy Run                                       | (sem letra) |                            |
+| 4   | Asterix and the Great Rescue                    |             |                            |
+| 5   | Asterix and the Secret Mission                  |             |                            |
+| 6   | Buggy Run                                       |             |                            |
 | 7   | Champions of Europe                             | (B)         |                            |
 | 8   | Chapolim x Drácula: Um Duelo Assustador         | (B)         |                            |
-| 9   | Chuck Rock II - Son of Chuck                    | (sem letra) | selo do INMETRO;           |
+| 9   | Chuck Rock II - Son of Chuck                    |             | selo do INMETRO;           |
 | 10  | Crash Dummies                                   | (C)         |                            |
-| 11  | Daffy Duck in Hollywood                         | (sem letra) |                            |
-| 12  | Deep Duck Trouble                               | (sem letra) |                            |
+| 11  | Daffy Duck in Hollywood                         |             |                            |
+| 12  | Deep Duck Trouble                               |             |                            |
 | 13  | Desert Speedtrap starring Road Runner and Wile E. Coyote | (D) | selo do INMETRO; endereço;|
 | 14  | Dr. Robotnik's Mean Bean Machine                | (B)         |                            |
 | 15  | Dragon Crystal                                  | (B)         |                            |
-| 16  | Ecco The Dolphin                                | (sem letra) |                            |
+| 16  | Ecco The Dolphin                                |             |                            |
 | 17  | F1                                              | (C)         |                            |
 | 18  | Flash, The                                      | (C)         |                            |
 | 19  | George Foreman's KO Boxing                      | (C)         |                            |
-| 20  | Geraldinho                                      | (sem letra) |                            |
-| 21  | Incredible Hulk, The                            | (sem letra) |                            |
+| 20  | Geraldinho                                      |             |                            |
+| 21  | Incredible Hulk, The                            |             |                            |
 | 22  | Jogos de Verão II                               | (B)         | selo do INMETRO;           |
 | 23  | Jungle Book, The                                | (D)         |                            |
-| 24  | Jurassic Park                                   | (sem letra) |                            |
+| 24  | Jurassic Park                                   |             |                            |
 | 25  | Krusty's Fun House                              | (C)         |                            |
-| 26  | Lion King, The                                  | (sem letra) |                            |
+| 26  | Lion King, The                                  |             |                            |
 | 27  | Masters of Combat                               | (D)         |                            |
-| 28  | Mortal Kombat                                   | (sem letra) |                            |
-| 29  | Mortal Kombat II                                | (sem letra) |                            |
+| 28  | Mortal Kombat                                   |             |                            |
+| 29  | Mortal Kombat II                                |             |                            |
 | 30  | Ottifants, The                                  | (B)         |                            |
-| 31  | Pit-Fighter                                     | (sem letra) |                            |
+| 31  | Pit-Fighter                                     |             |                            |
 | 32  | Populous                                        | (B)         |                            |
-| 33  | Power Strike II                                 | (sem letra) |                            |
+| 33  | Power Strike II                                 |             |                            |
 | 34  | Prince of Persia                                | (D)         |                            |
-| 35  | Quest for the Shaven Yak - Ren Hoëk & Stimpy    | (sem letra) |                            |
-| 36  | Road Rash                                       | (sem letra) | selo do INMETRO;           |
-| 37  | Robocop vs. Terminator                          | (sem letra) |                            |
+| 35  | Quest for the Shaven Yak - Ren Hoëk & Stimpy    |             |                            |
+| 36  | Road Rash                                       |             | selo do INMETRO;           |
+| 37  | Robocop vs. Terminator                          |             |                            |
 | 38  | Sapo Xulé vs. Os Invasores do Brejo             | (C)         |                            |
 | 39  | Shadow of the Beast                             | (B)         |                            |
 | 40  | Shinobi                                         | (C)         |                            |
 | 41  | Simpsons: Bart vs. The World, The               | (D)         |                            |
-| 42  | Sonic Chaos                                     | (sem letra) | selo do INMETRO;           |
-| 43  | Sonic Spinball                                  | (sem letra) | selo do INMETRO;           |
+| 42  | Sonic Chaos                                     |             | selo do INMETRO;           |
+| 43  | Sonic Spinball                                  |             | selo do INMETRO;           |
 | 44  | Spider-Man: Return of the Sinister Six          | (C)         |                            |
-| 45  | Star Wars                                       | (sem letra) | selo do INMETRO; Zona Franca; |
-| 46  | Streets of Rage II                              | (sem letra) |                            |
+| 45  | Star Wars                                       |             | selo do INMETRO; Zona Franca; |
+| 46  | Streets of Rage II                              |             |                            |
 | 47  | Strider II                                      | (C)         |                            |
 | 48  | Superman: The Man of Steel                      | (D)         |                            |
 | 49  | Terminator, The                                 | (D)         |                            |
 | 50  | Turma da Mônica em: O Resgate                   | (C)         | cód. barras;               |
 | 51  | Ultimate Soccer                                 | (A)         |                            |
 | 52  | Where in the World is Carmen Sandiego?          | (B)         |                            |
-| 53  | Winter Olympics                                 | (sem letra) |                            |
+| 53  | Winter Olympics                                 |             |                            |
 | 54  | Wolfchild                                       | (D)         |                            |
-| 55  | World Cup USA 94                                | (sem letra) |                            |
+| 55  | World Cup USA 94                                |             |                            |
 | 56  | WWF Wrestlemania Steel Cage Challenge           | (C)         |                            |
 
 ### Caixa Plástica com Encarte Azul
 
 | Nº  | Nome                                            | Letra       | Variação*                  |
 | --- | ----------------------------------------------- | ----------- | -------------------------- |
-| 1   | Altered Beast                                   | (sem letra) |                            |
+| 1   | Altered Beast                                   |             |                            |
 | 2   | Ariel The Little Mermaid                        | (C)         |                            |
-| 3   | Baku Baku                                       | (sem letra) | INMETRO lombada; Zona Franca; endereço; |
+| 3   | Baku Baku                                       |             | INMETRO lombada; Zona Franca; endereço; |
 | 4   | Battlemaniacs                                   | (D)         |                            |
-| 5   | Bonkers Wax Up!                                 | (sem letra) |                            |
-| 6   | Castelo Rá-Tim-Bum                              | (sem letra) |                            |
-| 7   | Cheese Cat-Astrophe estrelando Speedy Gonzales  | (sem letra) |                            |
-| 8   | Dynamite Headdy                                 | (sem letra) |                            |
-| 9   | Earthworm Jim                                   | (sem letra) |                            |
-| 10  | Ecco - The Tides of Time                        | (sem letra) |                            |
-| 11  | Férias Frustradas do Pica-Pau                   | (sem letra) |                            |
-| 12  | FIFA International Soccer                       | (sem letra) |                            |
+| 5   | Bonkers Wax Up!                                 |             |                            |
+| 6   | Castelo Rá-Tim-Bum                              |             |                            |
+| 7   | Cheese Cat-Astrophe estrelando Speedy Gonzales  |             |                            |
+| 8   | Dynamite Headdy                                 |             |                            |
+| 9   | Earthworm Jim                                   |             |                            |
+| 10  | Ecco - The Tides of Time                        |             |                            |
+| 11  | Férias Frustradas do Pica-Pau                   |             |                            |
+| 12  | FIFA International Soccer                       |             |                            |
 | 13  | Fire & Ice                                      | (D)         |                            |
-| 14  | Game Box série Corridas                         | (sem letra) |                            |
-| 15  | Game Box série Esportes                         | (sem letra) | label;                     |
+| 14  | Game Box série Corridas                         |             |                            |
+| 15  | Game Box série Esportes                         |             | label;                     |
 | 16  | Game Box série Esportes Radicais                | (B) | selo do INMETRO; endereço; Zona Franca; |
-| 17  | Game Box série Lutas                            | (sem letra) |                            |
+| 17  | Game Box série Lutas                            |             |                            |
 | 18  | Gangster Town                                   | (B)         |                            |
-| 19  | Ghouls 'n Ghosts                                | (sem letra) |                            |
+| 19  | Ghouls 'n Ghosts                                |             |                            |
 | 20  | Indiana Jones e a Última Cruzada                | (D)         | selo do INMETRO;           |
-| 21  | James Pond II: Codename Robocod                 | (sem letra) |                            |
-| 22  | Legend of Illusion                              | (sem letra) |                            |
-| 23  | Mickey's Ultimate Challenge                     | (sem letra) |                            |
-| 24  | Mortal Kombat 3                                 | (sem letra) |                            |
-| 25  | Out Run                                         | (sem letra) |                            |
+| 21  | James Pond II: Codename Robocod                 |             |                            |
+| 22  | Legend of Illusion                              |             |                            |
+| 23  | Mickey's Ultimate Challenge                     |             |                            |
+| 24  | Mortal Kombat 3                                 |             |                            |
+| 25  | Out Run                                         |             |                            |
 | 26  | Phantasy Star                                   | (E)         |                            |
 | 27  | Rainbow Islands                                 | (C)         |                            |
 | 28  | Robocop 3                                       | (D)         |                            |
 | 29  | Sapo Xulé: O Mestre do Kung Fu                  | (B)         |                            |
 | 30  | Sapo Xulé: S.O.S. Lagoa Poluída                 | (B)         |                            |
-| 31  | Sítio do Picapau Amarelo                        | (sem letra) |                            |
+| 31  | Sítio do Picapau Amarelo                        |             |                            |
 | 32  | Smurfs, The                                     | (D)         |                            |
-| 33  | Sonic Blast                                     | (sem letra) |                            |
-| 34  | Street Fighter II                               | (sem letra) |                            |
-| 35  | Super Mônaco GP                                 | (sem letra) |                            |
-| 36  | Taz in Escape From Mars                         | (sem letra) | selo do INMETRO; endereço; Zona Franca; |
-| 37  | TV Colosso                                      | (sem letra) |                            |
-| 38  | Virtua Fighter Animation                        | (sem letra) |                            |
-| 39  | X-Men Mojo World                                | (sem letra) |                            |
+| 33  | Sonic Blast                                     |             |                            |
+| 34  | Street Fighter II                               |             |                            |
+| 35  | Super Mônaco GP                                 |             |                            |
+| 36  | Taz in Escape From Mars                         |             | selo do INMETRO; endereço; Zona Franca; |
+| 37  | TV Colosso                                      |             |                            |
+| 38  | Virtua Fighter Animation                        |             |                            |
+| 39  | X-Men Mojo World                                |             |                            |
 
 ### Jogos sem Caixa
 
@@ -331,5 +332,9 @@ Além disso, alguns jogos possuíam variações nas letras na capa que eram refe
 #### Obs.
 - As letras eram referências de preço com base numa tabela na época;
 - x-V é a quantidade de vincos/abas que as caixas de papelão possuíam.
+
+#### Atualizaçao - 29/11/2016
+- Adicionado a variação de Wonder Boy na caixa de papelão com 3V (dica do leitor Kimbo BR).
+- Adicionado o jogo Galaxy Force na versão caixa plástica com encarte branco com quadrados brancos (recém descoberta pelo colecionador Giancarlo B. Sanchez e [divulgado no grupo de Master System no Facebook](https://www.facebook.com/groups/grupomastersystem/permalink/921304234669434/?match=Z2FsYXh5IGZvcmNl)).
 
 Fonte: [Fórum Sega Brasil](http://www.sega-brasil.com.br/forum/viewtopic.php?t=277)
