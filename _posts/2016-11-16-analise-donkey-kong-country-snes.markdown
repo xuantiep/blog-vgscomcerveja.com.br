@@ -19,7 +19,7 @@ Bom, não tem como começar a falar de **Donkey Kong Country** sem ser pelos gr�
 
 Enfim, o Super Nintendo só teve a "oportunidade" de rodar um jogo deste porte devido ao alto investimento que a desenvolvedora [Rare](https://www.rare.co.uk/) fez adquirindo tecnologias da SGI (Sillicon Graphics Inc.), idênticas às usadas nos efeitos especiais dos filmes Exterminador do Futuro 2 e Jurassic Park, e o melhor, conseguiu transportá-las para dentro de um cartucho de SNES (sem chips especiais) usando uma técnica de compressão e modelamento chamada de ACM (Advanced Computer Modeling). Não vou entrar em detalhes destas tecnologias, mas saiba que isto rendeu à Rare um belo de um acordo de parceria com a **Nintendo**, que por sua vez, adquiriu uma porcentagem da empresa e investiu em novos jogos!
 
-O primeiro deles foi o próprio DKC, que foi totalmente remodelado da versão original criada por **_Shigeru Miyamoto_** para os arcades/NES na década de 80. Desta vez, Miyamoto participou de longe do projeto, sendo de autoria da Rare a maior parte do enredo e personagens, inclusive do personagem Diddy Kong.
+O primeiro deles foi o próprio DKC, que foi totalmente remodelado da versão original criada por **_Shigeru Miyamoto_** para os arcades/NES na década de 80. Desta vez, Miyamoto participou de longe do projeto, sendo de autoria da própria Rare a maior parte do enredo e personagens, inclusive do personagem Diddy Kong.
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/34_dkc/dk_diddy_zpshfkvep2b.jpg" description="DK e seu sobrinho Diddy Kong.." %}
 
@@ -37,21 +37,21 @@ Show, não? Mas tem várias outras trilhas marcantes, foi muito difícil escolhe
 
 ## Gameplay
 
-Tá aí algo que não foi revolucionário e nem complexo, muito pelo contrário, o jogo conta com uma jogabilidade bastante simples, que era basicamente pular e correr até o final da fase. Entretanto, tinha seus detalhes, por exemplo, mesmo jogando sozinho, os dois personagens (Donkey e Diddy Kong) estão presentes na tela, e quando um morre, o outro assume do mesmo ponto onde parou, se os dois morrerem perde-se uma vida. Se estiver com apenas um dos dois personagens, você pode recuperar seu companheiro através dos barris DK que estão disponíveis em alguns pontos específicos da fase.
+Tá aí algo que não foi revolucionário e nem complexo, muito pelo contrário, o jogo conta com uma jogabilidade bastante simples, que era basicamente pular e correr até o final da fase. Entretanto, tinha seus detalhes, por exemplo, mesmo jogando sozinho, os dois personagens (Donkey e Diddy Kong) estão presentes na tela, e quando um morre, o outro assume do mesmo ponto onde parou, se os dois morrerem perde-se uma vida. Se estiver sozinho, você pode recuperar seu companheiro através dos barris DK que estão disponíveis em alguns pontos específicos da fase.
 
-Você pode alternar entre os personagens quando quiser, pois cada um tem suas particularidades. O DK é mais forte, porém lento, já o Diddy é mais ágil e rápido. O DK tem uma habilidade de bater com força no chão para desenterrar bananas e outros itens. O Diddy consegue dar estrelinha, que é bastante útil para derrotar vários inimigos em sequência, como também, para realizar saltos mais longos, pois se você realizar uma estrelinha na beira de um barranco, no momento certo, você pode dar um outro salto ao final da estrelinha. #ficadica
+Você pode alternar entre os personagens quando quiser, pois cada um tem suas particularidades. O DK é mais forte, porém lento, já o Diddy é mais ágil e rápido. O DK tem uma habilidade de bater com força no chão para desenterrar bananas e outros itens. O Diddy consegue dar estrelinha, que é bastante útil para derrotar vários inimigos em sequência, como também, para realizar saltos mais longos, pois se você realizar uma estrelinha na beira de um barranco, no momento certo, você pode dar um outro salto ao final da estrelinha e alcançar um ponto mais longe. #ficadica
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/34_dkc/dkc_screen2_zpsmxepmrum.jpg" description="Fases com tempestades!" %}
 
-O jogo não possui *power-ups*, mas em algumas fases você pode "montar" em alguns animais, assim como o Mario faz com o Yoshi em Super Mario World. Mas aqui, você não pode usar eles em qualquer fase, cada bicho está disponível em uma fase e trecho específicos. Temos um rinoceronte (Rambi), um peixe espada (Enguarde), um sapo (Winky), um papagaio (Squawks) e um avestruz (Expresso) e cada um deles possui uma habilidade diferente. Além de você ganhar um apoio extra, pois se você for atingido por um inimigo enquanto estiver montado em um deles, você não perderá um dos Kongs e sim o animal que estiver montado. Ao ser atingido, ele sairá correndo e, caso você seja rápido, você pode recuperá-los montando neles novamente (assim como o Yoshi em Super Mario World).
+O jogo não possui *power-ups*, mas em algumas fases você pode "montar" em alguns animais, assim como o Mario faz com o Yoshi em Super Mario World. Mas aqui, você não pode usar eles em qualquer fase, cada bicho está disponível em fases e trechos específicos. Temos um rinoceronte (Rambi), um peixe espada (Enguarde), um sapo (Winky), um papagaio (Squawks) e um avestruz (Expresso) e cada um deles possui uma habilidade diferente. Com eles, você ganha um apoio extra, pois se você for atingido por um inimigo enquanto estiver montado em um deles, você não perderá um dos Kongs e sim o animal que estiver montado. Mas ainda se for atingido, ele sairá correndo e, caso você seja rápido, você pode recuperá-los ao montar neles novamente (assim como o Yoshi em Super Mario World).
 
-As "moedas" do jogo são bananas! Ao juntar 100 delas, você ganha uma vida. Além disso, cada fase possuem as letras "K", "O", "N" e "G" espalhadas, que ao pegar todas, você ganha uma vida também! Ainda temos os barris de bônus, que muitas vezes estão bem escondidos, e ao entrar neles, você é arremessado para a fase bônus, que na qual, você coleta alguns itens que te ajudam a ganhar vidas!
+As "moedas" do jogo são bananas! Ao juntar 100 delas, você ganha uma vida. Além disso, cada fase possuem as letras "K", "O", "N" e "G" espalhadas, que ao pegar todas, você ganha uma vida também! Ainda temos os barris de bônus, que muitas vezes estão bem escondidos, e ao entrar neles, você é arremessado para a fase bônus, que na qual, você coleta alguns itens que te ajudam a ganhar mais vidas!
 
 E por fim, no final de cada mundo, temos um chefão, que normalmente é a versão maior de algum inimigo comum das fases normais. Não são difíceis de derrotá-los, basta descobrir como atingi-los e desviar da sua sequência de ataques!
 
 ## Fazendo os 101%...
 
-Assim como Super Mario World tinha um desafio extra, que era de fazer [as 96 saídas do jogo](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html), DKC também possui um desafio, um pouco mais simples talvez, que é de completar o jogo em 101%.
+Assim como Super Mario World tinha um desafio extra, que era de fazer [as 96 saídas do jogo](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html), DKC também possui um desafio, um pouco mais simples talvez, que é o de completar o jogo em 101%.
 
 Bom, para realizar tal façanha, basta passar todas as fases entrando em todos os bônus existentes! E para saber se conseguiu encontrar todos os bônus da fase, é só verificar se o nome da fase no mapa está com um ponto de exclamação ("!") após completá-la (por exemplo, Mine Cart Madness!).
 
@@ -61,7 +61,7 @@ Confesso, que nunca tinha realizado tal feito, mas meus amigos já, porém fazia
 
 {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/34_dkc/galera_reunida_zps2krrxqrp.jpg" description="Jogamos no velho esquema: morreu ou passou de fase, passa o controle para o próximo!" %}
 
-Com certeza foi um dia memorável! Agora o nosso próximo desafio será fazer os 102% de DKC2 e depois os 105% de DKC3! :D
+Com certeza foi um dia memorável! Agora o nosso próximo desafio será fazer os 102% de DKC2 e depois os 105% de DKC3! E você? Conhece a série Donkey Kong Country? Se sim, qual sua opinião sobre ela? Se ainda não, não perca mais tempo e jogue! :D
 
 ---
 
