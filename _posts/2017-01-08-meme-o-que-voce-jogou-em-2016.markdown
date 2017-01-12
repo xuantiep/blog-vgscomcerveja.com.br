@@ -5,7 +5,7 @@ date:       2017-01-08 20:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/04_meme2016/facebook_cover_zps1imo9xqy.jpg
+thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/04_meme2016/new_post_thumbnail_zpsaj7lc9zm.jpg
 cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/especial/04_meme2016/post_header_zps4sfbdm79.jpg
 sinopse: >
     Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 6a edição: 'O Que Você Jogou em 2016?' e minha terceira participação.
