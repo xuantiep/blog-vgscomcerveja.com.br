@@ -5,8 +5,8 @@ date:       2012-01-14 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/11_aquisicoes01/post_thumbnail_zpscavshl1w.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/11_aquisicoes01/post_header_zps65srbxye.jpg
+thumbnail:  /imgs/posts/colecao/11_aquisicoes01/post_thumbnail.jpg
+cover:      /imgs/posts/colecao/11_aquisicoes01/post_header.jpg
 sinopse: >
   Como primeiro post do ano, resolvi mostrar meus últimos jogos adquiridos para a coleção, que está
   começando a tomar a forma que eu quero, estou quase chegando aos 100 jogos! :)
@@ -14,7 +14,7 @@ sinopse: >
 Como primeiro post do ano, resolvi mostrar meus últimos jogos adquiridos para a coleção, que está
 começando a tomar a forma que eu quero, estou quase chegando aos 100 jogos! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/11_aquisicoes01/foto1_zpshbautly8.jpg" description="Últimas Aquisições" %}
+{% include image.html url="/imgs/posts/colecao/11_aquisicoes01/aquisicoes.jpg" description="Últimas Aquisições" %}
 
 A coleção está com 92 jogos distribuídos em 12 plataformas (desconsiderando o PC). Desde que
 comecei a colecionar, em meados de 2010, eu tinha apenas 13 jogos originais. Sendo assim, de 2010
@@ -58,11 +58,11 @@ Destaques para o **Férias Frustradas do Pica Pau** para **Master System** que, 
 jogo muito fraco tecnicamente, é uma exclusividade nacional e é procurado por colecionadores do
 mundo todo e bem raro encontrar uma completa. A minha por sinal, não está completa! :(
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/11_aquisicoes01/foto3_zpspdxuphbx.jpg" description="As Férias Frustradas do Pica-Pau" %}
+{% include image.html url="/imgs/posts/colecao/11_aquisicoes01/pica-pau.jpg" description="As Férias Frustradas do Pica-Pau" %}
 
 Destaque também para **Conker's Bad Fur Day** para **Nintendo 64** que está cada vez mais difícil
 de encontrar completa! E para minha sorte, consegui a versão nacional (Gradiente) completa.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/colecao/11_aquisicoes01/foto2_zpsebogwtgt.jpg" description="Conkers Bad Fur Day" %}
+{% include image.html url="/imgs/posts/colecao/11_aquisicoes01/conkers-bad-fur-day.jpg" description="Conkers Bad Fur Day" %}
 
 Bom é isso, esperam que tenham gostado das aquisições! :D
