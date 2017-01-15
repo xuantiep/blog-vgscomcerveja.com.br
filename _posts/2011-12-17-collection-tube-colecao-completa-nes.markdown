@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  "Coleção Completa de Cartuchos NES"
-date:   2011-12-17 19:00
-author: Felipe B. Barbosa
-session: Collection Tube &#35 03
+layout:     post
+title:      "Coleção Completa de Cartuchos NES"
+date:       2011-12-17 19:00
+author:     Felipe B. Barbosa
+session:    Collection Tube &#35 03
 categories: colecionando collection-tube
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/03_nes/post_thumbnail_zpsgucfj3ch.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/collection_tube/03_nes/post_header_zpsg88tvoy5.jpg
+thumbnail:  /imgs/posts/collection_tube/03_nes_collection/post_thumbnail.jpg
+cover:      /imgs/posts/collection_tube/03_nes_collection/post_header.jpg
 sinopse: >
   Esse cara do vídeo de hoje está simplesmente vendendo sua coleção completa de jogos NES
   (vulgo Nintendinho) no eBay! São ao todos 677 jogos oficiais lançados nos EUA mais 67
