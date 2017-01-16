@@ -5,8 +5,8 @@ date:       2014-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 21
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/21_nfsmw/post_thumbnail_zpslrw2ejyu.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/21_nfsmw/post_header_zpsfinwamio.jpg
+thumbnail:  /imgs/posts/game_over/21_nfs_most_wanted/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/21_nfs_most_wanted/post_header.jpg
 sinopse: >
   Eaí, como passou o Natal? Espero que bem! Bom, vou falar de um jogo que quase desisti no ano passado (2013) quando comecei a jogá-lo, não sei exatamente o motivo, mas algo não em agradou na época. Porém, resolvi dar uma segunda chance ao jogo e descobri que é um jogo muito bom!
 game_cover:
@@ -30,7 +30,7 @@ Por falar em corridas, elas são eletrizantes, bem ao estilo de *Hot Pursuit*, �
 
 Ao todo são 61 eventos diferentes, porém estão distribuídos por carro, que por sua vez, possui 6 eventos em 3 níveis de dificuldade: fácil, médio e difícil. O jogo possui 41 carros diferentes, sendo assim, a maioria dos eventos se repetem de um carro para o outro, mudando apenas o nível de dificuldade, ou seja, alguns eventos são mais difíceis ou mais fáceis com determinado carro. Caso seja a primeira vez que você irá participar do evento (independente do carro), você terá que dirigir até o local determinado, nas próximas vezes, não é necessário, basta selecionar o evento no menu rápido.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/21_nfsmw/foto1_zpsonntqkij.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/21_nfs_most_wanted/foto1.jpg" %}
 
 Além dos eventos, o jogo conta com alguns desafios opcionais, herdados de Burnout, que também te dão *Speed Points*, tais como, destruir *outdoors* *(billboards)*, quebrar grades de segurança *(security gates)* e passar em alta velocidade em radares *(speed cameras)*. São passatempo legais, mas se tornam muito chatos quando você quer localizar todos para conquistar os troféus/conquistas, principalmente, as grades de segurança que não são marcadas no mapa.
 
@@ -46,7 +46,7 @@ Além disso, cada melhoria tem uma versão *Pro*, que é habilitada depois de cu
 
 Pilotar os carros não tem muito segredo, pois a jogabilidade, apesar dos seus detalhes, não é nada realista, garantindo assim, muita diversão ao fazer curvas a mais de 200 km/h deslizando de lado *(drift)*.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/21_nfsmw/foto2_zpsnohgy38c.jpg" description="" %}
+{% include image.html url="/imgs/posts/game_over/21_nfs_most_wanted/foto2.jpg" %}
 
 ## Áudiovisual
 
@@ -68,7 +68,7 @@ Tirando os onlines, que são apenas quatro, o mais chatinho é o *Second is Noth
 
 O jogo é excelente! Recomendo para os fãs de um bom jogo de corrida *arcade*, onde não exige que o jogador tenha que se preocupar em ajustar ou até mesmo pilotar o carro com precisão. O jogo é muito divertido e empolgante, a **Criterion** acertou mais uma vez!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/21_nfsmw/foto3_zps4u1j47nq.jpg" description="Meu desempenho! :)" %}
+{% include image.html url="/imgs/posts/game_over/21_nfs_most_wanted/foto3.jpg" description="Meu desempenho! :)" %}
 
 {% include ficha.html
   titulo='Need for Speed: Most Wanted'

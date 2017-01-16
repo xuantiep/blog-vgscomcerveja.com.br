@@ -5,8 +5,8 @@ date:       2016-03-24 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 28
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/post_thumbnail_zpsrx8hykgp.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/post_header_zps2iwvhlnk.jpg
+thumbnail:  /imgs/posts/game_over/28_resident_evil/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/28_resident_evil/post_header.jpg
 sinopse: >
   Neste mês de Março, mais precisamente, no último dia 22, a série Resident Evil completou 20 anos! E nada melhor para comemorar do rejogar o primeiro game da série no bom e velho PS1, né?
 game_cover:
@@ -41,7 +41,7 @@ d) Controlar a situação.*
 *__Equipe Alpha:__ Barry Burton, Joseph Frost, Chris Redfield, Jill Valentine, Brad Vickers e Albert Wesker.  
 __Equipe Bravo:__ Richard Aiken, Rebecca Chambers, Enrico Marini, Forest Speyer e Kenneth J. Sullivan.*
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto4_zpsdkul5cv8.jpg" description="Jill Valentine!" %}
+{% include image.html url="/imgs/posts/game_over/28_resident_evil/foto4.jpg" description="Jill Valentine!" %}
 
 Este é o contexto do jogo, que começa com uma "incrível" apresentação em *live action* (atores reais) da equipe Alpha chegando à floresta onde o helicóptero da equipe Bravo pousou, porém são surpreendidos por cães furiosos e se veem obrigados a fugirem correndo, pois o helicóptero deles já havia partido, até que depararam com uma mansão misteriosa. Eles não tem outra opção a não ser entrar nela e se protegerem do perigo. Lá dentro, eles começam a investigar o local para tentar descobrir o que está acontecendo!
 
@@ -49,13 +49,13 @@ Você pode escolher entre dois membros da equipe para assumir o controle: Jill V
 
 Se você escolher a Jill, sua vida será bem mais fácil, com mais espaço no inventário (oito espaços) e algumas mordomias logo de início que fazem a diferença na dificuldade, como o *Lockpick* que você ganha, e serve para abrir algumas portas sem a necessidade de ter a chave correta. Já se você jogar com Chris, a coisa complica um pouco. Para começar, você não ganha esse *Lockpick* e tem dois espaços a menos no inventário, só isso já dificulta bem as coisas, pois você vai ter que remanejar bem seu inventário.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto3_zpsczbyyppb.jpg" description="Mapa da mansão e seu inventário!" %}
+{% include image.html url="/imgs/posts/game_over/28_resident_evil/foto3.jpg" description="Mapa da mansão e seu inventário!" %}
 
 RE é um jogo de *survival horror old-school*, então não tem essa de sair descarregando tiros nos inimigos, pois as munições são bem escassas. Assim como as ervas medicinais, que recuperam sua vida.
 
 Por falar em inimigos, todo mundo deve saber que são zumbis, né? E neste primeiro, eles são toscos e lentos, fáceis de desviar. Porém, conforme você avança no jogo, vai surgindo novas ameaças, tais como: cachorros zumbis (MA-39 Cerberus), tubarões (Fi-3 Neptune), cobras, *hunters* (MA-121 Hunter) e o *Tyrant* (T-002 Tyrant)! E os mais chatos entre eles, com certeza, são os *hunters*, pois se bobear com eles, te arrancam sua cabeça em um só golpe, e aí meu amigo, game over!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto1_zpsaczc2xn3.jpg" description="O primeiro zumbi do jogo!" %}
+{% include image.html url="/imgs/posts/game_over/28_resident_evil/foto1.jpg" description="O primeiro zumbi do jogo!" %}
 
 Deu game over!? Putz, em RE não tem essa de *continue* não, você voltará para a tela de título e poderá no máximo voltar para o último local salvo. Ah, não salvou? Sinto muito, mas terá que voltar desde o início! Tá, mas como funciona o sistema de *save*, não é automático? Não! ;P
 
@@ -63,7 +63,7 @@ Para salvar, você terá que encontrar as famosas máquinas de escrever, que ger
 
 Nestas *save rooms* você também encontrará um baú, onde você pode armazenar itens que não sejam necessários carregar contigo no seu inventário no momento, mas você poderá pegar quando quiser em qualquer outro baú, um recurso bem interessante e necessário. Quando você entra nestas salas, toca uma música icônica e tranquilizante, pois ali ao menos, você está seguro.. :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto5_zps6w156tfm.jpg" description="Quem já jogou, lembra muito bem desta parte! ^^" %}
+{% include image.html url="/imgs/posts/game_over/28_resident_evil/foto5.jpg" description="Quem já jogou, lembra muito bem desta parte! ^^" %}
 
 ## Tá, mas e a jogabilidade?
 
@@ -73,7 +73,7 @@ Mas o pior de tudo: não é possível atirar e andar ao mesmo tempo, ou você at
 
 Porém, sendo muito sincero, essa jogabilidade não em incomoda nem um pouco, não sei se é pela nostalgia, mas joguei totalmente tranquilo, e olha que a versão que joguei foi a primeira, sem suporte ao controle Dual Shock, então a movimentação é toda feita pelo D-Pad mesmo! Com um pouco de prática, você acostuma! ;)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto2_zps8masepot.jpg" description="Tem que tomar cuidado com estes lugares apertados!" %}
+{% include image.html url="/imgs/posts/game_over/28_resident_evil/foto2.jpg" description="Tem que tomar cuidado com estes lugares apertados!" %}
 
 ## E os gráficos e sons?
 
@@ -83,7 +83,7 @@ E a trilha sonora é fantástica também, sendo que algumas foram mantidas no jo
 
 Agora, a narração dos personagens no jogo em si, não é lá grande coisa, tem algumas partes totalmente desincronizadas! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/28_re/foto6_zpsj3hoiy9l.jpg" description="Os gráficos são bem caprichados!" %}
+{% include image.html url="/imgs/posts/game_over/28_resident_evil/foto6.jpg" description="Os gráficos são bem caprichados!" %}
 
 ## Resumindo
 

@@ -5,8 +5,8 @@ date:       2016-07-07 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 31
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/31_twd/post_thumbnail_zpsxxbivzio.png
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/31_twd/post_header_zpsoe7xjehj.jpg
+thumbnail:  /imgs/posts/game_over/31_the_walking_dead/post_thumbnail.png
+cover:      /imgs/posts/game_over/31_the_walking_dead/post_header.jpg
 sinopse: >
   Nos últimos dias, além de reformular todo o blog, eu estava numa fase "The Walking Dead" em minha vida, retomei onde tinha parado no seriado (4a temporada), comecei a ler o primeiro livro (A Ascensão do Governador) e resolvi jogar a série da Telltale nos videogames.. Confira minhas impressões!
 game_cover:
@@ -17,7 +17,7 @@ Confesso que este estilo de jogo de história interativa (ou drama interativo) n
 
 O primeiro jogo da desenvolvedora **Telltale** - especialista neste estilo de jogo - que experimentei até o final foi o **Jurassic Park - The Game**, que por sinal, também é muito bom! #ficadica
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/31_twd/twd_zpssfoyfpbt.jpg" description="The Walking Dead!" %}
+{% include image.html url="/imgs/posts/game_over/31_the_walking_dead/twd.jpg" description="The Walking Dead!" %}
 
 Bom, vamos focar no **The Walking Dead**.. Atualmente, a série (dos jogos) conta com duas temporadas principais (a terceira foi [anunciada recentemente na E3](http://vaojogar.com.br/escrito/e3-2016-alem-das-conferencias)) e, com uma temporada especial da personagem *Michonne*, famosa no universo de TWD. Mas vamos focar apenas nas duas temporadas principais, pois são as que eu joguei até o final! :)
 
@@ -29,7 +29,7 @@ O primeiro jogo, [The Walking Dead - The Game](https://www.telltalegames.com/wal
 
 Já o segundo jogo, [The Walking Dead - Season Two](https://www.telltalegames.com/walkingdead/), foi lançado em 2013 e também é dividido em cinco episódios. Entretanto, agora a protagonista da história é somente a jovem *Clementine*. Ambos os jogos contém uma história muito intrigante e são sequências diretas um do outro, tanto que cometi um erro ao jogar a primeira temporada no PS Vita e a segunda no PS4... Calma, eu já explico! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/31_twd/twd_evolucao_clementine_zpsms5zcs6h.jpg" description="Evolução da jovem Clementine!" %}
+{% include image.html url="/imgs/posts/game_over/31_the_walking_dead/twd_evolucao_clementine.jpg" description="Evolução da jovem Clementine!" %}
 
 ## Gameplay
 
@@ -43,7 +43,7 @@ Uma das coisas legais do jogo é que ele te "obriga" a tomar várias decisões i
 
 Os gráficos são muito bons, eles são meio que parecidos com as HQs! Os sons e a trilha sonora também não deixam a desejar. Em ambos os jogos, não tem dublagem brasileira (pelo menos não na versão de PSVita e PS4), mas na segunda temporada já é possível colocar legendas em português!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/31_twd/twd_luke_e_clementine_zpszsqobivl.jpg" description="Luke e Clem!" %}
+{% include image.html url="/imgs/posts/game_over/31_the_walking_dead/twd_luke_e_clementine.jpg" description="Luke e Clem!" %}
 
 ## Troféus
 

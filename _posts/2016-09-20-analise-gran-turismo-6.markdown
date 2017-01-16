@@ -5,8 +5,8 @@ date:       2016-09-20 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 32
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/post_thumbnail_zpsnzupseda.png
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/post_header_zpscynoipax.jpg
+thumbnail:  /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.png
+cover:      /imgs/posts/game_over/32_gran_turismo6/post_header.jpg
 sinopse: >
   Quinze anos depois do lançamento do primeiro GT, a série chegou, em 2013, à sua sexta edição com Gran Turismo 6. Desde sempre nas mãos de seu criador, Kazunori Yamauchi, a franquia é exclusiva para os consoles Sony e esta edição encerrou com chave de ouro a era do PS3! Confira! :)
 game_cover:  
@@ -35,7 +35,7 @@ E para quem gosta da história dos carros, cada um deles possui um breve histór
 
 Ainda sobre os carros, além dos milhares disponíveis, o jogo conta com um espaço chamado [Vision Gran Turismo](http://www.gran-turismo.com/br/vgt/), onde as principais fabricantes mundiais desenvolvem designs de carros protótipos e disponibilizam para você pilotar no jogo! Esses carros são liberados de tempos em tempos nas atualizações. Até o momento deste post (update v1.22), temos carros da SRT, Peugeot, Volkswagem, Lexus, Alpine, MINI, Mazda, Infiniti, Chaparral, Subaru, Toyota, Aston Martin, Nissan, Mitsubishi, BMW e Mercedes-Benz. Cada carro é apresentado através um mini-documentário com a fabricante contando como foi o processo de criação do protótipo e se tornam disponíveis para você comprá-lo e pilotar!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/vision_gt_bwm_zpsx1eualg9.jpg" %}
+{% include image.html url="/imgs/posts/game_over/32_gran_turismo6/vision_gt_bwm.jpg" %}
 
 ## Modos de jogo
 
@@ -61,7 +61,7 @@ Já o **Modo Carreira** foi bastante remodelado, tornando-o bem mais simples do 
 
 Logicamente, nem todos os eventos estão liberados desde o início, você precisa ganhar as provas iniciais para conquistar **estrelas** suficientes para desbloquear os seguintes! Esta é uma das diferenças entre GT5, que usava o sistema de nível do piloto para liberar as provas, ao invés de estrelas.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/gt6_zpskuyfnr82.jpg" %}
+{% include image.html url="/imgs/posts/game_over/32_gran_turismo6/gt6.jpg" %}
 
 Agora, as provas de licença seguem o mesmo padrão: realizar testes de frenagem e curvas nos tempos determinados. Entretanto, na minha opinião, estão bem mais fáceis que nos jogos anteriores, tanto que consegui os troféus de ouro em todas as provas de licença sem muito problemas, feito inédito! :)
 
@@ -71,7 +71,7 @@ Além disso, cada classe possuem, além das provas normais, alguns desafios espe
 - **Missões de Corrida**: São provas um pouco diferente das convencionais onde você tem que encarar uma série de desafios com carros previamente especificados, por exemplo, tem provas só de carros compactos, esportivos de tração dianteira, hatchbacks europeus, esportivos clássicos e assim por diante, ou seja, você tem montar seu carro de acordo com as especificações de cada prova.
 - **Corridas de Marca Única**: São semelhantes à Missões de Corrida, a diferença é que nestas provas são todos carros de uma mesma marca, daí o nome marca única! :o)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/gt6-pausa-cafe_zpsek2bdnzb.jpg" %}
+{% include image.html url="/imgs/posts/game_over/32_gran_turismo6/gt6-pausa-cafe.jpg" %}
 
 Ainda no Modo Carreira, temos o **Red Bull X Challenge**, onde basicamente é uma série de aulas de direção com **_Sebastian Vettel_** para você aprender à pilotar carros de fórmula.
 
@@ -87,7 +87,7 @@ Neste evento, você terá que pilotar vários carros diferentes numa prova de te
 
 Este é um evento um tanto quanto inusitado, você pilotará um **LRV** (Lunar Roving Vehicle) na lua em três missões diferentes, que vão desde "refazer" a rota da expedição Apollo 15 até uma prova de derrubar 30 cones em um circuito oval! Tudo isso na lua! :D
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/gt6-lunar-exploration2_zpsqhkiextj.jpg" %}
+{% include image.html url="/imgs/posts/game_over/32_gran_turismo6/gt6-lunar-exploration2.jpg" %}
 
 Logicamente, esta foi uma brincadeira que os desenvolvedores colocaram ao jogo, mas que é no mínimo divertida, pois tem uma certa simulação de ambiente, onde se bobear faz seu veículo decolar, principalmente se passar em uma pedra ou ondulação! :)
 
@@ -95,7 +95,7 @@ Logicamente, esta foi uma brincadeira que os desenvolvedores colocaram ao jogo, 
 
 Talvez uma das coisas mais fantásticas do jogo! **_Kazunori Yamauchi_**, além de criador da série, também é piloto de verdade e grande fã de **_Ayrton Senna_**, e resolveu fazer uma grande homenagem ao nosso ídolo através de uma parceria com o [Instituto Ayrton Senna](http://www.institutoayrtonsenna.org.br/)!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/gt6-senna_zpss6cmiynb.jpg" %}
+{% include image.html url="/imgs/posts/game_over/32_gran_turismo6/gt6-senna.jpg" %}
 
 São 4 capítulos, começando em:
 
@@ -108,7 +108,7 @@ Em todos os capítulos tem uma breve história, uma apresentação de slides e, 
 
 Até o momento deste post, eu só não consegui realizar o tempo da última prova, que é superar o tempo de 1 min 7 s e 16 centésimos no circuito **Brands Hatch** cujo Senna fez no segundo dia de treinos da 14a corrida da temporada de F1 de 1985 com a **Lotus 97T '85**. Legal, né?
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/32_gt6/gt6-sennha2_zps4hs05dzt.jpg" %}
+{% include image.html url="/imgs/posts/game_over/32_gran_turismo6/gt6-senna2.jpg" %}
 
 Além destas provas, você pode comprar os trajes com macacões e capacetes de diferentes épocas de Ayrton para equipar seu piloto, são quatro no total: de 1980, 1983, 1985 e 1988.
 

@@ -5,8 +5,8 @@ date:       2013-12-31 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 14
 categories: jogando analise
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/14_machinarium/post_thumbnail_zpschmjvinl.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/14_machinarium/post_header_zpsdtkxqcjr.jpg
+thumbnail:  /imgs/posts/game_over/14_machinarium/post_thumbnail.jpg
+cover:      /imgs/posts/game_over/14_machinarium/post_header.jpg
 sinopse: >
   E não é que ainda deu tempo de terminar mais um jogo ainda em 2013! E foi um jogo de um gênero que há tempos não jogava (talvez desde Criatura Crunch no PC em meados de 1999), que é o de puzzle de aventura point-and-click. Estamos falando de Machinarium!
 game_cover:
@@ -23,7 +23,7 @@ Apesar da história ser simples, este jogo te prende de tal maneira, que mesmo n
 
 O grande atrativo do jogo são os *puzzles*, que por sua vez, são muito variados, alguns são bem simples, outros são bem complicadinhos, mas nenhum deles você resolve na adivinhação, todos eles tem uma lógica que é demonstrada no jogo, inclusive, o jogo tem um recurso de dicas que acaba ajudando bastante em algumas partes.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/game_over/14_machinarium/foto1_zpsv0nmv54v.jpg" description="Você é aquele robôzinho ali embaixo! :)" %}
+{% include image.html url="/imgs/posts/game_over/14_machinarium/foto1.jpg" description="Você é aquele robôzinho ali embaixo! :)" %}
 
 Graficamente o jogo é muito bonito, todo desenhado e muito bem trabalhado nos detalhes. A trilha sonora também é muito boa. Enfim, é um jogo espetacular, que me deixou com vontade de explorar mais jogos do gênero, inclusive, rejogar o antigo **Criatura Crunch** citado no começo do post! :)
 
