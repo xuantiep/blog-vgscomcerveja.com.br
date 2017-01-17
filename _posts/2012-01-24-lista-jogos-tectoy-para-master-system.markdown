@@ -1,13 +1,13 @@
 ---
-layout: post
-title:  "Lista de jogos de Master System lançados pela Tectoy"
-date:   2012-01-24 19:00
-lastmod: 2016-11-29 20:30
-author: Felipe B. Barbosa
-session: Utilidade Pública
+layout:     post
+title:      "Lista de jogos de Master System lançados pela Tectoy"
+date:       2012-01-24 19:00
+lastmod:    2016-11-29 20:30
+author:     Felipe B. Barbosa
+session:    Utilidade Pública
 categories: colecionando utilidade-publica
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/util/04_ms_tectoy/post_thumbnail_zps1jftkwux.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/util/04_ms_tectoy/post_header_zps6molvgce.jpg
+thumbnail:  /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_thumbnail.jpg
+cover:      /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_header.jpg
 sinopse: >
   Que a Tectoy fez um excelente trabalho com o Master System no Brasil todo mundo sabe!
   Inclusive, chegou a lançar jogos exclusivos para o nosso querido Master como o lendário Street Fighter II, Mortal Kombat 3, jogos da Turma da Mônica e outros que só foram lançados em território nacional e são muitos cobiçados por colecionadores mundiais. Mas enfim, você sabe quais jogos, além dos exclusivos, a Tectoy lançou no Brasil?
@@ -18,7 +18,7 @@ Pois é, a Tectoy nunca divulgou uma lista oficial dos jogos que ela lançou por
 
 E após o árduo trabalho do pessoal, chegou ao seguinte: Existem 5 tipos, ou melhor, 5 gerações de embalagens diferentes lançados para os jogos de Master System:
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/util/04_ms_tectoy/capas_zpsh1k7mg5h.jpg" description="Da Esq. p/ Direita: Caixa de Papelão (1V), Caixa de Papelão (3V), Caixa Plástica com Encarte Branco com Quadrados Grandes, Caixa Plástica com Encarte Branco com Quadrados Pequenos, Caixa Plástica com Encarte Azul e Branco, Caixa Plástica com Encarte Azul." %}
+{% include image.html url="/imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/capas.jpg" description="Da Esq. p/ Direita: Caixa de Papelão (1V), Caixa de Papelão (3V), Caixa Plástica com Encarte Branco com Quadrados Grandes, Caixa Plástica com Encarte Branco com Quadrados Pequenos, Caixa Plástica com Encarte Azul e Branco, Caixa Plástica com Encarte Azul." %}
 
 Além disso, alguns jogos possuíam variações nas letras na capa que eram referências de preço com base numa tabela da época. Mas enfim, eis a lista:
 
