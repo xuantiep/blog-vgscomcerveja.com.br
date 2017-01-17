@@ -5,8 +5,8 @@ date:       2015-06-27 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
 categories: jogando toplist
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/04_e32015/post_thumbnail_zpsxnc7ixe5.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/toplist/04_e32015/post_header_zpsixj4xw12.jpg
+thumbnail:  /imgs/posts/toplist/04_melhores_e3_2015/post_thumbnail.jpg
+cover:      /imgs/posts/toplist/04_melhores_e3_2015/post_header.jpg
 sinopse: >
   Semana passada rolou uma das maiores feiras de videogames do mundo, a Electronic Entertainment Expo, mais conhecida como E3! Ela ocorre anualmente em Los Angeles, EUA. Os maiores da indústria constumam apresentar suas melhores novidades nela, e como este anos tivemos muitas legais, resolvi selecionar apenas as dez que mais curti!
 ---
