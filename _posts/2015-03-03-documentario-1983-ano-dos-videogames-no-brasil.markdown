@@ -5,8 +5,8 @@ date:       2015-03-03 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/09_doc1983/post_thumbnail_zpsoyoswcxb.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/09_doc1983/post_header_zps3uqxp6kt.jpg
+thumbnail:  /imgs/posts/news/09_documentario_1983/post_thumbnail.jpg
+cover:      /imgs/posts/news/09_documentario_1983/post_header.jpg
 sinopse: >
    Encabeçado por Marcus Vinicius Garrett Chiado, historiador e autor dos livros "1983: O Ano dos Videogames no Brasil" e "1984: A Febre dos Videogames Continua", a ideia deste projeto é realizar um documentário definitivo sobre a história da chegada dos videogames ao Brasil, mas para isso, precisa da nossa ajuda!
 ---

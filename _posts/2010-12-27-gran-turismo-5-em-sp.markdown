@@ -1,12 +1,12 @@
 ---
-layout: post
-title:  "Evento de Gran Turismo 5 em São Paulo"
-date:   2010-12-27 19:00
-author: Felipe B. Barbosa
-session: Drops
+layout:     post
+title:      "Evento de Gran Turismo 5 em São Paulo"
+date:       2010-12-27 19:00
+author:     Felipe B. Barbosa
+session:    Drops
 categories: noticias
-thumbnail:      http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/01_gt5_sp/post_thumbnail_zpso9njs3de.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/01_gt5_sp/post_header_zps2egnwlen.jpg
+thumbnail:  /imgs/posts/news/01_gt5_sp/post_thumbnail.jpg
+cover:      /imgs/posts/news/01_gt5_sp/post_header.jpg
 sinopse: >
   A Sony Brasil realizou uma grande ação de marketing em São Paulo para divulgar o lançamento oficial
   do Gran Turismo 5 no Brasil. No último dia 11 de Dezembro vários carros presentes no jogo esteve

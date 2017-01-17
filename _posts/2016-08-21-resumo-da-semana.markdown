@@ -5,8 +5,8 @@ date:       2016-08-21 18:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/20_resumo13/post_thumbnail_zpsnxjyrspc.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/20_resumo13/post_header_zpssinzjbir.jpg
+thumbnail:  /imgs/posts/news/20_resumo13/post_thumbnail.jpg
+cover:      /imgs/posts/news/20_resumo13/post_header.jpg
 sinopse: >
   A olímpiadas acabou! Foram muitos eventos esportivos, conquistas e medalhas inéditas brasileiras, polêmicas.. Enfim, mas e nesse meio tempo, o que rolou no mundo dos games? Confira! :)
 ---
@@ -16,7 +16,7 @@ A olímpiadas acabou! Foram muitos eventos esportivos, conquistas e medalhas in�
 
 Para quem, assim como eu, gosta das trilhas sonoras dos jogos, o serviço de streaming de músicas **Spotify** lançou um [portal exclusivo para fãs do gênero](http://www.spotify-gaming.com/), ou seja, para nós! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/20_resumo13/spotify-gaming_zpsl8vge27z.jpg" %}
+{% include image.html url="/imgs/posts/news/20_resumo13/spotify-gaming.jpg" %}
 
 O **Spotify Gamers** contém várias playlists selecionadas e dedicada para cada tipo de jogador. Além de também reunir praticamente todos álbuns das trilhas originais dos jogos disponíveis no serviço, tais como, Halo, Uncharted 4, The Last of Us, No Man's Sky, Mega Man, Mass Effect e vários outros.. Enfim, vale a pena dar uma olhada!
 
@@ -42,7 +42,7 @@ Eu ainda não sei o que esperar deste jogo, não sei se terei coragem de jogá-l
 
 Anunciado durante a E3 2016, o **Project Scorpio** não chegou à ganhar detalhes na Gamescom, mas a **Microsoft** revelou não ser um console que iniciará uma nova geração de videogames e sim encerrá-la! Pois segundo Aaron Greenberg, chefe de marketing dos jogos do Xbox, "tudo o que você tem vai continuar funcionando".
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/20_resumo13/project-scorpio_zpsfyytf7fn.jpg" %}
+{% include image.html url="/imgs/posts/news/20_resumo13/project-scorpio.jpg" %}
 
 Essa afirmação foi feita em [uma entrevista com o site Engadget](https://www.engadget.com/2016/08/17/microsoft-aaron-greenberg-qa-project-scorpio-vr/), e eles estão querendo transformar o mercado de jogos de consoles em algo como é o mercado de jogos de computador. Será que é uma boa idéia?
 

@@ -5,8 +5,8 @@ date:       2016-07-24 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/17_resumo10/post_thumbnail_zpsh5hhbdzl.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/17_resumo10/post_header_zpszd9sluh1.jpg
+thumbnail:  /imgs/posts/news/17_resumo10/post_thumbnail.jpg
+cover:      /imgs/posts/news/17_resumo10/post_header.jpg
 sinopse: >
   Mais uma semana passou e nada de Pokemon GO aqui no Brasil! Mas sinceramente, quem se importa? Tivemos algumas novidades bacanas, como o novo vídeo de gameplay do jogo Cuphead, o anúncio de novos jogos do Sonic e mais..
   Confira as notícias da semana do dia 18/07 à 24/07 de 2016!

@@ -5,8 +5,8 @@ date:       2016-07-31 21:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/18_resumo11/post_thumbnail_zpsbzfmqmv4.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/18_resumo11/post_header_zpsq9oniza2.jpg
+thumbnail:  /imgs/posts/news/18_resumo11/post_thumbnail.jpg
+cover:      /imgs/posts/news/18_resumo11/post_header.jpg
 sinopse: >
   Vamos a mais um Resumo da Semana com novos rumores sobre o Nintendo NX, jogos grátis e nada de Pokémon GO.. Confira as notícias da semana do dia 25/07 à 31/07 de 2016!
 ---
@@ -16,7 +16,7 @@ Vamos a mais um **Resumo da Semana** com novos rumores sobre o **Nintendo NX**, 
 
 Que a **Nintendo** está desenvolvendo um novo console não é novidade, o **Nintendo NX**, como vem sendo chamado, está com previsão para ser lançado já no começo do ano que vem (Março de 2017), porém ainda pouco se sabe sobre o que está por vir e alguns rumores estão surgindo!
 
-{% include image.html url='http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/18_resumo11/nintendo-nx-news_zpssot5ygbh.jpg' description='' %}
+{% include image.html url='/imgs/posts/news/18_resumo11/nintendo-nx.jpg' %}
 
 Esta semana, o site [Eurogamer apontou que o console poderá usar cartuchos ao invés de discos](http://www.eurogamer.pt/articles/2016-06-24-rumor-nintendo-nx-usara-cartuchos)! O indício surgiu após o registro do novo *The Legend of Zelda: Breath of the Wild* se referir à cartuchos. Sendo assim, ou jogo terá uma versão para Nintendo 3DS, ou realmente o NX usará cartuchos, o que não é de se espantar, pois existem cartões de memória com capacidade suficientes para armazenar um jogo e, ainda por cima, são bem mais rápidos que as mídias ópticas. A única coisa que ainda atrapalha é o preço, mas vamos esperar para ver, né?
 

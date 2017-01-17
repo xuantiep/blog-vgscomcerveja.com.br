@@ -5,8 +5,8 @@ date:       2016-08-28 18:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/21_resumo14/post_thumbnail_zpsuperfu4n.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/21_resumo14/post_header_zpsh9ul7gzu.jpg
+thumbnail:  /imgs/posts/news/21_resumo14/post_thumbnail.jpg
+cover:      /imgs/posts/news/21_resumo14/post_header.jpg
 sinopse: >
   Olá caro leitor, como vai? Essa semana separei algumas novidades, entre elas o aumento do valor da assinatura da PlayStation Plus, a inauguração do primeiro restaurante da Nintendo no Japão, novidades de Resident Evil 7, jogos gratuitos do Games with Gold do mês de Setembro e mais..
 ---
@@ -16,7 +16,7 @@ Olá caro leitor, como vai? Essa semana separei algumas novidades, entre elas o 
 
 A partir do dia 22 de Setembro, a Sony anunciou que irá elevar a anuidade da PlayStation Plus de R$ 100 para R$ 130. Este aumento será realizado em todas as regiões do mundo! Então, deixo a dica para quem quiser economizar: compre a anuidade antes desta data, mesmo se ainda estiver longe de vencer, pois é acumulativa! :)
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/21_resumo14/ps-plus_zps8dnhf9ze.jpg" %}
+{% include image.html url="/imgs/posts/news/21_resumo14/ps-plus.jpg" %}
 
 ## Games with Gold de Setembro
 
@@ -33,15 +33,15 @@ Por falar em assinatura, a Microsoft já divulgou a lista dos jogos gratuitos pa
 
 Com o nome de [Kirby Café](http://kirbycafe.jp/), o primeiro restaurante oficial da **Nintendo** foi inaugurado em Osaka, no Japão, e já ganhou uma segunda unidade em Tóquio. Toda a temática do local é voltada ao personagem Kirby, desde o som ambiente ao cardápio bem variado.
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/21_resumo14/kirby_zpst3vam7df.jpg" %}
+{% include image.html url="/imgs/posts/news/21_resumo14/kirby.jpg" %}
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/21_resumo14/kirby-cafe_zpspdfqxai9.jpg" %}
+{% include image.html url="/imgs/posts/news/21_resumo14/kirby-cafe.jpg" %}
 
 ## ESRB deixou vazar a sinopse de Resident Evil 7
 
 Ainda há um mistério muito grande em relação ao novo Resident Evil, e qualquer informação nova, aumenta ainda mais a curiosidade em jogá-lo! Esta semana, o orgão classificatório ESRB deixou vazar a sinopse do jogo:
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/21_resumo14/re7_zpsxu5d23gd.jpg" %}
+{% include image.html url="/imgs/posts/news/21_resumo14/re7.jpg" %}
 
 *"Este é um jogo de survival-horror onde os jogadores assumem o papel de Ethan, um homem em busca da esposa desaparecida em uma mansão abandonada. De perspectiva em primeira pessoa, os jogadores exploram o ambiente e usam pistolas, escopetas, lança-chamas, explosivos e serra-elétrica para matar criaturas mutantes. Combate é acompanhado por tiroteios realísticos, gritos de dor, e efeitos exagerados de respingos de sangue. Enquanto os jogadores progridem na história, cenas de diálogo podem ilustrar instâncias de gore e ato intensos de violência: o braço de um personagem é desmembrado por uma motoserra; a perna de um homem é arrancada de seu joelho com uma pá; um personagem é empalado através da face com uma pá. Algumas áreas também ilustram corpos mutilados com órgãos e vísceras expostos. As palavras 'f$%a-se'e 'm$%da' são ouvidas nos diálogos"*
 

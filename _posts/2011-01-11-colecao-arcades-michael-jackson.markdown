@@ -5,8 +5,8 @@ date:       2011-01-11 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/02_colecao_mj/post_thumbnail_zpsalcc2rp9.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/02_colecao_mj/post_header_zps2ssozts8.jpg
+thumbnail:  /imgs/posts/news/02_arcades_michael_jackson/post_thumbnail.jpg
+cover:      /imgs/posts/news/02_arcades_michael_jackson/post_header.jpg
 sinopse: >
   Que Michael Jackson foi um grande cantor e dançarino todo mundo sabe, que ele "atuou" nos
   videogames quase todo mundo sabe, mas que ele tinha uma enorme coleção de arcades nem todo mundo
@@ -20,7 +20,7 @@ fazer um tour pela coleção dele.
 Pois é, Michael além de "rei do pop" também era colecionador, ele tinha uma coleção de arcades
 de impressionar muita gente!
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/02_colecao_mj/foto_zpsdm1zd0jv.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/02_arcades_michael_jackson/foto.jpg" description="Coleção incrível!" %}
 
 O mais legal é que existe um site onde você pode fazer um tour pela coleção dele. Porém, as fotos
 panorâmicas não foram tiradas na mansão "Neverland" dele e sim na área de exposição do site de

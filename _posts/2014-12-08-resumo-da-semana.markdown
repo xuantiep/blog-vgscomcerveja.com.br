@@ -5,8 +5,8 @@ date:       2014-12-08 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/06_resumo01/post_thumbnail_zpsb5uomtqq.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/06_resumo01/post_header_zpswrdxk1ww.jpg
+thumbnail:  /imgs/posts/news/06_resumo01/post_thumbnail.jpg
+cover:      /imgs/posts/news/06_resumo01/post_header.jpg
 sinopse: >
   Este final de semana foi bem agitado no mundo dos games, confira algumas novidades interessante!
 ---
@@ -218,4 +218,4 @@ E a grande surpresa do final de semana foi o anúncio da **Capcom** sobre o novo
 
 E por fim uma notícia triste! Faleceu neste sábado (06/12), Ralph Baer, aos 92 anos. Ele que é considerado o "pai dos videogames" por ter criado o primeiro console doméstico, o **Magnavox Odyssey**.
 
-  {% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/06_resumo01/ralph-baer_zpshqqs5tj2.jpg" description="Descanse em Paz! :(" %}
+  {% include image.html url="/imgs/posts/news/06_resumo01/ralph-baer.jpg" description="Descanse em Paz! :(" %}

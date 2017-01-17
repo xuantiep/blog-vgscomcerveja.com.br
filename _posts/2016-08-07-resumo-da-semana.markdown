@@ -5,8 +5,8 @@ date:       2016-08-07 21:30
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/19_resumo12/post_thumbnail_zpsrghznqb6.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/19_resumo12/post_header_zpskitpmb87.jpg
+thumbnail:  /imgs/posts/news/19_resumo12/post_thumbnail.jpg
+cover:      /imgs/posts/news/19_resumo12/post_header.jpg
 sinopse: >
   Aeee Pokémon GO saiu no Brasil esta semana! Mas vamos deixá-lo de lado, pois não é novidade nenhuma, todo mundo sabe que ele foi lançado, né? Vamos a s notícias da semana do dia 01/08 à 07/08 de 2016!
 ---
@@ -16,7 +16,7 @@ Aeee **Pokémon GO** saiu no Brasil esta semana! Mas vamos deixá-lo de lado, po
 
 Esta semana a **Microsoft** lançou a nova versão remodelada do Xbox One! Por enquanto, o **Xbox One S** ainda não está disponível no Brasil, mas a edição de lançamento do console contará com um HD de 2TB! Porém, haverão as versões de 1TB e 500GB também!
 
-{% include image.html url='http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/19_resumo12/Xbox-One-S-and-original_zpsnoesmdhs.jpg' description='Nova versão do Xbox One é cerca de 40% menor que a versão original.' %}
+{% include image.html url='/imgs/posts/news/19_resumo12/Xbox-One-S-and-original.jpg' description='Nova versão do Xbox One é cerca de 40% menor que a versão original.' %}
 
 Dentre as melhorias apresentadas, a principal delas é o tamanho, que é cerca de 40% menor que a versão original e agora com fonte embutida! Além disso, ele reproduzirá filmes, tanto em Blu-ray quanto em *streaming* (como o Netflix), com saída em 4K Ultra HD.
 
@@ -32,7 +32,7 @@ Lançado em Junho para Xbox One e em Julho para PC, **Inside** chegará dia 23 d
 
 A **Nintendo** disponibilizou gratuitamente o acesso digital de várias edições da revista **Nintendo Power**, que foi circulada entre Julho de 1988 à Dezembro de 2012. Estão disponíveis 145 das 285 edições lançadas e você pode acessá-las através do site [Archive.org](https://archive.org/details/nintendopower&tab=collection).
 
-{% include image.html url='http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/19_resumo12/Nintendo-Power_zpsowyk9uwr.jpg' description='Acesso às 145 edições da revista Nintendo Power gratuitamente!' %}
+{% include image.html url='/imgs/posts/news/19_resumo12/Nintendo-Power.jpg' description='Acesso às 145 edições da revista Nintendo Power gratuitamente!' %}
 
 Um prato cheio para quem gosta de nostalgia, até mesmo para nós brasileiros!
 

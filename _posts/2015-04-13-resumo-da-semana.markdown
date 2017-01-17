@@ -5,8 +5,8 @@ date:       2015-04-13 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/15_resumo09/post_thumbnail_zpsodfsoith.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/15_resumo09/post_header_zpskto0okzg.jpg
+thumbnail:  /imgs/posts/news/15_resumo09/post_thumbnail.jpg
+cover:      /imgs/posts/news/15_resumo09/post_header.jpg
 sinopse: >
   Confira as novidades do dia 07/04 à 13/04 de 2015!
 ---
@@ -39,8 +39,6 @@ Segundo rumores, a Eletronic Arts está trabalhando, em parceria com a China Mov
 ## DuckTales Remastered é lançado para tablets e smartphones!
 
 Em 2013, donos de PS3, Xbox 360, WiiU e PC tiveram a chance de conferir o *remake* de um dos maiores clássicos do NES: DuckTales! Agora, quase dois anos depois, os donos de *tablets* e *smartphones* também poderão conferir!
-
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/15_resumo09/9de496a4-b530-45fc-b0a7-582e48c409b9_zpsk3lpmerq.png" description="" %}
 
 O jogo já está disponível por US$ 10 (+/- R$ 32) na App Store e [Google Play](https://play.google.com/store/apps/details?id=com.disney.ducktalesremastered_goo&hl=pt-BR), e por R$ 23,90 na [Windows Phone Store](http://www.windowsphone.com/pt-br/store/app/ducktales-remastered/5ac7627c-08d0-42b8-8100-17b3a2c0c5b2).
 

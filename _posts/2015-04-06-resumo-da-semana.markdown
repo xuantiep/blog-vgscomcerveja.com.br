@@ -5,8 +5,8 @@ date:       2015-04-06 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-thumbnail:  http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/14_resumo08/post_thumbnail_zpsjntnuhox.jpg
-cover: http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/14_resumo08/post_header_zpsnr5smkf0.jpg
+thumbnail:  /imgs/posts/news/14_resumo08/post_thumbnail.jpg
+cover:      /imgs/posts/news/14_resumo08/post_header.jpg
 sinopse: >
   Confira as novidades da semana do dia 31/03 à 06/04 de 2015!
 ---
@@ -52,7 +52,7 @@ Fonte: [N-Party](http://www.nparty.com.br/2015/04/um-breve-resumo-do-que-foi-apr
 
 E para  finalizar, confira a lista de jogos gratuitos para assinantes da PS+ no mês de Abril:
 
-{% include image.html url="http://i328.photobucket.com/albums/l346/vgscomcerveja/drops/14_resumo08/ps_plus_abril_zpsjqk5hnz4.jpg" description="" %}
+{% include image.html url="/imgs/posts/news/14_resumo08/ps_plus_abril.jpg" %}
 
 - Tower of Guns (PS3 / PS4);
 - Never Alone (PS4);
