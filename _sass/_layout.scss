@@ -409,6 +409,15 @@
             margin: 0;
             padding: 0;
         }
+        
+        img {
+            max-width: 370px;
+        }
+        
+        img:first-item {
+            max-width: 740px;
+        }
+        
     }
 }
 
