@@ -20,7 +20,7 @@ Com previsão de lançamento para o próximo dia 6 de Março, o console será ve
 
 {% include image.html url="/imgs/posts/news/26_xbox_palmeiras/xbox_one_palmeiras.jpg" description="O console de 500GB virá com as cores e desenhos homenageando os 102 anos do Palmeiras!" %}
 
-Bom, como palmeirense, eu gostei da novidade, pois é a primeira vez que um clube de futebol terá um console de videogame personalizado.. E você, o que achou? 
+Bom, como palmeirense, eu gostei da novidade, pois é a primeira vez que um clube de futebol terá um console de videogame personalizado, mas preferiria algo mais discreto e sutil! E você, o que achou? 
 
 Fonte: [Site Oficial do Palmeiras](http://www.palmeiras.com.br/news/2017/02/06/palmeiras-e-o-primeiro-clube-do-mundo-a-ter-um-modelo-personalizado-do-xbox.shtml)
 
