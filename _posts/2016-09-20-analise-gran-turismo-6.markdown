@@ -5,7 +5,7 @@ date:       2016-09-20 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 32
 categories: jogando analise
-thumbnail:  /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.png
+thumbnail:  /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/32_gran_turismo6/post_header.jpg
 sinopse: >
   Quinze anos depois do lançamento do primeiro GT, a série chegou, em 2013, à sua sexta edição com Gran Turismo 6. Desde sempre nas mãos de seu criador, Kazunori Yamauchi, a franquia é exclusiva para os consoles Sony e esta edição encerrou com chave de ouro a era do PS3! Confira! :)

@@ -5,7 +5,7 @@ date:       2016-07-07 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 31
 categories: jogando analise
-thumbnail:  /imgs/posts/game_over/31_the_walking_dead/post_thumbnail.png
+thumbnail:  /imgs/posts/game_over/31_the_walking_dead/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/31_the_walking_dead/post_header.jpg
 sinopse: >
   Nos últimos dias, além de reformular todo o blog, eu estava numa fase "The Walking Dead" em minha vida, retomei onde tinha parado no seriado (4a temporada), comecei a ler o primeiro livro (A Ascensão do Governador) e resolvi jogar a série da Telltale nos videogames.. Confira minhas impressões!
