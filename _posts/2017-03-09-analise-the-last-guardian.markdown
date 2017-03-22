@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Análise - The Last Guardian"
+title:      "Análise - The Last Guardian (PS4)"
 date:       2017-03-09 20:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 36

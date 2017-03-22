@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Análise - Conker's Bad Fur Day (N64)"
+title:      "Análise - Conker's Bad Fur Day (Nintendo 64)"
 date:       2015-11-11 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 25

@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Análise - Lara Croft GO"
+title:      "Análise - Lara Croft GO (PS Vita)"
 date:       2016-12-07 20:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 35
@@ -10,7 +10,7 @@ cover:      /imgs/posts/game_over/35_lara_croft_go/post_header.jpg
 sinopse: >
     Em uma aventura um pouco diferente do que estamos acostumados ver nossa musa, Lara Croft GO a colocou em uma nova proposta de jogo focado em um dos principais elementos da série Tomb Raider! Sim, estou falando dos puzzles.. amados por uns e odiados por outros!
 game_cover:
---- 
+---
 Em uma aventura um pouco diferente do que estamos acostumados ver nossa musa, [Lara Croft GO](http://www.laracroftgo.com/) a colocou em uma nova proposta de jogo focado em um dos principais elementos da série Tomb Raider! Sim, estou falando dos puzzles.. amados por uns e odiados por outros!
 
 Lançado originalmente para dispositivos mobile no final do ano passado (Ago/2015) e recentemente para PS Vita, PS4 e Steam, o jogo é completamente puzzle! Porém, é baseado em turnos e muito gostoso de jogar. Seu objetivo é simples, você deverá atravessar cada fase ultrapassando todos os desafios impostos, sejam eles inimigos ou próprios elementos do cenário, em busca da revelação do mito da *Rainha do Veneno*.
@@ -21,7 +21,7 @@ Ao começar cada fase, você notará que existe uma trilha delimitada por onde v
 
 {% include image.html url="/imgs/posts/game_over/35_lara_croft_go/4.jpg" description="Com a lança, você pode acertar os inimigos de longe, porém é um tiro único, use corretamente!" %}
 
-Como dito, além dos inimigos, você também terá que interagir com vários elementos e obstáculos do cenário para conseguir abrir caminho e cumprir seu objetivo. Blocos, alavancas que movem plataformas, pilares e outros estarão posicionados em certos pontos para que você os movam corretamente para completar o desafio. 
+Como dito, além dos inimigos, você também terá que interagir com vários elementos e obstáculos do cenário para conseguir abrir caminho e cumprir seu objetivo. Blocos, alavancas que movem plataformas, pilares e outros estarão posicionados em certos pontos para que você os movam corretamente para completar o desafio.
 
 O nível de dificuldade dos quebra-cabeças vai aumentando gradualmente, mas não chega ao ponto de ser impossível, muito pelo contrário, são muito inteligentes e gostosos de se resolver, pelo menos, eu os achei muito viciantes!
 
