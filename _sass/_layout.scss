@@ -462,15 +462,19 @@
     text-align: center;
     //border: 1px solid #e8ebf2;
 
-    //@include media-query($on-palm) {
+    img {
+        width: 80%;
+    }
+
+    @include media-query($on-palm) {
     //    width: 90%;
     //    margin-left: 5%;
     //    margin-bottom: 10px;
 
         img {
-            width: 80%;
+            width: 90%;
         }
-    //}
+    }
 }
 
 .post-sinopse {
@@ -720,8 +724,29 @@
 }
 
 .ficha-tecnica-cover {
-    width: 150px;
     float: right;
+
+    img {
+        width: 150px;
+    }
+
+    @include media-query($on-palm) {
+        width: 100%;
+        float: left;
+        margin-bottom: 10px;
+    }
+}
+
+.rating {
+    display: flex;
+    justify-content: center;
+
+    @include media-query($on-palm) {
+        img {
+            width: 50px;
+            height: 50px;
+        }
+    }
 }
 
 

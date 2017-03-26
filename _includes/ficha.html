@@ -1,6 +1,8 @@
 <div class="ficha-tecnica" itemscope itemtype="http://schema.org/Review">
   {% if include.cover %}
-    <img class="ficha-tecnica-cover" border="0" src="{{ include.cover }}">
+    <div class="ficha-tecnica-cover">
+      <img border="0" src="{{ include.cover }}">
+    </div>
   {% endif %}
 
   <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Game">
