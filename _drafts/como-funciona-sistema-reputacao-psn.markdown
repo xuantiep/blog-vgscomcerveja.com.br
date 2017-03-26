@@ -51,7 +51,13 @@ A partir do Nível 13, você precisará de 8000 pontos para subir de nível.
 
 ### Todos os jogos possuem troféus?
 
-A resposta é não, como a Sony implementou esse sistema tardiamente, alguns jogos acabaram ficando para trás [sem troféus](/jogando/utilidade-publica/2016/07/13/lista-jogos-sem-trofeus-ps3.html).
+A resposta é não, como a Sony implementou esse sistema tardiamente, alguns jogos acabaram ficando para trás e [sem o sistema de troféus](/jogando/utilidade-publica/2016/07/13/lista-jogos-sem-trofeus-ps3.html). Além disso, nem todos os jogos possuem o cobiçado troféu de platina. Não sei exatamente qual é o critério da Sony para definir quais jogos terão o troféu de 180 pontos, mas geralmente são jogos de desenvolvedoras independentes (jogos indies) ou então que não possuem o jogo em disco (mídia física), mas como disse, não é regra!
+
+E a diferença de pontos que você pode obter com a conquista dos troféus entre um jogo com o troféu de platina e com os sem ele, é grande! Um jogo com platina te oferece algo em torno de 1200 pontos, isso sem contar as DLC's que podem adicionar novos troféus ao jogo. Já um jogo sem platina, a maioria deles oferece 315 pontos!
+
+Na minha opinião, a Sony deveria tornar como padrão, todos os jogos possuírem platina.. ... 
+
+Só a critério de curiosidade, o jogo que mais possuí troféus é o Uncharted 3... ....
 
 ### Redes
 

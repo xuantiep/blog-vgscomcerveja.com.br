@@ -1,36 +1,40 @@
 <div class="ficha-tecnica" itemscope itemtype="http://schema.org/Review">
-  <div>
-    <img border="0" src="{{ page.game_cover }}">
+  {% if include.cover %}
+    <img class="ficha-tecnica-cover" border="0" src="{{ include.cover }}">
+  {% endif %}
+
+  <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Game">
+    <h2 itemprop="name">{{ include.titulo }}</h2>
   </div>
-  <div>
-    <div itemprop="itemReviewed" itemscope itemtype="http://schema.org/Game">
-      <h1 itemprop="name">{{ include.titulo }}</h1>
-    </div>
-    <h4>{{ include.plataforma }}</h4>
-    <br>
-    <b>Desenvolvido por: </b>{{ include.desenvolvedor }}<br>
-    <b>Publicado por: </b>{{ include.publicador }}<br>
-    <b>Data de Lançamento: </b>{{ include.lancamento }}<br>
-    <b>Gênero: </b>{{ include.genero }}<br>
-    <br>
-    <b>Finalizado em: </b>{{ include.data }}
-    <br><br>
-    <span itemprop="reviewRating" class="rating" itemscope itemtype="http://schema.org/Rating">
-      <span itemprop="ratingValue" style="display:none">{{ include.nota }}</span>
-      {% assign meiaestrela = include.nota | modulo: 2 %}
-      {% for i in (1..5) %}
-        {% if i <= include.nota %}
-          <span class="icon-star"></span>
+  <h3>{{ include.plataforma }}</h3>
+  <br>
+  <b>Desenvolvido por: </b>{{ include.desenvolvedor }}<br>
+  <b>Publicado por: </b>{{ include.publicador }}<br>
+  <b>Data de Lançamento: </b>{{ include.lancamento }}<br>
+  <b>Gênero: </b>{{ include.genero }}<br>
+  <br>
+  <span itemprop="reviewRating"
+        class="rating" itemscope itemtype="http://schema.org/Rating"
+        title="{{ include.nota }} cervejinhas!">
+    <span itemprop="ratingValue" style="display:none">{{ include.nota }}</span>
+    {% assign meiaestrela = include.nota | modulo: 2 %}
+    {% for i in (1..5) %}
+      {% if i <= include.nota %}
+        <!-- <span class="icon-star"></span> -->
+        <img src="/imgs/beer-checked.png">
+      {% else %}
+        {% if meiaestrela == 0.5 %}
+          <!-- <span class="icon-star-half-alt"></span> -->
+          <img src="/imgs/beer-half.png">
+          {% assign meiaestrela =  1 %}
         {% else %}
-          {% if meiaestrela == 0.5 %}
-            <span class="icon-star-half-alt"></span>
-            {% assign meiaestrela =  1 %}
-          {% else %}
-            <span class=" icon-star-empty"></span>
-          {% endif %}
+          <!-- <span class=" icon-star-empty"></span> -->
+          <img src="/imgs/beer-no.png">
         {% endif %}
-      {% endfor %}
-    </span>
-    <span itemprop="author" style="display:none">{{ page.author }}</span>
-  </div>
+      {% endif %}
+    {% endfor %}
+  </span>
+  <span itemprop="author" style="display:none">{{ page.author }}</span>
+  <br><br>
+  <small><b>Finalizado em: </b>{{ include.data }}</small>
 </div>

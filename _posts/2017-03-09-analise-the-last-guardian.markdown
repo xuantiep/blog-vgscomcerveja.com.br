@@ -9,7 +9,6 @@ thumbnail:  /imgs/posts/game_over/36_the_last_guardian/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/36_the_last_guardian/post_header.jpg
 sinopse:
     Para satisfação dos fãs da <b>Team Ico</b>, que aguardavam desde 2009 o lançamento do terceiro título da empresa, <b>The Last Guardian</b> finalmente saiu para um console da Sony.. o PS4!
-game_cover:
 ---
 Para satisfação dos fãs da **Team Ico**, que aguardavam desde 2009 o lançamento do terceiro título da empresa, **The Last Guardian** finalmente saiu para um console da Sony.. o PS4!
 
@@ -70,5 +69,6 @@ Valeu para mim, mas confesso que fico com receio de indicar esse jogo à alguém
   publicador='Sony Interactive Entertainment'
   lancamento='06 de Dezembro de 2016'
   genero='Aventura'
-  data='..'
+  cover='/imgs/covers/the-last-guardian.jpg'
+  data='..'  
   nota=3 %}
