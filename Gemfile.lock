@@ -133,6 +133,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gist
   jekyll-paginate
+  jekyll-watch
   wdm
 
 BUNDLED WITH
