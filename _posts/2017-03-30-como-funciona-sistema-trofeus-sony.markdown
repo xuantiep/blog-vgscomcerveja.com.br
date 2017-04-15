@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Como Funciona o Sistema de Troféus da Sony"
+title:      "Como funciona o sistema de troféus da Sony"
 date:       2017-03-30 22:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
