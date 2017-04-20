@@ -11,7 +11,9 @@ sinopse:
     DrinkBox está, até agora, sendo para mim sinônimo de excelência! Depois de jogar e ser surpreendido com o excelente Guacamelee!, a desenvolvedora me fez olhar com outros olhos os jogos dela, e o último deles lançado por enquanto, foi o quase original Severed.
 game_cover:
 ---
-**DrinkBox** está, até agora, sendo para mim sinônimo de excelência! Depois de jogar e ser surpreendido com o excelente **Guacamelee!**, a desenvolvedora me fez olhar com outros olhos os jogos dela, e o último deles lançado por enquanto, foi o quase original [Severed](http://severedgame.com/).
+A [DrinkBox Studios](http://drinkboxstudios.com/) está, até agora, sendo para mim sinônimo de excelência! Depois de jogar e ser surpreendido com o excelente **Guacamelee!**, a desenvolvedora me fez olhar com outros olhos os jogos dela, e o último deles lançado por enquanto, foi o quase original [Severed](http://severedgame.com/).
+
+
 
 {% include ficha.html
   titulo='Severed'

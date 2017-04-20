@@ -409,13 +409,6 @@
         text-align: center;
         //border-top: 1px solid #ccc;
 
-        > h2 {
-            margin: 15px 0 0;
-            text-rendering: optimizeLegibility;
-            padding: 10px 0;
-            font-size: 2em;
-        }
-
         p {
             padding: 0 20px 10px;
             //text-indent: 20px;
@@ -472,7 +465,7 @@
     //    margin-bottom: 10px;
 
         img {
-            width: 90%;
+            width: 95%;
         }
     }
 }
@@ -483,11 +476,6 @@
     float: left;
     //padding-left: 20px !important;
     text-align: center;
-
-    h2 {
-        //text-align: left !important;
-        font-size: 2em !important;
-    }
 
     .post-category {
       font-size: 0.8em;
@@ -571,13 +559,14 @@
 
 .post-title {
     text-align: center;
-    font-size: 42px;
+    font-size: 2em;
     letter-spacing: -1px;
     line-height: 1em;
     padding-top: 15px;
+    text-rendering: optimizeLegibility;
 
-    @include media-query($on-laptop) {
-        font-size: 36px;
+    @include media-query($on-palm) {
+        font-size: 1.7em;
     }
 }
 
