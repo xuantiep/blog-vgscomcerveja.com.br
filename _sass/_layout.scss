@@ -339,6 +339,8 @@
 
     p {
         //font-family: $base-font-post;
+        line-height: 1.6em;
+        text-indent: 2em;
     }
 
     @media (max-width: $on-palm) {
@@ -627,10 +629,6 @@
 
 
     p {
-        //font-family: $base-font-post;
-        //font-size: 1.35em;
-        //text-indent: 1.5em;
-
         a {
             font-weight: bold;
         }
