@@ -8,7 +8,7 @@ categories: jogando analise
 thumbnail:  /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/38_horizon_zero_dawn/post_header.jpg
 sinopse:
-    Uma ruiva "badass" que derrota robôs em um mundo pós-apocaliptico.. não tinha como dar errado! Ou será que tinha? Não.. não tinha, Horizon Zero Dawn é a nova IP da Guerrilla Games (de Killzone) que chegou para ficar!
+    Uma ruiva badass que derrota robôs em um mundo pós-apocaliptico.. não tinha como dar errado! Ou será que tinha? Não.. não tinha, Horizon Zero Dawn é a nova IP da Guerrilla Games (de Killzone) que chegou para ficar!
 ---
 Olá jogadores cervejeiros, tudo bom?
 
