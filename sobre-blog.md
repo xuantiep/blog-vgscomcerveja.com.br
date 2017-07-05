@@ -18,9 +18,11 @@ Nascido em 2007 como um blog com o simples objetivo de compartilhar informaçõe
 
 Porém, em 2010, resolvi começar a colecionar videogames, minha antiga paixão de criança, e resolvi compartilhar sobre isso no blog, nascendo assim o **Videogames com Cerveja**! O blog continuava sendo sobre colecionar artigos cervejeiros, porém agora com a inclusão do colecionismo de videogames.
 
-Em 2013, por questões lógicas, e também por querer aumentar o foco nos videogames, resolvi separar o blog em dois: o **Videogames com Cerveja** foi mantido, porém agora exclusivamente para os videogames e com enfoque maior, não mais somente sobre o colecionismo. E o conteúdo cervejeiro foi transferido para o **Cerveja com Videogames**, que agora tornou exclusivo para o colecionismo de cerveja! ^^
+Em 2013, por questões lógicas, e também por querer aumentar o foco nos videogames, resolvi separar o blog em dois: o **Videogames com Cerveja** foi mantido, porém agora exclusivamente para os videogames e com enfoque maior, não mais somente sobre o colecionismo. E o conteúdo cervejeiro foi transferido para o [Cerveja com Videogames](http://cervejacomvideogames.blogspot.com.br/), que agora tornou exclusivo para o colecionismo de cerveja! ^^
 
-E por fim, em 2016, o blog foi migrado do blogspot.com para o domínio www.vgscomcerveja.com.br e iniciou-se a segunda fase do **Videogames com Cerveja** (a terceira do blog)! :)
+E por fim, em 2016, o blog teve uma repaginada visual e foi migrado do __blogspot.com__ para o domínio __com.br__, iniciando a segunda fase do **Videogames com Cerveja** (e a terceira do blog)! :)
+
+{% include image.html url="/imgs/sobre.png" %}
 
 ## Redes Sociais
 
