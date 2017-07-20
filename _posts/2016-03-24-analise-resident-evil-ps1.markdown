@@ -5,6 +5,8 @@ date:       2016-03-24 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 28
 categories: jogando analise
+tags:       [sony, ps1, capcom, resident-evil]
+games:      [resident-evil]
 thumbnail:  /imgs/posts/game_over/28_resident_evil/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/28_resident_evil/post_header.jpg
 sinopse: >

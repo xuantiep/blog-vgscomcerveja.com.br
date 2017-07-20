@@ -5,6 +5,7 @@ date:       2011-01-11 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [arcades]
 thumbnail:  /imgs/posts/news/02_arcades_michael_jackson/post_thumbnail.jpg
 cover:      /imgs/posts/news/02_arcades_michael_jackson/post_header.jpg
 sinopse: >
@@ -20,7 +21,9 @@ fazer um tour pela coleção dele.
 Pois é, Michael além de "rei do pop" também era colecionador, ele tinha uma coleção de arcades
 de impressionar muita gente!
 
-{% include image.html url="/imgs/posts/news/02_arcades_michael_jackson/foto.jpg" description="Coleção incrível!" %}
+{% include image.html
+  url="/imgs/posts/news/02_arcades_michael_jackson/foto.jpg"
+  description="Coleção incrível!" %}
 
 O mais legal é que existe um site onde você pode fazer um tour pela coleção dele. Porém, as fotos
 panorâmicas não foram tiradas na mansão "Neverland" dele e sim na área de exposição do site de

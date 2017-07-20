@@ -5,6 +5,8 @@ date:       2013-02-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 01
 categories: jogando analise
+tags:       [microsft, xbox-360, ubisoft, farcry]
+games:      [farcry-3]
 thumbnail:  /imgs/posts/game_over/01_farcry3/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/01_farcry3/post_header.jpg
 sinopse: >

@@ -5,6 +5,8 @@ date:       2014-11-04 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 20
 categories: jogando analise
+tags:       [sony, ps3, rockband, eletronic-arts]
+games:      [acdc-rockband]
 thumbnail:  /imgs/posts/game_over/20_acdc_live/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/20_acdc_live/post_header.jpg
 sinopse: >

@@ -5,6 +5,7 @@ date:       2012-11-01 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
 categories: colecionando utilidade-publica
+tags:       [sega, tectoy]
 thumbnail:  /imgs/posts/utilidade_publica/07_tectoy_wiki/post_thumbnail.jpg
 cover:      /imgs/posts/utilidade_publica/07_tectoy_wiki/post_header.jpg
 sinopse: >

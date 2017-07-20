@@ -5,6 +5,8 @@ date:       2015-03-09 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [sony, ps-plus, microsoft, xbox-live, games-with-gold, metal-gear-solid, rockband]
+games:      [metal-gear-solid-v, rockband-4, shovel-knight, syndicate]
 thumbnail:  /imgs/posts/news/10_resumo04/post_thumbnail.jpg
 cover:      /imgs/posts/news/10_resumo04/post_header.jpg
 sinopse: >

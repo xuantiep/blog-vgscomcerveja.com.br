@@ -5,6 +5,8 @@ date:       2016-02-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 27
 categories: jogando analise
+tags:       [sony, psvita, drinkbox]
+games:      [guacamelee]
 thumbnail:  /imgs/posts/game_over/27_guacamelee/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/27_guacamelee/post_header.jpg
 sinopse: >

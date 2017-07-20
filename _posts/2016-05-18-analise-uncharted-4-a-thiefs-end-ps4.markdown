@@ -5,6 +5,8 @@ date:       2016-05-18 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 30
 categories: jogando analise
+tags:       [sony, ps4, uncharted, naughty-dog]
+games:      [uncharted-4]
 thumbnail:  /imgs/posts/game_over/30_uncharted4/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/30_uncharted4/post_header.jpg
 sinopse: >

@@ -5,6 +5,8 @@ date:       2015-04-13 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [mortal-kombat, square-enix, eletronic-arts, need-for-speed, call-of-duty]
+games:      [mortal-kombat-x, deus-ex-manking-divided, ducktales-remastered]
 thumbnail:  /imgs/posts/news/15_resumo09/post_thumbnail.jpg
 cover:      /imgs/posts/news/15_resumo09/post_header.jpg
 sinopse: >

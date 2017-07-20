@@ -5,6 +5,7 @@ date:       2011-11-19 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [nintendo, n64]
 thumbnail:  /imgs/posts/colecao/10_nintendo_64/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/10_nintendo_64/post_header.jpg
 sinopse: >
@@ -25,7 +26,9 @@ ainda desconheço.
 
 Enfim, eis o novo membro da família:
 
-{% include image.html url="/imgs/posts/colecao/10_nintendo_64/nintendo-64_2.jpg" description="Nintendo Sixty Foooouuurrr!" %}
+{% include image.html
+  url="/imgs/posts/colecao/10_nintendo_64/nintendo-64_2.jpg"
+  description="Nintendo Sixty Foooouuurrr!" %}
 
 Trata-se de um **Nintendo 64** americano completo com caixa, manual e controle. E ainda no pacote,
 veio o cartucho do **Super Mario 64**, um Memory Card e um controle extra na caixa. E o melhor de
@@ -34,6 +37,8 @@ tudo, consegui tudo isso num valor bem amigável: R$ 160 com o frete incluso.
 Eu acho que foi uma boa aquisição, só falta agora começar a desfrutar do console que muitos
 declaram como sendo o melhor de todos os tempos (eu tenho minhas dúvidas quanto à isso! rs).
 
-{% include image.html url="/imgs/posts/colecao/10_nintendo_64/nintendo-64_1.jpg" description="N64" %}
+{% include image.html
+  url="/imgs/posts/colecao/10_nintendo_64/nintendo-64_1.jpg"
+  description="N64" %}
 
 E para finalizar, gostaria de sugestões de jogos, você me indica algum?

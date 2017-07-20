@@ -5,6 +5,8 @@ date:       2010-09-05 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [sony, ps1, gran-turismo]
+games:      [gran-turismo, gran-turismo-2]
 thumbnail:  /imgs/posts/colecao/03_gran_turismo/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/03_gran_turismo/post_header.jpg
 sinopse: >

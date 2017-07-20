@@ -5,6 +5,8 @@ date:       2011-04-17 19:00
 author:     Felipe B. Barbosa
 session:    Collection Tube &#35 01
 categories: colecionando collection-tube
+tags:       [resident-evil, capcom]
+games:      [resident-evil, resident-evil-5]
 thumbnail:  /imgs/posts/collection_tube/01_resident_evil/post_thumbnail.jpg
 cover:      /imgs/posts/collection_tube/01_resident_evil/post_header.jpg
 sinopse: >

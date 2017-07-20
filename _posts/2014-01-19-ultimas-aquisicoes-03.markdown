@@ -5,6 +5,8 @@ date:       2014-01-19 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [tomb-raider, pc, resident-evil, capcom, mario, nintendo, wii, ps3, sony, sega, tectoy, master-system, xbox-360]
+games:      [tomb-raider, resident-evil, resident-evil-2, resident-evil-3, gran-turismo-6, new-super-mario, gears-of-war-2, pica-pau, street-fighter-2, gears-of-war-judgement]
 thumbnail:  /imgs/posts/colecao/17_aquisicoes03/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/17_aquisicoes03/post_header.jpg
 sinopse: >

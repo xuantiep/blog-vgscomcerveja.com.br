@@ -5,6 +5,8 @@ date:       2016-09-20 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 32
 categories: jogando analise
+tags:       [sony, ps3, gran-turismo]
+games:      [gran-turismo-6]
 thumbnail:  /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/32_gran_turismo6/post_header.jpg
 sinopse: >

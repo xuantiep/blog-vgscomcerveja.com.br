@@ -5,6 +5,7 @@ date:       2016-07-13 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
 categories: jogando utilidade-publica
+tags:       [sony, ps3, trofeus]
 thumbnail:  /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_thumbnail.jpg
 cover:      /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_header.jpg
 sinopse: >

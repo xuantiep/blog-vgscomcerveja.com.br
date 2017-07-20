@@ -5,6 +5,8 @@ date:       2012-09-04 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [sega, tectoy, master-system, sonic]
+games:      [sonic-blast]
 thumbnail:  /imgs/posts/colecao/14_sonic_blast/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/14_sonic_blast/post_header.jpg
 sinopse: >

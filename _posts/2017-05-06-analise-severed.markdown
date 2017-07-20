@@ -5,6 +5,8 @@ date:       2017-05-06 18:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 37
 categories: jogando analise
+tags:       [sony, psvita, drinkbox]
+games:      [severed]
 thumbnail:  /imgs/posts/game_over/37_severed/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/37_severed/post_header.jpg
 sinopse:

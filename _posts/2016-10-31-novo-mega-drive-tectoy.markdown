@@ -5,6 +5,7 @@ date:       2016-10-31 18:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [sega, mega-drive, tectoy]
 thumbnail:  /imgs/posts/news/24_mega_drive_tectoy/post_thumbnail.jpg
 cover:      /imgs/posts/news/24_mega_drive_tectoy/post_header.jpg
 sinopse: >

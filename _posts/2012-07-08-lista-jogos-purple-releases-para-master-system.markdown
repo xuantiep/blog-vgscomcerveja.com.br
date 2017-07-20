@@ -5,6 +5,7 @@ date:       2012-07-08 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
 categories: colecionando utilidade-publica
+tags:       [sega, tectoy, master-system]
 thumbnail:  /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_thumbnail.jpg
 cover:      /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_header.jpg
 sinopse: >
@@ -14,7 +15,8 @@ Como todo mundo já deve saber (pelo menos quem acompanha o blog), a **Tectoy** 
 
 Bom, na verdade, esse trabalho foi realizado em parceiria com a empresa **Ecofilmes** na tentativa de lançar títulos exclusivamente para o mercado português. Sendo assim, o "nosso" **Master System III Compact** (para quem não sabe, no resto do mundo, esta versão compacta é conhecida como Master System II) é lançado juntamente com 16 jogos (na verdade, são 15, pois um não foi confirmado como você irá ver abaixo).
 
-{% include image.html url="/imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/master-system-purple.jpg" %}
+{% include image.html
+  url="/imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/master-system-purple.jpg" %}
 
 Estes jogos foram lançados com uma *boxart* quadriculada com um fundo degradê de um azul escuro para um mais claro, porém este azul escuro era meio puxado para o roxo, por isso estes jogos ficaram conhecidos como **"Portuguese Purple Releases"**.
 
@@ -41,11 +43,15 @@ Estes jogos foram lançados com uma *boxart* quadriculada com um fundo degradê 
 
 *Taz in Escape From Mars não foi confirmado apesar de aparecer atrás da caixa do console.*
 
-{% include image.html url="/imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/traseira-caixa-master-system-purple.jpg" description="Parte de trás da caixa do console." %}
+{% include image.html
+  url="/imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/traseira-caixa-master-system-purple.jpg"
+  description="Parte de trás da caixa do console." %}
 
 E para finalizar segue uma foto dos 15 jogos completos de um colecionador:
 
-{% include image.html url="/imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/colecao-master-system-purple.jpg" description="Linda coleção! :)" %}
+{% include image.html
+  url="/imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/colecao-master-system-purple.jpg"
+  description="Linda coleção! :)" %}
 
 Mais uma vez a Tectoy demonstrou seu grande trabalho realizado na década de 90 e porque é uma empresa muito valorizada no mundo dos colecioandores!
 

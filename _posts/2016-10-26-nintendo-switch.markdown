@@ -5,6 +5,7 @@ date:       2016-10-26 18:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [nintendo, switch]
 thumbnail:  /imgs/posts/news/23_nintendo_switch/post_thumbnail.jpg
 cover:      /imgs/posts/news/23_nintendo_switch/post_header.jpg
 sinopse: >

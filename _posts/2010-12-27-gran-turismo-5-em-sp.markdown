@@ -5,6 +5,8 @@ date:       2010-12-27 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [sony, ps3]
+games:      [gran-turismo-5]
 thumbnail:  /imgs/posts/news/01_gt5_sp/post_thumbnail.jpg
 cover:      /imgs/posts/news/01_gt5_sp/post_header.jpg
 sinopse: >

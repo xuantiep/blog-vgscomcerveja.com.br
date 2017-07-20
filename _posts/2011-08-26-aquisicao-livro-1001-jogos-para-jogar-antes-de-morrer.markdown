@@ -5,6 +5,7 @@ date:       2011-08-26 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [livros]
 thumbnail:  /imgs/posts/colecao/09_livro_1001_jogos/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/09_livro_1001_jogos/post_header.jpg
 sinopse: >

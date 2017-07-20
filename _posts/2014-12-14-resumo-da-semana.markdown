@@ -5,6 +5,8 @@ date:       2014-12-14 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [sega, tomb-raider, sony, ps4]
+games:      [the-last-guardian, rise-of-tomb-raider]
 thumbnail:  /imgs/posts/news/07_resumo02/post_thumbnail.jpg
 cover:      /imgs/posts/news/07_resumo02/post_header.jpg
 sinopse: >

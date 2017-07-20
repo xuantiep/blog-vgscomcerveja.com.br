@@ -5,6 +5,8 @@ date:       2013-03-16 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 03
 categories: jogando analise
+tags:       [sony, ps3, eletronic-arts, need-for-speed, black-box]
+games:      [need-for-speed-the-run]
 thumbnail:  /imgs/posts/game_over/03_nfs_the_run/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/03_nfs_the_run/post_header.jpg
 sinopse: >

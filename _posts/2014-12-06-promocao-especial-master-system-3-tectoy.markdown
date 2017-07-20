@@ -5,6 +5,7 @@ date:       2014-12-06 19:00
 author:     Felipe B. Barbosa
 session:    Mosca Branca &#35 03
 categories: colecionando mosca-branca
+tags:       [sega, tectoy, master-system, sonic]
 thumbnail:  /imgs/posts/mosca_branca/03_promo_master_system_tectoy/post_thumbnail.jpg
 cover:      /imgs/posts/mosca_branca/03_promo_master_system_tectoy/post_header.jpg
 sinopse: >

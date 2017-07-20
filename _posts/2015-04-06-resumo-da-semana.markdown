@@ -5,6 +5,8 @@ date:       2015-04-06 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [metal-gear-solid, nintendo, ps-plus, playstation, ubisoft, kojima]
+games:      [assassins-creed-chronicles]
 thumbnail:  /imgs/posts/news/14_resumo08/post_thumbnail.jpg
 cover:      /imgs/posts/news/14_resumo08/post_header.jpg
 sinopse: >

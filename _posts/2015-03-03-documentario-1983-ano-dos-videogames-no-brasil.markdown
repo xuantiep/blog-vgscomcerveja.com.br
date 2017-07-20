@@ -5,6 +5,7 @@ date:       2015-03-03 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [livros]
 thumbnail:  /imgs/posts/news/09_documentario_1983/post_thumbnail.jpg
 cover:      /imgs/posts/news/09_documentario_1983/post_header.jpg
 sinopse: >

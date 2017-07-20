@@ -5,6 +5,8 @@ date:       2013-05-27 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 05
 categories: jogando analise
+tags:       [sega, master-system, tectoy]
+games:      [taz-mania]
 thumbnail:  /imgs/posts/game_over/05_tazmania/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/05_tazmania/post_header.jpg
 sinopse: >

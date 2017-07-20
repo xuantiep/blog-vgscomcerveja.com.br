@@ -5,6 +5,8 @@ date:       2014-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 15
 categories: jogando analise
+tags:       [microsoft, xbox-360, tequila-works]
+games:      [deadlight]
 thumbnail:  /imgs/posts/game_over/15_deadlight/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/15_deadlight/post_header.jpg
 sinopse: >

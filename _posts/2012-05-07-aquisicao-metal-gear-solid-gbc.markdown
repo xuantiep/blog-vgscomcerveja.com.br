@@ -5,6 +5,8 @@ date:       2012-05-07 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [nintendo, gbc, konami, metal-gear-solid]
+games:      [metal-gear-solid]
 thumbnail:  /imgs/posts/colecao/12_metal_gear_solid/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/12_metal_gear_solid/post_header.jpg
 sinopse: >

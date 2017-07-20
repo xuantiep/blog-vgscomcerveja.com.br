@@ -5,6 +5,8 @@ date:       2010-10-02 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [sony, ps1, capcom]
+games:      [resident-evil]
 thumbnail:  /imgs/posts/colecao/04_resident_evil/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/04_resident_evil/post_header.jpg
 sinopse: >

@@ -5,6 +5,8 @@ date:       2015-03-23 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [nintendo, god-of-war, kojima]
+games:      [god-of-war-3, bloodborne]
 thumbnail:  /imgs/posts/news/12_resumo06/post_thumbnail.jpg
 cover:      /imgs/posts/news/12_resumo06/post_header.jpg
 sinopse: >

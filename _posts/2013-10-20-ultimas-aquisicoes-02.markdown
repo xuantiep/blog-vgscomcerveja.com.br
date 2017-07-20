@@ -5,6 +5,8 @@ date:       2013-10-20 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [sony, ps3, sega, master-system, tomb-raider]
+games:      [gtav, master-of-darkness, monica, donald-maui-mallard, tomb-raider-prophecy, tomb-raider-legend, tomb-raider-underworld, need-for-speed-most-wanted]
 thumbnail:  /imgs/posts/colecao/16_aquisicoes02/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/16_aquisicoes02/post_header.jpg
 sinopse: >
@@ -13,7 +15,9 @@ sinopse: >
 ---
 Olá pessoal, resolvi voltar com os posts "Últimas Aquisições", tá certo que só tinha feito um post até agora.. '^^ Bom, naquele post eu estava chegando aos 100 jogos, e hoje, um pouco mais de uma ano e meio depois, a barreira dos 200 jogos já foi ultrapassada! :D
 
-{% include image.html url="/imgs/posts/colecao/16_aquisicoes02/aquisicoes.jpg" description="Últimas Aquisições" %}
+{% include image.html
+  url="/imgs/posts/colecao/16_aquisicoes02/aquisicoes.jpg"
+  description="Últimas Aquisições" %}
 
 ## Grand Theft Auto V (PS3)
 

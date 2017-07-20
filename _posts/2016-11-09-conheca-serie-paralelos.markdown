@@ -5,6 +5,7 @@ date:       2016-11-09 17:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [mercado-brasileiro, tectoy]
 thumbnail:  /imgs/posts/news/25_serie_paralelos/post_thumbnail.jpg
 cover:      /imgs/posts/news/25_serie_paralelos/post_header.jpg
 sinopse: >

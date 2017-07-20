@@ -5,6 +5,8 @@ date:       2016-09-27 22:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 33
 categories: jogando analise
+tags:       [sony, ps4, ps-plus]
+games:      [gone-home]
 thumbnail:  /imgs/posts/game_over/33_gone_home/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/33_gone_home/post_header.jpg
 sinopse: >

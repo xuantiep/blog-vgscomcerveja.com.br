@@ -5,6 +5,8 @@ date:       2015-03-30 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [guitar-hero, konami, kojima, games-with-gold, microsoft, xbox-live]
+games:      [batman-arkham-knight, halo-5, forza-horizon-2]
 thumbnail:  /imgs/posts/news/13_resumo07/post_thumbnail.jpg
 cover:      /imgs/posts/news/13_resumo07/post_header.jpg
 sinopse: >

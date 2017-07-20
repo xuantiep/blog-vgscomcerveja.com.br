@@ -5,6 +5,8 @@ date:       2016-08-07 21:30
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [microsoft, xbox-one, ps4, nintendo, gog, disney]
+games:      [inside, prey-for-the-gods, prey]
 thumbnail:  /imgs/posts/news/19_resumo12/post_thumbnail.jpg
 cover:      /imgs/posts/news/19_resumo12/post_header.jpg
 sinopse: >

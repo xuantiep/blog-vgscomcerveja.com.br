@@ -5,6 +5,8 @@ date:       2013-09-17 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 10
 categories: jogando analise
+tags:       [sega, master-system, tectoy, mickey, disney]
+games:      [castle-of-illusion]
 thumbnail:  /imgs/posts/game_over/10_castle_of_illusion/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/10_castle_of_illusion/post_header.jpg
 sinopse: >

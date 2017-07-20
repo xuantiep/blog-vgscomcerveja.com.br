@@ -5,6 +5,8 @@ date:       2016-08-09 19:50
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [microsoft, xbox, sony, ps4, sega, dreamcast, tectoy, naughty-dog, tomb-raider, ps2, capcom]
+games:      [call-of-cthulhu, obscure, farcry-4, shenmue, uncharted-4, star-wars-battlefront, payday-2, guitar-hero-live, tomb-raider-legend, shadow-of-the-colossus, silent-hill-2, dino-crisis-3]
 thumbnail:  /imgs/posts/colecao/20_aquisicoes06/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/20_aquisicoes06/post_header.jpg
 sinopse: >

@@ -5,6 +5,7 @@ date:       2010-07-15 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [sony, ps3]
 thumbnail:  /imgs/posts/colecao/02_ps3/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/02_ps3/post_header.jpg
 sinopse: >

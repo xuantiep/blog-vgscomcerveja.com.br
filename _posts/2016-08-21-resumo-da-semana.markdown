@@ -5,6 +5,8 @@ date:       2016-08-21 18:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [spotify, metal-gear-solid, resident-evil, microsoft]
+games:      [metal-gear-survive, resident-evil-7]
 thumbnail:  /imgs/posts/news/20_resumo13/post_thumbnail.jpg
 cover:      /imgs/posts/news/20_resumo13/post_header.jpg
 sinopse: >

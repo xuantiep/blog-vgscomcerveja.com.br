@@ -5,6 +5,8 @@ date:       2016-07-07 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 31
 categories: jogando analise
+tags:       [sony, psvita, ps4, telltale]
+games:      [the-walking-dead, the-walking-dead-2]
 thumbnail:  /imgs/posts/game_over/31_the_walking_dead/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/31_the_walking_dead/post_header.jpg
 sinopse: >

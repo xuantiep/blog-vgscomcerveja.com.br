@@ -5,6 +5,8 @@ date:       2017-03-09 20:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 36
 categories: jogando analise
+tags:       [sony, ps4]
+games:      [the-last-guardian]
 thumbnail:  /imgs/posts/game_over/36_the_last_guardian/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/36_the_last_guardian/post_header.jpg
 sinopse:

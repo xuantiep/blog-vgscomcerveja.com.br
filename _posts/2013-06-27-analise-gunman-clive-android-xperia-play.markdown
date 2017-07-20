@@ -5,6 +5,8 @@ date:       2013-06-27 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 08
 categories: jogando analise
+tags:       [android, xperia-play]
+games:      [gunman-clive]
 thumbnail:  /imgs/posts/game_over/08_gunman_clive/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/08_gunman_clive/post_header.jpg
 sinopse: >

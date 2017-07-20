@@ -8,16 +8,20 @@ permalink: /colecionando/toplist/
   <h1>Toplists</h1>
 </div>
 
-<div class="post-list">
-  {% for post in site.categories.colecionando %}
-    {% if post.categories contains "colecionando" and post.categories contains "toplist" %}
-      {% include article-preview.html show_category="false" %}
+<div class="home">
+  <div class="post-list">
+    {% for post in site.categories.colecionando %}
+      {% if post.categories contains "colecionando" and post.categories contains "toplist" %}
+        {% include article-preview.html show_category="false" %}
 
-      {% assign loopindex = forloop.index | modulo: 5 %}
-      {% if loopindex == 1 %}
-        {% include googleads.html %}
+        {% assign loopindex = forloop.index | modulo: 5 %}
+        {% if loopindex == 1 %}
+          {% include googleads.html %}
+        {% endif %}
+
       {% endif %}
-
-    {% endif %}
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>
+
+{% include side-menu.html %}

@@ -5,6 +5,8 @@ date:       2015-03-16 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [naughty-dog, uncharted, arcade, ps4, sony, lego]
+games:      [uncharted-4, tembo, lego-jurassic-world]
 thumbnail:  /imgs/posts/news/11_resumo05/post_thumbnail.jpg
 cover:      /imgs/posts/news/11_resumo05/post_header.jpg
 sinopse: >

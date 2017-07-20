@@ -5,6 +5,8 @@ date:       2015-04-09 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 23
 categories: jogando analise
+tags:       [microsoft, xbox-360]
+games:      [forza-horizon-2]
 thumbnail:  /imgs/posts/game_over/23_forza_horizon2_fast_furious/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/23_forza_horizon2_fast_furious/post_header.jpg
 sinopse: >

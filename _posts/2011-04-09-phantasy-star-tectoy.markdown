@@ -5,6 +5,8 @@ date:       2011-04-09 19:00
 author:     Felipe B. Barbosa
 session:    Mosca Branca &#35 01
 categories: colecionando mosca-branca
+tags:       [sega, master-system, tectoy]
+games:      [phantasy-star]
 thumbnail:  /imgs/posts/mosca_branca/01_phantasy_star/post_thumbnail.jpg
 cover:      /imgs/posts/mosca_branca/01_phantasy_star/post_header.jpg
 sinopse: >

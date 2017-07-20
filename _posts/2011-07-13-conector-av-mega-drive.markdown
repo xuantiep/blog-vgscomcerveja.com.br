@@ -5,6 +5,7 @@ date:       2011-07-13 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
 categories: jogando utilidade-publica
+tags:       [sega, mega-drive]
 thumbnail:  /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_thumbnail.jpg
 cover:      /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_header.jpg
 sinopse: >

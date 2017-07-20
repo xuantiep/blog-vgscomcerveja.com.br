@@ -5,6 +5,7 @@ date:       2011-01-08 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [sega, mega-drive]
 thumbnail:  /imgs/posts/colecao/06_mega_drive/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/06_mega_drive/post_header.jpg
 sinopse: >

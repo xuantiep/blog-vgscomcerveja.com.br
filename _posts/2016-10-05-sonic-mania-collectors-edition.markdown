@@ -5,6 +5,8 @@ date:       2016-10-05 19:00
 author:     Felipe B. Barbosa
 session:    Edição de Colecionador &#35 04
 categories: colecionando edicao-colecionador
+tags:       [sega, sonic]
+games:      [sonic-mania]
 thumbnail:  /imgs/posts/ed_colecionador/04_sonic_mania/post_thumbnail.jpg
 cover:      /imgs/posts/ed_colecionador/04_sonic_mania/post_header.jpg
 sinopse: >

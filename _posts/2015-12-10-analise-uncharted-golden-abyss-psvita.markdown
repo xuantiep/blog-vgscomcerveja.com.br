@@ -5,6 +5,8 @@ date:       2015-12-10 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 26
 categories: jogando analise
+tags:       [sony, psvita, uncharted]
+games:      [uncharted-golden-abyss]
 thumbnail:  /imgs/posts/game_over/26_uncharted_golden_abyss/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/26_uncharted_golden_abyss/post_header.jpg
 sinopse: >

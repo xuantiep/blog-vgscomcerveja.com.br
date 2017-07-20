@@ -5,6 +5,8 @@ date:       2016-03-12 19:00
 author:     Felipe B. Barbosa
 session:    Toplist
 categories: jogando toplist
+tags:       [sega, dreamcast, sony, ps2, nintendo, game-cube, microsoft, xbox]
+games:      [tomb-raider-the-angel-of-darkness, sonic-adventure, the-legend-of-zelda, super-mario-sunshine, resident-evil, resident-evil-zero, god-of-war-2, luigi-mansion, kingdom-hearts, silent-hill-2, silent-hill-3]
 thumbnail:  /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_header.jpg
 sinopse: >

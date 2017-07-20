@@ -5,6 +5,8 @@ date:       2015-11-11 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 25
 categories: jogando analise
+tags:       [rare, nintendo, n64]
+games:      [conkers-bad-fur-day]
 thumbnail:  /imgs/posts/game_over/25_conkers_bad_fur_day/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/25_conkers_bad_fur_day/post_header.jpg
 sinopse: >

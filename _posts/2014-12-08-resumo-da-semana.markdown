@@ -5,6 +5,8 @@ date:       2014-12-08 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [nintendo, uncharted, mario, farcry]
+games:      [uncharted-4, grim-fandango, street-fighter-v, mario-kart-8, shadow-of-mordor, farcry-4]
 thumbnail:  /imgs/posts/news/06_resumo01/post_thumbnail.jpg
 cover:      /imgs/posts/news/06_resumo01/post_header.jpg
 sinopse: >

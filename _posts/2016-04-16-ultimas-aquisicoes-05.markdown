@@ -5,6 +5,8 @@ date:       2016-04-16 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [sony, ps3, nintendo, snes, n64, microsoft, xbox, sega, dreamcast, mega-drive, psp, tomb-raider, silent-hill, master-system, tectoy, ps4]
+games:      [eye-of-judgment, super-mario-world-2, goldeneye-007, streets-of-rage-2, tomb-raider-legend, tomb-raider-anniversary, silent-hill-shattered-memories, soul-reaver, deep-duck-trouble, fallout-4]
 thumbnail:  /imgs/posts/colecao/19_aquisicoes05/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/19_aquisicoes05/post_header.jpg
 sinopse: >

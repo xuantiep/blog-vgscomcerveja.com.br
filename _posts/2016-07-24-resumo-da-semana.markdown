@@ -5,6 +5,8 @@ date:       2016-07-24 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [microsoft, xbox-one, sega, sonic, ps4]
+games:      [cuphead, sonic-mania, rise-of-the-tomb-raider]
 thumbnail:  /imgs/posts/news/17_resumo10/post_thumbnail.jpg
 cover:      /imgs/posts/news/17_resumo10/post_header.jpg
 sinopse: >
@@ -64,7 +66,9 @@ Lançado no final do ano passado para Xbox 360 e Xbox One (e depois em Janeiro p
 
 O legal deste novo capítulo, chamado de "Blood Ties", é que ele foi criado especialmente para agradar os fãs, pois ele se passa na **Mansão Croft**! Você ainda terá a opçõa de explorar a mansão numa visão em primeira pessoa usando o novo **PlayStation VR** (dispositivo de realidade virtual). Além disso, terá um modo chamado "Lara's Nightmare", onde você deverá defender a mansão contra uma invasão de zumbis.
 
-{% include image.html url='https://c2.staticflickr.com/9/8777/28319913241_041ae83e5b_z.jpg' description='Lara s2'%}
+{% include image.html
+  url='https://c2.staticflickr.com/9/8777/28319913241_041ae83e5b_z.jpg'
+  description='Lara s2'%}
 
 Mas as novidades não param por aí, o jogo contará com uma nova expansão co-op online no modo Endurance e também você poderá jogar com *skins* da Lara clássica! ^^
 

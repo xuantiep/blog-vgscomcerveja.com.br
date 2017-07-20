@@ -5,6 +5,7 @@ date:       2010-10-23 19:00
 author:     Felipe B. Barbosa
 session:    Coleção Pessoal
 categories: colecionando colecao-pessoal
+tags:       [nintendo, nds]
 thumbnail:  /imgs/posts/colecao/05_nintendo_ds/post_thumbnail.jpg
 cover:      /imgs/posts/colecao/05_nintendo_ds/post_header.jpg
 sinopse: >

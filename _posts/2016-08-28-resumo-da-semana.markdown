@@ -5,6 +5,8 @@ date:       2016-08-28 18:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
+tags:       [sony, ps-plus, microsoft, games-with-gold, nintendo, resident-evil, square-enix, tomb-raider]
+games:      [resident-evil-7, rise-of-the-tomb-raider]
 thumbnail:  /imgs/posts/news/21_resumo14/post_thumbnail.jpg
 cover:      /imgs/posts/news/21_resumo14/post_header.jpg
 sinopse: >
