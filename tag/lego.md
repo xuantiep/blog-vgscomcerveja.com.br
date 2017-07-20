@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    lego
-# permalink: /tag/spotify/
+permalink: /tag/lego/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    nes
-# permalink: /tag/spotify/
+permalink: /tag/nes/
 ---

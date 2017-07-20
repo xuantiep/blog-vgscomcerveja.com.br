@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    kojima
-# permalink: /tag/spotify/
+permalink: /tag/kojima/
 ---

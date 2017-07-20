@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    switch
-# permalink: /tag/spotify/
+permalink: /tag/switch/
 ---

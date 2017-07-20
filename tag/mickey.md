@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    mickey
-# permalink: /tag/spotify/
+permalink: /tag/mickey/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    mega-drive
-# permalink: /tag/spotify/
+permalink: /tag/mega-drive/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag: ps2
-# permalink: /tag/spotify/
+permalink: /tag/ps2/
 ---

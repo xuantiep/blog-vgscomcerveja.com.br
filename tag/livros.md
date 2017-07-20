@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    livros
-# permalink: /tag/spotify/
+permalink: /tag/livros/
 ---

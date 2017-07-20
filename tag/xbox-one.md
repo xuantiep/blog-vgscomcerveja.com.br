@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    xbox-one
-# permalink: /tag/spotify/
+permalink: /tag/xbox-one/
 ---

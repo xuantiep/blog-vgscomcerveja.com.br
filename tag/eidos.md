@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    eidos
-# permalink: /tag/spotify/
+permalink: /tag/eidos/
 ---

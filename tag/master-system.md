@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag: master-system
-# permalink: /tag/spotify/
+permalink: /tag/master-system/
 ---

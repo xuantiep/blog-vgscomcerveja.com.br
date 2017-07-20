@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    mario
-# permalink: /tag/spotify/
+permalink: /tag/mario/
 ---

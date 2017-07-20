@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    crystal-dynamics
-# permalink: /tag/spotify/
+permalink: /tag/crystal-dynamics/
 ---

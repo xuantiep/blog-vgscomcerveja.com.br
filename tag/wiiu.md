@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    wiiu
-# permalink: /tag/spotify/
+permalink: /tag/wiiu/
 ---

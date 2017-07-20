@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    criterion
-# permalink: /tag/spotify/
+permalink: /tag/criterion/
 ---

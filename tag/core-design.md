@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    core-design
-# permalink: /tag/spotify/
+permalink: /tag/core-design/
 ---

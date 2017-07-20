@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    bgs
-# permalink: /tag/spotify/
+permalink: /tag/bgs/
 ---

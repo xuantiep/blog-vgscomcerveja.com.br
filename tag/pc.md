@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    pc
-# permalink: /tag/spotify/
+permalink: /tag/pc/
 ---

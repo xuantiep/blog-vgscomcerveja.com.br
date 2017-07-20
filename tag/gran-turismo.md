@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    gran-turismo
-# permalink: /tag/spotify/
+permalink: /tag/gran-turismo/
 ---

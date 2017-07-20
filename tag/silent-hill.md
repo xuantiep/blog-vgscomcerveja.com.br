@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    silent-hill
-# permalink: /tag/spotify/
+permalink: /tag/silent-hill/
 ---

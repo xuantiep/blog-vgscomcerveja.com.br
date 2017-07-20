@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    nintendo
-# permalink: /tag/spotify/
+permalink: /tag/nintendo/
 ---

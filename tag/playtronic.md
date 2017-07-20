@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    playtronic
-# permalink: /tag/spotify/
+permalink: /tag/playtronic/
 ---

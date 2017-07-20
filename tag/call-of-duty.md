@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    call-of-duty
-# permalink: /tag/spotify/
+permalink: /tag/call-of-duty/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    tectoy
-# permalink: /tag/spotify/
+permalink: /tag/tectoy/
 ---

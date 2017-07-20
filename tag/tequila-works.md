@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    tequila-works
-# permalink: /tag/spotify/
+permalink: /tag/tequila-works/
 ---

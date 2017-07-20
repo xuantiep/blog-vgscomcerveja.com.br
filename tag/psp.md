@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    psp
-# permalink: /tag/spotify/
+permalink: /tag/psp/
 ---

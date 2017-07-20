@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    guitar-hero
-# permalink: /tag/spotify/
+permalink: /tag/guitar-hero/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    game-gear
-# permalink: /tag/spotify/
+permalink: /tag/game-gear/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    sonic
-# permalink: /tag/spotify/
+permalink: /tag/sonic/
 ---

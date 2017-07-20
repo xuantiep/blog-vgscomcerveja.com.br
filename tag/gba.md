@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    gba
-# permalink: /tag/spotify/
+permalink: /tag/gba/
 ---

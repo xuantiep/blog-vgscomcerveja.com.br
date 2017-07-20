@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    microsoft
-# permalink: /tag/spotify/
+permalink: /tag/microsoft/
 ---

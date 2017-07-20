@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    eletronic-arts
-# permalink: /tag/spotify/
+permalink: /tag/eletronic-arts/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    psvita
-# permalink: /tag/spotify/
+permalink: /tag/psvita/
 ---

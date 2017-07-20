@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    silicon-knights
-# permalink: /tag/spotify/
+permalink: /tag/silicon-knights/
 ---

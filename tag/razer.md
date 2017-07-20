@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    razer
-# permalink: /tag/spotify/
+permalink: /tag/razer/
 ---

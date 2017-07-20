@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    ps-plus
-# permalink: /tag/spotify/
+permalink: /tag/ps-plus/
 ---

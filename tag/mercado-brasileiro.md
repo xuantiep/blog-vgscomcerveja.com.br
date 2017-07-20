@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    mercado-brasileiro
-# permalink: /tag/spotify/
+permalink: /tag/mercado-brasileiro/
 ---

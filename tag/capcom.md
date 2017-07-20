@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    capcom
-# permalink: /tag/spotify/
+permalink: /tag/capcom/
 ---

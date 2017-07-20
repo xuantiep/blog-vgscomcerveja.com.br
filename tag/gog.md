@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    gog
-# permalink: /tag/spotify/
+permalink: /tag/gog/
 ---

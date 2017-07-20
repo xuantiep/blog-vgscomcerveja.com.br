@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    telltale
-# permalink: /tag/spotify/
+permalink: /tag/telltale/
 ---

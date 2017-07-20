@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    god-of-war
-# permalink: /tag/spotify/
+permalink: /tag/god-of-war/
 ---

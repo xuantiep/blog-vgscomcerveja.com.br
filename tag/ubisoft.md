@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    ubisoft
-# permalink: /tag/spotify/
+permalink: /tag/ubisoft/
 ---

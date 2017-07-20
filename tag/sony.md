@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    sony
-# permalink: /tag/spotify/
+permalink: /tag/sony/
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    konami
-# permalink: /tag/spotify/
+permalink: /tag/konami/
 ---

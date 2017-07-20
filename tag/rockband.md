@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    rockband
-# permalink: /tag/spotify/
+permalink: /tag/rockband/
 ---

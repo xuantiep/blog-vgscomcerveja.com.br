@@ -1,5 +1,5 @@
 ---
 layout: tag
 tag:    gbc
-# permalink: /tag/spotify/
+permalink: /tag/gbc/
 ---
