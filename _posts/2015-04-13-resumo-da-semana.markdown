@@ -5,7 +5,7 @@ date:       2015-04-13 19:00
 author:     Felipe B. Barbosa
 session:    Drops
 categories: noticias
-tags:       [mortal-kombat, square-enix, eletronic-arts, need-for-speed, call-of-duty]
+tags:       [mortal-kombat, square-enix, electronic-arts, need-for-speed, call-of-duty]
 games:      [mortal-kombat-x, deus-ex-manking-divided, ducktales-remastered]
 thumbnail:  /imgs/posts/news/15_resumo09/post_thumbnail.jpg
 cover:      /imgs/posts/news/15_resumo09/post_header.jpg
@@ -34,7 +34,7 @@ A data não está confirmada, mas o jogo sairá para PS4, Xbox ONE e PC.
 
 ## EA pretende lançar sequência do filme Need for Speed
 
-Segundo rumores, a Eletronic Arts está trabalhando, em parceria com a China Movie Channel, na produção de uma possível sequência do filme Need for Speed. A produção deve ser iniciada no final do ano, se as empresas conseguirem os direitos do filme com a Dreamworks.
+Segundo rumores, a Electronic Arts está trabalhando, em parceria com a China Movie Channel, na produção de uma possível sequência do filme Need for Speed. A produção deve ser iniciada no final do ano, se as empresas conseguirem os direitos do filme com a Dreamworks.
 
 ---
 

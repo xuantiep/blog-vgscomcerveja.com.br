@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    farcry
+layout:    tag
+tag:       farcry
 permalink: /tag/farcry/
 ---

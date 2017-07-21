@@ -5,15 +5,15 @@ date:       2013-03-16 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 03
 categories: jogando analise
-tags:       [sony, ps3, eletronic-arts, need-for-speed, black-box]
+tags:       [sony, ps3, electronic-arts, need-for-speed, black-box]
 games:      [need-for-speed-the-run]
 thumbnail:  /imgs/posts/game_over/03_nfs_the_run/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/03_nfs_the_run/post_header.jpg
 sinopse: >
-  Lançado em 2011 pela Eletronic Arts e produzido desta vez pela Black Box, Need for Speed: The Run trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem Jack Rourke que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
+  Lançado em 2011 pela Electronic Arts e produzido desta vez pela Black Box, Need for Speed: The Run trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem Jack Rourke que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
 game_cover:
 ---
-Lançado em 2011 pela **Eletronic Arts** e produzido desta vez pela **Black Box** (o Hot Pursuit, seu antecessor, foi produzido pela Criterion), **Need for Speed: The Run** trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem **Jack Rourke** que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
+Lançado em 2011 pela **Electronic Arts** e produzido desta vez pela **Black Box** (o Hot Pursuit, seu antecessor, foi produzido pela Criterion), **Need for Speed: The Run** trouxe algumas novidades interessantes à série, enredo é uma delas, onde toda um história é contada em cima do personagem **Jack Rourke** que deve dinheiro para muita gente e corre sério risco de vida, e para conseguir pagar o que deve, entra em uma corrida ilegal que cruza os Estados Unidos de San Francisco à New York chamada "The Run".
 
 {% include image.html url="/imgs/posts/game_over/03_nfs_the_run/foto1.jpg" description="Este é você.. Jack Rourke" %}
 
@@ -39,7 +39,7 @@ Os troféus do **Challenge Series** (modalidade do jogo) também são meio chati
   titulo='Need for Speed: The Run'
   plataforma='PlayStation 3'
   desenvolvedor='Black Box'
-  publicador='Eletronic Arts'
+  publicador='Electronic Arts'
   lancamento='2011'
   genero='Corrida (Arcade)'
   data='10 de Fevereiro de 2013'

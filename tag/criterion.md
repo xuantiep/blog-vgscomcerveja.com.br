@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    criterion
+layout:    tag
+tag:       criterion
 permalink: /tag/criterion/
 ---

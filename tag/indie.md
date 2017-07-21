@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    indie
+layout:    tag
+tag:       indie
 permalink: /tag/indie/
 ---

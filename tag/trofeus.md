@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    trofeus
+layout:    tag
+tag:       trofeus
 permalink: /tag/trofeus/
 ---

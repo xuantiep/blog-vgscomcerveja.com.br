@@ -1,5 +1,6 @@
 ---
-layout: tag
-tag:    snes
+layout:    tag
+tag:       snes
 permalink: /tag/snes/
+logo:      /imgs/tags/snes.png
 ---

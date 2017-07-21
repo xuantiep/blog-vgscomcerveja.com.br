@@ -1,5 +1,6 @@
 ---
-layout: tag
-tag:    wiiu
+layout:    tag
+tag:       wiiu
 permalink: /tag/wiiu/
+logo:      /imgs/tags/wiiu.png
 ---

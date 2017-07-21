@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    game-music
+layout:    tag
+tag:       game-music
 permalink: /tag/game-music/
 ---

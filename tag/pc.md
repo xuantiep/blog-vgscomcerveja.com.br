@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    pc
+layout:    tag
+tag:       pc
 permalink: /tag/pc/
 ---

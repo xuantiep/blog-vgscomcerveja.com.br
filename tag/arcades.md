@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    arcades
+layout:    tag
+tag:       arcades
 permalink: /tag/arcades/
 ---

@@ -5,7 +5,7 @@ date:       2014-09-11 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 19
 categories: jogando analise
-tags:       [sony, ps1, eletronic-arts]
+tags:       [sony, ps1, electronic-arts]
 games:      [medal-of-honor]
 thumbnail:  /imgs/posts/game_over/19_medal_of_honor/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/19_medal_of_honor/post_header.jpg
@@ -16,7 +16,7 @@ game_cover:
 ---
 Já fazia um tempinho que queria relembrar **Medal of Honor**. Sim,  o primeiro deles no PS1, eu acredito que ele foi um marco importante para indústria, principalmente para jogos FPS. Sendo assim, mesmo com uma lista enorme de jogos que tenho para jogar, resolvi encaixá-lo.
 
-Lançado em 1999 pela **Eletronic Arts** e desenvolvido pela **DreamWorks Interactive** (atual **EA Los Angeles**) sob consultoria de ninguém menos que **_Steven Spielberg_**, que tinha acabado de lançar o filme **O Resgate do Soldado Ryan**. MoH é um jogo de tiro em primeira pessoa (FPS - First Person Shooter) ambientado durante a Segunda Guerra Mundial para PS1, ou seja, Spielberg era perfeito para ajudar.
+Lançado em 1999 pela **Electronic Arts** e desenvolvido pela **DreamWorks Interactive** (atual **EA Los Angeles**) sob consultoria de ninguém menos que **_Steven Spielberg_**, que tinha acabado de lançar o filme **O Resgate do Soldado Ryan**. MoH é um jogo de tiro em primeira pessoa (FPS - First Person Shooter) ambientado durante a Segunda Guerra Mundial para PS1, ou seja, Spielberg era perfeito para ajudar.
 
 Na época eu lembro do lançamento do jogo, todas as revistas que eu lia, sempre referenciava o jogo ao filme de Spielberg. Tem uma certa semelhança, mas não, o jogo não é baseado no filme.
 
@@ -42,7 +42,7 @@ Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha son
   titulo='Medal of Honor'
   plataforma='PlayStation'
   desenvolvedor='DreamWorks Interactive'
-  publicador='Eletronic Arts'
+  publicador='Electronic Arts'
   lancamento='1999'
   genero='FPS'
   data='16 de Agosto de 2014'

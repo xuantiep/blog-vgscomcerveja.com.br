@@ -5,7 +5,7 @@ date:       2014-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 21
 categories: jogando analise
-tags:       [need-for-speed, ps3, sony, criterion, eletronic-arts]
+tags:       [need-for-speed, ps3, sony, criterion, electronic-arts]
 games:      [need-for-speed-most-wanted]
 thumbnail:  /imgs/posts/game_over/21_nfs_most_wanted/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/21_nfs_most_wanted/post_header.jpg
@@ -17,7 +17,7 @@ Eaí, como passou o Natal? Espero que bem! Bom, vou falar de um jogo que quase d
 
 Novamente nas mãos da **Criterion**, mesma produtora de **NFS: Hot Pursuit** e **Burnout Paradise**, este NFS é praticamente uma mistura desse dois jogos!
 
-Lançado em 2012 pela **Eletronic Arts**, **NFS: Most Wanted** é uma espécie de *remake* do jogo de mesmo nome lançado em 2005 para PS2, Xbox e Game Cube, cujo eu joguei muito pouco, então consigo afirmar se existe relação ou se só herdou o nome mesmo.
+Lançado em 2012 pela **Electronic Arts**, **NFS: Most Wanted** é uma espécie de *remake* do jogo de mesmo nome lançado em 2005 para PS2, Xbox e Game Cube, cujo eu joguei muito pouco, então consigo afirmar se existe relação ou se só herdou o nome mesmo.
 
 {% include youtubePlayer.html id='IpGS1K9mLPQ' %}
 
@@ -76,7 +76,7 @@ O jogo é excelente! Recomendo para os fãs de um bom jogo de corrida *arcade*, 
   titulo='Need for Speed: Most Wanted'
   plataforma='PlayStation 3'
   desenvolvedor='Criterion'
-  publicador='Eletronic Arts'
+  publicador='Electronic Arts'
   lancamento='2012'
   genero='Corrida (Arcade)'
   data='17 de Novembro de 2014'

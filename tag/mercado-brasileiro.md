@@ -1,5 +1,5 @@
 ---
-layout: tag
-tag:    mercado-brasileiro
+layout:    tag
+tag:       mercado-brasileiro
 permalink: /tag/mercado-brasileiro/
 ---
