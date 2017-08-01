@@ -429,25 +429,22 @@
 }
 
 .review-list {
-    article {
-        display: flex;
-        justify-content: center;
-        flex-wrap: wrap;
 
-        a {
-            margin: 0;
-            padding: 0;
-        }
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 10px;
 
-        img {
-            max-width: 370px;
-        }
-
-        img:first-item {
-            max-width: 740px;
-        }
-
+    a {
+        margin: 0;
+        padding: 0;
+        width: 50%;
     }
+
+    a:first-item {
+        width: 100%;
+    }
+
 }
 
 .post-cover {

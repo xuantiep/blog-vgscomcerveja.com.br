@@ -11,7 +11,6 @@ thumbnail:  /imgs/posts/game_over/04_tomb_raider/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/04_tomb_raider/post_header.jpg
 sinopse: >
   Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo Tomb Raider lançado pela Square-Enix agora neste mês de Março para PS3, Xbox 360 e PC.
-game_cover:
 ---
 Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo **Tomb Raider** lançado pela **Square-Enix** agora neste mês de Março para PS3, Xbox 360 e PC.
 

@@ -53,6 +53,6 @@ O jogo está disponível digitalmente para [PS Vita](https://store.playstation.c
   publicador='Sony Interactive Entertainment'
   lancamento='06 de Dezembro de 2016'
   genero='Aventura'
-  cover='/imgs/covers/severed.jpg'
+  cover='/imgs/games/severed_cover.jpg'
   data='13 de Março de 2017'
   nota=4.5 %}

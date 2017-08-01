@@ -71,6 +71,6 @@ Valeu para mim, mas confesso que fico com receio de indicar esse jogo à alguém
   publicador='Sony Interactive Entertainment'
   lancamento='06 de Dezembro de 2016'
   genero='Aventura'
-  cover='/imgs/covers/the-last-guardian.jpg'
+  cover='/imgs/games/the-last-guardian_cover.jpg'
   data='..'  
   nota=3 %}

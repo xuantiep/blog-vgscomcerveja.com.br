@@ -61,6 +61,6 @@ O avanço pelo mapa é natural, você vai aprendendo a lidar com os robôs dos m
   publicador='Sony Interactive Entertainment America'
   lancamento='28 de Fevereiro de 2017'
   genero='RPG de ação'
-  cover='/imgs/covers/horizon-zero-dawn.jpg'
+  cover='/imgs/games/horizon-zero-dawn_cover.jpg'
   data='27 de Abril de 2017'
   nota=5 %}
