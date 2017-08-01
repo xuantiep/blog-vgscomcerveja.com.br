@@ -28,6 +28,15 @@ layout: default
   {% assign tags_content = '' %}
 {% endif %}
 
+{% assign game = site.games | where: "slug", post.games %}
+{% assign game = game[0] %}
+{% if game %}
+  {% capture games_content %}
+  <a class="label" href="{{ game.url }}">{{ game.name }}</a>
+  {% endcapture %}
+{% endif %}
+
+
 
 <div class="post">
 
@@ -49,6 +58,9 @@ layout: default
     </div>
     <div class="post-meta">
       <small>{{ tags_content }}</small>
+    </div>
+    <div class="post-meta">
+      <small>{{ games_content }}</small>
     </div>
 
     <div class="post-share">
