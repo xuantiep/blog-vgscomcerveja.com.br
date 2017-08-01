@@ -1,21 +1,20 @@
 ---
 layout:     post
 title:      "13 artistas para seguir no Spotify"
-date:       2017-07-03 18:00
+date:       2017-08-01 20:00
 author:     Felipe B. Barbosa
 session:    Toplist
 categories: jogando toplist
 tags:       [spotify, game-music]
-games:      [donkey-kong-country-2]
 thumbnail:  /imgs/posts/toplist/07_artistas_spotify/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/07_artistas_spotify/post_header.jpg
 sinopse: >
-  ...
+  Um dos elementos que mais gosto em um jogo é sua trilha sonora. É ela quem te coloca no clima e dita o ritmo do jogo, concorda? Sendo assim, existem centenas de milhares de composições sonoras excelentes e marcantes e, por trás delas há sempre grandes artistas que a desenvolvem, certo? Entretanto, há também diversos de outros artistas que não compoem trilhas originais, mas que as recriam com maestria, cujo os resultados são tão fantásticos quanto as originais! E um ótimo lugar para encontrar esses artistas é no Spotify. Pensando nisso, selecionei 13 artistas dos quais eu mais escuto por lá, confira!
 
 ---
 Olá jogadores cervejeiros, tudo beleza?
 
-Um dos elementos que mais gosto em um jogo é sua trilha sonora. É ela quem te coloca no clima e dita o ritmo do jogo, concorda? Sendo assim, existem centenas de milhares de composições sonoras excelentes e marcantes e, por trás delas há sempre grandes artistas que a desenvolvem, certo? Entretanto, há também diversos de outros artistas que não compoem trilhas originais, mas que as recriam com maestria, cujo os resultados são tão fantásticos quanto as originais! E um ótimo lugar para encontrar esses artistas é no Spotify. Pensando nisso, selecionei 13 artistas dos quais eu mais escuto por lá, confira:  
+Um dos elementos que mais gosto em um jogo é sua trilha sonora. É ela quem te coloca no clima e dita o ritmo do jogo, concorda? Sendo assim, existem centenas de milhares de composições sonoras excelentes e marcantes e, por trás delas há sempre grandes artistas que a desenvolvem, certo? Entretanto, há também diversos de outros artistas que não compoem trilhas originais, mas que as recriam com maestria, cujo os resultados são tão fantásticos quanto as originais! E um ótimo lugar para encontrar esses artistas é no Spotify. Pensando nisso, selecionei 13 artistas dos quais eu mais escuto por lá, confira:
 
 ### Alexander Rosetti
 
@@ -84,7 +83,7 @@ Onde encontrá-los:
 
 ### Gustavo Santaolalla
 
-Este é outro que dispensa comentários, pois é compositor de trilhas originais, inclusive já ganhou dois oscars, dois prêmios BAFTA, um globo de ouro e um prémio Platino por isto, nada mal, hein? Porém, se tratando de games, ele trabalhou apenas em um projeto (por enquanto), mas é "O" projeto:
+Este é outro que dispensa comentários, pois é compositor de trilhas originais, inclusive já ganhou dois oscars, dois prêmios BAFTA, um globo de ouro e um prémio Platino por isto (nada mal, hein?)! Porém, se tratando de games, ele trabalhou apenas em um projeto (por enquanto), mas é "O" projeto:
 
 {% include image-link.html
   description="The Last of Us"
@@ -105,7 +104,7 @@ Onde encontrá-lo:
 
 ### L'Orchestra Cinamatique
 
-Eles são uma orquestra que gravam muitos singles e álbuns baseados em trilhas sonoras de filmes e games. E quando digo muitos é porque tem muitos mesmo, dificil até selecionar, mas selecionei três deles:
+Eles são uma orquestra que gravam muitos singles e álbuns baseados em trilhas sonoras de filmes e games. E quando digo muitos é porque tem muitos mesmo, dificil até selecionar, mas escolhi três deles:
 
 {% include image-link.html
   description="The Best Video Game Soundtracks of 2014 (Cover Version)"
@@ -132,7 +131,7 @@ Onde encontrá-los:
 
 ### Mark the Hammer
 
-O trabalho deste cara é excepcional, ele remixa em rock trilhas sonoras de videogames, filmes e séries! Vale muito a pena conferir:
+O trabalho deste cara é excepcional, ele remixa ao estilo rock trilhas sonoras de videogames, filmes e séries! Vale muito a pena conferir:
 
 {% include image-link.html
   description="Hammer Games, Vol. 0"
@@ -153,7 +152,7 @@ Onde encontrá-lo:
 
 ### Play! Orchestra
 
-Semelhante a Video Games Live (mais abaixo), a **Play! Orchestra** foi uma série de shows de músicas de videogames tocados por uma orquestra ao vivo. Os concertos de 2006 a 2010 foram realizados por Arnie Roth e, a partir de 2010, Andy Brick assumiu o cargo de diretor e a série virou "Replay: Symphony of Heroes". O álbum oficial é este aqui:
+Semelhante a Video Games Live (que está mais abaixo), a **Play! Orchestra** foi uma série de shows de músicas de videogames tocados por uma orquestra ao vivo. Os concertos de 2006 a 2010 foram realizados por Arnie Roth e, a partir de 2010, Andy Brick assumiu o cargo de diretor e a série virou "Replay: Symphony of Heroes". O álbum oficial é este aqui:
 
 {% include image-link.html
   description="A Video Game Symphony: PLAY!"
@@ -168,7 +167,7 @@ Onde encontrá-los:
 
 ### Retro Remix Revue
 
-Sem dúvidas, um dos meus artistas favorito! Como o próprio nome sugere, eles fazem remixes de músicas de videogames *old school* e, não tem muito o que dizer, são excelentes! Simplesmente, confira:
+Sem dúvidas, um dos meus artistas favoritos! Como o próprio nome sugere, eles fazem remixes de músicas de videogames *old school* e, não tem muito o que dizer, são excelentes! Simplesmente, confira:
 
 {% include image-link.html
   description="Retro Remix Revue, Volume 1"
@@ -189,7 +188,7 @@ Onde encontrá-los:
 
 ### Smooth McGroove
 
-Este cara também é um fenômeno nas reproduções de trilhas de games. Mas só tem um detalhe, seu único instrumento é a própria boca! Sério, ele faz todo o arranjo "acappella" e é ótimo! Ele já tem 8 álbuns "acappella" e 2 de remixes, mas só vou colocar o primeiro aqui, os outros você vê no perfil dele, vale a pena.
+Este cara também é um fenômeno nas reproduções de trilhas de games. Mas só tem um detalhe, seu único instrumento é a própria boca! Sério, ele faz todo o arranjo "acappella" e é ótimo! Ele já tem 8 álbuns "acappella" e 2 de remixes, mas só vou colocar o primeiro aqui, os outros você vê no perfil dele, pois vale a pena!
 
 {% include image-link.html
   description="Smooth McGroove: VGM Acapella"
