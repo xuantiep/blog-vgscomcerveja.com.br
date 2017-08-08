@@ -4,8 +4,8 @@ title:      "3x Naughty Dog!"
 date:       2017-08-08 20:00
 author:     Felipe B. Barbosa
 session:    Edição de Colecionador &#35 05
-categories: jogando toplist
-tags:       [naughty-dog, the-last-of-us, uncharted, sony, ps3, ps4]
+categories: colecionando edicao-colecionador
+tags:       [naughty-dog, uncharted, sony, ps3, ps4]
 thumbnail:  /imgs/posts/ed_colecionador/05_naughty_dog/post_thumbnail.jpg
 cover:      /imgs/posts/ed_colecionador/05_naughty_dog/post_header.jpg
 sinopse: >
