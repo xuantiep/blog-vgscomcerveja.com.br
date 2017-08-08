@@ -19,7 +19,9 @@ Pois é, não resisti! Comecei a colecionar videogames.
 Sempre fui apaixonado por jogos eletrônicos e sempre tive dó de me desfazer dos meus videogames antigos!
 Mas agora, todos eles fazem parte da minha coleção! :)
 
-{% include image.html url="/imgs/posts/colecao/01_inicio/inicio-colecao.jpg" description="O Início da Coleção!" %}
+{% include image.html 
+  url="/imgs/posts/colecao/01_inicio/inicio-colecao.jpg"
+  description="O Início da Coleção!" %}
 
 Minha coleção é recente, porém já tenho alguns itens que considero interessantes, como por exemplo,
 o jogo **Phantasy Star** para **Master System**, o jogo é totalmente em português e está completo com caixa
