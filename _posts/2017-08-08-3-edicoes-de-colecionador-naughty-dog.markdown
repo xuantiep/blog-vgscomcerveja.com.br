@@ -10,7 +10,7 @@ thumbnail:  /imgs/posts/ed_colecionador/05_naughty_dog/post_thumbnail.jpg
 cover:      /imgs/posts/ed_colecionador/05_naughty_dog/post_header.jpg
 sinopse: >
   Saudações jogadores cervejeiros, tudo bem?
-  Edições de colecionadores são sempre itens cobiçados por oferecer algo à mais ao jogador, certo? Porém, as minhas favoritas são aquelas que oferecem itens que possam ser expostos na minha prateleira, tais como, miniaturas, estátuas e action-figures! E seguindo essa ideia, gostaria de compartilhar três edições que a **Naughty Dog** possui e, que acredito que todos os fãs de videogames e dos trabalhos da produtora gostaria de ter na sua coleção (eu pelo menos, quero).. Confira!
+  Edições de colecionadores são sempre itens cobiçados por oferecer algo à mais ao jogador, certo? Porém, as minhas favoritas são aquelas que oferecem itens que possam ser expostos na minha prateleira, tais como, miniaturas, estátuas e action-figures! E seguindo essa ideia, gostaria de compartilhar três edições que a Naughty Dog possui e, que acredito que todos os fãs de videogames e dos trabalhos da produtora gostaria de ter na sua coleção (eu pelo menos, quero).. Confira!
 
 ---
 Saudações jogadores cervejeiros, tudo bem?

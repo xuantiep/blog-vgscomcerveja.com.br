@@ -34,14 +34,18 @@ Mas enfim, algum tempo depois, finalmente eu iria ganhar meu PlayStation dos meu
 corri até a locadora e adquiri o Gran Turismo completo (*não mais a demo*) antes mesmo de ter o
 console que ganhei dois dias depois, mas eu lembro até hoje, paguei R$ 12 na cópia pirata! :)
 
-{% include image.html url="/imgs/posts/colecao/03_gran_turismo/gran-turismo.jpg" description="Gran Turismo!" %}
+{% include image.html
+  url="/imgs/posts/colecao/03_gran_turismo/gran-turismo.jpg"
+  description="Gran Turismo!" %}
 
 Algum tempo depois de ter terminado o primeiro, Gran Turismo 2 foi lançado! E sem ter pedido ou
 encomendado, quando GT2 chegou na mesma locadora que comprei o primeiro, a dona me ligou avisando
 que GT2 tinha acabado de chegar (*saudades deste tempo das locadoras*)! Então fui correndo e fui
 o primeiro a alugar! :)
 
-{% include image.html url="/imgs/posts/colecao/03_gran_turismo/gran-turismo2.jpg" description="Gran Turismo 2!" %}
+{% include image.html
+  url="/imgs/posts/colecao/03_gran_turismo/gran-turismo2.jpg"
+  description="Gran Turismo 2!" %}
 
 Agora, praticamente 10 anos depois, eu adquiri ambos originais, pois são obrigatórios em minha
 coleção!
