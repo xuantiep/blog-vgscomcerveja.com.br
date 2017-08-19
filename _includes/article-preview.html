@@ -3,12 +3,8 @@
     <div class="post-cover">
       <img src="{{ post.thumbnail }}">
     </div>
-    <div class="post-sinopse">
-      {% include post-sinopse.html %}
-    </div>
-  {% else %}
-    <div class="post-sinopse" style="width:100%">
-      {% include post-sinopse.html %}
-    </div>
   {% endif %}
+  <div class="post-sinopse">
+    {% include post-sinopse.html %}
+  </div>
 </article>

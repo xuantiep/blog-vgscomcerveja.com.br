@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Pecados Gamísticos #03 - Quinta Geração"
+title:      "Meus pecados gamísticos da quinta geração de videogames!"
 date:       2017-08-17 22:00
 author:     Felipe B. Barbosa
-session:    Listas
+session:    Pecados Gamísticos &#35 03
 categories: jogando toplist
 thumbnail:  /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg

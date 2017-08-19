@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Pecados Gamísticos #02 - Sexta Geração"
+title:      "Meus pecados gamísticos da sexta geração de videogames!"
 date:       2016-03-12 19:00
 author:     Felipe B. Barbosa
-session:    Listas
+session:    Pecados Gamísticos &#35 02
 categories: jogando toplist
 tags:       [sega, dreamcast, sony, ps2, nintendo, game-cube, microsoft, xbox]
 games:      [tomb-raider-the-angel-of-darkness, sonic-adventure, the-legend-of-zelda, super-mario-sunshine, resident-evil, resident-evil-zero, god-of-war-2, luigi-mansion, kingdom-hearts, silent-hill-2, silent-hill-3]
