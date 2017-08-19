@@ -3,7 +3,7 @@ layout:     post
 title:      "13 artistas para seguir no Spotify"
 date:       2017-08-01 20:00
 author:     Felipe B. Barbosa
-session:    Toplist
+session:    Listas
 categories: jogando toplist
 tags:       [spotify, game-music]
 thumbnail:  /imgs/posts/toplist/07_artistas_spotify/post_thumbnail.jpg

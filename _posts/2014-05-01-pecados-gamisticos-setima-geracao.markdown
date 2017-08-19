@@ -3,7 +3,7 @@ layout:     post
 title:      "Pecados Gamísticos #01 - Sétima Geração"
 date:       2014-05-01 19:00
 author:     Felipe B. Barbosa
-session:    Toplist
+session:    Listas
 categories: jogando toplist
 tags:       [sony, ps3, microsoft, xbox-360, nintendo, wii, indie, zelda]
 games:      [journey, braid, world-goo, heavy-rain, red-dead-redemption, portal, zelda-skyward-sword, fallout-3, fallout-new-vegas, gears-of-war, new-super-mario, super-mario-galaxy]

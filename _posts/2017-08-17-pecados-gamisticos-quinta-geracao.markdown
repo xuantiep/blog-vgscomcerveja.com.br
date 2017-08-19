@@ -3,7 +3,7 @@ layout:     post
 title:      "Pecados Gamísticos #03 - Quinta Geração"
 date:       2017-08-17 22:00
 author:     Felipe B. Barbosa
-session:    Toplist
+session:    Listas
 categories: jogando toplist
 thumbnail:  /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg

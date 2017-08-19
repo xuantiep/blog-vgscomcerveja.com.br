@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "5 platinas fáceis, porém somente em disco no PS3!"
-date:       2017-06-28 18:00
+date:       2017-09-18 18:00
 author:     Felipe B. Barbosa
 session:    Trophy Hunters &#35 01
 categories: jogando toplist

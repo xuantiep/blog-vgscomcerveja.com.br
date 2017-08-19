@@ -3,7 +3,7 @@ layout:     post
 title:      "10 Jogos que Marcaram Minha Infância"
 date:       2014-08-13 19:00
 author:     Felipe B. Barbosa
-session:    Toplist
+session:    Listas
 categories: jogando toplist
 tags:       [atari, sonic, sega, master-system, nintendo, snes, mega-drive, tomb-raider, metal-gear-solid, gran-turismo]
 games:      [megamania, sonic, double-dragon, super-mario-world, donkey-kong-country-2, tomb-raider-3, metal-gear-solid, resident-evil-3, gran-turismo]
