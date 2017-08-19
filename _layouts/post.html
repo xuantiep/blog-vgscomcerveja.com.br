@@ -78,58 +78,52 @@ layout: default
 
   </header>
 
-  {% include googleads.html %}
-
-  <article class="post-content">
-    <div class="wrapper">
-      {{ content }}
-
-      <div class="post-navigation">
-        {% if page.previous.url %}
-          <a class="prev-post" href="{{page.previous.url}}">
-            <small>post anterior</small><br>{{page.previous.title}}
-          </a>
-        {% endif %}
-        {% if page.next.url %}
-          <a class="next-post" href="{{page.next.url}}">
-            <small>próximo post</small><br>{{page.next.title}}
-          </a>
-        {% endif %}
+  <div class="home">
+    {% include googleads.html %}
+    <article class="post-content">
+      <div class="wrapper">
+        {{ content }}
       </div>
+    </article>
+  </div>
 
-      <form style="text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=VideogamesComCerveja', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
-        <b>Gostou? Assine nossa Newsletter e receba os próximos posts por e-mail!</b><br>
-        <input type="hidden" value="VideogamesComCerveja" name="uri">
-        <input type="hidden" name="loc" value="pt_BR">
-        <p><input type="text" style="width:100%; font-size:1.5em; text-align:center;" name="email"></p>
-        <input type="submit" style="font-size:1em; padding:8px 15px; margin-left:10px" value="Inscrever">
-        <p><small>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></small></p>
-      </form>
+  {% include side-menu.html %}
 
-
-      <div id="disqus_thread"></div>
-      <script>
-          /**
-           *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-           *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-           */
-          /*
-          var disqus_config = function () {
-              this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-              this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-          };
-          */
-          (function() {
-              var d = document, s = d.createElement('script');
-
-              s.src = '//videogamescomcerveja.disqus.com/embed.js';
-
-              s.setAttribute('data-timestamp', +new Date());
-              (d.head || d.body).appendChild(s);
-          })();
-      </script>
-      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  <div class="wrapper">
+    <div class="post-navigation">
+      {% if page.previous.url %}
+        <a class="prev-post" href="{{page.previous.url}}">
+          <small>post anterior</small><br>{{page.previous.title}}
+        </a>
+      {% endif %}
+      {% if page.next.url %}
+        <a class="next-post" href="{{page.next.url}}">
+          <small>próximo post</small><br>{{page.next.title}}
+        </a>
+      {% endif %}
     </div>
-  </article>
 
+    <div id="disqus_thread"></div>
+    <script>
+        /**
+         *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+         *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+         */
+        /*
+        var disqus_config = function () {
+            this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+        */
+        (function() {
+            var d = document, s = d.createElement('script');
+
+            s.src = '//videogamescomcerveja.disqus.com/embed.js';
+
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  </div>
 </div>

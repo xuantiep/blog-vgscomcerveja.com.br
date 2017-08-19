@@ -20,7 +20,7 @@
       url: /jogando/especiais/
     - title: Util. Pública
       url: /jogando/utilidade-publica/
-    - title: Toplists
+    - title: Listas
       url: /jogando/toplist/
 - title: Colecionando
   url: /colecionando/
@@ -34,8 +34,6 @@
       url: /colecionando/mosca-branca/
     - title: Utilidade Pública
       url: /colecionando/utilidade-publica/
-    - title: Toplists
-      url: /colecionando/toplist/
 - title: Sobre
   url: /sobre/
   classe: icon-at
