@@ -5,7 +5,7 @@ date:       2017-01-08 20:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-tags:       [sony, ps4, uncharted, naughty-dog, android, psvita, nintendo, wii, ps3, ps1, resident-evil, capcom, xbox-360, snes, xbox, microsoft, ps2]
+tags:       [sony, ps4, uncharted, naughty-dog, psvita, nintendo, wii, ps3, ps1, resident-evil, capcom, xbox-360, snes, xbox, microsoft, ps2]
 games:      [uncharted-2, uncharted-3, lara-croft-go, horizon-chase, house-of-the-dead-overkill, jurassic-park, resident-evil, sound-shapes, the-order-1886, metal-gear-solid-v, uncharted-4, guitar-hero-live, the-walking-dead, the-walking-dead-2, grim-fandango, gone-home, cloudy-with-chance-meatballs, need-for-speed, donkey-kong-country, dino-crisis-3, silent-hill-2, donkey-kong-country-returns, hitman-go, the-last-guardian, goof-troop]
 thumbnail:  /imgs/posts/especial/04_meme2016/thumbnail.jpg
 cover: /imgs/posts/especial/04_meme2016/header.jpg

@@ -64,7 +64,7 @@ O clima de terror dele é totalmente diferente de Resident Evil e não tem nem c
 
 {% include image.html url="/imgs/posts/toplist/03_jogos_favoritos_ps1/tomb-raider4.jpg" %}
 
-Quem acompanha o blog sabe que o primeiro da série que joguei foi o TR III, mas como já o citei no [post dos jogos que marcaram minha infância](jogando/toplist/2014/08/13/dez-jogos-que-marcaram-minha-infancia.html), vou de **The Last Revelation** desta vez, até porque ele é o meu favorito mesmo entre os jogos da série no PS1.
+Quem acompanha o blog sabe que o primeiro da série que joguei foi o TR III, mas como já o citei no [post dos jogos que marcaram minha infância](/jogando/toplist/2014/08/13/dez-jogos-que-marcaram-minha-infancia.html), vou de **The Last Revelation** desta vez, até porque ele é o meu favorito mesmo entre os jogos da série no PS1.
 
 Tirando a parte com a Lara jovem, o jogo inteiro se passa no Egito desta vez, e mesmo sendo em um só local, é um dos mais compridos da série com 35 fases!
 

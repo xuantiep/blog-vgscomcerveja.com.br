@@ -53,7 +53,7 @@ Tinha bastante coisa para jogar lá, mas os que mais me chamaram a atenção for
 
 Uma coisa que achei legal foi o espaço dedicado aos desenvolvedores brasileiros independentes. Não cheguei a ver nada no detalhe, mas parecia ter vários jogos legais por lá!
 
-Mas se quiser saber um pouco sobre os *indies* que estavam por lá, o nosso parceiro [Vão Jogar!](www.vaojogar.com.br) fez um [post falando mais especificamente dos jogos independentes que viram por lá](http://vaojogar.com.br/escrito/brasil-game-show-2015-os-independentes).
+Mas se quiser saber um pouco sobre os *indies* que estavam por lá, o nosso parceiro [Vão Jogar!](http://vaojogar.com.br/) fez um [post falando mais especificamente dos jogos independentes que viram por lá](http://vaojogar.com.br/escrito/brasil-game-show-2015-os-independentes).
 
 ## Resumindo
 
