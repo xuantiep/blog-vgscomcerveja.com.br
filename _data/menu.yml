@@ -1,4 +1,4 @@
-- title: Home
+- title: Start
   url: /
   classe: icon-home
   showtitle: false
@@ -35,7 +35,7 @@
     - title: Utilidade Pública
       url: /colecionando/utilidade-publica/
 - title: Sobre
-  url: /sobre/
+  url: /sobre/blog/
   classe: icon-at
   showtitle: true
 - title: Twitter
