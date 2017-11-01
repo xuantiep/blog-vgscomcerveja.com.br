@@ -5,6 +5,7 @@ date:       2017-08-29 21:00
 author:     Felipe B. Barbosa
 session:    Caçadores de Troféus &#35 01
 categories: jogando toplist
+tags:       [sony, ps3, trofeus]
 thumbnail:  /imgs/posts/toplist/09_cacadores_trofeus1/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/09_cacadores_trofeus1/post_header.jpg
 sinopse:

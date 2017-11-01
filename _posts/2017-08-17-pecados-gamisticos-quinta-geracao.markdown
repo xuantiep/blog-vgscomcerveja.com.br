@@ -5,6 +5,7 @@ date:       2017-08-17 22:00
 author:     Felipe B. Barbosa
 session:    Pecados Gamísticos &#35 03
 categories: jogando toplist
+tags:       [saturn, n64, ps1, sony, nintendo, sega, rare, donkey-kong, mario, tomb-raider]
 thumbnail:  /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg
 sinopse: >
