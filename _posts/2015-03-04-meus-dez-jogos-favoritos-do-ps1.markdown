@@ -5,7 +5,7 @@ date:       2015-03-04 19:00
 author:     Felipe B. Barbosa
 session:    Listas
 categories: jogando toplist
-tags:       [sony, ps1, capcom, tomb-raider, metal-gear-solid, gran-turismo]
+tags:       [sony, ps1, capcom, tomb-raider, metal-gear-solid, gran-turismo, lists, especial]
 games:      [dino-crisis, driver, medal-of-honor, thps-2, castlevania-sotn, silent-hill, tomb-raider-the-last-revelation, resident-evil-3, metal-gear-solid, gran-turismo]
 thumbnail:  /imgs/posts/toplist/03_jogos_favoritos_ps1/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/03_jogos_favoritos_ps1/post_header.jpg

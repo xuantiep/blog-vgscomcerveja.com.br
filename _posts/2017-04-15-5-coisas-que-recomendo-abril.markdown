@@ -5,7 +5,7 @@ date:       2017-04-15 18:00
 author:     Felipe B. Barbosa
 session:    Listas
 categories: jogando toplist
-tags:       [livros, mega-drive]
+tags:       [livros, mega-drive, lists, especial]
 thumbnail:  /imgs/posts/toplist/06_coisas_recomendo_1/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/06_coisas_recomendo_1/post_header.jpg
 sinopse: >

@@ -5,7 +5,7 @@ date:       2016-01-03 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-tags:       [nintendo, snes, xbox-360, microsoft, n64, sony, psvita, metal-gear-solid, resident-evil, ps1, gran-turismo, guitar-hero, ps3, mortal-kombat, master-system, sega, sonic]
+tags:       [nintendo, snes, xbox-360, microsoft, n64, sony, psvita, metal-gear-solid, resident-evil, ps1, gran-turismo, guitar-hero, ps3, mortal-kombat, master-system, sega, sonic, especial]
 games:      [super-mario-world, forza-horizon-2, need-for-speed-most-wanted, conkers-bad-fur-day, assassins-creed, uncharted-golden-abyss, metal-gear-solid-v, guacamelee, resident-evil, gran-turismo-6, jurassic-the-hunted, sonic, cars-2, fat-princess, rise-of-the-tomb-raider, terminator-salvation, enslaved, uncharted]
 thumbnail:  /imgs/posts/especial/03_meme2015/post_thumbnail.jpg
 cover:      /imgs/posts/especial/03_meme2015/post_header.jpg

@@ -5,7 +5,7 @@ date:       2014-05-01 19:00
 author:     Felipe B. Barbosa
 session:    Pecados Gamísticos &#35 01
 categories: jogando toplist
-tags:       [sony, ps3, microsoft, xbox-360, nintendo, wii, indie, zelda]
+tags:       [sony, ps3, microsoft, xbox-360, nintendo, wii, indie, zelda, lists, especial]
 games:      [journey, braid, world-goo, heavy-rain, red-dead-redemption, portal, zelda-skyward-sword, fallout-3, fallout-new-vegas, gears-of-war, new-super-mario, super-mario-galaxy]
 thumbnail:  /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_header.jpg

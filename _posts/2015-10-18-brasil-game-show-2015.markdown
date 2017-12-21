@@ -5,7 +5,7 @@ date:       2015-10-18 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-tags:       [bgs, sony, microsoft]
+tags:       [bgs, sony, microsoft, especial]
 thumbnail:  /imgs/posts/especial/02_bgs2015/post_thumbnail.jpg
 cover:      /imgs/posts/especial/02_bgs2015/post_header.jpg
 sinopse: >

@@ -10,18 +10,22 @@
   url: /noticias/
   classe: icon-newspaper
   showtitle: false
+- title: Listas
+  url: /lists/
+  classe: icon-list-bullet
+  showtitle: false
 - title: Jogando
   url: /jogando/
   classe: icon-gamepad
   subitems:
     - title: Análises
       url: /jogando/analise/
+    - title: Troféus
+      url: /tag/trofeus/
     - title: Especiais
-      url: /jogando/especiais/
-    - title: Util. Pública
+      url: /tag/especial/
+    - title: Utilidade Pública
       url: /jogando/utilidade-publica/
-    - title: Listas
-      url: /jogando/toplist/
 - title: Colecionando
   url: /colecionando/
   classe: icon-database

@@ -5,7 +5,7 @@ date:       2012-03-30 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
 categories: colecionando utilidade-publica
-tags:       [sony, ps1, resident-evil]
+tags:       [sony, ps1, resident-evil, lists]
 games:      [resident-evil, space-hulk, doom]
 thumbnail:  /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_thumbnail.jpg
 cover:      /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_header.jpg

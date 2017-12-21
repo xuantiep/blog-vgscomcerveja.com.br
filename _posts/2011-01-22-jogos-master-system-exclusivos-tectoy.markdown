@@ -5,7 +5,7 @@ date:       2011-01-22 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
 categories: colecionando utilidade-publica
-tags:       [sega, master-system, tectoy]
+tags:       [sega, master-system, tectoy, lists]
 games:      [phantasy-star]
 thumbnail:  /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_thumbnail.jpg
 cover:      /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_header.jpg

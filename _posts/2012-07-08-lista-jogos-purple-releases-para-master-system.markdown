@@ -5,7 +5,7 @@ date:       2012-07-08 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública
 categories: colecionando utilidade-publica
-tags:       [sega, tectoy, master-system]
+tags:       [sega, tectoy, master-system, lists]
 thumbnail:  /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_thumbnail.jpg
 cover:      /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_header.jpg
 sinopse: >

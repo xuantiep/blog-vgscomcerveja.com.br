@@ -5,7 +5,7 @@ date:       2015-01-02 19:00
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-tags:       [microsoft, xbox-360, sony, ps3, naughty-dog, psp, ps1, nintendo, wii, need-for-speed]
+tags:       [microsoft, xbox-360, sony, ps3, naughty-dog, psp, ps1, nintendo, wii, need-for-speed, especial]
 games:      [deadlight, gran-turismo-6, the-last-of-us, spec-ops-the-line, gears-of-war, silent-hill-origins, medal-of-honor, super-mario-galaxy, acdc-rockband, need-for-speed-most-wanted, dead-island]
 thumbnail:  /imgs/posts/especial/01_meme2014/post_thumbnail.jpg
 cover:      /imgs/posts/especial/01_meme2014/post_header.jpg

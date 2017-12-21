@@ -30,6 +30,8 @@
   name: EIDOS
 - slug: eletronic-arts
   name: Eletronic Arts
+- slug: especial
+  name: Especiais
 - slug: farcry
   name: Far Cry (Série)
 - slug: game-boy
@@ -62,6 +64,8 @@
   name: Konami
 - slug: lego
   name: LEGO (Série)
+- slug: lists
+  name: Listas
 - slug: livros
   name: Livros
 - slug: mario
