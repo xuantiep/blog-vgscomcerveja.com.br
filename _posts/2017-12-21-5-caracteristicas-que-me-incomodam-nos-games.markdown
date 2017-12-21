@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "5 características que me incomoda nos games!"
-date:       2017-12-19 23:00
+date:       2017-12-21 19:00
 author:     Felipe B. Barbosa
 session:    Lista
 categories: jogando
