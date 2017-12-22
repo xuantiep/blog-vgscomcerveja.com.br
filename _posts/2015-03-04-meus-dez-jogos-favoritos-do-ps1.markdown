@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Meus 10 Jogos Favoritos do PS1"
+title:      "Meus 10 jogos favoritos do PS1"
 date:       2015-03-04 19:00
 author:     Felipe B. Barbosa
-session:    Listas
+session:    Especial
 categories: jogando toplist
 tags:       [sony, ps1, capcom, tomb-raider, metal-gear-solid, gran-turismo, lists, especial]
 games:      [dino-crisis, driver, medal-of-honor, thps-2, castlevania-sotn, silent-hill, tomb-raider-the-last-revelation, resident-evil-3, metal-gear-solid, gran-turismo]

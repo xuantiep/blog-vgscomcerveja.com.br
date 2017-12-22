@@ -3,7 +3,7 @@ layout:     post
 title:      "Resumo da Semana - Mortal Kombat X; Deus Ex: Mankind Divided; Continuação do filme de Need for Speed e mais.. "
 date:       2015-04-13 19:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 14
 categories: noticias
 tags:       [mortal-kombat, square-enix, electronic-arts, need-for-speed, call-of-duty]
 games:      [mortal-kombat-x, deus-ex-manking-divided, ducktales-remastered]

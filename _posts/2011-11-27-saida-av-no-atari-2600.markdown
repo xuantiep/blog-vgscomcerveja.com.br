@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Coloque Saída A/V no seu Atari 2600"
+title:      "Coloque saída A/V no seu Atari 2600"
 date:       2011-11-27 19:00
 author:     Felipe B. Barbosa
-session:    Utilidade Pública
+session:    Utilidade Pública &#35 03
 categories: jogando utilidade-publica
 tags:       [atari]
 thumbnail:  /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_thumbnail.jpg

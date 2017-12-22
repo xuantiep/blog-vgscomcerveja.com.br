@@ -3,7 +3,7 @@ layout:     post
 title:      "Coleção de Arcades do Michael Jackson"
 date:       2011-01-11 19:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 02
 categories: noticias
 tags:       [arcades]
 thumbnail:  /imgs/posts/news/02_arcades_michael_jackson/post_thumbnail.jpg

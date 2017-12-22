@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Lista de Jogos Master System Portuguese Purple Releases"
+title:      "Lista de jogos Master System Portuguese Purple Releases"
 date:       2012-07-08 19:00
 author:     Felipe B. Barbosa
-session:    Utilidade Pública
+session:    Utilidade Pública &#35 06
 categories: colecionando utilidade-publica
 tags:       [sega, tectoy, master-system, lists]
 thumbnail:  /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_thumbnail.jpg

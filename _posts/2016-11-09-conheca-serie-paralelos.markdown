@@ -3,7 +3,7 @@ layout:     post
 title:      "Conheça a série 'Paralelos'"
 date:       2016-11-09 17:00
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 24
 categories: noticias
 tags:       [mercado-brasileiro, tectoy]
 thumbnail:  /imgs/posts/news/25_serie_paralelos/post_thumbnail.jpg

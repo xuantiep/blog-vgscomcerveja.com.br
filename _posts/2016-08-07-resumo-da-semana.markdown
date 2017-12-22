@@ -3,7 +3,7 @@ layout:     post
 title:      "Resumo da Semana - Pokémon GO, Novidades do Xbox One, Inside, Clássicos da Disney e mais.. "
 date:       2016-08-07 21:30
 author:     Felipe B. Barbosa
-session:    Drops
+session:    Drops &#35 18
 categories: noticias
 tags:       [microsoft, xbox-one, ps4, nintendo, gog, disney]
 games:      [inside, prey-for-the-gods, prey]

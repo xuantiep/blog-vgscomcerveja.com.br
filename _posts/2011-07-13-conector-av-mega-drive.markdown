@@ -3,7 +3,7 @@ layout:     post
 title:      "Monte o seu Conector A/V para Mega Drive"
 date:       2011-07-13 19:00
 author:     Felipe B. Barbosa
-session:    Utilidade Pública
+session:    Utilidade Pública &#35 02
 categories: jogando utilidade-publica
 tags:       [sega, mega-drive]
 thumbnail:  /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_thumbnail.jpg

@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "As 10 Melhores Novidades da E3 2015"
+title:      "As 10 melhores novidades da E3 2015"
 date:       2015-06-27 19:00
 author:     Felipe B. Barbosa
-session:    Listas
+session:    Especial
 categories: jogando toplist
 tags:       [e3, microsoft, ps4, xbox-one, square-enix, naughty-dog, tomb-raider, sony, lists, especial]
 games:      [forza-6, need-for-speed, gears-of-war-4, kingdom-hearts-3, fallout-4, shenmue-3, final-fantasy-7, the-last-guardian, rise-of-the-tomb-raider, uncharted-4]

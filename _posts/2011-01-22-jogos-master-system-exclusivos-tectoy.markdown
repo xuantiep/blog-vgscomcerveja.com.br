@@ -3,7 +3,7 @@ layout:     post
 title:      "Lista de jogos de Master System exclusivos Tectoy"
 date:       2011-01-22 19:00
 author:     Felipe B. Barbosa
-session:    Utilidade Pública
+session:    Utilidade Pública &#35 01
 categories: colecionando utilidade-publica
 tags:       [sega, master-system, tectoy, lists]
 games:      [phantasy-star]

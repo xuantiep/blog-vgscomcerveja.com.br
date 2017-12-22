@@ -3,7 +3,7 @@ layout:     post
 title:      "Lista de jogos PlayStation no formato Longbox"
 date:       2012-03-30 19:00
 author:     Felipe B. Barbosa
-session:    Utilidade Pública
+session:    Utilidade Pública &#35 05
 categories: colecionando utilidade-publica
 tags:       [sony, ps1, resident-evil, lists]
 games:      [resident-evil, space-hulk, doom]
