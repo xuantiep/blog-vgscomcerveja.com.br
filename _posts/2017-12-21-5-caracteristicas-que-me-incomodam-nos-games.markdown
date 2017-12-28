@@ -3,7 +3,7 @@ layout:     post
 title:      "5 características que me incomoda nos games!"
 date:       2017-12-21 19:00
 author:     Felipe B. Barbosa
-session:    Lista
+session:    Toplist &#35 09
 categories: jogando
 tags:       [lists, especial]
 thumbnail:  /imgs/posts/toplist/10_caracteristicas_chatas/post_thumbnail.jpg

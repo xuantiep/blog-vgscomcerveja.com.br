@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Lista de Jogos sem Troféus do PS3"
+title:      "Lista de jogos sem troféus do PS3"
 date:       2016-07-13 19:00
 author:     Felipe B. Barbosa
 session:    Utilidade Pública &#35 08
