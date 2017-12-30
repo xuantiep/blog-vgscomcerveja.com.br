@@ -6,10 +6,10 @@ author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
 tags:       [especial]
-thumbnail:  /imgs/posts/especial/04_meme2016/thumbnail.jpg
-cover: /imgs/posts/especial/04_meme2016/header.jpg
+thumbnail:  /imgs/posts/especial/05_meme2017/thumbnail.jpg
+cover:      /imgs/posts/especial/05_meme2017/header.jpg
 sinopse: >
-    Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 6a edição: 'O Que Você Jogou em 2016?' e minha terceira participação.
+    Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 7a edição: 'O Que Você Jogou em 2017?' e minha quarta participação. Confira!
 
 ---
 Feliz Ano Novo! \o/
@@ -22,25 +22,68 @@ Os 13 melhores em ordem cronológica:
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/13_dan-the-man.jpg" %}
 
+Dos mesmos criadores de Fruit Ninja e Jetpack Joyride, este é um joguinho de ação e plataforma bastante frenético e com visual retrô da [Halfbrick Studios](https://halfbrick.com/our-games/dan-the-man/)!
+
+Te garanto, é impossível não viciar neste game! Mesmo com os controles touch (como você deve ter notado no título é para [Android](https://play.google.com/store/apps/details?id=com.halfbrick.dantheman&hl=pt_BR) (e iOS)),
+o jogo consegue entregar uma jogabilidade deliciosa, onde você tem que sair na "porrada" contra
+seus diversos inimigos!
+
+Ele é gratuito com propagandas, porém tem a versão paga!
+
 ## Resident Evil (GameCube)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/12_resident-evil.jpg" %}
+
+Há anos que tenho a vontade de jogar este remake de [Resident Evil](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html),
+e olha, peguei para jogar e a primeira coisa em que se nota é a tamanha qualidade gráfica deste jogo, impressionante!
+
+O jogo conta com a mesma essência do RE clássico, porém com diversas mudanças, incluindo puzzles e inimigos novos, como o *Crimson Head*, que são zumbis bem mais fortes e rápidos (sim, eles correm)! Estas mudanças tornaram o jogo ainda mais difícil que o original.
+
+Infelizmente, ainda não consegui termina-lo, meta para este ano! :)
 
 ## Severed (PS Vita)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/11_severed.jpg" %}
 
+Este foi um jogo que me surpreendeu positivamente. Peguei para jogar só pelo simples fato de ser
+da [DrinkBox Studios](http://drinkboxstudios.com/), a desenvolvedora *indie* responsável por [Guacamelee!](/jogando/analise/2016/02/15/analise-guacamelee-psvita.html).
+
+**Severed** é um *dungeon crawler* em primeira pessoa com boa pegada *"Metroidvania"*, onde o mapa
+é seu maior aliado! Mas o que realmente chama atenção no jogo é seu sistema de combate através do
+*touch*, isso mesmo, você enfrentar seus inimigos ao estilo Fruit Ninja, onde para cada oponente
+você tem que adotar uma estratégia diferente de ataque. Bem interessante!
+
+Leia mais sobre ele no [Game Over #37](/jogando/analise/2017/05/06/analise-severed.html).
+
 ## Horizon Zero Dawn (PS4)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/10_horizon-zero-dawn.jpg" %}
+
+Este jogo dispensa muitos comentários, pois pensem comigo, uma ruiva “badass” que luta contra robôs de
+diversos tamanhos em um mundo pós-apocaliptico não tinha como dar errado, tinha?
+
+Pois é, a [Guerrilla Games](https://www.guerrilla-games.com/) lançou uma nova IP para a plataforma
+PlayStation que chegou para ficar!
+
+Leia mais sobre ele no [Game Over #38](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html).
 
 ## Tomb Raider II (PS1)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/09_tomb-raider-2.jpg" %}
 
+Considero TR2 um dos meus maiores [pecados gamísticos da geração 32-bits](/jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html) e
+estava disposto à "pagar este pecado" quando decidi encarar as aventuras de Lara Croft no PS1.
+
+Estava indo tudo bem, avançando legal, até que do nada, perco meu *save* do *Memory Card* e consequentemente
+todo meu progresso foi por água abaixo, desanimei! :(
+
+Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
+
 ## Wonder Boy Dragon's Trap (PC)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/08_wonder-boy-dragons-trap.jpg" %}
+
+
 
 ## Uncharted: The Lost Legacy (PS4)
 
@@ -73,53 +116,53 @@ Os 13 melhores em ordem cronológica:
 
 ### Todos os jogos de 2017
 
-| Jogo                               | Plataforma | Período                |
-| ---------------------------------- | ---------- | ---------------------- |
-| The Last Guardian                  | PS4        | 06/12/16 à 18/01/17    |
-| Dan The Man                        | Android    | 09/01/17 à 18/01/17    |
-| Batman Arkham Origins Blackgate    | PS Vita    | 15/01/17               |
-| Resident Evil                      | GameCube   | 19/01/17               |
-| Need for Speed: Undercover         | PS3        | 04/02/17               |
-| DeusEx GO                          | Android    | 14/02/17               |
-| Tearaway                           | PS Vita    | 21/02/17 à 03/03/17    |
-| Severed                            | PS Vita    | 04/03/17 à 13/03/17    |
-| Horizon Zero Dawn                  | PS4        | 05/03/17 à 27/03/17    |
-| Duke Nukem 3D 20th Anniversary World Tour | PS4 | 19/02/17 à ---         |
-| DuckTales Remastered               | Xbox 360   | 14/03/17               |
-| Child of Light                     | PS Vita    | 18/03/17               |
-| God of War HD                      | PS Vita    | 31/03/17               |
-| Tomb Raider II                     | PS1        | 01/05/17               |
-| The Bunker                         | PS4        | 07/05/17 à 07/05/17    |
-| Wonder Boy Dragon's Trap           | PC / GOG   | 07/07/17               |
-| Arcade Game Series: Pac-man / Ms. Pac-man | PS4 | 08/08/17               |
-| Far Cry 4                          | PS4        | 11/05/17               |
-| The Little Acre                    | PS4        | 16/05/17 à 16/05/17    |
-| Toy Story Mania!                   | PS3        | 21/05/17 à 22/05/17    |
-| MIB Alien Crisis                   | PS3        | 28/05/17 à 04/06/17    |
-| My Name Is Mayo                    | PS4        | 11/06/17 à 11/06/17    |
-| Mr. Massagy                        | PS4        | 11/06/17 à 11/06/17    |
-| Deponia                            | PS4        | 08/06/17 à 15/06/17    |
-| Life is Strange                    | PS4        | 18/06/17               |
-| History: Legends of War            | PS Vita    | 16/06/17 à 26/06/17    |
-| The Wolf Among Us                  | PS3        | 15/06/17 à 18/06/17    |
-| Captain American: Super Soldier    | PS3        | 02/07/17 à 09/08/17    |
-| 99Vidas: O Jogo                    | PS Vita    | 24/07/17               |
-| Late Shift                         | PS4        | 12/08/17 à 12/08/17    |
-| Uncharted: The Lost Legacy         | PS4        | 21/08/17 à 26/08/17    |
-| Brutal Legend                      | PS3        | 18/08/17               |
-| Coffin Dodgers                     | PS4        | 19/08/17 à 21/08/17    |
-| Dying Reborn                       | PS Vita    | 13/08/17 à 17/08/17    |
-| Orc Slayer                         | PS4        | 12/08/17 à 14/08/17    |
-| Black & White: Bushido             | PS4        | 13/08/17 à 13/08/17    |
-| Tales From Space: Mutant ....      | PS Vita    | 13/08/17               |
-| Puzzle Showdown 4K                 | PS4        | 27/08/17 à 27/08/17    |
-| Cuphead                            | PC / Steam | 30/09/17               |
-| Stranger Things: The Game          | Android    | 06/10/17 à 08/10/17    |
-| Salt and Sanctuary                 | PS Vita    | 13/10/17               |
-| Gran Turismo Sport                 | PS4        | 18/10/17               |
-| Doom                               | PS4        | 02/11/17 à 10/11/17    |
-| Hollow Knight                      | PC / Steam | 24/12/17               |
-| The Walking Dead                   | PS4        | 26/12/17               |
+| Jogo                                      | Plataforma | Período                |
+| ----------------------------------------- | ---------- | ---------------------- |
+| The Last Guardian                         | PS4        | 06/12/16 à 18/01/17    |
+| Dan The Man                               | Android    | 09/01 à 18/01          |
+| Batman Arkham Origins Blackgate           | PS Vita    | 15/01 (não terminado)  |
+| Resident Evil                             | GameCube   | 19/01 (não terminado)  |
+| Need for Speed: Undercover                | PS3        | 04/02 (não terminado)  |
+| DeusEx GO                                 | Android    | 14/02 (não terminado)  |
+| Tearaway                                  | PS Vita    | 21/02 à 03/03          |
+| Severed                                   | PS Vita    | 04/03 à 13/03          |
+| Horizon Zero Dawn                         | PS4        | 05/03 à 27/03          |
+| Duke Nukem 3D 20th Anniversary World Tour | PS4        | 19/02 à 01/03          |
+| DuckTales Remastered                      | Xbox 360   | 14/03 (não terminado)  |
+| Child of Light                            | PS Vita    | 18/03 (não terminado)  |
+| God of War HD                             | PS Vita    | 31/03 (não terminado)  |
+| Tomb Raider II                            | PS1        | 01/05 (não terminado)  |
+| The Bunker                                | PS4        | 07/05 à 07/05          |
+| Wonder Boy Dragon's Trap                  | PC / GOG   | 07/07 (não terminado)  |
+| Arcade Game Series: Pac-man / Ms. Pac-man | PS4        | 08/08 (não terminado)  |
+| Far Cry 4                                 | PS4        | 11/05 (não terminado)  |
+| The Little Acre                           | PS4        | 16/05 à 16/05          |
+| Toy Story Mania!                          | PS3        | 21/05 à 22/05          |
+| MIB Alien Crisis                          | PS3        | 28/05 à 04/06          |
+| My Name Is Mayo                           | PS4        | 11/06 à 11/06          |
+| Mr. Massagy                               | PS4        | 11/06 à 11/06          |
+| Deponia                                   | PS4        | 08/06 à 15/06          |
+| Life is Strange                           | PS4        | 18/06 (não terminado)  |
+| History: Legends of War                   | PS Vita    | 16/06 à 26/06          |
+| The Wolf Among Us                         | PS3        | 15/06 à 18/06          |
+| Captain American: Super Soldier           | PS3        | 02/07 à 09/08          |
+| 99Vidas: O Jogo                           | PS Vita    | 24/07 (não terminado)  |
+| Late Shift                                | PS4        | 12/08 à 12/08          |
+| Uncharted: The Lost Legacy                | PS4        | 21/08 à 26/08          |
+| Brutal Legend                             | PS3        | 18/08 (não terminado)  |
+| Coffin Dodgers                            | PS4        | 19/08 à 21/08          |
+| Dying Reborn                              | PS Vita    | 13/08 à 17/08          |
+| Orc Slayer                                | PS4        | 12/08 à 14/08          |
+| Black & White: Bushido                    | PS4        | 13/08 à 13/08          |
+| Tales From Space: Mutant Blobs Attack!    | PS Vita    | 13/08 (não terminado)  |
+| Puzzle Showdown 4K                        | PS4        | 27/08 à 27/08          |
+| Cuphead                                   | PC / Steam | 30/09 (não terminado)  |
+| Stranger Things: The Game                 | Android    | 06/10 à 08/10          |
+| Salt and Sanctuary                        | PS Vita    | 13/10 (não terminado)  |
+| Gran Turismo Sport                        | PS4        | 18/10 (não terminado)  |
+| Doom                                      | PS4        | 02/11 à 10/11          |
+| Hollow Knight                             | PC / Steam | 24/12 (não terminado)  |
+| The Walking Dead                          | PS4        | 26/12 (não terminado)  |
 
 Total: 45 jogos
 Finalizados: 25 Jogos
@@ -136,12 +179,13 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [
 - [Blog MarvoxBrasil](https://marvoxbrasil.wordpress.com) - por Marvox
 - [Gamer Caduco](https://gamercaduco.com) - por Cadu
 - [Gamerníaco](https://gamerniaco.wordpress.com) - por Eduardo Farnezi
-- [GebirgeBR](www.youtube.com/GebirgeBR) - por Gebirge
+- [GebirgeBR](https://www.youtube.com/GebirgeBR) - por Gebirge
 - [Jogatina Saudáveis](https://www.youtube.com/vigiabr) - por Rodrigo Vigia
 - [Jornada Gamer](http://alvanista.com/nostallgiabr) - por UsoppBR
-- [Locadora Resident Ivo](www.locadoraresidentivo.com) - por Ivo Ornelas
-- [Old Magus Pub](http://oldmaguspub.blogspot.com.br) - por Lucas Vinicio
-- [QG Master](http://qgmaster.blogspot.com.br) - por Marcos Vieira Machado
+- [Locadora Resident Ivo](http://www.locadoraresidentivo.com/meme-gamer-o-que-voce-jogou-em-2017) - por Ivo Ornelas
+- [Old Magus Pub](http://oldmaguspub.blogspot.com.br/2017/12/retrospectiva-07-o-que-joguei-em-2017.html) - por Lucas Vinicio
+- [QG Master](http://qgmaster.blogspot.com.br/2017/12/meme-retrogamer-o-que-voce-jogou-em-2017.html) - por Leo Sanchez, Douglas Deiró, Rodrigo, Matheus T. e Adinan
+- [RetroPlayers](http://www.retroplayers.com.br/retro/retrospectiva-2017-retroplayers-sabat/) - por Sabat
 - [U-8Bits](http://ulisses8bits.blogspot.com.br) - por Ulisses 8Bits
 - [Vão Jogar!](http://vaojogar.com.br) - por Angela "Sucodelarangela" Caldas
 - [Vão Jogar!](http://vaojogar.com.br) - por Hugo "Somari" Couto

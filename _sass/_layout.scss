@@ -410,12 +410,24 @@
 
 .post-list {
 
+    display: flex;
+    flex-wrap: wrap;
+
     > article {
         margin: $spacing-unit auto;
         padding: 20px;
         overflow: hidden;
         text-align: right;
         background-color: white;
+        width: 50%;
+
+        @include media-query($on-smartphone) {
+            width: 100%;
+
+            h2 {
+              font-size: 2.3em;
+            }
+        }
 
         p {
             padding: 0 20px 10px;
@@ -424,10 +436,21 @@
             font-weight: normal;
             font-size: 1.2em;
         }
+
+        h2 {
+          font-size: 1.8em;
+        }
+
     }
 
     article:first-child {
         margin-top: 0;
+        width: 100%;
+
+        h2 {
+          font-size: 2.3em;
+        }
+
     }
 
 }
@@ -467,10 +490,6 @@
     float: left;
     text-align: center;
 
-    .post-category {
-      font-size: 0.8em;
-    }
-
     .post-meta {
         justify-content: center !important;
     }
@@ -501,6 +520,7 @@
     padding: 1px 10px;
     color: white;
     border-bottom: 3px solid $second-color-dark;
+    font-size: 0.7em;
 }
 
 .post-meta {
@@ -726,6 +746,7 @@
     text-align: center;
     padding: 10px;
     background-color: rgba(255, 255, 255, 0.5);
+    border: 1px solid $second-color;
 
     .previous, .next {
         color: white;
