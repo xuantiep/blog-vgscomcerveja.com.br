@@ -79,19 +79,40 @@ todo meu progresso foi por água abaixo, desanimei! :(
 
 Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
 
-## Wonder Boy Dragon's Trap (PC)
+## Wonder Boy: The Dragon's Trap (PC)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/08_wonder-boy-dragons-trap.jpg" %}
 
+Remake de um jogo que aqui no Brasil era mais conhecido como **Turma da Mônica em O Resgate** do
+saudoso Master System, [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/) é uma bela
+homenagem ao clássico de 1989. Com um visual belíssimo e totalmente redesenhado, o jogo manteve
+a mesma essência dos controles, mecânicas e level design.
 
+Até rolou um incrível [mod não oficial](https://www.youtube.com/watch?v=XOIoKEjuPIU) que trouxe de volta a
+Turma da Mônica de volta ao jogo! :D
+
+Ainda não terminei o jogo, meta para este ano! :)
 
 ## Uncharted: The Lost Legacy (PS4)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/07_uncharted-lost-legacy.jpg" %}
 
+Mais um Uncharted para conta! Quem acompanha o blog sabe que sou fã da série e, com este lançamento de 2017,
+não poderia ser diferente: terminado e platinado! :D
+
+O legal é que desta vez o protagonista não é Nathan Drake e sim, Chloe Frazer e Nadine Ross. Uma dupla
+um tanto quanto inusitada para quem acompanha a série, mas que deu muito certo! O jogo faz uso da mesma
+*engine* de [Uncharted 4](/jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html), então
+não tem muita novidade em relação ao mesmo. O grande atrativo é mesmo a ótima história que a Naughty Dog sabe
+muito bem contar!
+
+Recomendo! :)
+
 ## Brutal Legend (PS3)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/06_brutal-legend.jpg" %}
+
+Tinha um tempinho que queria jogar este, pois 
 
 ## Cuphead (PC)
 
@@ -162,9 +183,8 @@ Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
 | Gran Turismo Sport                        | PS4        | 18/10 (não terminado)  |
 | Doom                                      | PS4        | 02/11 à 10/11          |
 | Hollow Knight                             | PC / Steam | 24/12 (não terminado)  |
-| The Walking Dead                          | PS4        | 26/12 (não terminado)  |
 
-Total: 45 jogos
+Total: 44 jogos
 Finalizados: 25 Jogos
 
 

@@ -32,7 +32,3 @@ E por fim, em 2016, o blog teve uma repaginada visual e foi migrado do __blogspo
 ### Quem faz?
 
 {% include author-profile.html %}
-
-### Parceiros
-
-{% include parceiros.html %}

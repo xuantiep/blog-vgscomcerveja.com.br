@@ -319,7 +319,12 @@
     padding: 12px;
     text-align: center;
 
-    a { color: white; }
+    a {
+        color: white;
+        text-transform: uppercase;
+        font-variant: small-caps;
+        font-size: 0.8em;
+    }
 }
 
 
@@ -405,6 +410,14 @@
         height: 75px;
         margin: 5px;
     }
+}
+
+.partners-table {
+  text-align: center;
+  img {
+      height: 75px;
+      margin: 5px;
+  }
 }
 
 
