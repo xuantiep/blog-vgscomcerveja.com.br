@@ -21,7 +21,7 @@ Os troféus são uma espécie de recompensa extra oferecida ao jogador quando o 
 
 Bom, os troféus são classificados em bronze, prata ou ouro de acordo com o nível de dificuldade para obtê-los e, se conseguir pegar todos do jogo, você ganhará o cobiçado troféu de platina, que é único por jogo (mas não são todos jogos que tem, explicarei mais abaixo).
 
-Se você olhar a lista de troféus do jogo, irá notar que cada troféu possui um descritivo rápido de como obter tal troféu, aí é só cumprir o que ele pede que será seu! Porém, alguns não revelam sua identidade, são os chamados troféus escondidos. Estes, você terá que conquistá-los na raça, geralmente são troféus de terminar o jogo, mas não se preocupe, existem vários sites que revelam para você o que precisa fazer (ver "Redes de caçadores de troféus" abaixo).
+Se você olhar a lista de troféus do jogo, irá notar que cada troféu possui um descritivo rápido de como obtê-lo, aí é só cumprir o que ele pede que será seu! Porém, alguns não revelam sua identidade, são os chamados troféus escondidos. Estes, você terá que conquistá-los na raça, geralmente são troféus de terminar o jogo, mas não se preocupe, existem vários sites que revelam para você o que precisa fazer (ver "Redes de caçadores de troféus" abaixo).
 
 A partir do PS4, a Sony colocou um elemento adicional aos troféus: nível de raridade, classificando os como comum, incomum, raro, muito raro e ultra raro, baseado na quantidade de jogadores que conquistaram determinado troféu.
 

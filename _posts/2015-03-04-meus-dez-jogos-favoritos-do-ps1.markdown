@@ -44,7 +44,7 @@ No PS1 ainda tivemos o **Driver 2** que é muito bom também, mas assim como Din
 
 {% include image.html url="/imgs/posts/toplist/03_jogos_favoritos_ps1/tony-hawks2.jpg" %}
 
-É difícil de escolher entre os três primeiros jogos da série, mas eu escolhi o segundo pois ele é totalmente viciante e foi o que eu mais joguei! Para quem não conhece, trata-se de um jogo de skate com uma jogabilidade excelente, músicas empolgantes e ótimos gráficos, ou seja, diversão garantida por várias horas!
+É difícil de escolher o favorito entre os três primeiros jogos da série, mas eu escolhi o segundo pois ele é totalmente viciante e foi o que eu mais joguei! Para quem não conhece, trata-se de um jogo de skate com uma jogabilidade excelente, músicas empolgantes e ótimos gráficos, ou seja, diversão garantida por várias horas!
 
 ## 6. Castlevania: Symphony of the Night
 
@@ -88,7 +88,7 @@ Algum tempo depois, GT2 foi lançado e conseguiu melhorar o que já era ótimo! 
 
 {% include image.html url="/imgs/posts/toplist/03_jogos_favoritos_ps1/metal-gear-solid.jpg" %}
 
-E por fim, **Metal Gear Solid**, que com certeza é um dos meus jogos favoritos de todos os tempos! **Hideo Kojima**, criador da série, elevou o nível de jogos para algo mais cinematográfico! Entretanto, além de possuir uma história complexa e fascinante, o *gameplay* é fantástico! Acho que foi o jogo que mais zerei na vida! ^^
+E por fim, **Metal Gear Solid**, que com certeza não é somente o meu favorito do PS1 e sim, meu jogo favorito de todos os tempos! **Hideo Kojima**, criador da série, elevou o nível de jogos para algo mais cinematográfico! Entretanto, além de possuir uma história complexa e fascinante, o *gameplay* é fantástico! Acho que foi o jogo que mais zerei na vida! ^^
 
 ---
 
