@@ -112,27 +112,79 @@ Recomendo! :)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/06_brutal-legend.jpg" %}
 
-Tinha um tempinho que queria jogar este, pois 
+Este é um verdadeiro *hidden gem* (pérola escondida), pois deve ter passado despercebido por muita
+gente (eu inclusive) e é bem divertido! Resumidamente, trata-se de um beat 'em up de mundo aberto
+com muito heavy metal, inclusive, com participações de grandes estrelas do rock, como Ozzy Osbourne,
+Lemmy (Motörhead), Rob Halford (Judas Priest) e além disso, o protagonista do jogo, o Eddie Riggs,
+é dublado por Jack Black!
+
+Ah, um detalhe importante, o jogo é produzido por Tim Schafer (Double Fine) que foi responsável
+pelos grandes clássicos na época da LucasArts: Full Throttle, Grim Fandango e outros!
 
 ## Cuphead (PC)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/05_cuphead.jpg" %}
 
+Este jogo me chamou a atenção desde [a primeira vez que ouvi falar sobre ele](/noticias/2016/07/24/resumo-da-semana.html),
+e tudo por causa de seu belíssimo visual! Não deu outra, quando o jogo saiu, tive que jogá-lo.
+
+E olha, além de bonito, o jogo é uma delícia! Um run n' gun focado em batalhas contra chefões que
+irá te fazer perder as contas de quantas vezes irá morrer para conseguir derrotá-los! Sim, o jogo
+é bastante difícil, porém não impossível ou apelão, é prazeroso encarar o desafio e por fim superá-lo!
+
+Altamente recomendado! :)
+
 ## Stranger Things: The Game (Android)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/04_stranger-things.jpg" %}
+
+Este jogo saiu momentos antes da estreia da segunda temporada da série no [Netflix](https://www.netflix.com/br/title/80057281) e,
+como estava ansioso pela série, resolvi experimentar o [joguinho oficial](https://play.google.com/store/apps/details?id=com.bonusxp.legend&hl=pt_BR)
+(e gratuito, sem propagandas e microtransações) da [BonusXP](http://bonusxp.com/games/stranger-things-the-game/).
+
+Gostei! O jogo é fortemente inspirado nos jogos da era 16-bit, tais como, The Legend of Zelda, True Lies, Goof Troop e outros..
+Com uma visão aérea, visual retrô e mapa aberto, seu objetivo é encontrar todas as crianças da série. E conforme, você os encontram, eles se
+tornam jogáveis. Cada personagem tem uma habilidade diferente, sendo assim, há áreas e inimigos que só determinado
+personagem consegue passar, bem legal e viciante, pois a sensação de progressão e recompensa é rápida!
 
 ## Gran Turismo Sport (PS4)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/03_gran-turismo-sport.jpg" %}
 
+Este quase foi a grande decepção do ano! Pois, como sabem, eu sou fã da série Gran Turismo e curti
+muito os últimos que saíram para o PS3 (GT5 e [GT6](/jogando/analise/2016/09/20/analise-gran-turismo-6.html))..
+Estava muito ansioso para por as mãos no primeiro game do PS4, mesmo sabendo que ele seria focado no
+multiplayer online!
+
+Pois bem, o jogo saiu e credo, é totalmente online, conexão obrigatória, não tem campeonatos
+offline, nem salvar seu progresso você consegue se estiver sem conexão, broxei.. Até que a Polyphony Digital voltou a
+atrás (não sei se já era previsto) e [lançou os campeonatos offline na atualização 1.10]((https://blog.br.playstation.com/2017/12/22/gran-turismo-sport-atualizacao-1-10-chega-hoje-trazendo-gt-league-e-mais/)).
+
+Agora o jogo voltou a valer a pena, pois conta com um ótimo visual e uma jogabilidade muito boa ao
+nível de um bom GT!
+
 ## Doom (PS4)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/02_doom.jpg" %}
 
+Quando todo mundo dizia que este Doom estava fantástico, eu não dei muita bola devido ao meu problema
+com jogos FPS ([eles me causam Motion Sickness](/jogando/2017/12/21/5-caracteristicas-que-me-incomodam-nos-games.html)).
+Mas mesmo assim, depois de um tempo, resolvi jogar para ver qual é do jogo..
+
+E olha, me surpreendi, o jogo é tudo que falaram e mais um pouco! Mas o que me deixou mais surpreso é que não passei
+mal com ele! rs..
+
+Doom é um senhor FPS, onde sua adrenalina vai à mil com muita ação frenética e rock pesado.
+O jogo te incentiva a não ficar parado e sair atirando em tudo o que vê pela frente (porém, com cautelas)!
+
 ## Hollow Knight (PC)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/01_hollow-knight.jpg" %}
+
+E por fim, mais um jogo *indie*! Este descobri vendo listas de melhores do ano no mês de Dezembro e
+já entrou na minha lista também!
+
+Hollow Knight é um "metroidvania" com bastante exploração e descobertas...
 
 
 ### Todos os jogos de 2017
@@ -168,6 +220,7 @@ Tinha um tempinho que queria jogar este, pois
 | The Wolf Among Us                         | PS3        | 15/06 à 18/06          |
 | Captain American: Super Soldier           | PS3        | 02/07 à 09/08          |
 | 99Vidas: O Jogo                           | PS Vita    | 24/07 (não terminado)  |
+| Salt and Sanctuary                        | PS Vita    | 24/07 (não terminado)  |
 | Late Shift                                | PS4        | 12/08 à 12/08          |
 | Uncharted: The Lost Legacy                | PS4        | 21/08 à 26/08          |
 | Brutal Legend                             | PS3        | 18/08 (não terminado)  |
@@ -179,12 +232,12 @@ Tinha um tempinho que queria jogar este, pois
 | Puzzle Showdown 4K                        | PS4        | 27/08 à 27/08          |
 | Cuphead                                   | PC / Steam | 30/09 (não terminado)  |
 | Stranger Things: The Game                 | Android    | 06/10 à 08/10          |
-| Salt and Sanctuary                        | PS Vita    | 13/10 (não terminado)  |
+| Sky Force Anniversary                     | PS Vita    | 12/10 (não terminado)  |
 | Gran Turismo Sport                        | PS4        | 18/10 (não terminado)  |
 | Doom                                      | PS4        | 02/11 à 10/11          |
 | Hollow Knight                             | PC / Steam | 24/12 (não terminado)  |
 
-Total: 44 jogos
+Total: 45 jogos
 Finalizados: 25 Jogos
 
 
@@ -198,7 +251,7 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [
 - [Blog Desocupado](http://des-ocupado.blogspot.com.br) - por Paulo Victor
 - [Blog MarvoxBrasil](https://marvoxbrasil.wordpress.com) - por Marvox
 - [Gamer Caduco](https://gamercaduco.com) - por Cadu
-- [Gamerníaco](https://gamerniaco.wordpress.com) - por Eduardo Farnezi
+- [Gamerníaco](https://gamerniaco.wordpress.com/2018/01/01/meme-gamer-o-que-voce-jogou-em-2017/) - por Eduardo Farnezi
 - [GebirgeBR](https://www.youtube.com/GebirgeBR) - por Gebirge
 - [Jogatina Saudáveis](https://www.youtube.com/vigiabr) - por Rodrigo Vigia
 - [Jornada Gamer](http://alvanista.com/nostallgiabr) - por UsoppBR
@@ -206,7 +259,7 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [
 - [Old Magus Pub](http://oldmaguspub.blogspot.com.br/2017/12/retrospectiva-07-o-que-joguei-em-2017.html) - por Lucas Vinicio
 - [QG Master](http://qgmaster.blogspot.com.br/2017/12/meme-retrogamer-o-que-voce-jogou-em-2017.html) - por Leo Sanchez, Douglas Deiró, Rodrigo, Matheus T. e Adinan
 - [RetroPlayers](http://www.retroplayers.com.br/retro/retrospectiva-2017-retroplayers-sabat/) - por Sabat
-- [U-8Bits](http://ulisses8bits.blogspot.com.br) - por Ulisses 8Bits
+- [U-8Bits](http://ulisses8bits.blogspot.com.br/2017/12/o-que-voce-jogou-em-2017.html) - por Ulisses 8Bits
 - [Vão Jogar!](http://vaojogar.com.br) - por Angela "Sucodelarangela" Caldas
 - [Vão Jogar!](http://vaojogar.com.br) - por Hugo "Somari" Couto
 - [Vão Jogar!](http://vaojogar.com.br) - por Rodrigo Borges
