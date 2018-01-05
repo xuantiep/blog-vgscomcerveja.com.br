@@ -5,7 +5,7 @@ date:       2016-11-16 20:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 34
 categories: jogando analise
-tags:       [nintendo, snes, rare, donkey-kong]
+tags:       [nintendo, snes, rare, donkey-kong, analise, game-over]
 games:      [donkey-kong-country]
 thumbnail:  /imgs/posts/game_over/34_donkey_kong_country/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/34_donkey_kong_country/post_header.jpg

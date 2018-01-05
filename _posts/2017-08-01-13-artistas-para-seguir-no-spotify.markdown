@@ -5,7 +5,7 @@ date:       2017-08-01 20:00
 author:     Felipe B. Barbosa
 session:    Toplist &#35 07
 categories: jogando toplist
-tags:       [spotify, game-music, lists]
+tags:       [spotify, game-music, lists, toplist]
 thumbnail:  /imgs/posts/toplist/07_artistas_spotify/post_thumbnail.jpg
 cover:      /imgs/posts/toplist/07_artistas_spotify/post_header.jpg
 sinopse: >

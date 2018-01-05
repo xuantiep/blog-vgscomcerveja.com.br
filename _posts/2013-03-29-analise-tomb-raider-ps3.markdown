@@ -5,7 +5,7 @@ date:       2013-03-29 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 04
 categories: jogando analise
-tags:       [sony, ps3, tomb-raider, crystal-dynamics, square-enix]
+tags:       [sony, ps3, tomb-raider, crystal-dynamics, square-enix, analise, game-over]
 games:      [tomb-raider]
 thumbnail:  /imgs/posts/game_over/04_tomb_raider/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/04_tomb_raider/post_header.jpg

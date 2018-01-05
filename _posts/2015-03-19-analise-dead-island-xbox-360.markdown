@@ -5,7 +5,7 @@ date:       2015-03-19 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 22
 categories: jogando analise
-tags:       [microsoft, xbox-360]
+tags:       [microsoft, xbox-360, analise, game-over]
 games:      [dead-island]
 thumbnail:  /imgs/posts/game_over/22_dead_island/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/22_dead_island/post_header.jpg

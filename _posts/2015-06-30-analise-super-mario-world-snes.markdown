@@ -5,7 +5,7 @@ date:       2015-06-30 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 24
 categories: jogando analise
-tags:       [snes, nintendo, mario]
+tags:       [snes, nintendo, mario, analise, game-over]
 games:      [super-mario-world]
 thumbnail:  /imgs/posts/game_over/24_super_mario_world/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/24_super_mario_world/post_header.jpg

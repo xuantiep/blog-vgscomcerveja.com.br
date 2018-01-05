@@ -5,7 +5,7 @@ date:       2013-06-23 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 07
 categories: jogando analise
-tags:       [sony, ps3, naughty-dog]
+tags:       [sony, ps3, naughty-dog, analise, game-over]
 games:      [the-last-of-us]
 thumbnail:  /imgs/posts/game_over/07_the_last_of_us/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/07_the_last_of_us/post_header.jpg

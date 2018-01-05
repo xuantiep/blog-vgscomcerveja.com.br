@@ -5,7 +5,7 @@ date:       2013-11-15 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 12
 categories: jogando analise
-tags:       [sony, ps1]
+tags:       [sony, ps1, analise, game-over]
 games:      [great-battle-vi]
 thumbnail:  /imgs/posts/game_over/12_great_battle_vi/post_thumbnail.jpg
 cover: /imgs/posts/game_over/12_great_battle_vi/post_header.jpg

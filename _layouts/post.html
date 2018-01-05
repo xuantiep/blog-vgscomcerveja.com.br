@@ -18,7 +18,12 @@ layout: default
     {% endfor %}
     {% if tag %}
       {% capture tags_content_temp %}
-        {{ tags_content }}<a href="/tag/{{ tag.slug }}/">{{ tag.name }}</a>
+        {{ tags_content }}
+        {% if tag.link != null %}
+          <a href="/{{ tag.link }}/">{{ tag.name }}</a>
+        {% else %}
+          <a href="/tag/{{ tag.slug }}">{{ tag.name }}</a>
+        {% endif %}
         {% if forloop.last == false %}, {% endif %}
       {% endcapture %}
       {% assign tags_content = tags_content_temp %}
@@ -27,16 +32,6 @@ layout: default
 {% else %}
   {% assign tags_content = '' %}
 {% endif %}
-
-{% assign game = site.games | where: "slug", post.games %}
-{% assign game = game[0] %}
-{% if game %}
-  {% capture games_content %}
-    <a class="label" href="{{ game.url }}">{{ game.name }}</a>
-  {% endcapture %}
-{% endif %}
-
-
 
 <div class="post">
 

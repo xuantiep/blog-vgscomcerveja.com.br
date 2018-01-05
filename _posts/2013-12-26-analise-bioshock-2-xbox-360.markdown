@@ -5,7 +5,7 @@ date:       2013-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 13
 categories: jogando analise
-tags:       [microsoft, xbox-360]
+tags:       [microsoft, xbox-360, analise, game-over]
 games:      [bioshock-2]
 thumbnail:  /imgs/posts/game_over/13_bioshock2/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/13_bioshock2/post_header.jpg

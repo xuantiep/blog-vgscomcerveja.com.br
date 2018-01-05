@@ -5,7 +5,7 @@ date:       2013-10-13 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 11
 categories: jogando analise
-tags:       [sega, master-system, tectoy, mickey, disney]
+tags:       [sega, master-system, tectoy, mickey, disney, analise, game-over]
 games:      [land-of-illusion]
 thumbnail:  /imgs/posts/game_over/11_land_of_illusion/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/11_land_of_illusion/post_header.jpg

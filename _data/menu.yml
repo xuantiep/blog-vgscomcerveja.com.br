@@ -20,10 +20,12 @@
   subitems:
     - title: Análises
       url: /jogando/analise/
-    - title: Troféus
-      url: /tag/trofeus/
     - title: Especiais
-      url: /tag/especial/
+      url: /jogando/especial/
+    - title: Toplist
+      url: /jogando/toplist/
+    - title: Troféus
+      url: /jogando/trofeus/
 - title: Colecionando
   url: /colecionando/
   classe: icon-database
@@ -52,7 +54,6 @@
       url: /sega
     - title: Sony
       url: /sony
-
 - title: Twitter
   url: https://www.twitter.com/vgscomcerveja
   classe: icon-twitter

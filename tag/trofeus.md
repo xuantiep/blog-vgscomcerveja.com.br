@@ -2,7 +2,7 @@
 layout:    tag
 tag:       trofeus
 title:     Troféus
-permalink: /tag/trofeus/
+permalink: /jogando/trofeus/
 logo:      /imgs/icone-trophy.png
 show_title: true
 ---

@@ -5,8 +5,7 @@ date:       2017-06-25 20:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 38
 categories: jogando analise
-tags:       [sony, ps4]
-games:      [horizon-zero-dawn]
+tags:       [sony, ps4, horizon-zero-dawn, analise, game-over]
 thumbnail:  /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/38_horizon_zero_dawn/post_header.jpg
 sinopse:

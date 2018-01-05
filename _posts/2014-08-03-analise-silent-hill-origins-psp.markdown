@@ -5,7 +5,7 @@ date:       2014-08-03 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 18
 categories: jogando analise
-tags:       [sony, psp, silent-hill, konami]
+tags:       [sony, psp, silent-hill, konami, analise, game-over]
 games:      [silent-hill-origins]
 thumbnail:  /imgs/posts/game_over/18_silent_hill_origins/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/18_silent_hill_origins/post_header.jpg

@@ -5,7 +5,7 @@ date:       2013-03-03 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 02
 categories: jogando analise
-tags:       [sony, ps3, need-for-speed, criterion, electronic-arts]
+tags:       [sony, ps3, need-for-speed, criterion, electronic-arts, analise, game-over]
 games:      [need-for-speed-hot-pursuit]
 thumbnail:  /imgs/posts/game_over/02_nfs_hot_pursuit/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/02_nfs_hot_pursuit/post_header.jpg

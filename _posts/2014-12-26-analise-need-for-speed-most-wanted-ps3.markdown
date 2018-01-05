@@ -5,7 +5,7 @@ date:       2014-12-26 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 21
 categories: jogando analise
-tags:       [need-for-speed, ps3, sony, criterion, electronic-arts]
+tags:       [need-for-speed, ps3, sony, criterion, electronic-arts, analise, game-over]
 games:      [need-for-speed-most-wanted]
 thumbnail:  /imgs/posts/game_over/21_nfs_most_wanted/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/21_nfs_most_wanted/post_header.jpg

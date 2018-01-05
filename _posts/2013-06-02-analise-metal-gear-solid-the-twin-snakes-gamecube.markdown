@@ -5,7 +5,7 @@ date:       2013-06-02 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 06
 categories: jogando analise
-tags:       [nintendo, game-cube, kojima, metal-gear, konami, silicon-knights]
+tags:       [nintendo, game-cube, kojima, metal-gear, konami, silicon-knights, analise, game-over]
 games:      [metal-gear-solid-the-twin-snakes]
 thumbnail:  /imgs/posts/game_over/06_mgs_twin_snakes/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/06_mgs_twin_snakes/post_header.jpg

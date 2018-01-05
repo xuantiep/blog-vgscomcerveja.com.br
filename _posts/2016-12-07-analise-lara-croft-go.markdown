@@ -5,7 +5,7 @@ date:       2016-12-07 20:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 35
 categories: jogando analise
-tags:       [sony, psvita, tomb-raider]
+tags:       [sony, psvita, tomb-raider, analise, game-over]
 games:      [lara-croft-go]
 thumbnail:  /imgs/posts/game_over/35_lara_croft_go/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/35_lara_croft_go/post_header.jpg

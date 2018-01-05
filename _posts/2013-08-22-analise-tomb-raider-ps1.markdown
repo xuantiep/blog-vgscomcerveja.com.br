@@ -5,7 +5,7 @@ date:       2013-08-22 19:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 09
 categories: jogando analise
-tags:       [sony, ps1, eidos, core-design, tomb-raider]
+tags:       [sony, ps1, eidos, core-design, tomb-raider, analise, game-over]
 games:      [tomb-raider-ps1]
 thumbnail:  /imgs/posts/game_over/09_tomb_raider/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/09_tomb_raider/post_header.jpg

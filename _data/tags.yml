@@ -1,3 +1,25 @@
+- slug: analise
+  name: Análises
+  link: jogando/analise
+- slug: especial
+  name: Especiais
+  link: jogando/especial
+- slug: game-over
+  name: Série Game Over
+  link: jogando/game-over
+- slug: lists
+  name: Listas
+  link: lists
+- slug: toplist
+  name: Série Toplist
+  link: jogando/toplist
+- slug: trofeus
+  name: Troféus
+  link: jogando/trofeus
+- slug: utilidade-publica
+  name: Utilidade Pública
+  link: utilidade-publica
+
 - slug: android
   name: Android
 - slug: atari
@@ -30,8 +52,6 @@
   name: EIDOS
 - slug: eletronic-arts
   name: Eletronic Arts
-- slug: especial
-  name: Especiais
 - slug: farcry
   name: Far Cry (Série)
 - slug: game-boy
@@ -64,8 +84,6 @@
   name: Konami
 - slug: lego
   name: LEGO (Série)
-- slug: lists
-  name: Listas
 - slug: livros
   name: Livros
 - slug: mario
@@ -150,14 +168,10 @@
   name: Telltale Games
 - slug: tomb-raider
   name: Tomb Raider (Série)
-- slug: trofeus
-  name: Troféus
 - slug: ubisoft
   name: Ubisoft
 - slug: uncharted
   name: Série Uncharted
-- slug: utilidade-publica
-  name: Utilidade Pública
 - slug: wii
   name: Nintendo Wii
 - slug: wiiu
@@ -174,3 +188,7 @@
   name: Xperia PLAY
 - slug: zelda
   name: The Legend of Zelda (Série)
+
+- slug: horizon-zero-dawn
+  name: Horizon Zero Dawn
+  link: game/horizon-zero-dawn
