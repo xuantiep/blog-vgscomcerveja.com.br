@@ -1,11 +1,11 @@
 ---
 layout:     post
 title:      "MeMe - O Que Você Jogou em 2017?"
-date:       2017-12-22 20:00
+date:       2018-01-07 20:45
 author:     Felipe B. Barbosa
 session:    Especial
 categories: jogando especiais
-tags:       [especial]
+tags:       [especial, android, nintendo, game-cube, sony, ps1, ps3, ps4, psvita, pc, resident-evil, horizon-zero-dawn, tomb-raider, uncharted,  gran-turismo, indie]
 thumbnail:  /imgs/posts/especial/05_meme2017/thumbnail.jpg
 cover:      /imgs/posts/especial/05_meme2017/header.jpg
 sinopse: >
@@ -14,30 +14,28 @@ sinopse: >
 ---
 Feliz Ano Novo! \o/
 
-Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do [MarvoxBrasil](https://marvoxbrasil.wordpress.com/), que chega à sua 7a edição: "O Que Você Jogou em 2017?" e minha quarta participação. Sem mais delongas, segue um resumo dos jogos que joguei ano passado em ordem cronológica. (sim, eu copiei a introdução do ano passado! rs)
-
-Os 13 melhores em ordem cronológica:
+Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do [MarvoxBrasil](https://marvoxbrasil.wordpress.com/), que chega à sua 7a edição: "O Que Você Jogou em 2017?" e minha quarta participação. Sem mais delongas, selecionei os 13 melhores jogos que joguei ano passado em ordem cronológica. Confira:
 
 ## Dan The Man (Android)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/13_dan-the-man.jpg" %}
 
-Dos mesmos criadores de Fruit Ninja e Jetpack Joyride, este é um joguinho de ação e plataforma bastante frenético e com visual retrô da [Halfbrick Studios](https://halfbrick.com/our-games/dan-the-man/)!
+Dos mesmos criadores de Fruit Ninja e Jetpack Joyride, este é um joguinho de ação e plataforma bastante frenético e com visual retrô da [Halfbrick Studios](https://halfbrick.com/our-games/dan-the-man/). Te garanto, é impossível não viciar neste game!
 
-Te garanto, é impossível não viciar neste game! Mesmo com os controles touch (como você deve ter notado no título é para [Android](https://play.google.com/store/apps/details?id=com.halfbrick.dantheman&hl=pt_BR) (e iOS)),
+Mesmo com os controles touch (como você deve ter notado no título é para [Android](https://play.google.com/store/apps/details?id=com.halfbrick.dantheman&hl=pt_BR) (e iOS)),
 o jogo consegue entregar uma jogabilidade deliciosa, onde você tem que sair na "porrada" contra
-seus diversos inimigos!
+seus diversos inimigos, lembrando bastante o **Metal Slug**, porém sem armas! :)
 
-Ele é gratuito com propagandas, porém tem a versão paga!
+Ele é gratuito com propagandas, porém você optar por remover as propagandas, comprando!
 
 ## Resident Evil (GameCube)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/12_resident-evil.jpg" %}
 
 Há anos que tenho a vontade de jogar este remake de [Resident Evil](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html),
-e olha, peguei para jogar e a primeira coisa em que se nota é a tamanha qualidade gráfica deste jogo, impressionante!
+e olha, peguei para jogar e a primeira coisa em que se nota é a "tamanha" qualidade gráfica deste jogo, é impressionante!
 
-O jogo conta com a mesma essência do RE clássico, porém com diversas mudanças, incluindo puzzles e inimigos novos, como o *Crimson Head*, que são zumbis bem mais fortes e rápidos (sim, eles correm)! Estas mudanças tornaram o jogo ainda mais difícil que o original.
+O jogo conta com a mesma essência do [RE clássico do PS1](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html), porém com algumas mudanças no enredo, incluindo puzzles e inimigos novos, como o *Crimson Head*, que são zumbis bem mais fortes e rápidos (sim, eles correm)! Estas mudanças tornaram o jogo ainda mais difícil que o original.
 
 Infelizmente, ainda não consegui termina-lo, meta para este ano! :)
 
@@ -50,32 +48,31 @@ da [DrinkBox Studios](http://drinkboxstudios.com/), a desenvolvedora *indie* res
 
 **Severed** é um *dungeon crawler* em primeira pessoa com boa pegada *"Metroidvania"*, onde o mapa
 é seu maior aliado! Mas o que realmente chama atenção no jogo é seu sistema de combate através do
-*touch*, isso mesmo, você enfrentar seus inimigos ao estilo Fruit Ninja, onde para cada oponente
+*touch*, isso mesmo, você enfrentar seus inimigos ao estilo [Fruit Ninja](https://fruitninja.com/), onde para cada oponente
 você tem que adotar uma estratégia diferente de ataque. Bem interessante!
 
-Leia mais sobre ele no [Game Over #37](/jogando/analise/2017/05/06/analise-severed.html).
+Escrevi mais sobre ele no [Game Over #37](/jogando/analise/2017/05/06/analise-severed.html).
 
 ## Horizon Zero Dawn (PS4)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/10_horizon-zero-dawn.jpg" %}
 
-Este jogo dispensa muitos comentários, pois pensem comigo, uma ruiva “badass” que luta contra robôs de
+Este jogo dispensa comentários, pois pensem comigo, uma ruiva “badass” que luta contra robôs de
 diversos tamanhos em um mundo pós-apocaliptico não tinha como dar errado, tinha?
 
 Pois é, a [Guerrilla Games](https://www.guerrilla-games.com/) lançou uma nova IP para a plataforma
 PlayStation que chegou para ficar!
 
-Leia mais sobre ele no [Game Over #38](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html).
+Escrevi sobre ele no [Game Over #38](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html).
 
 ## Tomb Raider II (PS1)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/09_tomb-raider-2.jpg" %}
 
 Considero TR2 um dos meus maiores [pecados gamísticos da geração 32-bits](/jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html) e
-estava disposto à "pagar este pecado" quando decidi encarar as aventuras de Lara Croft no PS1.
+estava disposto à "pagar este pecado" quando decidi encarar as aventuras de Lara Croft neste clássico do PS1.
 
-Estava indo tudo bem, avançando legal, até que do nada, perco meu *save* do *Memory Card* e consequentemente
-todo meu progresso foi por água abaixo, desanimei! :(
+Estava indo tudo bem, avançando legal, até que do nada, perco meu save do [Memory Card](https://pt.wikipedia.org/wiki/Cart%C3%A3o_de_mem%C3%B3ria) e consequentemente todo meu progresso foi por água abaixo, desanimei! :(
 
 Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
 
@@ -83,7 +80,7 @@ Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/08_wonder-boy-dragons-trap.jpg" %}
 
-Remake de um jogo que aqui no Brasil era mais conhecido como **Turma da Mônica em O Resgate** do
+Remake de um jogo que aqui no Brasil ficou mais conhecido como **Turma da Mônica em O Resgate** no
 saudoso Master System, [Wonder Boy: The Dragon's Trap](http://www.thedragonstrap.com/) é uma bela
 homenagem ao clássico de 1989. Com um visual belíssimo e totalmente redesenhado, o jogo manteve
 a mesma essência dos controles, mecânicas e level design.
@@ -91,7 +88,7 @@ a mesma essência dos controles, mecânicas e level design.
 Até rolou um incrível [mod não oficial](https://www.youtube.com/watch?v=XOIoKEjuPIU) que trouxe de volta a
 Turma da Mônica de volta ao jogo! :D
 
-Ainda não terminei o jogo, meta para este ano! :)
+Ainda não terminei o jogo, meta para este ano! Mas mesmo assim já recomendo o jogo!
 
 ## Uncharted: The Lost Legacy (PS4)
 
@@ -112,13 +109,15 @@ Recomendo! :)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/06_brutal-legend.jpg" %}
 
-Este é um verdadeiro *hidden gem* (pérola escondida), pois deve ter passado despercebido por muita
-gente (eu inclusive) e é bem divertido! Resumidamente, trata-se de um beat 'em up de mundo aberto
-com muito heavy metal, inclusive, com participações de grandes estrelas do rock, como Ozzy Osbourne,
-Lemmy (Motörhead), Rob Halford (Judas Priest) e além disso, o protagonista do jogo, o Eddie Riggs,
-é dublado por Jack Black!
+Este é um verdadeiro *hidden gem* (como os gringos gostam de chamar as jóias obscuras),
+pois deve ter passado despercebido por muita gente (eu inclusive) e é bem divertido!
 
-Ah, um detalhe importante, o jogo é produzido por Tim Schafer (Double Fine) que foi responsável
+Resumidamente, trata-se de um beat 'em up de mundo aberto com muito heavy metal, inclusive,
+com participações de grandes estrelas do rock, como Ozzy Osbourne,
+Lemmy (Motörhead), Rob Halford (Judas Priest) e além do protagonista do jogo, o Eddie Riggs,
+ser dublado por Jack Black!
+
+Ah, um detalhe importante, o jogo é produzido por **Tim Schafer** (Double Fine) que foi responsável
 pelos grandes clássicos na época da LucasArts: Full Throttle, Grim Fandango e outros!
 
 ## Cuphead (PC)
@@ -126,9 +125,10 @@ pelos grandes clássicos na época da LucasArts: Full Throttle, Grim Fandango e 
 {% include image.html url="/imgs/posts/especial/05_meme2017/05_cuphead.jpg" %}
 
 Este jogo me chamou a atenção desde [a primeira vez que ouvi falar sobre ele](/noticias/2016/07/24/resumo-da-semana.html),
-e tudo por causa de seu belíssimo visual! Não deu outra, quando o jogo saiu, tive que jogá-lo.
+e tudo por causa de seu belíssimo visual! Não deu outra, quando o jogo saiu, tive que jogá-lo...
+E olha, além de bonito, o jogo é uma delícia!
 
-E olha, além de bonito, o jogo é uma delícia! Um run n' gun focado em batalhas contra chefões que
+Um run n' gun focado em batalhas contra chefões que
 irá te fazer perder as contas de quantas vezes irá morrer para conseguir derrotá-los! Sim, o jogo
 é bastante difícil, porém não impossível ou apelão, é prazeroso encarar o desafio e por fim superá-lo!
 
@@ -140,12 +140,14 @@ Altamente recomendado! :)
 
 Este jogo saiu momentos antes da estreia da segunda temporada da série no [Netflix](https://www.netflix.com/br/title/80057281) e,
 como estava ansioso pela série, resolvi experimentar o [joguinho oficial](https://play.google.com/store/apps/details?id=com.bonusxp.legend&hl=pt_BR)
-(e gratuito, sem propagandas e microtransações) da [BonusXP](http://bonusxp.com/games/stranger-things-the-game/).
+(e gratuito, sem propagandas e microtransações) da [BonusXP](http://bonusxp.com/games/stranger-things-the-game/)... Gostei!
 
-Gostei! O jogo é fortemente inspirado nos jogos da era 16-bit, tais como, The Legend of Zelda, True Lies, Goof Troop e outros..
+O jogo é fortemente inspirado nos jogos da era 16-bit, tais como, The Legend of Zelda, True Lies, Goof Troop e outros..
 Com uma visão aérea, visual retrô e mapa aberto, seu objetivo é encontrar todas as crianças da série. E conforme, você os encontram, eles se
-tornam jogáveis. Cada personagem tem uma habilidade diferente, sendo assim, há áreas e inimigos que só determinado
-personagem consegue passar, bem legal e viciante, pois a sensação de progressão e recompensa é rápida!
+tornam jogáveis.
+
+Cada personagem tem uma habilidade diferente, sendo assim, há áreas e inimigos que só determinado
+personagem consegue passar. Bem legal e viciante, pois a sensação de progressão e recompensa é rápida, vale o dinheiro gasto! :o)
 
 ## Gran Turismo Sport (PS4)
 
@@ -156,11 +158,12 @@ muito os últimos que saíram para o PS3 (GT5 e [GT6](/jogando/analise/2016/09/2
 Estava muito ansioso para por as mãos no primeiro game do PS4, mesmo sabendo que ele seria focado no
 multiplayer online!
 
-Pois bem, o jogo saiu e credo, é totalmente online, conexão obrigatória, não tem campeonatos
-offline, nem salvar seu progresso você consegue se estiver sem conexão, broxei.. Até que a Polyphony Digital voltou a
-atrás (não sei se já era previsto) e [lançou os campeonatos offline na atualização 1.10]((https://blog.br.playstation.com/2017/12/22/gran-turismo-sport-atualizacao-1-10-chega-hoje-trazendo-gt-league-e-mais/)).
+Pois bem, o jogo saiu e credo... É totalmente online com conexão obrigatória, não tem campeonatos
+offline, nem para salvar seu progresso você consegue se estiver sem conexão, broxei...
 
-Agora o jogo voltou a valer a pena, pois conta com um ótimo visual e uma jogabilidade muito boa ao
+Até que a Polyphony Digital voltou a
+atrás (não sei se já era previsto) e [lançou os campeonatos offline na atualização 1.10]((https://blog.br.playstation.com/2017/12/22/gran-turismo-sport-atualizacao-1-10-chega-hoje-trazendo-gt-league-e-mais/)),
+trazendo o jogo de volta a vida, pois conta com um ótimo visual e uma jogabilidade muito boa ao
 nível de um bom GT!
 
 ## Doom (PS4)
@@ -172,22 +175,27 @@ com jogos FPS ([eles me causam Motion Sickness](/jogando/2017/12/21/5-caracteris
 Mas mesmo assim, depois de um tempo, resolvi jogar para ver qual é do jogo..
 
 E olha, me surpreendi, o jogo é tudo que falaram e mais um pouco! Mas o que me deixou mais surpreso é que não passei
-mal com ele! rs..
+mal com ele! :)
 
-Doom é um senhor FPS, onde sua adrenalina vai à mil com muita ação frenética e rock pesado.
-O jogo te incentiva a não ficar parado e sair atirando em tudo o que vê pela frente (porém, com cautelas)!
+Doom é um "senhor" FPS, onde sua adrenalina vai à mil com muita ação frenética e rock pesado.
+O jogo te incentiva a não ficar parado, sair atirando em tudo o que vê pela frente (porém, com cautelas) é a melhor estratégia!
 
 ## Hollow Knight (PC)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/01_hollow-knight.jpg" %}
 
-E por fim, mais um jogo *indie*! Este descobri vendo listas de melhores do ano no mês de Dezembro e
+E por fim, mais um jogo indie! Este descobri vendo listas de melhores do ano no mês de Dezembro e
 já entrou na minha lista também!
 
-Hollow Knight é um "metroidvania" com bastante exploração e descobertas...
-
+Hollow Knight é um "metroidvania" com bastante exploração e descobertas, pois tudo no começo é um grande
+mistério, você vai descobrindo aos poucos e ao mesmo tempo vai pegando gosto pelo jogo. Tudo é muito
+bem feitinho. Gráficos e trilha sonora caprichados. Enfim, gostei e recomendo.. Mas ainda não terminei!
 
 ### Todos os jogos de 2017
+
+E é isso, no ano de 2017 consegui jogar bastante coisa, não tanto quanto gostaria, mas quem consegue? rs
+
+Abaixo segue a lista de tudo que joguei (sim, eu anoto! rs):
 
 | Jogo                                      | Plataforma | Período                |
 | ----------------------------------------- | ---------- | ---------------------- |
@@ -237,9 +245,9 @@ Hollow Knight é um "metroidvania" com bastante exploração e descobertas...
 | Doom                                      | PS4        | 02/11 à 10/11          |
 | Hollow Knight                             | PC / Steam | 24/12 (não terminado)  |
 
-Total: 45 jogos
-Finalizados: 25 Jogos
+**Total:** 45 jogos
 
+**Finalizados:** 25 Jogos
 
 ---
 
@@ -254,7 +262,7 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [
 - [Gamerníaco](https://gamerniaco.wordpress.com/2018/01/01/meme-gamer-o-que-voce-jogou-em-2017/) - por Eduardo Farnezi
 - [GebirgeBR](https://www.youtube.com/GebirgeBR) - por Gebirge
 - [Jogatina Saudáveis](https://www.youtube.com/vigiabr) - por Rodrigo Vigia
-- [Jornada Gamer](http://alvanista.com/nostallgiabr) - por UsoppBR
+- [Jornada Gamer](http://alvanista.com/nostallgiabr/posts/3584824-o-que-voce-jogou-em-2017) - por UsoppBR
 - [Locadora Resident Ivo](http://www.locadoraresidentivo.com/meme-gamer-o-que-voce-jogou-em-2017) - por Ivo Ornelas
 - [Old Magus Pub](http://oldmaguspub.blogspot.com.br/2017/12/retrospectiva-07-o-que-joguei-em-2017.html) - por Lucas Vinicio
 - [QG Master](http://qgmaster.blogspot.com.br/2017/12/meme-retrogamer-o-que-voce-jogou-em-2017.html) - por Leo Sanchez, Douglas Deiró, Rodrigo, Matheus T. e Adinan
@@ -266,4 +274,4 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [
 - [Vão Jogar!](http://vaojogar.com.br) - por Rafael "Tchulanguero" Paes
 - [Videogames com Cerveja](https://www.vgscomcerveja.com.br) - por Felipe B. Barbosa
 
-E você? Como foi sua experiência gamística de 2017? Comente! ;)
+E você? Como foi sua experiência gamística de 2017? Espero que tenham curtido bastante jogos! Comente.. ;)
