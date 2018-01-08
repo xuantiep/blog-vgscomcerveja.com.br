@@ -256,8 +256,8 @@ Abaixo segue a lista de tudo que joguei (sim, eu anoto! rs):
 Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [MarvoxBrasil](https://marvoxbrasil.wordpress.com). Sendo assim, confira também os posts dos demais participantes:
 
 - [Arquivos do Woo](http://www.arquivosdowoo.com.br) - por Cyber Woo
-- [Blog Desocupado](http://des-ocupado.blogspot.com.br) - por Paulo Victor
-- [Blog MarvoxBrasil](https://marvoxbrasil.wordpress.com) - por Marvox
+- [Blog Desocupado](http://des-ocupado.blogspot.com.br/2018/01/especial-o-que-joguei-em-2017.html) - por Paulo Victor
+- [Blog MarvoxBrasil](https://marvoxbrasil.wordpress.com/2018/01/07/memegamer-oquevocejogouem2017/) - por Marvox
 - [Gamer Caduco](https://gamercaduco.com) - por Cadu
 - [Gamerníaco](https://gamerniaco.wordpress.com/2018/01/01/meme-gamer-o-que-voce-jogou-em-2017/) - por Eduardo Farnezi
 - [GebirgeBR](https://www.youtube.com/GebirgeBR) - por Gebirge
