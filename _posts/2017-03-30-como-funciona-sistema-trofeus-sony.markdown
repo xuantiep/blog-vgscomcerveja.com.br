@@ -23,17 +23,25 @@ Bom, os troféus são classificados em bronze, prata ou ouro de acordo com o ní
 
 Se você olhar a lista de troféus do jogo, irá notar que cada troféu possui um descritivo rápido de como obtê-lo, aí é só cumprir o que ele pede que será seu! Porém, alguns não revelam sua identidade, são os chamados troféus escondidos. Estes, você terá que conquistá-los na raça, geralmente são troféus de terminar o jogo, mas não se preocupe, existem vários sites que revelam para você o que precisa fazer (ver "Redes de caçadores de troféus" abaixo).
 
-A partir do PS4, a Sony colocou um elemento adicional aos troféus: nível de raridade, classificando os como comum, incomum, raro, muito raro e ultra raro, baseado na quantidade de jogadores que conquistaram determinado troféu.
+A partir do PS4, a Sony colocou um elemento adicional aos troféus: nível de raridade, classificando os como comum, raro, muito raro e ultrararo, baseado na quantidade de jogadores que conquistaram determinado troféu.
+
+| Raridade      | % de jogadores que conquistaram  |
+|---------------|----------------------------------|
+| Ultrararo     | 5% ou menos                      |
+| Muito raro    | Entre 5% e 15%                   |
+| Raro          | Entre 15% e 50%                  |
+| Comum         | Mais de 50%                      |
 
 ### Sistema de pontuação e valores dos troféus
 
 Os troféus serão sempre vinculados ao usuário logado no seu PlayStation e para cada troféu obtido você ganhará "x" pontos e, a cada "x" pontos, você evolui de nível (level). Sendo os valores dos troféus distribuídos da seguinte forma:
 
-|--------------------|-------------|
-| Troféu de Bronze   | 15 pontos   |
-| Troféu de Prata    | 30 pontos   |
-| Troféu de Ouro     | 90 pontos   |
-| Troféu de Platina  | 180 pontos  |  
+| Troféu   | Pontos      |
+|----------|-------------|
+| Bronze   | 15 pontos   |
+| Prata    | 30 pontos   |
+| Ouro     | 90 pontos   |
+| Platina  | 180 pontos  |  
 
 E a quantidade de pontos que você precisa ter para chegar ao próximo nível, respeita a seguinte regra:
 
