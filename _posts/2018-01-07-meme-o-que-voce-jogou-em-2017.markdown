@@ -273,7 +273,7 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [
 - [RetroPlayers](http://www.retroplayers.com.br/retro/retrospectiva-2017-retroplayers-sabat/) - por Sabat
 - [U-8Bits](http://ulisses8bits.blogspot.com.br/2017/12/o-que-voce-jogou-em-2017.html) - por Ulisses 8Bits
 - [Vão Jogar!](http://vaojogar.com.br) - por Angela "Sucodelarangela" Caldas
-- [Vão Jogar!](http://vaojogar.com.br) - por Hugo "Somari" Couto
+- [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2017-somari) - por Hugo "Somari" Couto
 - [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2017-rodrigo-borges) - por Rodrigo Borges
 - [Vão Jogar!](http://vaojogar.com.br) - por Rafael "Tchulanguero" Paes
 - [Videogames com Cerveja](https://www.vgscomcerveja.com.br) - por Felipe B. Barbosa
