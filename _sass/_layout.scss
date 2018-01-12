@@ -234,11 +234,10 @@
 
             li:nth-child(1) a span::after { content: "Home";      }
             li:nth-child(2) a span::after { content: "Feed RSS";  }
-            li:nth-child(3) a span::after { content: "Drops";  }
-            li:nth-child(4) a span::after { content: "Todas as Listas";  }
-            li:nth-child(8) a span::after { content: "Twitter";   }
-            li:nth-child(9) a span::after { content: "Facebook";  }
-            li:nth-child(10) a span::after { content: "Instagram"; }
+            li:nth-child(3) a span::after { content: "Noticias";  }
+            li:nth-child(7) a span::after { content: "Twitter";   }
+            li:nth-child(8) a span::after { content: "Facebook";  }
+            li:nth-child(9) a span::after { content: "Instagram"; }
 
             li:hover {
                 background-color: #ccc;
@@ -798,7 +797,7 @@
     flex-wrap: wrap;
 
     a {
-        padding: 40px 0;
+        padding: 40px 10px;
         width: 240px;
         margin: 0px 10px 20px;
         color: #666;
@@ -810,9 +809,17 @@
         text-align: center;
         background-color: #ecf0f1;
         border: 1px solid #ecf0f1;
+        line-height: 1em;
 
         img {
-          margin-bottom: 10px;
+            margin-bottom: 10px;
+        }
+
+        small {
+            font-variant: normal;
+            font-size: 0.7em;
+            font-weight: 100;
+            text-transform: none;
         }
     }
 
