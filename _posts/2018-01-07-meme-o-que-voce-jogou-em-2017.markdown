@@ -259,7 +259,7 @@ Abaixo segue a lista de tudo que joguei (sim, eu anoto! rs):
 
 Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [MarvoxBrasil](https://marvoxbrasil.wordpress.com). Sendo assim, confira também os posts dos demais participantes:
 
-- [Arquivos do Woo](http://www.arquivosdowoo.com.br) - por Cyber Woo
+- [Arquivos do Woo](http://www.arquivosdowoo.com.br/2018/01/o-que-eu-joguei-em-2017.html) - por Cyber Woo
 - [Blog Desocupado](http://des-ocupado.blogspot.com.br/2018/01/especial-o-que-joguei-em-2017.html) - por Paulo Victor
 - [Blog MarvoxBrasil](https://marvoxbrasil.wordpress.com/2018/01/07/memegamer-oquevocejogouem2017/) - por Marvox
 - [Gamer Caduco](https://gamercaduco.com) - por Cadu
@@ -272,10 +272,10 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2017?", organizado pelo site [
 - [QG Master](http://qgmaster.blogspot.com.br/2017/12/meme-retrogamer-o-que-voce-jogou-em-2017.html) - por Leo Sanchez, Douglas Deiró, Rodrigo, Matheus T. e Adinan
 - [RetroPlayers](http://www.retroplayers.com.br/retro/retrospectiva-2017-retroplayers-sabat/) - por Sabat
 - [U-8Bits](http://ulisses8bits.blogspot.com.br/2017/12/o-que-voce-jogou-em-2017.html) - por Ulisses 8Bits
-- [Vão Jogar!](http://vaojogar.com.br) - por Angela "Sucodelarangela" Caldas
+- [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2017-sucodelarangela) - por Angela "Sucodelarangela" Caldas
 - [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2017-somari) - por Hugo "Somari" Couto
 - [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2017-rodrigo-borges) - por Rodrigo Borges
-- [Vão Jogar!](http://vaojogar.com.br) - por Rafael "Tchulanguero" Paes
+- [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2017-tchulanguero) - por Rafael "Tchulanguero" Paes
 - [Videogames com Cerveja](https://www.vgscomcerveja.com.br) - por Felipe B. Barbosa
 
 E você? Como foi sua experiência gamística de 2017? Espero que tenham curtido bastante jogos! Comente.. ;)
