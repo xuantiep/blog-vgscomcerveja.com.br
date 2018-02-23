@@ -829,3 +829,43 @@
     }
 
 }
+
+
+
+/*
+ * loja
+ */
+
+.vitrine {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    a {
+        border: 1px solid #ccc;
+        width: 320px;
+        padding: 20px;
+        margin: 5px;
+
+        span {
+            font-size: 2em;
+            font-weight: bold;
+            color: white;
+            background-color: $vcc-color-escuro;
+            border-radius: 2px;
+            padding: 0 30px;
+            text-align: center;
+        }
+
+        img {
+          margin-top: 10px;
+        }
+
+    }
+
+    a:hover {
+        opacity: 0.5;
+    }
+
+}
