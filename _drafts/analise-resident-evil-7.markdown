@@ -13,6 +13,11 @@ sinopse:
 ---
 Olá jogadores cervejeiros, tudo bom?
 
+Eu já tinha meio que deixado a série Resident Evil de lado desde o RE5, que só experimentei e não
+dei outra chance ao jogo (ainda farei isso). E depois que soube que o Resident Evil 7 seria em
+primeira pessoa, aí que iria me divorciar de vez da série, mas após ver os vários comentários que
+o jogo é surpreendente bom, resolvi dar uma chance ao jogo e comprei. Mas mesmo assim, adiei um
+tempo para começa-lo e posso dizer com absoluta certeza que estava perdendo tempo.. que jogo ótimo!
 
 
 {% include ficha.html
