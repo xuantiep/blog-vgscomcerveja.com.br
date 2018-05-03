@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Análise - Doom (PS4)"
-date:       2018-03-11 10:00
+date:       2018-05-02 21:00
 author:     Felipe B. Barbosa
 session:    Game Over &#35 39
 categories: jogando analise
@@ -9,7 +9,7 @@ tags:       [sony, ps4, doom, analise, game-over]
 thumbnail:  /imgs/posts/game_over/39_doom/post_thumbnail.jpg
 cover:      /imgs/posts/game_over/39_doom/post_header.jpg
 sinopse:
-  Doom é um jogo que superou todas minhas expectativas. Violento, agressivo e extremamente
+  Doom é um jogo que superou todas minhas expectativas, pois é violento, agressivo e extremamente
   delicioso! Confira a análise!
 ---
 Olá jogadores cervejeiros, tudo bom?
@@ -36,11 +36,13 @@ jogos dos últimos tempos!
 
 {% include youtubePlayer.html id='RO90omga8D4' %}
 
-Você assume o papel de ***Doomguy***, o famoso protagonista desconhecido da série (rs), que acorda
+Você assume o papel de ***Doomguy***, o famoso protagonista desconhecido da série, que acorda
 em Marte numa base totalmente desvastada por demônios, pois um portal para o inferno foi aberto.
-Sua missão: matar todos e fechar o portal. Desta vez, a trama é um pouco mais elaborada do que isso,
+Sua missão: matar a todos e fechar o portal.
+
+Desta vez, a trama é um pouco mais elaborada do que isso,
 contando com uma narrativa fluida e bem feita, além de ter diversos documentos espalhados pelo jogo
-que complementam a história. Ah, aproveitando a deixa, o jogo é totalmente localizado para o
+que complementam muito bem a história. Ah, aproveitando a deixa, o jogo é totalmente localizado para o
 português brasileiro e conta com uma dublagem excelente!
 
 Entretanto, o grande atrativo do jogo é com certeza sua mecânica quase que perfeita e viciante
@@ -48,7 +50,7 @@ para um jogo de tiro, onde o nível de dificuldade vai subindo progressivamente 
 jogo. Você começa sendo apresentado ao seu traje, conhecido como Praetor Suit, a uma pistola de
 munição infinita e a seu primeiro inimigo. Atire nele sem dó, aí de repente ele começa a piscar
 laranja e você conhece um dos recursos mais viciantes do jogo: a **execução gloriosa** (Glory Kills),
-onde você finaliza o inimigo de forma brutal e violenta!
+onde você finaliza o inimigo de forma brutal e violenta com apenas um botão!
 
 {% include image.html
   url="/imgs/posts/game_over/39_doom/doom_screen2.jpg"
@@ -64,9 +66,10 @@ basta encontrar os drones espalhados pelas fases.
 Ao todo são 13 fases, todas elas bem trabalhadas e com áreas abertas, onde escondem vários segredos.
 Em cada fase, você tem vários recursos extras que você pode fazer, tais como:
 
-- **Desafios**: Onde cada fase tem o seu, mas são algo do tipo, execute "x" inimigos com uma granada;
+- **Desafios**: Onde cada fase tem o seu e são algo do tipo: execute "x" inimigos com uma granada,
+faça "x" execuções gloriosas em diabretes e por aí vai;
 - **Testes de runas**: Uma espécie de portal que você encontra na fase e que te transporta para um
-desvio à parte;
+desvio à parte, como por exemplo, elimitar todos os inimigos da arena em um determinado tempo;
 - **Drones de campo**: Eles oferecem modificações para suas armas, mas às vezes, estão bem escondidos;
 - **Guardas de Elite**: São guardas que foram mortos em batalha, mas que você consegue retirar o chip
 do traje deles e colocar no seu, melhorando assim seu traje;
@@ -79,17 +82,17 @@ que representam alguma fase clássica do primeiro e segundo Doom, inclusive com 
   url="/imgs/posts/game_over/39_doom/doom_screen1.jpg"
   description="Salas secretas que homenageiam os clássicos!" %}
 
-Visualmente o jogo é ótimo e tem uma performance muito boa, pois o jogo tem um ritmo muito rápido e
+Visualmente o jogo é ótimo e tem uma performance muito boa, pois o jogo tem um ritmo muito rápido e,
 em nenhum momento percebi alguma lentidão, engasgo ou algo do tipo.
-A [trilha sonora](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) é fantástica, principalmente
+A [trilha sonora](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) também é fantástica, principalmente
 para aqueles que curtem um som pesado e, com certeza, é ela quem dita a emoção do jogo!
 
 Por fim, além da ótima campanha single player (que só por ela já vale o jogo), tem o modo **SnapMap**,
 onde você pode criar seu próprio mapa do jogo. E tem também o modo **Multiplayer**, que não foi
-desenvolvido pela mesma equipe e acabou deixando um pouco a desejar, mas é divertido para quem
-curte. Eu confesso que nem dei bola para estes modos, só a campanha principal já valeu e muito!
+desenvolvido pela mesma equipe e que acabou deixando um pouco a desejar, mas é divertido para quem
+curte. Eu confesso que nem dei bola para estes modos, só joguei a campanha principal que já valeu e muito!
 
-E é isso! Doom é um jogo que superou todas minhas expectativas. Violento, agressivo e
+E é isso! Doom é um jogo que superou todas minhas expectativas, pois é violento, agressivo e
 extremamente delicioso! Recomendo à todos!
 
 ---
