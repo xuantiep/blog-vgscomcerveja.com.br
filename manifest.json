@@ -2,7 +2,7 @@
   "name": "Videogames com Cerveja",
   "short_name": "VG's com Cerveja",
   "theme_color": "#61964a",
-  "background_color": "#61964a",
+  "background_color": "#ffffff",
   "display": "standalone",
   "scope": "/",
   "start_url": "/?utm_source=homescreen",
