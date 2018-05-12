@@ -2,7 +2,7 @@
 layout: null
 ---
 
-const staticCacheName = 'vgscomcerveja-2018-05-03-23-26';
+const staticCacheName = 'vgscomcerveja-2018-05-12-15-07';
 
 const filesToCache = [
   {% for page in site.pages_to_cache %}
