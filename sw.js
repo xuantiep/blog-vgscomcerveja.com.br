@@ -2,7 +2,7 @@
 layout: null
 ---
 
-const staticCacheName = 'vgscomcerveja-2018-05-12-15-07';
+const staticCacheName = 'vgscomcerveja-{{ site.time | date: "%Y-%m-%d-%H-%M" }}';
 
 const filesToCache = [
   {% for page in site.pages_to_cache %}
@@ -46,6 +46,7 @@ this.addEventListener("fetch", event => {
   event.respondWith(
     caches.match(event.request)
       .then(response => {
+        console.log('load cached');
         return response || fetch(event.request);
       })
       .catch(() => {
