@@ -83,6 +83,8 @@ Mas no pior dos casos, o jogo é tão curto que talvez valha a pena iniciar outr
   online="Não"
   jogadas="1" %}
 
+**O jogo também está disponível no Xbox One com 1000G em conquistas!**
+
 ### The Little Acre
 
 {% include image.html
@@ -112,6 +114,8 @@ publicado pela [Curve Digital](http://www.curve-digital.com/) no final de 2016.
   online="Não"
   jogadas="1" %}
 
+**O jogo também está disponível no Xbox One com 1000G em conquistas!**
+
 ### Late Shift
 
 {% include image.html
@@ -140,6 +144,8 @@ Quanto aos troféus, a maneira mais rápida é seguir um roteiro para não perde
   online="Não"
   jogadas="1 (com algumas repetições de capítulos)" %}
 
+**O jogo também está disponível no Xbox One com 1000G em conquistas!**
+
 ### Dying: Reborn
 
 {% include image.html
@@ -156,7 +162,7 @@ O jogo segue o mesmo estilo do filme **Jogos Mortais**, onde uma pessoa oculta i
 Sua platina é tranquila de conquistar, pois a grande maioria dos troféus são relacionados à história e os
 poucos restantes são de coletáveis fáceis de obter!
 
-O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado pela [Oasis Games](http://oasgames.com/en/) em 2017. O jogo também está disponível para PS Vita e conta uma lista separada de troféus, ou seja, mais uma platina fácil. :)
+O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado pela [Oasis Games](http://oasgames.com/en/) em 2017. O jogo também está disponível para PS Vita e conta uma lista separada de troféus, ou seja, mais uma platina fácil.
 
 {% include game-psn-trophies-card.html
   platinas=1 ouros=9 pratas=6 bronzes=4
@@ -164,6 +170,8 @@ O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado 
   tempo="1-3 horas"
   online="Não"
   jogadas="1" %}
+
+**O jogo também está disponível no Xbox One com 1000G em conquistas!**
 
 ### Demetrios: The Big Cynical Adventure
 
@@ -190,6 +198,8 @@ Tirando isso, os outros troféus são bem tranquilos, bastando dar uma olhada ne
   tempo="5 horas"
   online="Não"
   jogadas="1" %}
+
+**O jogo também está disponível no Xbox One com 1000G em conquistas!**
 
 ---
 
