@@ -83,7 +83,7 @@ Mas no pior dos casos, o jogo é tão curto que talvez valha a pena iniciar outr
   online="Não"
   jogadas="1" %}
 
-  {% include box-destaque.html
+  {% include featured-box.html
     content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
 
 ### The Little Acre
@@ -115,7 +115,7 @@ publicado pela [Curve Digital](http://www.curve-digital.com/) no final de 2016.
   online="Não"
   jogadas="1" %}
 
-  {% include box-destaque.html
+  {% include featured-box.html
     content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
 
 ### Late Shift
@@ -146,7 +146,7 @@ Quanto aos troféus, a maneira mais rápida é seguir um roteiro para não perde
   online="Não"
   jogadas="1 (com algumas repetições de capítulos)" %}
 
-  {% include box-destaque.html
+  {% include featured-box.html
     content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
 
 ### Dying: Reborn
@@ -174,7 +174,7 @@ O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado 
   online="Não"
   jogadas="1" %}
 
-  {% include box-destaque.html
+  {% include featured-box.html
     content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
 
 ### Demetrios: The Big Cynical Adventure
@@ -203,7 +203,7 @@ Tirando isso, os outros troféus são bem tranquilos, bastando dar uma olhada ne
   online="Não"
   jogadas="1" %}
 
-{% include box-destaque.html
+{% include featured-box.html
   content="O jogo também está disponível no Xbox One com 1000G em conquistas!" %}
 
 ---
