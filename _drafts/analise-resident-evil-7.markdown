@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Análise - Resident Evil VII: Biohazard (PS4)"
-date:       2018-03-11 11:30
+date:       2018-08-20 11:30
 author:     Felipe B. Barbosa
 session:    Game Over &#35 40
 categories: jogando analise
@@ -13,11 +13,11 @@ sinopse:
 ---
 Olá jogadores cervejeiros, tudo bom?
 
-Eu já tinha meio que deixado a série Resident Evil de lado desde o RE5, que só experimentei e não
-dei outra chance ao jogo (ainda farei isso). E depois que soube que o Resident Evil 7 seria em
-primeira pessoa, aí que iria me divorciar de vez da série, mas após ver os vários comentários que
-o jogo é surpreendente bom, resolvi dar uma chance ao jogo e comprei. Mas mesmo assim, adiei um
-tempo para começa-lo e posso dizer com absoluta certeza que estava perdendo tempo.. que jogo ótimo!
+Se você é que nem eu, um fã de Resident Evil, que já tinha perdido as esperanças de jogar um novo capitulo da série que seja tão bom quanto os clássicos, um jogo que traga aquela sensação tensa de que todo passo, tiro ou uso de recursos tem que serem calculados para conseguir avançar no jogo?
+
+Pois bem, eu já tinha perdido aquela paixão pela série, logo depois de só experimentar um pouco do Resident Evil 5. Tá, confesso que deveria dar uma chance maior ao jogo (e ainda pretendo), mas aquele não era o Resident Evil que gostava. Veio o Resident Evil 6, e nem dei bola para ele. E depois anunciaram o Resident Evil 7.. com visão em primeira pessoa e personagens totalmente desconhecidos.. foi aí que disse que iria me divorciar de vez da série!
+
+Mas queimei a língua e bonito, depois do jogo lançado e de ver os vários comentários positivos dizendo que o jogo é surpreendente bom, resolvi dar uma chance ao jogo e comprei (pulando o 5 e 6 e todos os outros spin-offs). Mesmo depois de comprado, adiei um tempo para começa-lo, por puro receio (ou preconceito), mas hoje posso dizer com absoluta certeza que estava perdendo tempo.. que jogo ÓTIMO!
 
 
 {% include ficha.html
