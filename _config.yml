@@ -34,10 +34,22 @@ sass:
 paginate: 7
 paginate_path: "page:num"
 
+# WebP Generator plugin
+webp:
+  enabled: true
+  quality: 75
+  img_dir: ["/imgs/"]
+  formats: [".jpeg", ".jpg", ".png", ".tiff"]
+  gifs: [".gif"]
+  regenerate: false
+  webp_path: nil
+  exclude: []
+
 plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-webp
 
 exclude:
   - Gemfile

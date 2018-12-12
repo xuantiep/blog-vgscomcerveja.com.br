@@ -1,34 +1,35 @@
 ---
-layout:     post
-title:      "Análise - Doom (PS4)"
-date:       2018-05-02 21:00
-author:     Felipe B. Barbosa
-session:    Game Over &#35 39
+layout: post
+title: "Análise - DOOM (PS4)"
+date: 2018-05-02 21:00
+author: Felipe B. Barbosa
+session: Game Over &#35 39
 categories: jogando analise
-tags:       [sony, ps4, doom, analise, game-over]
-thumbnail:  /imgs/posts/game_over/39_doom/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/39_doom/post_header.jpg
+tags: [sony, ps4, doom, analise, game-over]
+thumbnail: /imgs/posts/game_over/39_doom/post_thumbnail.jpg
+cover: /imgs/posts/game_over/39_doom/post_header.jpg
 sinopse:
-  Doom é um jogo que superou todas minhas expectativas, pois é violento, agressivo e extremamente
+  DOOM é um jogo que superou todas minhas expectativas, pois é violento, agressivo e extremamente
   delicioso! Confira a análise!
 ---
+
 Olá jogadores cervejeiros, tudo bom?
 
 Ao contrário do que possam imaginar, esta é praticamente minha primeira experiência com a série
-Doom. Pois quando ganhei meu primeiro computador, lá por volta de 1998, a era do FPS já estava
-bem difundida (exatamente por causa do sucesso do primeiro Doom de 1993) e o primeiro do gênero que
+DOOM. Pois quando ganhei meu primeiro computador, lá por volta de 1998, a era do FPS já estava
+bem difundida (exatamente por causa do sucesso do primeiro DOOM de 1993) e o primeiro do gênero que
 me recordo de ter jogado foi o tal de **Blood** da [Monolith Productions](https://www.lith.com/),
 um dos jogos mais violentos de 1997! Nesta época, eu não tinha muito acesso à jogos, e só joguei
 Blood, por causa da extinta revista **CD Expert**. E além disso, uns dois anos depois, eu ganhei
 o PS1 e conheci [Medal of Honor](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html),
-que me fez perder de vez o total interesse por Doom. Entretanto, sinto uma certa inveja de quem
+que me fez perder de vez o total interesse por DOOM. Entretanto, sinto uma certa inveja de quem
 vivenciou esta época do nascimento dos jogos de tiro em primeira pessoa.
 
-Mais de 20 anos se passaram desde o lançamento do Doom clássico e, mesmo sem ter o jogado,
+Mais de 20 anos se passaram desde o lançamento do DOOM clássico e, mesmo sem ter o jogado,
 pude sentir o carinho e o capricho que os desenvolvedores tiveram para resgatar a essência da
 série com este reboot.
 
-[Doom](https://doom.com/en-us/) é um jogo de tiro "raíz", onde ficar parado não é a melhor opção!
+[DOOM](https://doom.com/en-us/) é um jogo de tiro "raíz", onde ficar parado não é a melhor opção!
 Ele te coloca no meio de uma ação frenética ao som de um rock pesado, onde você enfrenta monstros,
 ou melhor, demônios dos mais variados tipos e tamanhos.
 Com isso sua adrenalina vai às alturas e que para mim, foi uma das experiências mais divertidas com
@@ -36,7 +37,7 @@ jogos dos últimos tempos!
 
 {% include youtubePlayer.html id='RO90omga8D4' %}
 
-Você assume o papel de ***Doomguy***, o famoso protagonista desconhecido da série, que acorda
+Você assume o papel de **_Doomguy_**, o famoso protagonista desconhecido da série, que acorda
 em Marte numa base totalmente desvastada por demônios, pois um portal para o inferno foi aberto.
 Sua missão: matar a todos e fechar o portal.
 
@@ -67,16 +68,16 @@ Ao todo são 13 fases, todas elas bem trabalhadas e com áreas abertas, onde esc
 Em cada fase, você tem vários recursos extras que você pode fazer, tais como:
 
 - **Desafios**: Onde cada fase tem o seu e são algo do tipo: execute "x" inimigos com uma granada,
-faça "x" execuções gloriosas em diabretes e por aí vai;
+  faça "x" execuções gloriosas em diabretes e por aí vai;
 - **Testes de runas**: Uma espécie de portal que você encontra na fase e que te transporta para um
-desvio à parte, como por exemplo, elimitar todos os inimigos da arena em um determinado tempo;
+  desvio à parte, como por exemplo, elimitar todos os inimigos da arena em um determinado tempo;
 - **Drones de campo**: Eles oferecem modificações para suas armas, mas às vezes, estão bem escondidos;
 - **Guardas de Elite**: São guardas que foram mortos em batalha, mas que você consegue retirar o chip
-do traje deles e colocar no seu, melhorando assim seu traje;
+  do traje deles e colocar no seu, melhorando assim seu traje;
 - **Células Argent**: São esferas vermelhas que melhoram sua energia e habilita novos recursos;
 - **Segredos**: Estes são apenas colecionáveis, podendo ser um bonequinho do Doomguy ou áreas escondidas
-que representam alguma fase clássica do primeiro e segundo Doom, inclusive com o mesmo visual da
-época, bem legal! :)
+  que representam alguma fase clássica do primeiro e segundo DOOM, inclusive com o mesmo visual da
+  época, bem legal! :)
 
 {% include image.html
   url="/imgs/posts/game_over/39_doom/doom_screen1.jpg"
@@ -92,18 +93,17 @@ onde você pode criar seu próprio mapa do jogo. E tem também o modo **Multipla
 desenvolvido pela mesma equipe e que acabou deixando um pouco a desejar, mas é divertido para quem
 curte. Eu confesso que nem dei bola para estes modos, só joguei a campanha principal que já valeu e muito!
 
-E é isso! Doom é um jogo que superou todas minhas expectativas, pois é violento, agressivo e
+E é isso! DOOM é um jogo que superou todas minhas expectativas, pois é violento, agressivo e
 extremamente delicioso! Recomendo à todos!
 
 ---
 
-Doom foi desenvolvido pela [id Software](https://www.idsoftware.com/en-us) e publicado pela
+DOOM foi desenvolvido pela [id Software](https://www.idsoftware.com/en-us) e publicado pela
 [Bethesda](https://bethesda.net/pt/dashboard) em 2016 para as plataformas PlayStation 4, Xbox One,
 PC e recentemente saiu para o Nintendo Switch!
 
-
 {% include ficha.html
-  titulo='Doom'
+  titulo='DOOM'
   plataforma='PlayStation 4'
   desenvolvedor='id Software'
   publicador='Bethesda'
