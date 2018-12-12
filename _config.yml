@@ -7,26 +7,26 @@ description: >
 baseurl: ""
 url: "https://www.vgscomcerveja.com.br"
 twitter_username: vgscomcerveja
-github_username:  felipebbarbosa
+github_username: felipebbarbosa
 
 # Build settings
 markdown: kramdown
 
 files_to_cache:
-  - '/js/vcc.js'
+  - "/js/vcc.js"
 
 pages_to_cache:
-  - '/colecionando/'
-  - '/jogando/'
-  - '/loja/'
-  - '/noticias/'
-  - '/parceiros/'
-  - '/sobre/'
-  - '/microsoft/'
-  - '/nintendo/'
-  - '/sega/'
-  - '/sony/'
-  - '/offline/index.html'
+  - "/colecionando/"
+  - "/jogando/"
+  - "/loja/"
+  - "/noticias/"
+  - "/parceiros/"
+  - "/sobre/"
+  - "/microsoft/"
+  - "/nintendo/"
+  - "/sega/"
+  - "/sony/"
+  - "/offline/index.html"
 
 sass:
   style: :compressed
@@ -34,22 +34,10 @@ sass:
 paginate: 7
 paginate_path: "page:num"
 
-# WebP Generator plugin
-webp:
-  enabled: true
-  quality: 75
-  img_dir: ["/imgs/"]
-  formats: [".jpeg", ".jpg", ".png", ".tiff"]
-  gifs: [".gif"]
-  regenerate: false
-  webp_path: nil
-  exclude: []
-
 plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
-  - jekyll-webp
 
 exclude:
   - Gemfile

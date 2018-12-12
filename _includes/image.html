@@ -16,10 +16,7 @@
   <a href="{{ include.url }}"
      data-lightbox="{{ data_lightbox }}"
      data-title="{{ image_title }}">
-    <!-- <picture> -->
-      <!-- <source srcset="{{ include.url | replace: '.png', '.webp' | replace: '.jpg', '.webp' }}" type="image/webp"> -->
-      <img src="{{ include.url }}" alt="{{ image_title }}">
-    <!-- </picture> -->
+    <img src="{{ include.url }}" alt="{{ image_title }}">
   </a>
   {% if include.description != null %}
     <figcaption>{{ image_title }}</figcaption>

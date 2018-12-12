@@ -248,7 +248,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gist
   jekyll-paginate
-  jekyll-webp (~> 1.0)
   wdm
 
 BUNDLED WITH
