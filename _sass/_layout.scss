@@ -112,86 +112,6 @@
   transform: translate(0, 0);
 }
 
-/**
- * Cabeçalho pequeno
- */
-.site-header.smaller {
-  position: fixed;
-  width: 100%;
-  background-color: $vcc-color;
-  border-bottom: 4px solid $vcc-color-escuro;
-  height: 60px;
-  top: 0;
-
-  .site-nav {
-    position: relative;
-    float: right;
-    width: auto;
-
-    ul {
-      margin: 0;
-    }
-
-    li {
-      position: relative;
-      display: inline;
-      padding-bottom: 15px;
-
-      .submenu-link {
-        padding-bottom: 16px;
-      }
-
-      a {
-        color: #fff;
-      }
-    }
-
-    li:hover {
-      color: #fff;
-      background-color: $vcc-color-escuro;
-      border-bottom: 4px solid #375626;
-    }
-
-    li:nth-child(7) {
-      display: none;
-    }
-    li:nth-child(8) {
-      display: none;
-    }
-    li:nth-child(9) {
-      display: none;
-    }
-
-    .nav-link-title-without-sub {
-      display: none;
-    }
-  }
-
-  .submenu {
-    background-color: gray;
-
-    li a:hover {
-      color: orange;
-    }
-
-    li:hover {
-      background-color: inherit;
-      border: 0;
-    }
-  }
-}
-
-#header-logo.smaller #logo-pequeno {
-  display: block;
-  float: left;
-  width: 300px;
-  margin: 8px 10px 2px;
-}
-
-#header-logo.smaller #logo-grande {
-  display: none;
-}
-
 /*
  * Cabeçalho on mobile devices
  */
@@ -907,7 +827,7 @@
   text-align: left;
   list-style: none;
 
-  li {
+  /*li {
     margin: 10px 0;
-  }
+  }*/
 }
