@@ -117,12 +117,11 @@
  */
 @media screen and (max-width: $on-palm) {
   .site-header {
-    position: fixed;
+    position: absolute;
     top: 0;
     width: 100%;
     background-color: $vcc-color;
     border-bottom: 4px solid $vcc-color-escuro;
-    height: 60px;
 
     .site-nav {
       position: fixed;
