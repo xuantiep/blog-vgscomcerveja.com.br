@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Donkey Kong Country (Super Nintendo)"
 date:       2016-11-16 20:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 34
 categories: jogando analise
 tags:       [nintendo, snes, rare, donkey-kong, analise, game-over]

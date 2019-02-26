@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Medal of Honor (PS1)"
 date:       2014-09-11 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 19
 categories: jogando analise
 tags:       [sony, ps1, electronic-arts, analise, game-over]

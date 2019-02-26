@@ -2,7 +2,7 @@
 layout: post
 title: "Meus pecados gamísticos da sexta geração de videogames!"
 date: 2016-03-12 19:00
-author: Felipe B. Barbosa
+author: felipebbarbosa
 session: Toplist &#35 05 - Pecados Gamísticos &#35 02
 categories: jogando toplist
 tags:

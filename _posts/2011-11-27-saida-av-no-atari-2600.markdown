@@ -2,7 +2,7 @@
 layout:     post
 title:      "Coloquei saída A/V no meu Atari 2600 Polyvox"
 date:       2011-11-27 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Utilidade Pública &#35 03
 categories: jogando utilidade-publica
 tags:       [atari, utilidade-publica]

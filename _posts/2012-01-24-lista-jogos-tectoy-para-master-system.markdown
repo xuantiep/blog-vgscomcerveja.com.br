@@ -3,7 +3,7 @@ layout: post
 title: "Lista de todos os jogos de Master System lançados pela Tectoy"
 date: 2012-01-24 19:00
 lastmod: 2019-02-21 22:30
-author: Felipe B. Barbosa
+author: felipebbarbosa
 session: Utilidade Pública &#35 04
 categories: colecionando utilidade-publica
 tags: [sega, tectoy, master-system, lists, utilidade-publica]

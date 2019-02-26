@@ -2,7 +2,7 @@
 layout: post
 title: "Como funciona o sistema de troféus da Sony"
 date: 2017-03-30 22:00
-author: Felipe B. Barbosa
+author: felipebbarbosa
 session: Utilidade Pública &#35 09
 categories: jogando utilidade-publica
 tags: [sony, ps3, psvita, ps4, trofeus, utilidade-publica]

@@ -2,7 +2,7 @@
 layout: post
 title: "Análise - DOOM (PS4)"
 date: 2018-05-02 21:00
-author: Felipe B. Barbosa
+author: felipebbarbosa
 session: Game Over &#35 39
 categories: jogando analise
 tags: [sony, ps4, doom, analise, game-over]

@@ -2,7 +2,7 @@
 layout: post
 title: "MeMe - O Que Você Jogou em 2018?"
 date: 2019-01-30 22:00
-author: Felipe B. Barbosa
+author: felipebbarbosa
 session: Especial
 categories: jogando especiais
 tags: [especial]

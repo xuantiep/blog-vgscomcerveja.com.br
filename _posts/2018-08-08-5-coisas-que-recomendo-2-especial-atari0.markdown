@@ -2,7 +2,7 @@
 layout:     post
 title:      "5 'coisas' que recomendo! #2 - Especial Atari"
 date:       2018-08-08 21:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Toplist &#35 12
 categories: jogando toplist
 tags:       [livros, atari, lists, toplist]

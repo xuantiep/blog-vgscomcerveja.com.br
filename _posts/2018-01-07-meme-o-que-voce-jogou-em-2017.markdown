@@ -1,17 +1,35 @@
 ---
-layout:     post
-title:      "MeMe - O Que Você Jogou em 2017?"
-date:       2018-01-07 20:45
-author:     Felipe B. Barbosa
-session:    Especial
+layout: post
+title: "MeMe - O Que Você Jogou em 2017?"
+date: 2018-01-07 20:45
+author: felipebbarbosa
+session: Especial
 categories: jogando especiais
-tags:       [especial, android, nintendo, game-cube, sony, ps1, ps3, ps4, psvita, pc, resident-evil, horizon-zero-dawn, tomb-raider, uncharted,  gran-turismo, indie]
-thumbnail:  /imgs/posts/especial/05_meme2017/thumbnail.jpg
-cover:      /imgs/posts/especial/05_meme2017/header.jpg
+tags:
+  [
+    especial,
+    android,
+    nintendo,
+    game-cube,
+    sony,
+    ps1,
+    ps3,
+    ps4,
+    psvita,
+    pc,
+    resident-evil,
+    horizon-zero-dawn,
+    tomb-raider,
+    uncharted,
+    gran-turismo,
+    indie,
+  ]
+thumbnail: /imgs/posts/especial/05_meme2017/thumbnail.jpg
+cover: /imgs/posts/especial/05_meme2017/header.jpg
 sinopse: >
-    Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 7a edição: 'O Que Você Jogou em 2017?' e minha quarta participação. Confira!
-
+  Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 7a edição: 'O Que Você Jogou em 2017?' e minha quarta participação. Confira!
 ---
+
 Feliz Ano Novo! \o/
 
 Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do [MarvoxBrasil](https://marvoxbrasil.wordpress.com/), que chega à sua 7a edição: "O Que Você Jogou em 2017?" e minha quarta participação. Sem mais delongas, selecionei os 13 melhores jogos que joguei ano passado em ordem cronológica. Confira:
@@ -35,7 +53,7 @@ Ele é gratuito com propagandas, porém você pode optar por remover as propagan
 Há anos que tenho a vontade de jogar este remake de [Resident Evil](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html),
 e olha, peguei para jogar e a primeira coisa em que se nota é a "tamanha" qualidade gráfica deste jogo... É impressionante!
 
-O jogo conta com a mesma essência do [RE clássico do PS1](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html), porém com algumas mudanças no enredo, incluindo puzzles e inimigos novos, como o *Crimson Head*, que são zumbis bem mais fortes e rápidos (sim, eles correm)! Estas mudanças tornaram o jogo ainda mais difícil que o original.
+O jogo conta com a mesma essência do [RE clássico do PS1](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html), porém com algumas mudanças no enredo, incluindo puzzles e inimigos novos, como o _Crimson Head_, que são zumbis bem mais fortes e rápidos (sim, eles correm)! Estas mudanças tornaram o jogo ainda mais difícil que o original.
 
 Infelizmente, ainda não consegui termina-lo, meta para este ano! :)
 
@@ -44,11 +62,11 @@ Infelizmente, ainda não consegui termina-lo, meta para este ano! :)
 {% include image.html url="/imgs/posts/especial/05_meme2017/11_severed.jpg" %}
 
 Este foi um jogo que me surpreendeu positivamente. Peguei para jogar só pelo simples fato de ser
-da [DrinkBox Studios](http://drinkboxstudios.com/), a desenvolvedora *indie* responsável por [Guacamelee!](/jogando/analise/2016/02/15/analise-guacamelee-psvita.html), que se você não conhece, vale a pena dar olhada também!
+da [DrinkBox Studios](http://drinkboxstudios.com/), a desenvolvedora _indie_ responsável por [Guacamelee!](/jogando/analise/2016/02/15/analise-guacamelee-psvita.html), que se você não conhece, vale a pena dar olhada também!
 
-**Severed** é um *dungeon crawler* em primeira pessoa com uma boa pegada *"Metroidvania"*, onde o mapa
+**Severed** é um _dungeon crawler_ em primeira pessoa com uma boa pegada _"Metroidvania"_, onde o mapa
 é seu maior aliado! Mas o que realmente chama atenção no jogo é seu sistema de combate através do
-*touch*, isso mesmo, você enfrenta seus inimigos ao estilo [Fruit Ninja](https://fruitninja.com/), onde para cada oponente
+_touch_, isso mesmo, você enfrenta seus inimigos ao estilo [Fruit Ninja](https://fruitninja.com/), onde para cada oponente
 você tem que adotar uma estratégia diferente de ataque. E pelo incrível que pareça, esta mecânica funciona muito bem!
 
 Escrevi sobre ele no [Game Over #37](/jogando/analise/2017/05/06/analise-severed.html). ;)
@@ -102,7 +120,7 @@ não poderia ser diferente: terminado e platinado! :D
 
 O legal é que desta vez o protagonista não é Nathan Drake e sim, Chloe Frazer e Nadine Ross. Uma dupla
 um tanto quanto inusitada para quem acompanha a série, mas que deu muito certo! O jogo faz uso da mesma
-*engine* de [Uncharted 4](/jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html), então
+_engine_ de [Uncharted 4](/jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html), então
 não tem muita novidade em relação ao mesmo. O grande atrativo mesmo é a ótima história que a Naughty Dog sabe
 muito bem contar!
 
@@ -112,7 +130,7 @@ Recomendo! :)
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/06_brutal-legend.jpg" %}
 
-Este é um verdadeiro *hidden gem* (como os gringos gostam de chamar as jóias obscuras),
+Este é um verdadeiro _hidden gem_ (como os gringos gostam de chamar as jóias obscuras),
 pois deve ter passado despercebido por muita gente (eu inclusive) e é bem divertido!
 
 Resumidamente, trata-se de um beat 'em up de mundo aberto com muito heavy metal, inclusive,
@@ -131,7 +149,7 @@ Este jogo me chamou a atenção desde [a primeira vez que ouvi falar sobre ele](
 e tudo por causa de seu belíssimo visual! Não deu outra, quando o jogo saiu, tive que jogá-lo...
 E olha, além de bonito, o jogo é uma delícia!
 
-Um *run n' gun* focado em batalhas contra chefões que
+Um _run n' gun_ focado em batalhas contra chefões que
 irá te fazer perder as contas de quantas vezes irá morrer para conseguir derrotá-los! Sim, o jogo
 é bastante difícil, porém não impossível ou apelão, é prazeroso encarar o desafio e por fim superá-lo!
 
@@ -166,7 +184,7 @@ Pois bem, o jogo saiu e credo... É totalmente online com conexão obrigatória,
 offline e nem para salvar seu progresso você consegue se estiver sem conexão, broxei...
 
 Até que a Polyphony Digital voltou a
-atrás (não sei se já era previsto) e [lançou os campeonatos offline na atualização 1.10]((https://blog.br.playstation.com/2017/12/22/gran-turismo-sport-atualizacao-1-10-chega-hoje-trazendo-gt-league-e-mais/)),
+atrás (não sei se já era previsto) e [lançou os campeonatos offline na atualização 1.10](<(https://blog.br.playstation.com/2017/12/22/gran-turismo-sport-atualizacao-1-10-chega-hoje-trazendo-gt-league-e-mais/)>),
 trazendo de volta o jogo a vida, pois apesar de tudo, ele conta com um ótimo visual e uma jogabilidade excelente ao
 nível de um bom GT!
 
@@ -201,53 +219,53 @@ E é isso, no ano de 2017 consegui jogar bastante coisa, não tanto quanto gosta
 
 Abaixo segue a lista de tudo que joguei (sim, eu anoto! rs):
 
-| Jogo                                      | Plataforma | Período                |
-| ----------------------------------------- | ---------- | ---------------------- |
-| The Last Guardian                         | PS4        | 06/12/16 à 18/01/17    |
-| Dan The Man                               | Android    | 09/01 à 18/01          |
-| Batman Arkham Origins Blackgate           | PS Vita    | 15/01 (não terminado)  |
-| Resident Evil                             | GameCube   | 19/01 (não terminado)  |
-| Need for Speed: Undercover                | PS3        | 04/02 (não terminado)  |
-| DeusEx GO                                 | Android    | 14/02 (não terminado)  |
-| Tearaway                                  | PS Vita    | 21/02 à 03/03          |
-| Severed                                   | PS Vita    | 04/03 à 13/03          |
-| Horizon Zero Dawn                         | PS4        | 05/03 à 27/03          |
-| Duke Nukem 3D 20th Anniversary World Tour | PS4        | 19/02 à 01/03          |
-| DuckTales Remastered                      | Xbox 360   | 14/03 (não terminado)  |
-| Child of Light                            | PS Vita    | 18/03 (não terminado)  |
-| God of War HD                             | PS Vita    | 31/03 (não terminado)  |
-| Tomb Raider II                            | PS1        | 01/05 (não terminado)  |
-| The Bunker                                | PS4        | 07/05 à 07/05          |
-| Wonder Boy Dragon's Trap                  | PC / GOG   | 07/07 (não terminado)  |
-| Arcade Game Series: Pac-man / Ms. Pac-man | PS4        | 08/08 (não terminado)  |
-| Far Cry 4                                 | PS4        | 11/05 (não terminado)  |
-| The Little Acre                           | PS4        | 16/05 à 16/05          |
-| Toy Story Mania!                          | PS3        | 21/05 à 22/05          |
-| MIB Alien Crisis                          | PS3        | 28/05 à 04/06          |
-| My Name Is Mayo                           | PS4        | 11/06 à 11/06          |
-| Mr. Massagy                               | PS4        | 11/06 à 11/06          |
-| Deponia                                   | PS4        | 08/06 à 15/06          |
-| Life is Strange                           | PS4        | 18/06 (não terminado)  |
-| History: Legends of War                   | PS Vita    | 16/06 à 26/06          |
-| The Wolf Among Us                         | PS3        | 15/06 à 18/06          |
-| Captain American: Super Soldier           | PS3        | 02/07 à 09/08          |
-| 99Vidas: O Jogo                           | PS Vita    | 24/07 (não terminado)  |
-| Salt and Sanctuary                        | PS Vita    | 24/07 (não terminado)  |
-| Late Shift                                | PS4        | 12/08 à 12/08          |
-| Uncharted: The Lost Legacy                | PS4        | 21/08 à 26/08          |
-| Brutal Legend                             | PS3        | 18/08 (não terminado)  |
-| Coffin Dodgers                            | PS4        | 19/08 à 21/08          |
-| Dying Reborn                              | PS Vita    | 13/08 à 17/08          |
-| Orc Slayer                                | PS4        | 12/08 à 14/08          |
-| Black & White: Bushido                    | PS4        | 13/08 à 13/08          |
-| Tales From Space: Mutant Blobs Attack!    | PS Vita    | 13/08 (não terminado)  |
-| Puzzle Showdown 4K                        | PS4        | 27/08 à 27/08          |
-| Cuphead                                   | PC / Steam | 30/09 (não terminado)  |
-| Stranger Things: The Game                 | Android    | 06/10 à 08/10          |
-| Sky Force Anniversary                     | PS Vita    | 12/10 (não terminado)  |
-| Gran Turismo Sport                        | PS4        | 18/10 (não terminado)  |
-| Doom                                      | PS4        | 02/11 à 10/11          |
-| Hollow Knight                             | PC / Steam | 24/12 (não terminado)  |
+| Jogo                                      | Plataforma | Período               |
+| ----------------------------------------- | ---------- | --------------------- |
+| The Last Guardian                         | PS4        | 06/12/16 à 18/01/17   |
+| Dan The Man                               | Android    | 09/01 à 18/01         |
+| Batman Arkham Origins Blackgate           | PS Vita    | 15/01 (não terminado) |
+| Resident Evil                             | GameCube   | 19/01 (não terminado) |
+| Need for Speed: Undercover                | PS3        | 04/02 (não terminado) |
+| DeusEx GO                                 | Android    | 14/02 (não terminado) |
+| Tearaway                                  | PS Vita    | 21/02 à 03/03         |
+| Severed                                   | PS Vita    | 04/03 à 13/03         |
+| Horizon Zero Dawn                         | PS4        | 05/03 à 27/03         |
+| Duke Nukem 3D 20th Anniversary World Tour | PS4        | 19/02 à 01/03         |
+| DuckTales Remastered                      | Xbox 360   | 14/03 (não terminado) |
+| Child of Light                            | PS Vita    | 18/03 (não terminado) |
+| God of War HD                             | PS Vita    | 31/03 (não terminado) |
+| Tomb Raider II                            | PS1        | 01/05 (não terminado) |
+| The Bunker                                | PS4        | 07/05 à 07/05         |
+| Wonder Boy Dragon's Trap                  | PC / GOG   | 07/07 (não terminado) |
+| Arcade Game Series: Pac-man / Ms. Pac-man | PS4        | 08/08 (não terminado) |
+| Far Cry 4                                 | PS4        | 11/05 (não terminado) |
+| The Little Acre                           | PS4        | 16/05 à 16/05         |
+| Toy Story Mania!                          | PS3        | 21/05 à 22/05         |
+| MIB Alien Crisis                          | PS3        | 28/05 à 04/06         |
+| My Name Is Mayo                           | PS4        | 11/06 à 11/06         |
+| Mr. Massagy                               | PS4        | 11/06 à 11/06         |
+| Deponia                                   | PS4        | 08/06 à 15/06         |
+| Life is Strange                           | PS4        | 18/06 (não terminado) |
+| History: Legends of War                   | PS Vita    | 16/06 à 26/06         |
+| The Wolf Among Us                         | PS3        | 15/06 à 18/06         |
+| Captain American: Super Soldier           | PS3        | 02/07 à 09/08         |
+| 99Vidas: O Jogo                           | PS Vita    | 24/07 (não terminado) |
+| Salt and Sanctuary                        | PS Vita    | 24/07 (não terminado) |
+| Late Shift                                | PS4        | 12/08 à 12/08         |
+| Uncharted: The Lost Legacy                | PS4        | 21/08 à 26/08         |
+| Brutal Legend                             | PS3        | 18/08 (não terminado) |
+| Coffin Dodgers                            | PS4        | 19/08 à 21/08         |
+| Dying Reborn                              | PS Vita    | 13/08 à 17/08         |
+| Orc Slayer                                | PS4        | 12/08 à 14/08         |
+| Black & White: Bushido                    | PS4        | 13/08 à 13/08         |
+| Tales From Space: Mutant Blobs Attack!    | PS Vita    | 13/08 (não terminado) |
+| Puzzle Showdown 4K                        | PS4        | 27/08 à 27/08         |
+| Cuphead                                   | PC / Steam | 30/09 (não terminado) |
+| Stranger Things: The Game                 | Android    | 06/10 à 08/10         |
+| Sky Force Anniversary                     | PS Vita    | 12/10 (não terminado) |
+| Gran Turismo Sport                        | PS4        | 18/10 (não terminado) |
+| Doom                                      | PS4        | 02/11 à 10/11         |
+| Hollow Knight                             | PC / Steam | 24/12 (não terminado) |
 
 **Total:** 45 jogos
 

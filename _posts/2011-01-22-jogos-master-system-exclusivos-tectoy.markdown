@@ -3,7 +3,7 @@ layout: post
 title: "Lista de jogos de Master System exclusivos Tectoy para o Brasil"
 date: 2011-01-22 19:00
 lastmod: 2019-02-21 22:30
-author: Felipe B. Barbosa
+author: felipebbarbosa
 session: Utilidade Pública &#35 01
 categories: colecionando utilidade-publica
 tags: [sega, master-system, tectoy, lists, utilidade-publica]

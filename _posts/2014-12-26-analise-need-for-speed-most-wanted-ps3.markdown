@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Need for Speed: Most Wanted (PS3)"
 date:       2014-12-26 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 21
 categories: jogando analise
 tags:       [need-for-speed, ps3, sony, criterion, electronic-arts, analise, game-over]

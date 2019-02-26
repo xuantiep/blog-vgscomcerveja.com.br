@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Uncharted: The Nathan Drake Collection (PS4)"
 date:       2016-05-05 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 29
 categories: jogando analise
 tags:       [sony, ps4, uncharted, naughty-dog, analise, game-over]

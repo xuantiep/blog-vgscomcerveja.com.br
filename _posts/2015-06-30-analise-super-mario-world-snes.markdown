@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Super Mario World (Super Nintendo)"
 date:       2015-06-30 19:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 24
 categories: jogando analise
 tags:       [snes, nintendo, mario, analise, game-over]

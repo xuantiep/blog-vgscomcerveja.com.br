@@ -1,19 +1,20 @@
 ---
-layout:     post
-title:      "O início da coleção de videogames!"
-date:       2010-06-11 19:00
-author:     Felipe B. Barbosa
-session:    Coleção Pessoal
+layout: post
+title: "O início da coleção de videogames!"
+date: 2010-06-11 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
 categories: colecionando colecao-pessoal
-tags:       [master-system, ps1, ps2, snes, gba, tectoy, nintendo, sony, sega]
-games:      [phantasy-star, ultima-iv, metal-gear-solid]
-thumbnail:  /imgs/posts/colecao/01_inicio/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/01_inicio/post_header.jpg
+tags: [master-system, ps1, ps2, snes, gba, tectoy, nintendo, sony, sega]
+games: [phantasy-star, ultima-iv, metal-gear-solid]
+thumbnail: /imgs/posts/colecao/01_inicio/post_thumbnail.jpg
+cover: /imgs/posts/colecao/01_inicio/post_header.jpg
 sinopse: >
   Pois é, não resisti! Comecei a colecionar videogames.
   Sempre fui apaixonado por jogos eletrônicos e sempre tive dó de me desfazer dos meus videogames antigos!
   Mas agora, todos eles fazem parte da minha coleção! :)
 ---
+
 Pois é, não resisti! Comecei a colecionar videogames.
 
 Sempre fui apaixonado por jogos eletrônicos e sempre tive dó (e sorte de não ter pais que obrigassem) de me desfazer dos meus videogames antigos!
@@ -26,7 +27,7 @@ Mas agora, todos eles fazem parte da minha coleção! :)
 O meu primeiro videogame foi um **Atari 2600** da **Polyvox**, que foi o único console "perdido", pois deu defeito e
 nunca mais voltou do conserto que seria realizado por um amigo do meu pai. :(
 
-Depois veio o **Master System III Compact** da **Tectoy** com o *Sonic* na memória! Este sim, permaneceu com a gente a vida toda, só
+Depois veio o **Master System III Compact** da **Tectoy** com o _Sonic_ na memória! Este sim, permaneceu com a gente a vida toda, só
 as caixas e manuais dele e de alguns jogos que foram jogadas fora (provavelmente)!
 
 O próximo foi o **Super Nintendo**, mais tarde o **PlayStation**, o **Game Boy Advance** e por fim o **PlayStation 2**, o último console

@@ -2,7 +2,7 @@
 layout: post
 title: "Análise - Resident Evil VII biohazard (PS4)"
 date: 2018-12-12 22:30
-author: Felipe B. Barbosa
+author: felipebbarbosa
 session: Game Over &#35 40
 categories: jogando analise
 tags: [sony, ps4, resident-evil-7, analise, game-over]

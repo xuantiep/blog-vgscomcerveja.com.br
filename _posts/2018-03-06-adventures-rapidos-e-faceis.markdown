@@ -2,7 +2,7 @@
 layout:     post
 title:      "6 adventures rápidos e fáceis para PS4 (e que não são da Telltale)"
 date:       2018-03-06 21:30
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Toplist &#35 11 - Caçadores de Troféus &#35 02
 categories: jogando toplist
 tags:       [sony, ps4, trofeus, lists, toplist]

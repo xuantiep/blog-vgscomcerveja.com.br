@@ -2,7 +2,7 @@
 layout:     post
 title:      "Análise - Lara Croft GO (PS Vita)"
 date:       2016-12-07 20:00
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Game Over &#35 35
 categories: jogando analise
 tags:       [sony, psvita, tomb-raider, analise, game-over]

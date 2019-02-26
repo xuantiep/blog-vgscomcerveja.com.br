@@ -2,7 +2,7 @@
 layout:     post
 title:      "O que gostei da E3 2018"
 date:       2018-06-13 18:45
-author:     Felipe B. Barbosa
+author:     felipebbarbosa
 session:    Especial
 categories: jogando especial
 tags:       [lists, e3, especial, sony, microsoft, naughty-dog, resident-evil, tomb-raider, limitedrun, kojima, indie, square-enix, xbox-one, ps4, capcom]
