@@ -35,10 +35,8 @@
           <li>
             <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.title }}">
 
-              <span class="nav-link-title nav-link-title-without-sub">
-                {% if nav.showtitle %}
-                  {{ nav.title }}
-                {% endif %}
+              <span class="nav-link-title nav-link-title-without-sub nav-hide">
+                {{ nav.title }}
               </span>
 
             </a>
