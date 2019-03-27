@@ -9,11 +9,11 @@ categories: colecionando utilidade-publica
 tags: [sega, tectoy, master-system, lists, utilidade-publica]
 thumbnail: /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_header.jpg
-sinopse: >
-  Como todo mundo já deve saber (pelo menos quem acompanha o blog), a Tectoy fez um excelente trabalho com o Master System por aqui no Brasil, lançando consoles e jogos, sendo alguns deles exclusivamente brasileiros. O que pouco gente sabe é que ela também atuou no mercado de Portugal, lógico que não passou nem perto do trabalho que fizeram por aqui, mas mesmo assim, são itens muito apreciados e desejados por colecionadores do mundo inteiro, principalmente os próprios portugueses.
 ---
 
 Como todo mundo já deve saber (pelo menos quem acompanha o blog), a **Tectoy** fez um excelente trabalho com o **Master System** por aqui no Brasil, lançando consoles e jogos, sendo alguns deles [exclusivamente brasileiros](/colecionando/utilidade-publica/2011/01/22/jogos-master-system-exclusivos-tectoy.html). O que pouco gente sabe é que ela também teve uma participação no mercado de Portugal, lógico que não passou nem perto do trabalho que fizeram por aqui, mas mesmo assim, são itens muito apreciados e desejados por colecionadores do mundo inteiro, principalmente pelos próprios portugueses.
+
+<!--more-->
 
 Bom, na verdade, esse trabalho foi realizado em parceria com a empresa **Ecofilmes** na tentativa de lançar títulos exclusivamente para o mercado português. Sendo assim, o "nosso" **Master System III Compact** (para quem não sabe, no resto do mundo, esta versão compacta é conhecida como Master System II) é lançado juntamente com 16 jogos, pelo menos era o plano, pois na verdade, somente 15 chegaram a ver a luz do dia, um não foi confirmado como você irá ver abaixo.
 

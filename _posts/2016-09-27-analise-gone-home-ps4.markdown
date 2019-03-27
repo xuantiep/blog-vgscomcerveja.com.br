@@ -1,19 +1,19 @@
 ---
-layout:     post
-title:      "Análise - Gone Home (PS4)"
-date:       2016-09-27 22:00
-author:     felipebbarbosa
-session:    Game Over &#35 33
+layout: post
+title: "Análise - Gone Home (PS4)"
+date: 2016-09-27 22:00
+author: felipebbarbosa
+session: Game Over &#35 33
 categories: jogando analise
-tags:       [sony, ps4, ps-plus, analise, game-over]
-games:      [gone-home]
-thumbnail:  /imgs/posts/game_over/33_gone_home/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/33_gone_home/post_header.jpg
-sinopse: >
-  Estava curioso para experimentar este jogo desde quando foi lançado para PC em 2013, mas como não tenho um computador para jogar, ele acabou ficando de lado até Fevereiro deste ano (2016), quando ele foi lançado para os consoles (PS4 e Xbox One) e meu interesse despertou novamente. E para melhorar ainda mais, ele foi disponibilizado gratuitamente para os assinantes da PlayStation Plus no mês de Junho, ou seja, não tinha mais desculpas! Agora que joguei e terminei, o que dizer sobre ele?
-game_cover:
+tags: [sony, ps4, ps-plus, analise, game-over]
+games: [gone-home]
+thumbnail: /imgs/posts/game_over/33_gone_home/post_thumbnail.jpg
+cover: /imgs/posts/game_over/33_gone_home/post_header.jpg
 ---
+
 Estava curioso para experimentar este jogo desde quando foi lançado para PC em 2013, mas como não tenho um computador para jogar, ele acabou ficando de lado até Fevereiro deste ano (2016), quando ele foi lançado para os consoles (PS4 e Xbox One) e meu interesse despertou novamente. E para melhorar ainda mais, ele foi [disponibilizado gratuitamente para os assinantes da PlayStation Plus no mês de Junho](http://blog.br.playstation.com/2016/05/31/playstation-plus-jogos-gratuitos-para-junho-de-2016/), ou seja, não tinha mais desculpas! Agora que joguei e terminei, o que dizer sobre ele?
+
+<!--more-->
 
 **Gone Home** é um daqueles jogos que se você não o conhece, não sabe o que esperar dele! Totalmente em visão em primeira pessoa e com uma proposta um pouco diferente, você controla uma garota chamada **_Kaitlin Greenbriar (Katie)_** que acaba de chegar em casa após um intercâmbio na Europa, porém algo muito estranho ocorreu, pois sua casa está aparentemente vazia, seu recado dizendo que iria retornar ainda não foi ouvida na secretária eletrônica, algumas luzes da casa ainda estão acesas, alguns objetos parecem terem sidos levados às pressas, ou seja, há um grande mistério no ar!
 
@@ -21,7 +21,7 @@ Estava curioso para experimentar este jogo desde quando foi lançado para PC em 
 
 Estamos em meados dos anos 90, está uma noite chuvosa com trovoadas, aparentemente ninguém em casa, cômodos escuros, ruídos estranhos, um clima onde você fica o tempo todo com a sensação de que algo ou alguém irá te surpreender à qualquer instante!
 
-Seu objetivo no jogo é investigar a casa e descobrir o que aconteceu com sua família, você pode examinar praticamente tudo, desde itens totalmente inúteis como copos, talhes, pratos, escovas de dentes, ou seja, objetos que não agregam em nada na história, até armários, gavetas, cartas, livros, discos de vinil, fitas k7, fitas VHS e até fitas de Super Nintendo, enfim, objetos que, às vezes, revelam informações importantes sobre o que aconteceu por lá! Dependendo do objeto que examinar, um *audiolog* da sua irmã mais nova, a **_Sam_**, é liberado!
+Seu objetivo no jogo é investigar a casa e descobrir o que aconteceu com sua família, você pode examinar praticamente tudo, desde itens totalmente inúteis como copos, talhes, pratos, escovas de dentes, ou seja, objetos que não agregam em nada na história, até armários, gavetas, cartas, livros, discos de vinil, fitas k7, fitas VHS e até fitas de Super Nintendo, enfim, objetos que, às vezes, revelam informações importantes sobre o que aconteceu por lá! Dependendo do objeto que examinar, um _audiolog_ da sua irmã mais nova, a **_Sam_**, é liberado!
 
 {% include image.html url="/imgs/posts/game_over/33_gone_home/gone_home2.jpg" description="Duvido que você já tenha jogado este jogo no Super Nintendo!" %}
 

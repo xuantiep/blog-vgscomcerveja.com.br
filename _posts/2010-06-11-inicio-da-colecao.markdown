@@ -9,16 +9,14 @@ tags: [master-system, ps1, ps2, snes, gba, tectoy, nintendo, sony, sega]
 games: [phantasy-star, ultima-iv, metal-gear-solid]
 thumbnail: /imgs/posts/colecao/01_inicio/post_thumbnail.jpg
 cover: /imgs/posts/colecao/01_inicio/post_header.jpg
-sinopse: >
-  Pois é, não resisti! Comecei a colecionar videogames.
-  Sempre fui apaixonado por jogos eletrônicos e sempre tive dó de me desfazer dos meus videogames antigos!
-  Mas agora, todos eles fazem parte da minha coleção! :)
 ---
 
 Pois é, não resisti! Comecei a colecionar videogames.
 
 Sempre fui apaixonado por jogos eletrônicos e sempre tive dó (e sorte de não ter pais que obrigassem) de me desfazer dos meus videogames antigos!
 Mas agora, todos eles fazem parte da minha coleção! :)
+
+<!--more-->
 
 {% include image.html
   url="/imgs/posts/colecao/01_inicio/inicio-colecao.jpg"

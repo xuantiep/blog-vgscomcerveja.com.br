@@ -10,12 +10,11 @@ tags: [sega, tectoy, master-system, lists, utilidade-publica]
 games: [phantasy-star, ultima-iv]
 thumbnail: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_header.jpg
-sinopse: >
-  Que a Tectoy fez um excelente trabalho com o Master System no Brasil todo mundo sabe!
-  Inclusive, chegou a lançar jogos exclusivos para o nosso querido Master como o lendário Street Fighter II, Mortal Kombat 3, jogos da Turma da Mônica e outros que só foram lançados em território nacional e são muitos cobiçados por colecionadores mundiais. Mas enfim, você sabe quais jogos, além dos exclusivos, a Tectoy lançou no Brasil?
 ---
 
 Que a **Tectoy** fez um excelente trabalho com o **Master System** no Brasil todo mundo sabe! Inclusive, chegou a lançar jogos exclusivos para o nosso querido Master como o lendário **Street Fighter II**, **Mortal Kombat 3**, **Earthworm Jim**, jogos da **Turma da Mônica** e outros que [só foram lançados em território nacional](/colecionando/utilidade-publica/2011/01/22/jogos-master-system-exclusivos-tectoy.html) e são muitos cobiçados por colecionadores mundiais. Mas enfim, você sabe quais jogos, além dos exclusivos, a Tectoy lançou no Brasil?
+
+<!--more-->
 
 Pois é, a Tectoy nunca divulgou uma lista oficial dos jogos que ela lançou por aqui. Mas a comunidade do fórum [Sega Brasil](http://www.sega-brasil.com.br/site/) fez uma levantamento muito bacana, que demorou aproxidamente 3 anos para ser concluído, de todos os jogos lançados.
 

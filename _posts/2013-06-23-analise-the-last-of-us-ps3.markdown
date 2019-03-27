@@ -1,19 +1,19 @@
 ---
-layout:     post
-title:      "Análise - The Last of Us (PS3)"
-date:       2013-06-23 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 07
+layout: post
+title: "Análise - The Last of Us (PS3)"
+date: 2013-06-23 19:00
+author: felipebbarbosa
+session: Game Over &#35 07
 categories: jogando analise
-tags:       [sony, ps3, naughty-dog, analise, game-over]
-games:      [the-last-of-us]
-thumbnail:  /imgs/posts/game_over/07_the_last_of_us/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/07_the_last_of_us/post_header.jpg
-sinopse: >
-  Cara, que jogo fantástico! Não é a toa que recebeu notas altíssimas pelas críticas especializadas, The Last of Us conseguiu unir drama, ação, aventura, suspense, terror e até stealth em um só jogo! Desenvolvido pela Naughty Dog e lançado este mês, o jogo é mais um exclusivo para a biblioteca do PlayStation 3!
-game_cover:
+tags: [sony, ps3, naughty-dog, analise, game-over]
+games: [the-last-of-us]
+thumbnail: /imgs/posts/game_over/07_the_last_of_us/post_thumbnail.jpg
+cover: /imgs/posts/game_over/07_the_last_of_us/post_header.jpg
 ---
-Cara, que jogo fantástico! Não é a toa que recebeu notas altíssimas pelas [críticas especializadas](http://www.metacritic.com/game/playstation-3/the-last-of-us), **The Last of Us** conseguiu unir drama, ação, aventura, suspense, terror e até *stealth* em um só jogo! Desenvolvido pela **Naughty Dog** e lançado este mês, o jogo é mais um exclusivo para a biblioteca do **PlayStation 3**!
+
+Cara, que jogo fantástico! Não é a toa que recebeu notas altíssimas pelas [críticas especializadas](http://www.metacritic.com/game/playstation-3/the-last-of-us), **The Last of Us** conseguiu unir drama, ação, aventura, suspense, terror e até _stealth_ em um só jogo! Desenvolvido pela **Naughty Dog** e lançado este mês, o jogo é mais um exclusivo para a biblioteca do **PlayStation 3**!
+
+<!--more-->
 
 ## História
 
@@ -33,7 +33,7 @@ Apesar de ser um jogo totalmente linear, a imersão e a riqueza dos detalhes dos
 
 A movimentação do personagem e o sistema de combate, tanto corpo-a-corpo quanto com armas, ficaram excelentes! Podemos dizer que é uma versão aprimorada da série Uncharted, porém mais fluida e real.
 
-Além disso, as armas e as habilidades de Joel possuem um sistema de evolução interessante assim como o sistema de criação de novos itens, que na qual você deve coletr objetos e suplementos para criá-los! Qualquer objeto conta, como por exemplo, se você juntar um pedaço de trapo com álcool, você poderá criar um kit de primeiro-socorros, e o mais interessante, com estes mesmos objetos você pode criar uma bomba *Motolov*, você decide qual opção será melhor para a ocasião!
+Além disso, as armas e as habilidades de Joel possuem um sistema de evolução interessante assim como o sistema de criação de novos itens, que na qual você deve coletr objetos e suplementos para criá-los! Qualquer objeto conta, como por exemplo, se você juntar um pedaço de trapo com álcool, você poderá criar um kit de primeiro-socorros, e o mais interessante, com estes mesmos objetos você pode criar uma bomba _Motolov_, você decide qual opção será melhor para a ocasião!
 
 Os itens podem ser criados a qualquer momento do jogo, basta ter os objetos necessários e combiná-los, entretanto a criação leva um certo tempo (inclusive, esta é uma das habilidades que pode ser aprimorada), então é bom fazê-los em um local seguro!
 
@@ -49,7 +49,7 @@ Depois que você pega as manhas, você consegue atravessar cenários repletos de
 
 ## Multiplayer
 
-O modo *multiplayer* nada mais é do que o tradicional mata-mata entre equipes (Caçadores ou Vaga-lumes). Mas que o deixa mais bacana é que muitos elementos do modo campanha estão presentes, por exemplo, voc~e pode criar novos itens com os objetos coletádos; você deve ser cauteloso e silencioso para não chamar a atenção dos adversários; você tem o recurso da audição apurada (por tempo limitado). Enfim, é bacana!
+O modo _multiplayer_ nada mais é do que o tradicional mata-mata entre equipes (Caçadores ou Vaga-lumes). Mas que o deixa mais bacana é que muitos elementos do modo campanha estão presentes, por exemplo, voc~e pode criar novos itens com os objetos coletádos; você deve ser cauteloso e silencioso para não chamar a atenção dos adversários; você tem o recurso da audição apurada (por tempo limitado). Enfim, é bacana!
 
 ## Versão Nacional
 
@@ -65,7 +65,7 @@ Terminei o jogo e ganhei apenas 3 troféus, sendo dois deles por ter terminado o
 
 ## Resumindo
 
-Terminei o jogo em 18 horas e queria mais! Eu acho que o jogo é um fortíssimo candidato ao jogo do ano! Gráficos excelentes, jogabilidade muito boa, história envolvente, uma mistura de drama, ação, aventura, *stealth*, suspense e terror muito bem dosados. IMPERDÍVEL!
+Terminei o jogo em 18 horas e queria mais! Eu acho que o jogo é um fortíssimo candidato ao jogo do ano! Gráficos excelentes, jogabilidade muito boa, história envolvente, uma mistura de drama, ação, aventura, _stealth_, suspense e terror muito bem dosados. IMPERDÍVEL!
 
 {% include ficha.html
   titulo='The Last of Us'

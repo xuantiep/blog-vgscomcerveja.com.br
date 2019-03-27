@@ -10,13 +10,6 @@ tags: [sega, master-system, tectoy, lists, utilidade-publica]
 games: [phantasy-star]
 thumbnail: /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_header.jpg
-sinopse: >
-  A Tectoy foi sinônimo de Sega na década de 90 para nós brasileiros! Pois, além de ser a
-  representante oficial da marca no Brasil, realizou um trabalho impressionante no mercado brasileiro
-  de jogos. Marketing de primeira, dicas de jogos por telefone, manuais e embalagens totalmente
-  em português, e mais além ainda, produziu jogos exclusivos, seja traduções de jogos para o
-  português, adaptações de jogos para o cenário nacional, adaptações de jogos de Game Gear e até
-  mesmo produções nacionais.
 ---
 
 A **Tectoy** foi sinônimo de **Sega** na década de 90 para nós brasileiros! Pois, além de ser a
@@ -25,6 +18,8 @@ de jogos. Marketing de primeira, dicas de jogos por telefone, manuais e embalage
 em português, e mais além ainda, produziu jogos exclusivos, seja traduções de jogos para o
 português, adaptações de jogos para o cenário nacional, adaptações de jogos de **Game Gear** e até
 mesmo produções nacionais.
+
+<!--more-->
 
 Esse jogos se tornaram muito procurados por colecionadores do mundo
 inteiro e por consequência se tornaram raros até mesmo para nós brasileiros:

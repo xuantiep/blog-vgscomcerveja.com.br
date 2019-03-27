@@ -1,19 +1,19 @@
 ---
-layout:     post
-title:      "Análise - Taz-Mania (Master System)"
-date:       2013-05-27 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 05
+layout: post
+title: "Análise - Taz-Mania (Master System)"
+date: 2013-05-27 19:00
+author: felipebbarbosa
+session: Game Over &#35 05
 categories: jogando analise
-tags:       [sega, master-system, tectoy, analise, game-over]
-games:      [taz-mania]
-thumbnail:  /imgs/posts/game_over/05_tazmania/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/05_tazmania/post_header.jpg
-sinopse: >
-  Hoje recebi o que estava planejando em ter a um bom tempo, um Master System III Compact com saída A/V! E graças ao amigo e colecionador Flávio, o Shiningstar, que faz esse tipo de modificação, recebi muito mais do que isso, recebi um Master com led de power, saída A/V e S-Video! Mas enfim, pretendo falar sobre ele em outro post, pois com a chegada do console, fui logo relembrar e zerar um jogo que considero um clássico da minha infância: Taz-Mania!
-game_cover:
+tags: [sega, master-system, tectoy, analise, game-over]
+games: [taz-mania]
+thumbnail: /imgs/posts/game_over/05_tazmania/post_thumbnail.jpg
+cover: /imgs/posts/game_over/05_tazmania/post_header.jpg
 ---
+
 Hoje recebi o que estava planejando em ter a um bom tempo, um **Master System III Compact** com saída A/V! E graças ao amigo e colecionador Flávio, o Shiningstar, que faz esse tipo de modificação, recebi muito mais do que isso, recebi um Master com led de power, saída A/V e S-Video! Mas enfim, pretendo falar sobre ele em outro post, pois com a chegada do console, fui logo relembrar e zerar um jogo que considero um clássico da minha infância: Taz-Mania!
+
+<!--more-->
 
 Lançado em 1992 pela **Warner Bros.** e distribuído pela própria **Sega** (representada pela Tectoy aqui no Brasil), **Taz-Mania** é um jogo com gráficos relativamente simples, mas que ao mesmo tempo, são muito bonitos e bem feitos, dão um ar de desenho animado bem bacana!
 
@@ -27,11 +27,11 @@ O jogo em si possui apenas 5 estágios: Planície, Floresta, Caverna, Ruínas e 
 
 A história do jogo é a seguinte:
 
-*"Tudo começou quando o pai de Taz resolveu contar uma lenda. Ela dizia que em algum lugar da Tazmânia, existe uma ave tão grande que um de seus ovos é capaz de alimentar uma família inteira por um ano! UAU! Dá para imaginar?*
+_"Tudo começou quando o pai de Taz resolveu contar uma lenda. Ela dizia que em algum lugar da Tazmânia, existe uma ave tão grande que um de seus ovos é capaz de alimentar uma família inteira por um ano! UAU! Dá para imaginar?_
 
-*Taz mal podia acreditar no que estava ouvindo. Seus olhos brilharam, fascinados com a visão do omelete que ele poderia fazer com um ovo desses. Na mesma hora seu estômago começou a roncar - RONC! - e ele saiu em disparada para achar o tal pássaro.*
+_Taz mal podia acreditar no que estava ouvindo. Seus olhos brilharam, fascinados com a visão do omelete que ele poderia fazer com um ovo desses. Na mesma hora seu estômago começou a roncar - RONC! - e ele saiu em disparada para achar o tal pássaro._
 
-*Se o impaciente Taz tivesse esperado o final da história, saberia dos mil perigos que o separam do tão sonhado ovo: florestas impenetráveis, carvenas escuras, ruínas que desmoronam..."*
+_Se o impaciente Taz tivesse esperado o final da história, saberia dos mil perigos que o separam do tão sonhado ovo: florestas impenetráveis, carvenas escuras, ruínas que desmoronam..."_
 
 Enfim, **Taz-Mania** é um jogo bem legal, apanhei muito para zerá-lo na minha infância, mas hoje, vejo que não é um jogo difícil, apesar de ter algumas fases que exige uma boa habilidade para dar pulos precisos, mas nada que algumas tentativas não resolvam! :)
 

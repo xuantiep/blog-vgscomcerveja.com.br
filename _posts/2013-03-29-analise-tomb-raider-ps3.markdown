@@ -1,18 +1,20 @@
 ---
-layout:     post
-title:      "Análise - Tomb Raider (PS3)"
-date:       2013-03-29 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 04
+layout: post
+title: "Análise - Tomb Raider (PS3)"
+date: 2013-03-29 19:00
+author: felipebbarbosa
+session: Game Over &#35 04
 categories: jogando analise
-tags:       [sony, ps3, tomb-raider, crystal-dynamics, square-enix, analise, game-over]
-games:      [tomb-raider]
-thumbnail:  /imgs/posts/game_over/04_tomb_raider/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/04_tomb_raider/post_header.jpg
-sinopse: >
-  Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo Tomb Raider lançado pela Square-Enix agora neste mês de Março para PS3, Xbox 360 e PC.
+tags:
+  [sony, ps3, tomb-raider, crystal-dynamics, square-enix, analise, game-over]
+games: [tomb-raider]
+thumbnail: /imgs/posts/game_over/04_tomb_raider/post_thumbnail.jpg
+cover: /imgs/posts/game_over/04_tomb_raider/post_header.jpg
 ---
+
 Este com certeza estará na briga entre os melhores jogo do ano, com certeza! Estamos falando do novo **Tomb Raider** lançado pela **Square-Enix** agora neste mês de Março para PS3, Xbox 360 e PC.
+
+<!--more-->
 
 Com produção da **Crystal Dynamics**, o jogo apresenta o início da, digamos assim, "carreira" da musa **Lara Croft**, ou seja, uma Lara inexperiente e "frágil" que luta pela vida numa ilha tropical e misteriosa. A história começa com Lara e seu grupo numa expedição em busca de um lugar inexplorado para gravar um documentário, porém, o navio onde estavam, o **Endurance**, é atingido por uma forte tempestade e acaba naufragando. Os sobreviventes acabam indo parar nesta ilha ao redor do Mar do Diabo, e para piorar, a ilha possui uma espécie de maldição e os nativos não deixam ninguém sair da ilha. Lara e o restante da tripulação sobrevivente tem que lutar para sobreviver e conseguir escapar da ilha.
 
@@ -30,7 +32,7 @@ Eu joguei no modo Normal e consegui terminar o jogo em 100% sem muita dificuldad
 
 ## Troféus / Conquistas
 
-Os troféus do *single player* se resume a encontrar todos os coletáveis, tumbas, completar todos os desafios, evoluir todas suas habilidades e armas, e os de *kills*, que são os troféus de matar os inimigos de formas e armas diferentes, como por exemplo, matar 75 inimigos com o rifle. Porém, tem um troféu que tem que tomar cuidado para não deixar passar que é o **Chatterbox**, onde você tem que conversar com todos os sobreviventes do Endurance nos momentos certos.
+Os troféus do _single player_ se resume a encontrar todos os coletáveis, tumbas, completar todos os desafios, evoluir todas suas habilidades e armas, e os de _kills_, que são os troféus de matar os inimigos de formas e armas diferentes, como por exemplo, matar 75 inimigos com o rifle. Porém, tem um troféu que tem que tomar cuidado para não deixar passar que é o **Chatterbox**, onde você tem que conversar com todos os sobreviventes do Endurance nos momentos certos.
 
 Entretanto, tem uma coisa muito chata que dificulta bastante a platina do jogo, que são os troféus de multiplayer. São uns 15 no total, mas um deles é o de chegar ao nível 60! Muito chato! :(
 
@@ -41,7 +43,8 @@ Entretanto, tem uma coisa muito chata que dificulta bastante a platina do jogo, 
 TR é um jogão! Talvez o melhor da série, e é imperdível para quem é fã do gênero e da série. Quem ainda não jogou está perdendo tempo, a Crystal Dynamics fez um ótimo trabalho.
 
 #### Atualização 04/05/2013
-Finalmente consegui platinar o jogo! O pessoal pisou na bola ao colocar um troféu que exija que você chegue ao nível 60 no *multiplayer*, muita sacanagem! Mas a sacanagem seria muito maior se não fosse o *update 1.03* onde retiraram o Samurai do troféu **Shopaholic**, que para ganhá-lo você teria que adquirir todos os personagens e equipamentos do jogo, e para adquirir o Samurai exigia o *prestige 2*, ou seja, você teria que chegar ao nível 60 duas ou três vezes (uma vez já cansativo). Mas ainda bem que consertaram isso e não é mais necessário adquirir o Samurai! :)
+
+Finalmente consegui platinar o jogo! O pessoal pisou na bola ao colocar um troféu que exija que você chegue ao nível 60 no _multiplayer_, muita sacanagem! Mas a sacanagem seria muito maior se não fosse o _update 1.03_ onde retiraram o Samurai do troféu **Shopaholic**, que para ganhá-lo você teria que adquirir todos os personagens e equipamentos do jogo, e para adquirir o Samurai exigia o _prestige 2_, ou seja, você teria que chegar ao nível 60 duas ou três vezes (uma vez já cansativo). Mas ainda bem que consertaram isso e não é mais necessário adquirir o Samurai! :)
 
 {% include ficha.html
   titulo='Tomb Raider'

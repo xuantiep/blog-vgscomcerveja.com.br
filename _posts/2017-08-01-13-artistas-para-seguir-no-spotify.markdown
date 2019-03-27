@@ -1,20 +1,22 @@
 ---
-layout:     post
-title:      "13 artistas para seguir no Spotify"
-date:       2017-08-01 20:00
-author:     felipebbarbosa
-session:    Toplist &#35 07
+layout: post
+title: "13 artistas para seguir no Spotify"
+date: 2017-08-01 20:00
+author: felipebbarbosa
+session: Toplist &#35 07
 categories: jogando toplist
-tags:       [spotify, game-music, lists, toplist]
-thumbnail:  /imgs/posts/toplist/07_artistas_spotify/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/07_artistas_spotify/post_header.jpg
-sinopse: >
-  Um dos elementos que mais gosto em um jogo é sua trilha sonora. É ela quem te coloca no clima e dita o ritmo do jogo, concorda? Sendo assim, existem centenas de milhares de composições sonoras excelentes e marcantes e, por trás delas há sempre grandes artistas que a desenvolvem, certo? Entretanto, há também diversos de outros artistas que não compoem trilhas originais, mas que as recriam com maestria, cujo os resultados são tão fantásticos quanto as originais! E um ótimo lugar para encontrar esses artistas é no Spotify. Pensando nisso, selecionei 13 artistas dos quais eu mais escuto por lá, confira!
-
+tags: [spotify, game-music, lists, toplist]
+thumbnail: /imgs/posts/toplist/07_artistas_spotify/post_thumbnail.jpg
+cover: /imgs/posts/toplist/07_artistas_spotify/post_header.jpg
 ---
+
 Olá jogadores cervejeiros, tudo beleza?
 
-Um dos elementos que mais gosto em um jogo é sua trilha sonora. É ela quem te coloca no clima e dita o ritmo do jogo, concorda? Sendo assim, existem centenas de milhares de composições sonoras excelentes e marcantes e, por trás delas há sempre grandes artistas que a desenvolvem, certo? Entretanto, há também diversos de outros artistas que não compoem trilhas originais, mas que as recriam com maestria, cujo os resultados são tão fantásticos quanto as originais! E um ótimo lugar para encontrar esses artistas é no Spotify. Pensando nisso, selecionei 13 artistas dos quais eu mais escuto por lá, confira:
+Um dos elementos que mais gosto em um jogo é sua trilha sonora. É ela quem te coloca no clima e dita o ritmo do jogo, concorda? Sendo assim, existem centenas de milhares de composições sonoras excelentes e marcantes e, por trás delas há sempre grandes artistas que a desenvolvem, certo? Entretanto, há também diversos de outros artistas que não compoem trilhas originais, mas que as recriam com maestria, cujo os resultados são tão fantásticos quanto as originais! E um ótimo lugar para encontrar esses artistas é no Spotify. Pensando nisso, selecionei 13 artistas dos quais eu mais escuto por lá!
+
+<!--more-->
+
+Confira:
 
 ### Alexander Rosetti
 
@@ -64,7 +66,7 @@ Onde encontrá-lo:
 
 ### Good Knight Productions
 
-Estes caras são especialistas em criar álbuns completos dedicados ao *Old School Game Music*. Eles tem álbuns inteiros com apenas trilhas de um jogo ou franquia, tais como Mega Man, The Legend of Zelda, Gran Turismo, Silent Hill e vários outros. Selecionei dois álbuns (ainda não conseguir ouvir todos, são muitos!) que são uma espécie de coletâneas:
+Estes caras são especialistas em criar álbuns completos dedicados ao _Old School Game Music_. Eles tem álbuns inteiros com apenas trilhas de um jogo ou franquia, tais como Mega Man, The Legend of Zelda, Gran Turismo, Silent Hill e vários outros. Selecionei dois álbuns (ainda não conseguir ouvir todos, são muitos!) que são uma espécie de coletâneas:
 
 {% include image-link.html
   description="The All-Stars Collection Vol.1"
@@ -167,7 +169,7 @@ Onde encontrá-los:
 
 ### Retro Remix Revue
 
-Sem dúvidas, um dos meus artistas favoritos! Como o próprio nome sugere, eles fazem remixes de músicas de videogames *old school* e, não tem muito o que dizer, são excelentes! Simplesmente, confira:
+Sem dúvidas, um dos meus artistas favoritos! Como o próprio nome sugere, eles fazem remixes de músicas de videogames _old school_ e, não tem muito o que dizer, são excelentes! Simplesmente, confira:
 
 {% include image-link.html
   description="Retro Remix Revue, Volume 1"
@@ -197,7 +199,6 @@ Este cara também é um fenômeno nas reproduções de trilhas de games. Mas só
   width="240px" %}
 
 Destaques: [Castlevania - Bloody Tears](https://open.spotify.com/track/4V5PAkowcgFqmAZFf3d8yc), [Super Mario 64 - Dire Dire Docks](https://open.spotify.com/track/3uOosj31UCalY1w9PihJQX), [Sonic 2 - Chemical Plant Zone](https://open.spotify.com/track/4aVbMvsntV12MpQ7WGVoyM), [Super Metroid - Prologue Theme](https://open.spotify.com/track/6Qa0KkENVn8FTX0sOj64QQ)
-
 
 Onde encontrá-lo:
 [Spotify](https://open.spotify.com/artist/1eyGtJBOiRGtvXAEhQHpBS) e [YouTube](https://www.youtube.com/user/SmoothMcGroove).

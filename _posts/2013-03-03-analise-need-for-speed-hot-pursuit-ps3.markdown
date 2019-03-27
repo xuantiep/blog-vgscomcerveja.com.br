@@ -1,21 +1,22 @@
 ---
-layout:     post
-title:      "Análise - Need for Speed: Hot Pursuit (PS3)"
-date:       2013-03-03 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 02
+layout: post
+title: "Análise - Need for Speed: Hot Pursuit (PS3)"
+date: 2013-03-03 19:00
+author: felipebbarbosa
+session: Game Over &#35 02
 categories: jogando analise
-tags:       [sony, ps3, need-for-speed, criterion, electronic-arts, analise, game-over]
-games:      [need-for-speed-hot-pursuit]
-thumbnail:  /imgs/posts/game_over/02_nfs_hot_pursuit/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/02_nfs_hot_pursuit/post_header.jpg
-sinopse: >
-  Lançado em 2010 pela Electronic Arts e produzido pela Criterion Games (a mesma da série Burnout), Need for Speed: Hot Pursuit é a ressurreição do estilo que consagrou a série, o estilo de corrida de rua com perseguições policiais, porém, neste você pode ser tanto corredor fugitivo (racer) quanto corredor policial (cop).
-game_cover:
+tags:
+  [sony, ps3, need-for-speed, criterion, electronic-arts, analise, game-over]
+games: [need-for-speed-hot-pursuit]
+thumbnail: /imgs/posts/game_over/02_nfs_hot_pursuit/post_thumbnail.jpg
+cover: /imgs/posts/game_over/02_nfs_hot_pursuit/post_header.jpg
 ---
+
 Lançado em 2010 pela **Electronic Arts** e produzido pela **Criterion Games** (a mesma da série Burnout), **Need for Speed: Hot Pursuit** é a ressurreição do estilo que consagrou a série, o estilo de corrida de rua com perseguições policiais, porém, neste você pode ser tanto corredor fugitivo (racer) quanto corredor policial (cop).
 
-O jogo trouxe um novo ânimo a série que a andava meio "apagada" depois do, já clássico, **Need for Speed: Underground** (tá, o Most Wanted de 2005 era muito bom também)! No seu estilo de corrida arcade, este jogo é diversão garantida, com corridas alucinantes e muita velocidade, especialidades de Criterion. E por ser um jogo arcade, pilotar o carro em alta velocidade não é tão difícil, basta algumas vezes dar um toquinho no freio de mão que você fará uma curva com *drift* perfeito! :D
+<!--more-->
+
+O jogo trouxe um novo ânimo a série que a andava meio "apagada" depois do, já clássico, **Need for Speed: Underground** (tá, o Most Wanted de 2005 era muito bom também)! No seu estilo de corrida arcade, este jogo é diversão garantida, com corridas alucinantes e muita velocidade, especialidades de Criterion. E por ser um jogo arcade, pilotar o carro em alta velocidade não é tão difícil, basta algumas vezes dar um toquinho no freio de mão que você fará uma curva com _drift_ perfeito! :D
 
 {% include image.html
   url="/imgs/posts/game_over/02_nfs_hot_pursuit/foto1.jpg"
@@ -25,7 +26,7 @@ O jogo trouxe um novo ânimo a série que a andava meio "apagada" depois do, já
   url="/imgs/posts/game_over/02_nfs_hot_pursuit/foto2.jpg"
   description="..ou policial (cop)!" %}
 
-Um aspecto interessante do jogo é o sistema de evolução de carreira que liberam novos carros e novas "armas" conforme você sobe de nível! Opa.. espera lá, armas!? Isso mesmo, outro elemento interessante do *gameplay* é seu arsenal de armas, que vai de um simples turbo, malha de espinhos até o pedido de reforços de helicópteros (caso esteja como policial), que podem ser usados durante as corridas apertando os direcionais do D-Pad.
+Um aspecto interessante do jogo é o sistema de evolução de carreira que liberam novos carros e novas "armas" conforme você sobe de nível! Opa.. espera lá, armas!? Isso mesmo, outro elemento interessante do _gameplay_ é seu arsenal de armas, que vai de um simples turbo, malha de espinhos até o pedido de reforços de helicópteros (caso esteja como policial), que podem ser usados durante as corridas apertando os direcionais do D-Pad.
 
 O jogo conta com vários estilos de corridas, desde uma simples corrida (race), cujo o objetivo é chegar no final em primeiro, até você ser policial e ter que parar um único corredor fugitivo (interceptor).
 

@@ -1,21 +1,20 @@
 ---
-layout:     post
-title:      "Aquisição - Livro 1001 Jogos Que Você Deve Jogar Antes de Morrer"
-date:       2011-08-26 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
+layout: post
+title: "Aquisição - Livro 1001 Jogos Que Você Deve Jogar Antes de Morrer"
+date: 2011-08-26 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
 categories: colecionando colecao-pessoal
-tags:       [livros]
-thumbnail:  /imgs/posts/colecao/09_livro_1001_jogos/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/09_livro_1001_jogos/post_header.jpg
-sinopse: >
-  Pronto! Fiz minha primeira compra no site Amazon.com! Como a importação de livros não possui
-  impostos, resolvi experimentar o site comprando o livro "1001 Video Games You Must Play Before
-  You Die" de Tony Mott, editor da revista Edge.
+tags: [livros]
+thumbnail: /imgs/posts/colecao/09_livro_1001_jogos/post_thumbnail.jpg
+cover: /imgs/posts/colecao/09_livro_1001_jogos/post_header.jpg
 ---
+
 Pronto! Fiz minha primeira compra no site **Amazon.com**! Como a importação de livros não possui
 impostos, resolvi experimentar o site comprando o livro **"1001 Video Games You Must Play Before
 You Die"** de **Tony Mott**, editor da revista **Edge**.
+
+<!--more-->
 
 Com a ajuda de vários colaboradores especializados no assunto, este livro contém nada mais e nada
 menos do que 1001 jogos que, segundos eles, você deve jogar antes de morrer. O livro foi lançado

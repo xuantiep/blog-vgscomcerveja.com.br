@@ -1,25 +1,25 @@
 ---
-layout:     post
-title:      "Análise - Uncharted 4: A Thief's End (PS4)"
-date:       2016-05-18 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 30
+layout: post
+title: "Análise - Uncharted 4: A Thief's End (PS4)"
+date: 2016-05-18 19:00
+author: felipebbarbosa
+session: Game Over &#35 30
 categories: jogando analise
-tags:       [sony, ps4, uncharted, naughty-dog, analise, game-over]
-games:      [uncharted-4]
-thumbnail:  /imgs/posts/game_over/30_uncharted4/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/30_uncharted4/post_header.jpg
-sinopse: >
-  Maravilhoso, incrível, espetacular.. Faltam elogios para Uncharted 4 que atendeu, ou melhor, superou todas as expectativas que tinha sobre o jogo.
-game_cover:
+tags: [sony, ps4, uncharted, naughty-dog, analise, game-over]
+games: [uncharted-4]
+thumbnail: /imgs/posts/game_over/30_uncharted4/post_thumbnail.jpg
+cover: /imgs/posts/game_over/30_uncharted4/post_header.jpg
 ---
+
 A **Naughty Dog** provou mais uma vez, que sabe contar uma boa história! Doses perfeitas de ação, aventura, drama e muito bom humor, sem deixar de lado a ótima experiência de jogar. Fiz QUESTÃO de comprar o jogo no lançamento, e após 16 horas de jogo, concluí o que teoricamente encerra a saga de Nathan Drake!
+
+<!--more-->
 
 Lançado oficialmente no último dia 10 de Maio, **Uncharted 4: A Thief's End** conta a história de um Drake aposentado de suas aventuras, vivendo uma "vida normal" ao lado de sua esposa Elena. Porém, essa rotina não é a cara de Drake, que claramente não está feliz com isso. Mas como ele prometeu que não se arriscaria mais em aventuras perigosas e ilegais em busca de tesouros perdidos, ele tenta de alguma forma encontrar a felicidade em sua rotina.
 
 Até que o inusitado acontece, seu irmão mais velho, Sam Drake, que era dado como morto à mais de 15 anos, aparece e precisa de sua ajuda para encontrar um lendário tesouro pirata de Henry Avery. Porém, desta vez, não é simplesmente uma busca ao tesouro, a vida de Sam está em jogo e eles precisam do tesouro para salvá-lo!
 
-Este é mais ou menos o contexto do jogo, não vou entrar muito em detalhe para não dar *spoilers*, mas como sempre, eles não são os únicos que estão em busca deste tesouro, e muitos confrontos estão por vir.
+Este é mais ou menos o contexto do jogo, não vou entrar muito em detalhe para não dar _spoilers_, mas como sempre, eles não são os únicos que estão em busca deste tesouro, e muitos confrontos estão por vir.
 
 Eles também contam com a ajuda de seu velho amigo, Victor Sullivan, para seguirem as pistas e chegarem primeiro ao tesouro. Não sei se é a melhor, mas é uma incrível história de aventura, contada da melhor forma possível, simplesmente você não querer parar de jogar antes de chegar no final. E para quem é fã da série, o jogo possui várias homenagens aos jogos anteriores. :)
 
@@ -73,13 +73,13 @@ Quando disse no [post passado](/jogando/analise/2016/05/05/analise-uncharted-the
 
 O jogo não é de mundo aberto (e isso é muito bom), mas os cenários tem algumas áreas de tamanho razoável, onde você pode explorar à vontade cada canto, e você não ficará entediado ou perdido, pois são altamente detalhados e únicos.. dá prazer em explorá-los!
 
-E por falar nisso, para quem gosta, o jogo mantém os tradicionais tesouros espalhados e escondidos pelos cenários, e conta também, com cartas de antepassados e anotações que Drake faz em seu diário, que complementam bastante a história e te auxiliam nos *puzzles*, que desta vez, estão bem criativos e elaborados, mas nada muito complexo ou demorado!
+E por falar nisso, para quem gosta, o jogo mantém os tradicionais tesouros espalhados e escondidos pelos cenários, e conta também, com cartas de antepassados e anotações que Drake faz em seu diário, que complementam bastante a história e te auxiliam nos _puzzles_, que desta vez, estão bem criativos e elaborados, mas nada muito complexo ou demorado!
 
 Como nos jogos anteriores, você ainda só pode carregar duas armas, mas a variedade do arsenal aumentou bastante, com armas inéditas. Mas uma coisa que me chamou a atenção foram os efeitos sonoros, os tiros e as explosões estão muito mais realistas! Nossa, as explosões estão muito legais! ^^
 
 Vale destacar também, a dublagem para nosso idioma, que desta vez está muito bem feita! Eu que geralmente gosto de jogar no idioma original (com legendas), não me incomodei em jogar dublado!
 
-Bom, o que mais? Não vou falar do modo *multiplayer* por enquanto, pois joguei só um pouco, mas me pareceu promissor, talvez eu complemente este post no futuro. Tem muitos detalhes bacanas que gostaria de comentar por aqui, mas aí estaria estragando a surpresa de quem ainda não jogou!
+Bom, o que mais? Não vou falar do modo _multiplayer_ por enquanto, pois joguei só um pouco, mas me pareceu promissor, talvez eu complemente este post no futuro. Tem muitos detalhes bacanas que gostaria de comentar por aqui, mas aí estaria estragando a surpresa de quem ainda não jogou!
 
 Mas enfim, Uncharted 4 é um daqueles jogos que não precisam de muito para me convencer a jogá-los, pois ele já tinha me ganho pela qualidade dos seus excelentes jogos anteriores, e para nossa felicidade, ele conseguiu superar todos eles! Foi um ótimo desfeicho da série, que certamente irá deixar saudades!
 

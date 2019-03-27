@@ -1,20 +1,19 @@
 ---
-layout:     post
-title:      "Análise - Medal of Honor (PS1)"
-date:       2014-09-11 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 19
+layout: post
+title: "Análise - Medal of Honor (PS1)"
+date: 2014-09-11 19:00
+author: felipebbarbosa
+session: Game Over &#35 19
 categories: jogando analise
-tags:       [sony, ps1, electronic-arts, analise, game-over]
-games:      [medal-of-honor]
-thumbnail:  /imgs/posts/game_over/19_medal_of_honor/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/19_medal_of_honor/post_header.jpg
-sinopse: >
-  Já fazia um tempinho que queria relembrar Medal of Honor. Sim,  o primeiro deles no PS1, eu acredito que ele foi um marco importante para indústria, principalmente para jogos FPS. Sendo assim, mesmo com uma lista enorme de jogos que tenho para jogar, resolvi encaixá-lo.
-game_cover:
-
+tags: [sony, ps1, electronic-arts, analise, game-over]
+games: [medal-of-honor]
+thumbnail: /imgs/posts/game_over/19_medal_of_honor/post_thumbnail.jpg
+cover: /imgs/posts/game_over/19_medal_of_honor/post_header.jpg
 ---
-Já fazia um tempinho que queria relembrar **Medal of Honor**. Sim,  o primeiro deles no PS1, eu acredito que ele foi um marco importante para indústria, principalmente para jogos FPS. Sendo assim, mesmo com uma lista enorme de jogos que tenho para jogar, resolvi encaixá-lo na frente.
+
+Já fazia um tempinho que queria relembrar **Medal of Honor**. Sim, o primeiro deles no PS1, eu acredito que ele foi um marco importante para indústria, principalmente para jogos FPS. Sendo assim, mesmo com uma lista enorme de jogos que tenho para jogar, resolvi encaixá-lo na frente.
+
+<!--more-->
 
 Lançado em 1999 pela [Electronic Arts](https://www.ea.com/pt-br) e desenvolvido pela **DreamWorks Interactive** (atual **EA Los Angeles**) sob consultoria de ninguém menos que **Steven Spielberg**, que tinha acabado de lançar o filme **O Resgate do Soldado Ryan**. MoH é um jogo de tiro em primeira pessoa (FPS - First Person Shooter) ambientado durante a Segunda Guerra Mundial para PS1, ou seja, Spielberg era o cara perfeito para ajudar.
 
@@ -34,7 +33,7 @@ Ao todo o jogo possui apenas sete missões, porém com algumas fases em cada uma
 
 {% include image.html url="/imgs/posts/game_over/19_medal_of_honor/foto2.jpg" description="Eu particularmente não ganhei muitas medalhas! :(" %}
 
-Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha sonora e jogabilidade! Recomendo para quem gosta de FPS, principalmente para sentir a diferença entre os jogos atuais. Apesar de eu não ser um grande fã do gênero, fiquei curioso para jogar agora o **Goldeneye 007** (N64) para comparar, pois existia um *mimimi* entre *"istas"* da época para ver qual era melhor. Eu acho que ambos contribuíram para indústria.
+Enfim, **Medal of Honor** é um excelente jogo com ótimos gráficos, trilha sonora e jogabilidade! Recomendo para quem gosta de FPS, principalmente para sentir a diferença entre os jogos atuais. Apesar de eu não ser um grande fã do gênero, fiquei curioso para jogar agora o **Goldeneye 007** (N64) para comparar, pois existia um _mimimi_ entre _"istas"_ da época para ver qual era melhor. Eu acho que ambos contribuíram para indústria.
 
 Mas **Medal of Honor > Goldeneye 007**! #treta #brincadeira
 

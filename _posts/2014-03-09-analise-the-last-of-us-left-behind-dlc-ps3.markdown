@@ -1,25 +1,25 @@
 ---
-layout:     post
-title:      "Análise - The Last of Us: Left Behind (PS3)"
-date:       2014-03-09 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 16
+layout: post
+title: "Análise - The Last of Us: Left Behind (PS3)"
+date: 2014-03-09 19:00
+author: felipebbarbosa
+session: Game Over &#35 16
 categories: jogando analise
-tags:       [sony, ps3, naughty-dog, analise, game-over]
-games:      [the-last-of-us]
-thumbnail:  /imgs/posts/game_over/16_the_last_of_us_left_behind/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/16_the_last_of_us_left_behind/post_header.jpg
-sinopse: >
-  Após ver o anúncio de um DLC single player para The Last of Us, pensei comigo mesmo (e pelo Twitter): "Acho que este será o primeiro DLC que comprarei na vida!", dito e feito, DLC comprada, finalizada e sem arrependimentos! ^^
-game_cover:
+tags: [sony, ps3, naughty-dog, analise, game-over]
+games: [the-last-of-us]
+thumbnail: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_thumbnail.jpg
+cover: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_header.jpg
 ---
-Após ver o anúncio de um *DLC single player* para **The Last of Us**, pensei comigo mesmo (e pelo [Twitter](https://twitter.com/felipebbarbosa/status/422834851637493760)): *"Acho que este será o primeiro DLC que comprarei na vida!"*, dito e feito, *DLC* comprada, finalizada e sem arrependimentos! ^^
+
+Após ver o anúncio de um _DLC single player_ para **The Last of Us**, pensei comigo mesmo (e pelo [Twitter](https://twitter.com/felipebbarbosa/status/422834851637493760)): _"Acho que este será o primeiro DLC que comprarei na vida!"_, dito e feito, _DLC_ comprada, finalizada e sem arrependimentos! ^^
+
+<!--more-->
 
 {% include youtubePlayer.html id='FjkM414zZRU' %}
 
-**The Last of Us: Left Behind** é um *DLC* (*Downloadable Content* ou Conteúdo para Download, em Português) lançado pela **Naughty Dog** em Fevereiro deste ano, onde transformou a jovem **_Ellie_** na protagonista do jogo!
+**The Last of Us: Left Behind** é um _DLC_ (_Downloadable Content_ ou Conteúdo para Download, em Português) lançado pela **Naughty Dog** em Fevereiro deste ano, onde transformou a jovem **_Ellie_** na protagonista do jogo!
 
-A história se passa em um momento específico do jogo original, porém não vivenciada por nós jogadores. Entretanto, durante esta aventura, o jogo volta ao passado e conta uma história de **_Ellie_** antes dos acontecimentos da trama principal,  onde ela vive uma aventura em um *shopping* abandonado com sua amiga **_Riley_**, ou seja, o jogo tem duas linha narrativas. E o jeito que elas são alternadas é brilhante e sutil!
+A história se passa em um momento específico do jogo original, porém não vivenciada por nós jogadores. Entretanto, durante esta aventura, o jogo volta ao passado e conta uma história de **_Ellie_** antes dos acontecimentos da trama principal, onde ela vive uma aventura em um _shopping_ abandonado com sua amiga **_Riley_**, ou seja, o jogo tem duas linha narrativas. E o jeito que elas são alternadas é brilhante e sutil!
 
 {% include image.html url="/imgs/posts/game_over/16_the_last_of_us_left_behind/foto1.jpg" %}
 
@@ -29,7 +29,7 @@ O ponto forte continua sendo a narrativa envolvente. É impressionante como o jo
 
 {% include image.html url="/imgs/posts/game_over/16_the_last_of_us_left_behind/foto2.jpg" %}
 
-Bom, não tem muito o que falar, simplesmente joguem, pois apesar de ser um *DLC* com um valor (R$) relativamente alto, valeu a pena!
+Bom, não tem muito o que falar, simplesmente joguem, pois apesar de ser um _DLC_ com um valor (R\$) relativamente alto, valeu a pena!
 
 {% include ficha.html
   titulo='The Last of Us: Left Behind'

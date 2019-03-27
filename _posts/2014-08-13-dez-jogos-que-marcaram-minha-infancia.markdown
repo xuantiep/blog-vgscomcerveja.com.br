@@ -1,18 +1,44 @@
 ---
-layout:     post
-title:      "10 jogos que marcaram minha infância"
-date:       2014-08-13 19:00
-author:     felipebbarbosa
-session:    Toplist &#35 02
+layout: post
+title: "10 jogos que marcaram minha infância"
+date: 2014-08-13 19:00
+author: felipebbarbosa
+session: Toplist &#35 02
 categories: jogando toplist
-tags:       [atari, sonic, sega, master-system, nintendo, snes, mega-drive, tomb-raider, metal-gear-solid, gran-turismo, lists, toplist]
-games:      [megamania, sonic, double-dragon, super-mario-world, donkey-kong-country-2, tomb-raider-3, metal-gear-solid, resident-evil-3, gran-turismo]
-thumbnail:  /imgs/posts/toplist/02_jogos_infancia/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/02_jogos_infancia/post_header.jpg
-sinopse: >
-  Dias atrás vi um post de um amigo no grupo de Master System no Facebook cujo a ideia era listar cinco jogos que tinham marcado sua infância. Na verdade, trata-se de uma brincadeira que estava rolando entre os youtubers. Porém, gostei da ideia e resolvi listar meus jogos marcantes, mas como não estou na brincadeira, mudei de cinco para dez jogos, que irei listar em ordem cronológica! :)
+tags:
+  [
+    atari,
+    sonic,
+    sega,
+    master-system,
+    nintendo,
+    snes,
+    mega-drive,
+    tomb-raider,
+    metal-gear-solid,
+    gran-turismo,
+    lists,
+    toplist,
+  ]
+games:
+  [
+    megamania,
+    sonic,
+    double-dragon,
+    super-mario-world,
+    donkey-kong-country-2,
+    tomb-raider-3,
+    metal-gear-solid,
+    resident-evil-3,
+    gran-turismo,
+  ]
+thumbnail: /imgs/posts/toplist/02_jogos_infancia/post_thumbnail.jpg
+cover: /imgs/posts/toplist/02_jogos_infancia/post_header.jpg
 ---
-Dias atrás vi um post de um amigo no grupo de Master System no Facebook cujo a ideia era listar cinco jogos que tinham marcado sua infância. Na verdade, trata-se de uma brincadeira que estava rolando entre os *youtubers*. Porém, gostei da ideia e resolvi listar meus jogos marcantes, mas como não estou na brincadeira, mudei de cinco para dez jogos, que irei listar em ordem cronológica! :)
+
+Dias atrás vi um post de um amigo no grupo de Master System no Facebook cujo a ideia era listar cinco jogos que tinham marcado sua infância. Na verdade, trata-se de uma brincadeira que estava rolando entre os _youtubers_. Porém, gostei da ideia e resolvi listar meus jogos marcantes, mas como não estou na brincadeira, mudei de cinco para dez jogos, que irei listar em ordem cronológica! :)
+
+<!--more-->
 
 ## 10. Megamania (Atari 2600)
 
@@ -36,7 +62,7 @@ Para mim, esse jogo é um dos melhores jogos do console e gosto demais dele, mas
 
 Desde que ganhamos o Master, minha irmã queria a fita do **Double Dragon**, pois ela já conhecia através dos amigos dela. E quando meu pai viu um anúncio nos classificados do jornal, compramos! Que jogo divertido para jogar de dois, acho que foi o primeiro jogo que joguei com dois jogadores simultâneos.
 
-Tenho ótimas lembranças de eu e meus irmãos (somos em três) jogando. Porém, este jogo era muito difícil, dava trabalho para chegar na quarta fase e, passávemos muita raiva, quando chegavamos no último chefão e acabava nossas vidas e dava *Game Over*, a gente desconhecia aquele truque que dava vidas extras na quarta fase! Mas mesmo assim, acho que conseguimos terminá-lo na época!
+Tenho ótimas lembranças de eu e meus irmãos (somos em três) jogando. Porém, este jogo era muito difícil, dava trabalho para chegar na quarta fase e, passávemos muita raiva, quando chegavamos no último chefão e acabava nossas vidas e dava _Game Over_, a gente desconhecia aquele truque que dava vidas extras na quarta fase! Mas mesmo assim, acho que conseguimos terminá-lo na época!
 
 ## 07. Super Mario World (Super Nintendo)
 
@@ -72,7 +98,7 @@ Na época, eu cheguei a terminar os três últimos jogos da série e em cada um 
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/gran-turismo.jpg" %}
 
-Quando descobri que estava prestes a ganhar meu PS1 de dia das crianças em 1998, corri para locadora (antiga Gabri Games, saudades! ^^) para comprar o melhor jogo de corrida que tinha jogado: o **Gran Turismo**, cujo paguei suados R$ 12 (alternativo, é claro!).
+Quando descobri que estava prestes a ganhar meu PS1 de dia das crianças em 1998, corri para locadora (antiga Gabri Games, saudades! ^^) para comprar o melhor jogo de corrida que tinha jogado: o **Gran Turismo**, cujo paguei suados R\$ 12 (alternativo, é claro!).
 
 Conhecia GT através de uma demo que vinha no **CD Interactive** que meu amigo tinha. Nesta época, eu jogava bastante **International Rally Championship** e **Test Drive 4** no PC, mas depois de GT, não conseguia mais jogá-los. Jogo de corrida para mim era Gran Turismo e mais nada (como eu era tonto).
 
@@ -82,7 +108,7 @@ Este conceito só foi quebrado tempos depois com o **Need for Speed: Underground
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/power-rangers.jpg" %}
 
-Em segundo lugar estão dois jogos, pois não tem como separá-los! Minha lembrança deles é de algumas tardes que passei junto com um outro amigo jogando em co-op. Começamos pelo **Lightspeed Rescue** e após zerar, já emendamos no **Time Force**. Este amigo é muito fã de *Tokusatsus*, e mesmo sabendo que Power Rangers é uma porcaria porque a Saban estragou os *sentais* japoneses, a gente jogava mesmo assim, era bem divertido! Tempo bom que não volta mais!
+Em segundo lugar estão dois jogos, pois não tem como separá-los! Minha lembrança deles é de algumas tardes que passei junto com um outro amigo jogando em co-op. Começamos pelo **Lightspeed Rescue** e após zerar, já emendamos no **Time Force**. Este amigo é muito fã de _Tokusatsus_, e mesmo sabendo que Power Rangers é uma porcaria porque a Saban estragou os _sentais_ japoneses, a gente jogava mesmo assim, era bem divertido! Tempo bom que não volta mais!
 
 ## 01. Metal Gear Solid (PS1)
 

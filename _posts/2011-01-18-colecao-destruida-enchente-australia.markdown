@@ -1,20 +1,19 @@
 ---
-layout:     post
-title:      "Coleção destruída em enchente na Austrália"
-date:       2011-01-18 19:00
-author:     felipebbarbosa
-session:    Drops &#35 03
+layout: post
+title: "Coleção destruída em enchente na Austrália"
+date: 2011-01-18 19:00
+author: felipebbarbosa
+session: Drops &#35 03
 categories: noticias
-thumbnail:  /imgs/posts/news/03_enchente_australia/post_thumbnail.jpg
-cover:      /imgs/posts/news/03_enchente_australia/post_header.jpg
-sinopse: >
-  Não é somente aqui no Brasil que as enchentes estão atacando com tudo, na Austrália teve uma triste
-  história de um colecionador de videogames, identificado como NFC, que teve sua coleção praticamente
-  destruída devido à uma forte enchente.
+thumbnail: /imgs/posts/news/03_enchente_australia/post_thumbnail.jpg
+cover: /imgs/posts/news/03_enchente_australia/post_header.jpg
 ---
+
 Não é somente aqui no Brasil que as enchentes estão atacando com tudo, na Austrália teve uma triste
 história de um colecionador de videogames, identificado como NFC, que teve sua coleção praticamente
 destruída devido à uma forte enchente.
+
+<!--more-->
 
 {% include image.html url="/imgs/posts/news/03_enchente_australia/foto.jpg" description="Muito triste!" %}
 

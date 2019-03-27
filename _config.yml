@@ -12,6 +12,17 @@ github_username: felipebbarbosa
 # Build settings
 markdown: kramdown
 
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: "post"
+      og_type: article
+      type: article
+      excerpt_separator: <!--more-->
+
 #files_to_cache:
 #  - "/js/vcc.js"
 

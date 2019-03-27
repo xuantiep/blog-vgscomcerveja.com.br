@@ -1,22 +1,22 @@
 ---
-layout:     post
-title:      "3 platinas fáceis, porém somente em disco no PS3!"
-date:       2017-08-29 21:00
-author:     felipebbarbosa
-session:    Toplist &#35 09 - Caçadores de Troféus &#35 01
+layout: post
+title: "3 platinas fáceis, porém somente em disco no PS3!"
+date: 2017-08-29 21:00
+author: felipebbarbosa
+session: Toplist &#35 09 - Caçadores de Troféus &#35 01
 categories: jogando toplist
-tags:       [sony, ps3, trofeus, lists, toplist]
-thumbnail:  /imgs/posts/toplist/09_cacadores_trofeus1/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/09_cacadores_trofeus1/post_header.jpg
-sinopse:
-  Olá jogadores cervejeiros, tudo bom? Quem me conhece um pouco, sabe que gosto de "caçar" os troféus dos jogos. Para mim, este foi um dos recursos mais legais adicionados na geração passada (7a geração) e, apesar do Xbox 360 ter sido pioneiro com os achievements (conquistas), sou mais fã dos troféus do PlayStation. Porém, independente da plataforma, gostaria de iniciar uma nova série aqui no blog, Caçadores de Troféus!
-
+tags: [sony, ps3, trofeus, lists, toplist]
+thumbnail: /imgs/posts/toplist/09_cacadores_trofeus1/post_thumbnail.jpg
+cover: /imgs/posts/toplist/09_cacadores_trofeus1/post_header.jpg
 ---
+
 Olá jogadores cervejeiros, tudo bom?
 
-Quem me conhece um pouco, sabe que gosto de "caçar" os troféus dos jogos. Para mim, este foi um dos recursos mais legais adicionados na geração passada (7a geração) e, apesar do Xbox 360 ter sido pioneiro com os *achievements* (conquistas), sou mais fã dos troféus do PlayStation. Porém, independente da plataforma, gostaria de iniciar uma nova série aqui no blog: **Caçadores de Troféus**!
+Quem me conhece um pouco, sabe que gosto de "caçar" os troféus dos jogos. Para mim, este foi um dos recursos mais legais adicionados na geração passada (7a geração) e, apesar do Xbox 360 ter sido pioneiro com os _achievements_ (conquistas), sou mais fã dos troféus do PlayStation. Porém, independente da plataforma, gostaria de iniciar uma nova série aqui no blog: **Caçadores de Troféus**!
 
 Aqui pretendo indicar alguns jogos bons (ou quase isso ^^') que possuem troféus relativamente fáceis de serem adquiridos para você dar um "UP" no seu perfil, seja ele da LIVE, PSN ou de qualquer outra plataforma que tenha troféus! :)
+
+<!--more-->
 
 Mas não serão somente os troféus fáceis que pintarão por aqui, a ideia é falar dos mais variados jogos, porém com uma ênfase maior em seus achievements! E para começar, vamos com os fáceis: 3 jogos para PS3 tranquilos de platinar, porém, infelizmente, você só os encontra em mídia física (disco):
 
@@ -30,7 +30,7 @@ Não poderia deixar de começar esta série se não fosse com este jogo, "cláss
 {% include image.html
   url="/imgs/posts/toplist/09_cacadores_trofeus1/terminator_salvation_screenshot.jpg" %}
 
-Bom, só o fato de ser um jogo baseado em filme já diz muita coisa, né? Mas no papel de John Connor, numa Los Angeles pós-apocalíptica, você terá que enfrentar vários tipos de máquinas até que chegue ao final (não, não chega nem perto de [Horizon Zero Dawn](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html)..rs). O problema é que apesar de ser um jogo de tiro em terceira pessoa, a única coisa que agrada um pouco é sistema de *cover* que até funciona legal e deixa o jogo um pouco divertido, pois o restante é deprimente (infelizmente), não tem capricho nenhum, gráficos com cenários repetitivos, personagens sem expressão, inteligência artificial fraca.. enfim um jogo bem mediano para ruim!
+Bom, só o fato de ser um jogo baseado em filme já diz muita coisa, né? Mas no papel de John Connor, numa Los Angeles pós-apocalíptica, você terá que enfrentar vários tipos de máquinas até que chegue ao final (não, não chega nem perto de [Horizon Zero Dawn](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html)..rs). O problema é que apesar de ser um jogo de tiro em terceira pessoa, a única coisa que agrada um pouco é sistema de _cover_ que até funciona legal e deixa o jogo um pouco divertido, pois o restante é deprimente (infelizmente), não tem capricho nenhum, gráficos com cenários repetitivos, personagens sem expressão, inteligência artificial fraca.. enfim um jogo bem mediano para ruim!
 
 {% include game-psn-trophies-card.html
   platinas=1 ouros=11 pratas=0 bronzes=0
@@ -68,7 +68,6 @@ Tirando isso, os outros trofeús não tem segredo nenhum, são basicamente relac
   online="Não"
   jogadas="2" %}
 
-
 ### MIB: Alien Crisis
 
 {% include image.html
@@ -76,9 +75,9 @@ Tirando isso, os outros trofeús não tem segredo nenhum, são basicamente relac
 
 Tivemos robôs exterminadores, dinossauros e agora para finalizar, alienígenas.. só ficou faltando zumbis! :o)
 
-**MIB: Alien Crisis** é um jogo de tiro em terceira pessoa do estilo *rail-shooter*, onde você não tem muita (ou nenhuma) liberdade de exploração da área, você é conduzido através dos cenários e a única coisa que tem que fazer é atirar!
+**MIB: Alien Crisis** é um jogo de tiro em terceira pessoa do estilo _rail-shooter_, onde você não tem muita (ou nenhuma) liberdade de exploração da área, você é conduzido através dos cenários e a única coisa que tem que fazer é atirar!
 
-Mas ele não é completamente travado como a maioria dos jogos do gênero, por ser em terceira pessoa, você até consegue se movimentar para se proteger dos inimigos. Além disso, algumas fases são diferentes, onde você até chega a controlar alguns veículos, se transformando quase num *shoot'em up* (ou shmup). O jogo foi desenvolvido pensando em atender o controle de movimento do PS Move, mas funciona muito bem com controle convencional mesmo.
+Mas ele não é completamente travado como a maioria dos jogos do gênero, por ser em terceira pessoa, você até consegue se movimentar para se proteger dos inimigos. Além disso, algumas fases são diferentes, onde você até chega a controlar alguns veículos, se transformando quase num _shoot'em up_ (ou shmup). O jogo foi desenvolvido pensando em atender o controle de movimento do PS Move, mas funciona muito bem com controle convencional mesmo.
 
 O jogo chega a ser divertido em alguns momentos, mas assim como os jogos citados anteriormente, ele é bem mediano, falta um certo capricho por parte dos desenvolvedores.
 

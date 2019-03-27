@@ -1,17 +1,18 @@
 ---
-layout:     post
-title:      "Aquisição - Xbox 360!"
-date:       2012-06-12 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
+layout: post
+title: "Aquisição - Xbox 360!"
+date: 2012-06-12 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
 categories: colecionando colecao-pessoal
-tags:       [microsoft, xbox-360]
-thumbnail:  /imgs/posts/colecao/13_xbox_360/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/13_xbox_360/post_header.jpg
-sinopse: >
-  O post de hoje é um post rápido e especial aos Dias dos Namorados! E sabe porquê? Porque simplesmente ganhei este "presentinho" da minha namorada: um Xbox 360!
+tags: [microsoft, xbox-360]
+thumbnail: /imgs/posts/colecao/13_xbox_360/post_thumbnail.jpg
+cover: /imgs/posts/colecao/13_xbox_360/post_header.jpg
 ---
+
 O post de hoje é um post rápido e especial aos **Dias dos Namorados**! E sabe porquê? Porque simplesmente ganhei este "presentinho" da minha namorada: um Xbox 360!
+
+<!--more-->
 
 {% include image.html
   url="/imgs/posts/colecao/13_xbox_360/xbox-360_2.jpg"
@@ -25,4 +26,4 @@ Bom é isto, só queria compartilhar minha felicidade e dizer que agora sou "cai
   url="/imgs/posts/colecao/13_xbox_360/xbox-360_1.jpg"
   description="360" %}
 
-*E a minha noiva só tenho duas coisas a dizer: muito obrigado, eu te amo demais! Feliz Dia dos Namorados! :D*
+_E a minha noiva só tenho duas coisas a dizer: muito obrigado, eu te amo demais! Feliz Dia dos Namorados! :D_

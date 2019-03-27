@@ -1,22 +1,21 @@
 ---
-layout:     post
-title:      "Coleção de Arcades do Michael Jackson"
-date:       2011-01-11 19:00
-author:     felipebbarbosa
-session:    Drops &#35 02
+layout: post
+title: "Coleção de Arcades do Michael Jackson"
+date: 2011-01-11 19:00
+author: felipebbarbosa
+session: Drops &#35 02
 categories: noticias
-tags:       [arcades]
-thumbnail:  /imgs/posts/news/02_arcades_michael_jackson/post_thumbnail.jpg
-cover:      /imgs/posts/news/02_arcades_michael_jackson/post_header.jpg
-sinopse: >
-  Que Michael Jackson foi um grande cantor e dançarino todo mundo sabe, que ele "atuou" nos
-  videogames quase todo mundo sabe, mas que ele tinha uma enorme coleção de arcades nem todo mundo
-  sabe. E o melhor tem um site onde você pode fazer um tour pela coleção dele.
+tags: [arcades]
+thumbnail: /imgs/posts/news/02_arcades_michael_jackson/post_thumbnail.jpg
+cover: /imgs/posts/news/02_arcades_michael_jackson/post_header.jpg
 ---
+
 Que **Michael Jackson** foi um grande cantor e dançarino todo mundo sabe, que ele "atuou" nos
 videogames (exemplo Moonwalker - Mega Drive / Master System) quase todo mundo sabe, mas que ele
 tinha uma enorme coleção de arcades nem todo mundo sabe. E o melhor tem um site onde você pode
 fazer um tour pela coleção dele.
+
+<!--more-->
 
 Pois é, Michael além de "rei do pop" também era colecionador, ele tinha uma coleção de arcades
 de impressionar muita gente!

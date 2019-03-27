@@ -1,21 +1,20 @@
 ---
-layout:     post
-title:      "Sony lançará PS3 exclusivos para Copa de 2014"
-date:       2011-07-30 19:00
-author:     felipebbarbosa
-session:    Drops &#35 04
+layout: post
+title: "Sony lançará PS3 exclusivos para Copa de 2014"
+date: 2011-07-30 19:00
+author: felipebbarbosa
+session: Drops &#35 04
 categories: noticias
-tags:       [sony, ps3]
-thumbnail:  /imgs/posts/news/04_ps3_copa2014/post_thumbnail.jpg
-cover:      /imgs/posts/news/04_ps3_copa2014/post_header.jpg
-sinopse: >
-   A Sony está investindo forte no mercado brasileiro de videogames, segundo uma matéria do site G1,
-   ela fabricou cinco (apenas) consoles de PS3 exclusivos em homenagem a Copa do Mundo FIFA 2014
-   que será realizada aqui no Brasil.
+tags: [sony, ps3]
+thumbnail: /imgs/posts/news/04_ps3_copa2014/post_thumbnail.jpg
+cover: /imgs/posts/news/04_ps3_copa2014/post_header.jpg
 ---
+
 A **Sony** está investindo forte no mercado brasileiro de videogames, segundo uma matéria do site G1,
 ela fabricou cinco (apenas) consoles de PS3 exclusivos em homenagem a **Copa do Mundo FIFA 2014**
 que será realizada aqui no Brasil.
+
+<!--more-->
 
 Trata-se de uma série limitadíssima, cujo 3 dos 5 consoles já tem destino certo: serão doados à
 instituições de caridade daqui do Brasil para arrecadar fundos. Os outros dois não sabe o destino.
@@ -35,4 +34,4 @@ serão feitas hoje, dia 30.
 
 A Sony resolveu investir de vez no mercado brasileiro, semana passada, mas precisamente dia
 21 de Julho de 2011 a Sony inaugurou oficialmente a PSN brasileira, com jogos na PS Store com
-valores em reais (R$).
+valores em reais (R\$).

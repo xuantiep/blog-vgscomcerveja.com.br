@@ -1,16 +1,17 @@
 ---
-layout:     post
-title:      "Novidades no Blog!"
-date:       2013-02-05 19:00
-author:     felipebbarbosa
-session:    Drops
+layout: post
+title: "Novidades no Blog!"
+date: 2013-02-05 19:00
+author: felipebbarbosa
+session: Drops
 categories: noticias
-thumbnail:  
-cover:
-sinopse: >
-   O ano virou e já estamos em 2013! O carnaval não passou ainda, mas "já" vamos voltar a ativa com o blog ^^. Bom, primeiramente, gostaria de contar algumas novidades!
 ---
-O ano virou e já estamos em 2013! O carnaval não passou ainda, mas "já" vamos voltar a ativa com o blog ^^. Bom, primeiramente, gostaria de contar algumas novidades! Depois de muita pesquisa de mercado, cálculos matemáticos complexos e estudos sociais, resolvi dividir o blog em dois:
+
+O ano virou e já estamos em 2013! O carnaval não passou ainda, mas "já" vamos voltar a ativa com o blog ^^. Bom, primeiramente, gostaria de contar algumas novidades!
+
+<!--more-->
+
+Depois de muita pesquisa de mercado, cálculos matemáticos complexos e estudos sociais (#sarcasmo), resolvi dividir o blog em dois:
 
 - **Videogames com Cerveja** - ficou focado somente em videogames.
 - **Cerveja com Videogames** - ficou com a parte do colecionismo de itens cervejeiros.

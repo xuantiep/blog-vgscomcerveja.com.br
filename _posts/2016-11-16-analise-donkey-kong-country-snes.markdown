@@ -1,18 +1,19 @@
 ---
-layout:     post
-title:      "Análise - Donkey Kong Country (Super Nintendo)"
-date:       2016-11-16 20:00
-author:     felipebbarbosa
-session:    Game Over &#35 34
+layout: post
+title: "Análise - Donkey Kong Country (Super Nintendo)"
+date: 2016-11-16 20:00
+author: felipebbarbosa
+session: Game Over &#35 34
 categories: jogando analise
-tags:       [nintendo, snes, rare, donkey-kong, analise, game-over]
-games:      [donkey-kong-country]
-thumbnail:  /imgs/posts/game_over/34_donkey_kong_country/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/34_donkey_kong_country/post_header.jpg
-sinopse: >
-  Que tal comprar umas cervejas, reunir alguns velhos amigos e jogar umas partidas de videogame? Muito bom, não? Pois é, foi desta maneira que terminei, ou melhor, terminamos um dos melhores jogos de Super Nintendo, o Donkey Kong Country e, o melhor, completando o 101% do jogo!
+tags: [nintendo, snes, rare, donkey-kong, analise, game-over]
+games: [donkey-kong-country]
+thumbnail: /imgs/posts/game_over/34_donkey_kong_country/post_thumbnail.jpg
+cover: /imgs/posts/game_over/34_donkey_kong_country/post_header.jpg
 ---
+
 Que tal comprar umas cervejas, reunir alguns velhos amigos e jogar umas partidas de videogame? Muito bom, não? Pois é, foi desta maneira que terminei, ou melhor, terminamos um dos melhores jogos de Super Nintendo, o Donkey Kong Country e, o melhor, completando o 101% do jogo!
+
+<!--more-->
 
 Bom, não tem como começar a falar de **Donkey Kong Country** sem ser pelos gráficos.. E que gráficos! Apesar de muita gente não concordar, eu os acho lindos até hoje! Entretanto na época, essa opinião era unâmine, foi algo realmente surpreendente para um console de 16-bits. Sendo mais caprichados que os jogos das plataformas da geração seguinte que estava se iniciando, como dos jogos de 3DO e Jaguar, mas estes nem contam, né? ^^'
 
@@ -50,7 +51,7 @@ Você pode alternar entre os personagens quando quiser, pois cada um tem suas pa
   url="/imgs/posts/game_over/34_donkey_kong_country/dkc_screen2.jpg"
   description="Fases com tempestades!" %}
 
-O jogo não possui *power-ups*, mas em algumas fases você pode "montar" em alguns animais, assim como o Mario faz com o Yoshi em [Super Mario World](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html). Mas aqui, você não pode usar eles em qualquer fase, cada bicho está disponível em fases e trechos específicos. Temos o rinoceronte Rambi, o peixe espada Enguarde, o sapo Winky, o papagaio Squawks e o avestruz Expresso e cada um deles possui uma habilidade diferente. Com eles, você ganha um apoio extra, pois se você for atingido por um inimigo enquanto estiver montado em um deles, você não perderá um dos Kongs e sim o animal que estiver montado. Mas ainda se for atingido, ele sairá correndo e, caso você seja rápido, você pode recuperá-los ao montar neles novamente (assim como o Yoshi em Super Mario World).
+O jogo não possui _power-ups_, mas em algumas fases você pode "montar" em alguns animais, assim como o Mario faz com o Yoshi em [Super Mario World](/jogando/analise/2015/06/30/analise-super-mario-world-snes.html). Mas aqui, você não pode usar eles em qualquer fase, cada bicho está disponível em fases e trechos específicos. Temos o rinoceronte Rambi, o peixe espada Enguarde, o sapo Winky, o papagaio Squawks e o avestruz Expresso e cada um deles possui uma habilidade diferente. Com eles, você ganha um apoio extra, pois se você for atingido por um inimigo enquanto estiver montado em um deles, você não perderá um dos Kongs e sim o animal que estiver montado. Mas ainda se for atingido, ele sairá correndo e, caso você seja rápido, você pode recuperá-los ao montar neles novamente (assim como o Yoshi em Super Mario World).
 
 As "moedas" do jogo são bananas! Ao juntar 100 delas, você ganha uma vida. Além disso, cada fase possuem as letras "K", "O", "N" e "G" espalhadas, que ao pegar todas, você ganha uma vida também! Ainda temos os barris de bônus, que muitas vezes estão bem escondidos, e ao entrar neles, você é arremessado para a fase bônus, que na qual, você coleta alguns itens que te ajudam a ganhar mais vidas!
 

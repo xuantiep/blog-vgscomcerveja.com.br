@@ -1,22 +1,21 @@
 ---
-layout:     post
-title:      "Aquisição - Última IV (Master System)"
-date:       2011-01-09 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
+layout: post
+title: "Aquisição - Última IV (Master System)"
+date: 2011-01-09 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
 categories: colecionando colecao-pessoal
-tags:       [sega, master-system, tectoy]
-games:      [ultima-iv]
-thumbnail:  /imgs/posts/colecao/08_ultima_iv/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/08_ultima_iv/post_header.jpg
-sinopse: >
-  Última IV é o quarto jogo da série Última e por curiosidade é o último jogo da série lançado
-  para um console da Sega (no caso, Master System). Lançado pela Tectoy aqui no Brasil com caixa
-  e manual em português, porém o jogo em si é inglês.
+tags: [sega, master-system, tectoy]
+games: [ultima-iv]
+thumbnail: /imgs/posts/colecao/08_ultima_iv/post_thumbnail.jpg
+cover: /imgs/posts/colecao/08_ultima_iv/post_header.jpg
 ---
+
 **Última IV** é o quarto jogo da série Última e por curiosidade é o último jogo da série lançado
 para um console da **Sega** (no caso, Master System). Lançado pela **Tectoy** aqui no Brasil com caixa
 e manual em português, porém o jogo em si é inglês.
+
+<!--more-->
 
 {% include image.html url="/imgs/posts/colecao/08_ultima_iv/ultima-iv.jpg" description="Última IV" %}
 

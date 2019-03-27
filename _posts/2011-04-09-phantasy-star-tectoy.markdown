@@ -1,21 +1,20 @@
 ---
-layout:     post
-title:      "Phantasy Star (Master System)"
-date:       2011-04-09 19:00
-author:     felipebbarbosa
-session:    Mosca Branca &#35 01
+layout: post
+title: "Phantasy Star (Master System)"
+date: 2011-04-09 19:00
+author: felipebbarbosa
+session: Mosca Branca &#35 01
 categories: colecionando mosca-branca
-tags:       [sega, master-system, tectoy]
-games:      [phantasy-star]
-thumbnail:  /imgs/posts/mosca_branca/01_phantasy_star/post_thumbnail.jpg
-cover:      /imgs/posts/mosca_branca/01_phantasy_star/post_header.jpg
-sinopse: >
-  Para inaugurar a seção Mosca Branca nada melhor do que este grande clássico de Master System:
-  Phantasy Star! Este jogo pertence a lista dos 36 exclusivos Tectoy para Master System lançados apenas para o Brasil.
+tags: [sega, master-system, tectoy]
+games: [phantasy-star]
+thumbnail: /imgs/posts/mosca_branca/01_phantasy_star/post_thumbnail.jpg
+cover: /imgs/posts/mosca_branca/01_phantasy_star/post_header.jpg
 ---
 
 Para inaugurar a seção Mosca Branca nada melhor do que este grande clássico de Master System:
 **Phantasy Star**!
+
+<!--more-->
 
 Este jogo pertence a lista dos [36 exclusivos Tectoy para Master System](../../../../utilidade-publica/2011/01/22/jogos-master-system-exclusivos-tectoy.html) lançados apenas para o
 Brasil. Tá, você deve estar se perguntando, mas **Phantasy Star** foi lançado no Japão, EUA e

@@ -1,19 +1,19 @@
 ---
-layout:     post
-title:      "Análise - Land of Illusion (Master System)"
-date:       2013-10-13 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 11
+layout: post
+title: "Análise - Land of Illusion (Master System)"
+date: 2013-10-13 19:00
+author: felipebbarbosa
+session: Game Over &#35 11
 categories: jogando analise
-tags:       [sega, master-system, tectoy, mickey, disney, analise, game-over]
-games:      [land-of-illusion]
-thumbnail:  /imgs/posts/game_over/11_land_of_illusion/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/11_land_of_illusion/post_header.jpg
-sinopse: >
-  Logo após terminar o Castle of Illusion, me empolguei e parti logo para o segundo jogo da trilogia "Illusion" (Castle, Land e Legend of Illusion) do Master System: o Land of Illusion, e só tenho uma coisa a se dizer: muito bom!
-game_cover:
+tags: [sega, master-system, tectoy, mickey, disney, analise, game-over]
+games: [land-of-illusion]
+thumbnail: /imgs/posts/game_over/11_land_of_illusion/post_thumbnail.jpg
+cover: /imgs/posts/game_over/11_land_of_illusion/post_header.jpg
 ---
-Logo após terminar o Castle of Illusion, me empolguei e parti logo para o segundo jogo da trilogia *"Illusion"* (Castle, Land e Legend of Illusion) do **Master System**: o **Land of Illusion**, e só tenho uma coisa a se dizer: muito bom!
+
+Logo após terminar o Castle of Illusion, me empolguei e parti logo para o segundo jogo da trilogia _"Illusion"_ (Castle, Land e Legend of Illusion) do **Master System**: o **Land of Illusion**, e só tenho uma coisa a se dizer: muito bom!
+
+<!--more-->
 
 Era um dia chuvoso quando **_Mickey_** resolveu abrir um livro de conto de fadas para ler e, quando se deu conta já estava dormindo! Porém, quando abriu os olhos, viu que já não estava mais na sua casa e sim em um sinistro vilarejo, as árvores e arbustos estavam desfolhados, com os galhos negros e retorcidos. O céu era cheio de ameaçadoras nuvens escuras, que brilhavam com os relâmpagos. Quando de repente, ele ouve um grito e viu uma garota da vila sendo carregada por um monstro. Mickey derrubou o monstro, salvou a garota e descobriu o que estava acontecendo no vilarejo: um fantasma havia roubado o cristal mágico que protegia o lugar. Com o desaparecimento do cristal, tudo o que era bom tinha sido roubado, transformando a vila em um lugar sombrio. Ao saber disso, Mickey partiu em busca do fantasma e do cristal. Esta é a história de **Land of Illusion**! :)
 
@@ -43,7 +43,7 @@ A jogabilidade e os gráficos são praticamente os mesmos, porém a quantidade d
 - A Ilha
 - O Castelo do Fantasma
 
-Cada estágio possui uma *Power Star* escondida, se você encontrar todas elas, você ganha 1.000.000 de pontos no final do jogo!
+Cada estágio possui uma _Power Star_ escondida, se você encontrar todas elas, você ganha 1.000.000 de pontos no final do jogo!
 
 Outra coisa interessante é que alguns estágios requerem determinados objetos especiais para poder avançar e, caso você ainda não tenha, você terá que voltar à algum estágio anterior para conseguir este objeto. Mas não se preocupe, cada vez que terminar um estágio, você receberá pistas de onde encontrar estes objetos, são eles:
 
@@ -57,7 +57,7 @@ Outra coisa interessante é que alguns estágios requerem determinados objetos e
   url="/imgs/posts/game_over/11_land_of_illusion/foto3.jpg"
   description="Clima 'sombrio' de Land of Illusion!" %}
 
-Bom para finalizar, a **Sega** conseguiu melhorar o que já era bom, manteve o mesmo nível de dificuldade, mas novas dinâmicas de jogo o tornou melhor que seu antecessor. O desafio maior é pegar todas as *Power Stars*!
+Bom para finalizar, a **Sega** conseguiu melhorar o que já era bom, manteve o mesmo nível de dificuldade, mas novas dinâmicas de jogo o tornou melhor que seu antecessor. O desafio maior é pegar todas as _Power Stars_!
 
 {% include ficha.html
   titulo='Land of Illusion'

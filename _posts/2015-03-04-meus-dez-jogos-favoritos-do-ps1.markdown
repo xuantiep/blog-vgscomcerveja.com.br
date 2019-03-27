@@ -1,18 +1,41 @@
 ---
-layout:     post
-title:      "Meus 10 jogos favoritos do PS1"
-date:       2015-03-04 19:00
-author:     felipebbarbosa
-session:    Toplist &#35 03
+layout: post
+title: "Meus 10 jogos favoritos do PS1"
+date: 2015-03-04 19:00
+author: felipebbarbosa
+session: Toplist &#35 03
 categories: jogando toplist
-tags:       [sony, ps1, capcom, tomb-raider, metal-gear-solid, gran-turismo, lists, toplist]
-games:      [dino-crisis, driver, medal-of-honor, thps-2, castlevania-sotn, silent-hill, tomb-raider-the-last-revelation, resident-evil-3, metal-gear-solid, gran-turismo]
-thumbnail:  /imgs/posts/toplist/03_jogos_favoritos_ps1/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/03_jogos_favoritos_ps1/post_header.jpg
-sinopse: >
-  Hoje o PlayStation 2 está comemorando 15 anos, mas como no final do ano a Sony comemorou 20 anos da marca PlayStation, então decidir "comemorar" (tomando uma cervejinha) relembrando quais são meus jogos favoritos do console que revolucionou o mercado.
+tags:
+  [
+    sony,
+    ps1,
+    capcom,
+    tomb-raider,
+    metal-gear-solid,
+    gran-turismo,
+    lists,
+    toplist,
+  ]
+games:
+  [
+    dino-crisis,
+    driver,
+    medal-of-honor,
+    thps-2,
+    castlevania-sotn,
+    silent-hill,
+    tomb-raider-the-last-revelation,
+    resident-evil-3,
+    metal-gear-solid,
+    gran-turismo,
+  ]
+thumbnail: /imgs/posts/toplist/03_jogos_favoritos_ps1/post_thumbnail.jpg
+cover: /imgs/posts/toplist/03_jogos_favoritos_ps1/post_header.jpg
 ---
+
 Hoje o **PlayStation 2** está comemorando 15 anos, mas como no final do ano a **Sony** comemorou 20 anos da marca **PlayStation**, então decidir "comemorar" (tomando uma cervejinha) relembrando quais são meus jogos favoritos do console que revolucionou o mercado!
+
+<!--more-->
 
 No dia 3 de Dezembro de 2014, a Sony completou exatamente 20 anos desde o lançamento do seu primeiro console no Japão! Um console que veio para mudar completamente a história dos videogames, antes dominado pela Sega com o Mega Drive e pela Nintendo com o Super Nintendo!
 
@@ -38,7 +61,7 @@ No PS1 ainda tivemos o **Driver 2** que é muito bom também, mas assim como Din
 
 {% include image.html url="/imgs/posts/toplist/03_jogos_favoritos_ps1/medal-of-honor.jpg" %}
 
-**Medal of Honor** foi um divisor de águas, ele simplesmente remodelou o gênero de jogos de tiros em primeira pessoa (FPS). Acredito que sem ele (e o *multiplayer* de Goldeneye 007 do Nintendo 64), os jogos não seriam como são hoje. Recentemente, eu matei a saudade deste jogo e escrevi sobre ele no [Game Over 19](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html).
+**Medal of Honor** foi um divisor de águas, ele simplesmente remodelou o gênero de jogos de tiros em primeira pessoa (FPS). Acredito que sem ele (e o _multiplayer_ de Goldeneye 007 do Nintendo 64), os jogos não seriam como são hoje. Recentemente, eu matei a saudade deste jogo e escrevi sobre ele no [Game Over 19](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html).
 
 ## 7. Tony Hawk's Pro Skater 2
 
@@ -88,7 +111,7 @@ Algum tempo depois, GT2 foi lançado e conseguiu melhorar o que já era ótimo! 
 
 {% include image.html url="/imgs/posts/toplist/03_jogos_favoritos_ps1/metal-gear-solid.jpg" %}
 
-E por fim, **Metal Gear Solid**, que com certeza não é somente o meu favorito do PS1 e sim, meu jogo favorito de todos os tempos! **Hideo Kojima**, criador da série, elevou o nível de jogos para algo mais cinematográfico! Entretanto, além de possuir uma história complexa e fascinante, o *gameplay* é fantástico! Acho que foi o jogo que mais zerei na vida! ^^
+E por fim, **Metal Gear Solid**, que com certeza não é somente o meu favorito do PS1 e sim, meu jogo favorito de todos os tempos! **Hideo Kojima**, criador da série, elevou o nível de jogos para algo mais cinematográfico! Entretanto, além de possuir uma história complexa e fascinante, o _gameplay_ é fantástico! Acho que foi o jogo que mais zerei na vida! ^^
 
 ---
 

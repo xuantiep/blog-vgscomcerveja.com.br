@@ -1,26 +1,23 @@
 ---
-layout:     post
-title:      "5 'coisas' que recomendo! #2 - Especial Atari"
-date:       2018-08-08 21:00
-author:     felipebbarbosa
-session:    Toplist &#35 12
+layout: post
+title: "5 'coisas' que recomendo! #2 - Especial Atari"
+date: 2018-08-08 21:00
+author: felipebbarbosa
+session: Toplist &#35 12
 categories: jogando toplist
-tags:       [livros, atari, lists, toplist]
-thumbnail:  /imgs/posts/toplist/12_coisas_recomendo_2/post_thumbnail.jpg
-cover:      /imgs/posts/toplist/12_coisas_recomendo_2/post_header.jpg
-sinopse:
-  No ano passado, um console bastante querido por nós brasileiros, completou incríveis 40 anos!
-  Sim, os videogames já estão em sua fase adulta à algum tempo, mas estamos falando do inimigo número 1 da família brasileira, o Atari 2600.
-  E nada melhor para comemorar seus 41 anos (pois apesar do post atrasado, o Atari ainda não morreu)
-  do que uma série de conteúdo bacana da nossa comunidade brasileira para vocês lerem, assistirem e até mesmo jogar! Confira!
-
+tags: [livros, atari, lists, toplist]
+thumbnail: /imgs/posts/toplist/12_coisas_recomendo_2/post_thumbnail.jpg
+cover: /imgs/posts/toplist/12_coisas_recomendo_2/post_header.jpg
 ---
+
 Olá jogadores cervejeiros, tudo bem com vocês?
 
 No ano passado, um console bastante querido por nós brasileiros, completou incríveis 40 anos!
 Sim, os videogames já estão em sua fase adulta à algum tempo, mas estamos falando do inimigo número 1 da família brasileira, o **Atari 2600**.
 E nada melhor para comemorar seus 41 anos (pois apesar do post atrasado, o [Atari ainda não morreu](https://tecnoblog.net/251667/atari-vcs-linux-8-gb-ram/))
 do que uma série de conteúdo bacana da nossa **comunidade brasileira** para vocês lerem, assistirem e até mesmo jogar! Confira!
+
+<!--more-->
 
 ### Revista Jogos 80 N° 18
 
@@ -78,7 +75,7 @@ O cartucho está disponível para venda no [Mercado Livre](https://produto.merca
 ### More Work Games
 
 Mesmo eu não curtindo colecioná-lo, o fato é que o Atari é adorado por milhares de fãs e entusiastas pelo mundo a fora. E no meio destes entusiastas existem
-diversos desenvolvedores que mantém a chama do Atari acesa, lançando novos jogos para ele, os chamados *homebrews*. E a [More Work Games](http://morework.com.br/site/anm-a-new-marauder-pt-br) é uma destas desenvolvedoras.
+diversos desenvolvedores que mantém a chama do Atari acesa, lançando novos jogos para ele, os chamados _homebrews_. E a [More Work Games](http://morework.com.br/site/anm-a-new-marauder-pt-br) é uma destas desenvolvedoras.
 
 Formada por dois grandes fãs do console, o **Leandro Câmara** e **Darcio Prestes**, a More Work Games teve como primeiro trabalho o
 jogo **A New Marauder**, uma releitura do **Marauder** original lançado pela Tigervision em 1982.
@@ -91,7 +88,6 @@ O que chama atenção também é o capricho no desenvolvimento do cartucho, que 
 
 O jogo ainda está disponível a venda [aqui](http://morework.com.br/site/anm-comprar-pt-br)!
 
-
 ### Blog do Antonio Borba
 
 E para finalizar, um blog praticamente obrigatório para qualquer entusiasta de Atari no Brasil. Trata-se do blog do
@@ -102,7 +98,6 @@ ele também é conhecido com **TomBrazil** em diversos fóruns especializados, c
 {% include image.html
   url="/imgs/posts/toplist/12_coisas_recomendo_2/blog_antonio_borba.jpg"
   description="Sua coleção é incrível e suas histórias mais ainda, vale a pena conferir!" %}
-
 
 #### Bônus: Canecas com estampas da Atari
 

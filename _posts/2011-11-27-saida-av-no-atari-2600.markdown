@@ -1,25 +1,22 @@
 ---
-layout:     post
-title:      "Coloquei saída A/V no meu Atari 2600 Polyvox"
-date:       2011-11-27 19:00
-author:     felipebbarbosa
-session:    Utilidade Pública &#35 03
+layout: post
+title: "Coloquei saída A/V no meu Atari 2600 Polyvox"
+date: 2011-11-27 19:00
+author: felipebbarbosa
+session: Utilidade Pública &#35 03
 categories: jogando utilidade-publica
-tags:       [atari, utilidade-publica]
-thumbnail:  /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_thumbnail.jpg
-cover:      /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_header.jpg
-sinopse: >
-  Há aproxidamente 6 meses atrás, adquiri um Atari 2600 Polyvox original com dois controles,
-  recuperando assim meu primeiro videogame! Sim, o Atari foi o meu primeiro videogame que tive
-  contato na vida! Joguei muito nos anos 90 clássicos, como River Raid, Megamania, Enduro e cia.
-  Porém, a saída de vídeo original dele é RF e até nas TVs de tubo a imagem não fica boa, a solução
-  foi modificá-lo e colocar saída A/V.
+tags: [atari, utilidade-publica]
+thumbnail: /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_thumbnail.jpg
+cover: /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_header.jpg
 ---
+
 Há aproxidamente 6 meses atrás, adquiri um **Atari 2600 Polyvox** original com dois controles,
 recuperando assim meu primeiro videogame! Sim, o Atari foi o meu primeiro videogame que tive
 contato na vida! Joguei muito nos anos 90 clássicos, como River Raid, Megamania, Enduro e cia.
 Porém, a saída de vídeo original dele é RF e até nas TVs de tubo a imagem não fica boa, a solução
 foi modificá-lo e colocar saída A/V.
+
+<!--more-->
 
 {% include image.html
   url="/imgs/posts/utilidade_publica/03_saida_av_atari2600/atari_console.jpg" %}

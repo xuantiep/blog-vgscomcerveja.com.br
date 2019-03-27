@@ -8,13 +8,13 @@ categories: jogando especiais
 tags: [especial]
 thumbnail: /imgs/posts/especial/07_meme2018/thumbnail.jpg
 cover: /imgs/posts/especial/07_meme2018/header.jpg
-sinopse: >
-  Já é uma tradição, o primeiro post do ano é sempre uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do MarvoxBrasil, que chega à sua 8a edição: 'O Que Você Jogou em 2018?' e minha quinta participação. Confira!
 ---
 
 Feliz Ano Novo! \o/
 
 Já é uma tradição, o primeiro post do ano é sempre uma releitura do meu ano gamístico passado, e nada melhor para isso do que participando novamente do MeMe do [MarvoxBrasil](https://marvoxbrasil.wordpress.com/), que chega à sua 8a edição: "O Que Você Jogou em 2018?". Esta é minha quinta participação e sim, copiei a introdução do ano passado! rs...
+
+<!--more-->
 
 Sem mais delongas, selecionei alguns dos melhores jogos que joguei em ordem cronológica. Confira:
 

@@ -1,20 +1,34 @@
 ---
-layout:     post
-title:      "Últimas aquisições #01"
-date:       2012-01-14 19:00
-author:     felipebbarbosa
-session:    Coleção Pessoal
+layout: post
+title: "Últimas aquisições #01"
+date: 2012-01-14 19:00
+author: felipebbarbosa
+session: Coleção Pessoal
 categories: colecionando colecao-pessoal
-tags:       [sega, master-system, tectoy, nintendo, snes, n64, game-cube, wii]
-games:      [alex-kidd-in-miracle-world, batman-returns, castle-of-illusion, pica-pau, kenseiden, masters-of-combat, prince-of-persia, tom-jerry, donkey-kong-country-2, conkers-bad-fur-day, star-fox-adventures, super-mario-galaxy]
-thumbnail:  /imgs/posts/colecao/11_aquisicoes01/post_thumbnail.jpg
-cover:      /imgs/posts/colecao/11_aquisicoes01/post_header.jpg
-sinopse: >
-  Como primeiro post do ano, resolvi mostrar meus últimos jogos adquiridos para a coleção, que está
-  começando a tomar a forma que eu quero, estou quase chegando aos 100 jogos! :)
+tags: [sega, master-system, tectoy, nintendo, snes, n64, game-cube, wii]
+games:
+  [
+    alex-kidd-in-miracle-world,
+    batman-returns,
+    castle-of-illusion,
+    pica-pau,
+    kenseiden,
+    masters-of-combat,
+    prince-of-persia,
+    tom-jerry,
+    donkey-kong-country-2,
+    conkers-bad-fur-day,
+    star-fox-adventures,
+    super-mario-galaxy,
+  ]
+thumbnail: /imgs/posts/colecao/11_aquisicoes01/post_thumbnail.jpg
+cover: /imgs/posts/colecao/11_aquisicoes01/post_header.jpg
 ---
+
 Como primeiro post do ano, resolvi mostrar meus últimos jogos adquiridos para a coleção, que está
 começando a tomar a forma que eu quero, estou quase chegando aos 100 jogos! :)
+
+<!--more-->
 
 {% include image.html
   url="/imgs/posts/colecao/11_aquisicoes01/aquisicoes.jpg"

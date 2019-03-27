@@ -1,19 +1,19 @@
 ---
-layout:     post
-title:      "Análise - Far Cry 3 (Xbox 360)"
-date:       2013-02-23 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 01
+layout: post
+title: "Análise - Far Cry 3 (Xbox 360)"
+date: 2013-02-23 19:00
+author: felipebbarbosa
+session: Game Over &#35 01
 categories: jogando analise
-tags:       [microsft, xbox-360, ubisoft, farcry, analise, game-over]
-games:      [farcry-3]
-thumbnail:  /imgs/posts/game_over/01_farcry3/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/01_farcry3/post_header.jpg
-sinopse: >
-  Começando com as mudanças no blog com uma nova seção, a Game Over. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que Far Cry 3 para Xbox 360, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
-game_cover:
+tags: [microsft, xbox-360, ubisoft, farcry, analise, game-over]
+games: [farcry-3]
+thumbnail: /imgs/posts/game_over/01_farcry3/post_thumbnail.jpg
+cover: /imgs/posts/game_over/01_farcry3/post_header.jpg
 ---
+
 Começando com as mudanças no blog com uma nova seção, a **Game Over**. Onde pretendo escrever um pouquinho sobre os jogos que eu terminar. E para estrear, nada melhor do que **Far Cry 3** para **Xbox 360**, que foi meu primeiro jogo finalizado em 2013, na verdade, passei a virada do ano jogando este jogaço de tão viciante que ele é! ^^
+
+<!--more-->
 
 FC3 foi minha surpresa de final de ano, comprei porque estava numa promoção muito boa! Lógico que já tinha lido algumas análises que diziam que o jogo era bom, mas eu não tinha jogado nenhum outro jogo da série. Mesmo assim, resolvi arriscar e comprei! Para mim, fechei o ano com chave de ouro! Um jogão!
 

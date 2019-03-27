@@ -1,23 +1,21 @@
 ---
-layout:     post
-title:      "Montei meu próprio cabo A/V para Mega Drive"
-date:       2011-07-13 19:00
-author:     felipebbarbosa
-session:    Utilidade Pública &#35 02
+layout: post
+title: "Montei meu próprio cabo A/V para Mega Drive"
+date: 2011-07-13 19:00
+author: felipebbarbosa
+session: Utilidade Pública &#35 02
 categories: jogando utilidade-publica
-tags:       [sega, mega-drive, utilidade-publica]
-thumbnail:  /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_thumbnail.jpg
-cover:      /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_header.jpg
-sinopse: >
-  No começo deste ano, eu ganhei um Mega Drive modelo asiático do meu cunhado e desde então
-  vinha sofrendo com a péssima imagem que meu adaptador RF transmitia para a televisão, com isso
-  fui desmotivado a jogá-lo e deixei o Mega um bom tempo parado (um crime). Mas consegui achar
-  uma solução para este problema.
+tags: [sega, mega-drive, utilidade-publica]
+thumbnail: /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_thumbnail.jpg
+cover: /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_header.jpg
 ---
+
 No começo deste ano, eu ganhei um [Mega Drive modelo asiático do meu cunhado](/colecionando/colecao-pessoal/2011/01/08/aquisicao-mega-drive.html).
 Desde então vinha sofrendo com a péssima imagem que meu adaptador RF transmitia para a televisão, com isso
 fui desmotivado a jogá-lo e deixei o Mega um bom tempo parado (um crime). Mas consegui achar
 uma solução para este problema.
+
+<!--more-->
 
 Nesse meio tempo, encontrei um tutorial na internet que ensinava a montar seu próprio cabo de
 áudio e vídeo (A/V) para o mesmo modelo de Mega que o meu, porém, como eu não tenho muita habilidade

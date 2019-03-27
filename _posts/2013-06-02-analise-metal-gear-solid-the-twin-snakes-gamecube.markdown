@@ -1,21 +1,31 @@
 ---
-layout:     post
-title:      "Análise - Metal Gear Solid: The Twin Snakes (GC)"
-date:       2013-06-02 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 06
+layout: post
+title: "Análise - Metal Gear Solid: The Twin Snakes (GC)"
+date: 2013-06-02 19:00
+author: felipebbarbosa
+session: Game Over &#35 06
 categories: jogando analise
-tags:       [nintendo, game-cube, kojima, metal-gear, konami, silicon-knights, analise, game-over]
-games:      [metal-gear-solid-the-twin-snakes]
-thumbnail:  /imgs/posts/game_over/06_mgs_twin_snakes/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/06_mgs_twin_snakes/post_header.jpg
-sinopse: >
-  Se tem um jogo que eu queria muito ter e jogar, este jogo é o Metal Gear Solid: The Twin Snakes para Game Cube! Não sei se é porque sou fã da série e principalmente do Metal Gear Solid para PS1 que considero um dos melhores jogos de todos os tempos ou se é porque o jogo é bom mesmo!
-game_cover:
+tags:
+  [
+    nintendo,
+    game-cube,
+    kojima,
+    metal-gear,
+    konami,
+    silicon-knights,
+    analise,
+    game-over,
+  ]
+games: [metal-gear-solid-the-twin-snakes]
+thumbnail: /imgs/posts/game_over/06_mgs_twin_snakes/post_thumbnail.jpg
+cover: /imgs/posts/game_over/06_mgs_twin_snakes/post_header.jpg
 ---
+
 Se tem um jogo que eu queria muito ter e jogar, este jogo é o **Metal Gear Solid: The Twin Snakes** para **Game Cube**! Não sei se é porque sou fã da série e principalmente do **Metal Gear Solid** para PS1 que considero um dos melhores jogos de todos os tempos ou se é porque o jogo é bom mesmo!
 
-O jogo é basicamente um *remake* do **Metal Gear Solid** lançado originalmente para o PS1 em 1998, porém com gráficos melhorados, ou melhor, refeitos! O jogo foi resultado de uma parceria entre **_Hideo Kojima_** da **Konami** e a *softhouse* canadense **Silicon Knights** conhecida por ter feito o **Eternal Darkness** também para GC.
+<!--more-->
+
+O jogo é basicamente um _remake_ do **Metal Gear Solid** lançado originalmente para o PS1 em 1998, porém com gráficos melhorados, ou melhor, refeitos! O jogo foi resultado de uma parceria entre **_Hideo Kojima_** da **Konami** e a _softhouse_ canadense **Silicon Knights** conhecida por ter feito o **Eternal Darkness** também para GC.
 
 Logicamente as mudanças não ficaram somente nos gráficos, mas como também na troca do console PlayStation por um Game Cube no laboratório do **_Otacon_**, assim como a adição dos bonecos do Mario e Yoshi! Tá, essas mudanças que citei, foram apenas uma piadinha! :o)
 
@@ -33,7 +43,7 @@ Como disse, eu considero **Metal Gear Solid** um dos melhores jogos de todos os 
 
 {% include image.html url="/imgs/posts/game_over/06_mgs_twin_snakes/foto2.png" description="Olha ele aí na coleção! :)" %}
 
-Terminei o jogo em 10 horas, porque simplesmente quis aproveitar ao máximo todas as *cut-scenes*, diálogos e momentos do jogo, estava com saudades! :)
+Terminei o jogo em 10 horas, porque simplesmente quis aproveitar ao máximo todas as _cut-scenes_, diálogos e momentos do jogo, estava com saudades! :)
 
 {% include ficha.html
   titulo='Metal Gear Solid: The Twin Snakes'

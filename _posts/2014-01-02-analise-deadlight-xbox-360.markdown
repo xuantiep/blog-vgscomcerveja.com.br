@@ -1,27 +1,27 @@
 ---
-layout:     post
-title:      "Análise - Deadlight (Xbox 360)"
-date:       2014-01-02 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 15
+layout: post
+title: "Análise - Deadlight (Xbox 360)"
+date: 2014-01-02 19:00
+author: felipebbarbosa
+session: Game Over &#35 15
 categories: jogando analise
-tags:       [microsoft, xbox-360, tequila-works, analise, game-over]
-games:      [deadlight]
-thumbnail:  /imgs/posts/game_over/15_deadlight/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/15_deadlight/post_header.jpg
-sinopse: >
-  A contagem de jogos terminados em 2014 já começou! Talvez não em grande estilo, mas com um jogo relativamente bom: Deadlight!
-game_cover:
+tags: [microsoft, xbox-360, tequila-works, analise, game-over]
+games: [deadlight]
+thumbnail: /imgs/posts/game_over/15_deadlight/post_thumbnail.jpg
+cover: /imgs/posts/game_over/15_deadlight/post_header.jpg
 ---
+
 A contagem de jogos terminados em 2014 já começou! Talvez não em grande estilo, mas com um jogo relativamente bom: **Deadlight**!
 
-Lançado em 2012 pela **Microsoft Studios** e desenvolvido pela **Tequila Works**, **Deadlight** é um jogo de *survival horror* totalmente *sidescroller* para **Xbox 360 (XBLA)** e **Windows**.
+<!--more-->
+
+Lançado em 2012 pela **Microsoft Studios** e desenvolvido pela **Tequila Works**, **Deadlight** é um jogo de _survival horror_ totalmente _sidescroller_ para **Xbox 360 (XBLA)** e **Windows**.
 
 {% include youtubePlayer.html id='R5xK8Z6zSPE' %}
 
 O jogo conta a história de **_Randall Wayne_** que está em busca da sua família (esposa e filha) em um mundo pós-apocalíptico dominado pelas sombras - espécie de zumbis do jogo.
 
-Ao começar o jogo, você fica encantado com os gráficos e com sua jogabilidade, pois é um jogo *sidescroller* ao estilo do primeiro **Prince of Persia**. Entretanto, com o avanço no jogo, algumas falhas começam a aparecer, como o tempo de resposta para realizar um ataque ao inimigo ou então para saltar em uma plataforma.
+Ao começar o jogo, você fica encantado com os gráficos e com sua jogabilidade, pois é um jogo _sidescroller_ ao estilo do primeiro **Prince of Persia**. Entretanto, com o avanço no jogo, algumas falhas começam a aparecer, como o tempo de resposta para realizar um ataque ao inimigo ou então para saltar em uma plataforma.
 
 Outra coisa chata é que em alguns pontos do jogo, a mecânica do jogo simplesmente muda e você tem que morrer algumas vezes para descobrir como passar, por exemplo, no jogo inteiro para atravessar as grades, você tinha que pular e agarrar a parte de cima (caso esteja em alcance) e subir, aí chega em uma parte onde você está fugindo de um helicóptero e chega numa grade, tentei várias pular no parte de cima dela e sem sucesso, até que percebi que a grade era escalável desde embaixo.
 

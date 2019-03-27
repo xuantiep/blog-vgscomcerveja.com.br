@@ -8,11 +8,11 @@ categories: utilidade-publica
 tags: [utilidade-publica, android]
 thumbnail: /imgs/posts/utilidade_publica/10_udemy/thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/10_udemy/header.jpg
-sinopse: >
-  Se engana quem pensa que desenvolver o próprio game ou aplicativo para Android só é possível para grandes empresas. A tarefa, que a princípio pode parecer bem complicada, hoje se encontra mais perto dos usuários, que podem criar seus próprios serviços. Construir jogos e aplicativos é mais fácil do que você imagina.
 ---
 
 Se engana quem pensa que [desenvolver o próprio game](https://www.udemy.com/curso-completo-unity-3d/) ou aplicativo para [Android](https://www.udemy.com/curso-completo-desenvolvedor-android/) só é possível para grandes empresas. A tarefa, que a princípio pode parecer bem complicada, hoje se encontra mais perto dos usuários, que podem criar seus próprios serviços. Construir jogos e aplicativos é mais fácil do que você imagina.
+
+<!--more-->
 
 É verdade que o processo de desenvolvimento de um jogo passa pela mão de muitos profissionais, de diferentes áreas, dentro de uma empresa. Para gerar código-fonte e ser responsável pela funcionalidade do jogo, existe o programador. Designers são responsáveis por projetá-lo graficamente. Redatores criam a história do game. E por aí vai.
 

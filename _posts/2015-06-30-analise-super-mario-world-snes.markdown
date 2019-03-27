@@ -1,19 +1,19 @@
 ---
-layout:     post
-title:      "Análise - Super Mario World (Super Nintendo)"
-date:       2015-06-30 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 24
+layout: post
+title: "Análise - Super Mario World (Super Nintendo)"
+date: 2015-06-30 19:00
+author: felipebbarbosa
+session: Game Over &#35 24
 categories: jogando analise
-tags:       [snes, nintendo, mario, analise, game-over]
-games:      [super-mario-world]
-thumbnail:  /imgs/posts/game_over/24_super_mario_world/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/24_super_mario_world/post_header.jpg
-sinopse: >
-  No início do ano eu tinha uma meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu falhei na missão, mas pelo menos consegui terminar o Super Mario World! ^^
-game_cover:
+tags: [snes, nintendo, mario, analise, game-over]
+games: [super-mario-world]
+thumbnail: /imgs/posts/game_over/24_super_mario_world/post_thumbnail.jpg
+cover: /imgs/posts/game_over/24_super_mario_world/post_header.jpg
 ---
+
 No início do ano eu tinha uma meta: jogar a série Mario na sequência, fazer uma espécie de maratona com Super Mario World, depois Super Mario 64, Super Mario Sunshine, Super Mario Galaxy e por aí vaí.. Mas como você pode notar, estamos no meio do ano, e eu, com certeza, falhei na missão, mas pelo menos consegui terminar um: o Super Mario World! ^^
+
+<!--more-->
 
 {% include image.html url="/imgs/posts/game_over/24_super_mario_world/foto1.jpg" %}
 
@@ -35,7 +35,7 @@ Jogamos muito SMW, pois por um bom tempo, era o único jogo que tínhamos. Mas p
 
 Os anos se passaram, veio o PS1, PS2.. mas sempre que tinha a oportunidade, eu voltava a jogar um pouco de Mario, seja no próprio console ou através de emuladores, mas nunca mais cheguei ao final. Até que neste começo de ano resolvi relembrar como era o final!
 
-O jogo possui muitas fases estão distribuídas em 7 mundos (tirando as fases especiais). Além disso, o jogo conta com um desafio que todos os jogadores *"hardcores"* da época queríam fazer, que era o desafio de abrir as 96 saídas do jogo! Façanha que só fui conseguir agora! :D
+O jogo possui muitas fases estão distribuídas em 7 mundos (tirando as fases especiais). Além disso, o jogo conta com um desafio que todos os jogadores _"hardcores"_ da época queríam fazer, que era o desafio de abrir as 96 saídas do jogo! Façanha que só fui conseguir agora! :D
 
 {% include image.html url="/imgs/posts/game_over/24_super_mario_world/foto3.jpg" description="Save mostrando as 96 saídas! :)" %}
 
@@ -45,17 +45,17 @@ O jogo é tão fascinante, que possui várias maneiras de chegar ao final, e alg
 
 A história do jogo é clichê, a princesa Peach foi raptada (pelo Bowser) e você terá que salvá-la! Só que desta vez, vocês (Mário, Luigi e a Peach) estavam de férias na ilha do Yoshi quando Bowser atacou, sendo assim, você terá que atravessar diversas fases até chegar ao castelo, e no meio caminho, você descobre que não foi só a princesa que foi raptada, vários outros Yoshis também foram e estão sob custódia dos sete filhos de Bowser, você terá que ajudá-los também durante sua jornada.
 
-A jogabilidade é perfeita, e ao mesmo tempo, muito simples! Veja como funciona: você começa com o Mario (ou Luigi se estiver jogando de dois) pequeno, nesta forma, qualquer contato com o inimigo é morte certa. Porém, se você pegar o cogumelo vermelho, um dos *power-ups* do jogo, você crescerá e deixará de morrer no primeiro contato com o inimigo, mas, se acontecer, você voltará a ser pequeno.
+A jogabilidade é perfeita, e ao mesmo tempo, muito simples! Veja como funciona: você começa com o Mario (ou Luigi se estiver jogando de dois) pequeno, nesta forma, qualquer contato com o inimigo é morte certa. Porém, se você pegar o cogumelo vermelho, um dos _power-ups_ do jogo, você crescerá e deixará de morrer no primeiro contato com o inimigo, mas, se acontecer, você voltará a ser pequeno.
 
-Existem outros dois *power-ups*, tirando o Yoshi, que te dão poderes: a "pena", que te permite voar por um certo tempo, e a "florzinha", que te permite lançar bolas de fogo contra os adversários. Você pode ainda, "cavalgar" com o Yoshi e devorar quase todos os adversários pela frente.
+Existem outros dois _power-ups_, tirando o Yoshi, que te dão poderes: a "pena", que te permite voar por um certo tempo, e a "florzinha", que te permite lançar bolas de fogo contra os adversários. Você pode ainda, "cavalgar" com o Yoshi e devorar quase todos os adversários pela frente.
 
-O legal é que você não perde seus *power-ups* ao passar de fase, apenas se morrer ou encostar no inimigo. E quando você passar de fase, você pode entrar e sair dela quando quiser, sendo assim, às vezes, é uma boa estratégia entrar em algumas fases apenas para pegar os *power-ups* e ficar pronto para uma fase nova! :)
+O legal é que você não perde seus _power-ups_ ao passar de fase, apenas se morrer ou encostar no inimigo. E quando você passar de fase, você pode entrar e sair dela quando quiser, sendo assim, às vezes, é uma boa estratégia entrar em algumas fases apenas para pegar os _power-ups_ e ficar pronto para uma fase nova! :)
 
 A trilha sonora do jogo é outro espetáculo à parte, composta por Koji Kondo, essa trilha é simplesmente marcante e dita o ritmo do jogo, principalmente quando seu tempo está se esgotando, e a música fica mais acelerada. Eu não comentei isso, mas cada fase possui um limite de tempo para completá-la, caso você não consiga dentro do tempo limite, você morrerá! :)
 
 ## Resumindo
 
-Super Mario World se destaca devido à sua excelente jogabilidade somado com um ótimo *level design* mais uma trilha sonora marcante. O resultado não poderia ser outro, o jogo foi um sucesso absoluto! Imperdível até para os dias de hoje, o jogo não envelheceu nada! :D
+Super Mario World se destaca devido à sua excelente jogabilidade somado com um ótimo _level design_ mais uma trilha sonora marcante. O resultado não poderia ser outro, o jogo foi um sucesso absoluto! Imperdível até para os dias de hoje, o jogo não envelheceu nada! :D
 
 {% include ficha.html
   cover=''

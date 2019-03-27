@@ -8,11 +8,11 @@ categories: jogando utilidade-publica
 tags: [sony, ps3, psvita, ps4, trofeus, utilidade-publica]
 thumbnail: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_header.jpg
-sinopse: >
-  Quando a Microsoft lançou o Xbox 360 em 2005, trouxe com ele várias inovações bacanas, sendo uma delas, minha favorita: o sistema de reputação do jogador, que é computado através das Conquistas (os famosos Achievements, em inglês) que cada jogo disponibiliza. Tal recurso, inspirou várias outras plataformas à fazerem um sistema similar, inclusive sua maior concorrente, a Sony, foi a primeira com seu sistema de troféus! Sobre ele que irei comentar um pouquinho... Tá, isso pode não ser novidade para muita gente, mas você sabe como funciona? Sabe quantos pontos cada troféu lhe fornece? E de quantos você precisa para subir um nível? Continue a leitura e descubra... :)
 ---
 
 Quando a **Microsoft** lançou o Xbox 360 em 2005, trouxe com ele várias inovações bacanas, sendo uma delas, minha favorita: o sistema de reputação do jogador, que é computado através das Conquistas (os famosos _Achievements_, em inglês) que cada jogo disponibiliza. Tal recurso, inspirou várias outras plataformas à fazerem um sistema similar, inclusive sua maior concorrente, a **Sony**, foi a primeira com seu sistema de troféus! É sobre ele que irei comentar um pouquinho... Tá, isso pode não ser novidade para muita gente, mas você sabe como funciona? Sabe quantos pontos cada troféu lhe fornece? E de quantos você precisa para subir um nível? Continue a leitura e descubra... :)
+
+<!--more-->
 
 ### O que são troféus e como obtê-los?
 

@@ -1,20 +1,21 @@
 ---
-layout:     post
-title:      "Análise - Tomb Raider (PS1)"
-date:       2013-08-22 19:00
-author:     felipebbarbosa
-session:    Game Over &#35 09
+layout: post
+title: "Análise - Tomb Raider (PS1)"
+date: 2013-08-22 19:00
+author: felipebbarbosa
+session: Game Over &#35 09
 categories: jogando analise
-tags:       [sony, ps1, eidos, core-design, tomb-raider, analise, game-over]
-games:      [tomb-raider-ps1]
-thumbnail:  /imgs/posts/game_over/09_tomb_raider/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/09_tomb_raider/post_header.jpg
-sinopse: >
-  Se tem uma série que sou fã é da série Tomb Raider! Entretanto, o primeiro jogo que terminei da franquia foi Tomb Raider III e desde então venho jogando e terminando todos os jogos (ou quase, The Angel of Darkness eu pulei). Mas como disse, comecei pelo terceiro, os dois primeiros sempre foram uns dos meus pecados gamísticos, pelo menos era, até que resolvi encarar o desafio e terminar o jogo que deu origem a tudo! E olha.. não foi uma tarefa fácil não!
+tags: [sony, ps1, eidos, core-design, tomb-raider, analise, game-over]
+games: [tomb-raider-ps1]
+thumbnail: /imgs/posts/game_over/09_tomb_raider/post_thumbnail.jpg
+cover: /imgs/posts/game_over/09_tomb_raider/post_header.jpg
 ---
+
 Se tem uma série que sou fã é da série **Tomb Raider**! Entretanto, o primeiro jogo que terminei da franquia foi **Tomb Raider III** e desde então venho jogando e terminando todos os jogos (ou quase, **The Angel of Darkness** eu pulei). Mas como disse, comecei pelo terceiro, os dois primeiros sempre foram uns dos meus [pecados gamísticos](/jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html), pelo menos era, até que resolvi encarar o desafio e terminar o jogo que deu origem a tudo! E olha.. não foi uma tarefa fácil não!
 
-**Tomb Raider** foi lançado em 1996 pela **Eidos Interactive** e desenvolvido pela **Core Design** para **Sega Saturn**, **PlayStation** e **PC**. A história do jogo tem como protagonista, até então desconhecida, a arqueóloga **_Lara Croft_**, que é contratada pela **_Jacqueline Natla_**, CEO da Natla Technologies, para realizar uma busca de um artefato chamado *Scion*, que na verdade é formado por três peças e estas, estão espalhadas pelo mundo a fora.
+<!--more-->
+
+**Tomb Raider** foi lançado em 1996 pela **Eidos Interactive** e desenvolvido pela **Core Design** para **Sega Saturn**, **PlayStation** e **PC**. A história do jogo tem como protagonista, até então desconhecida, a arqueóloga **_Lara Croft_**, que é contratada pela **_Jacqueline Natla_**, CEO da Natla Technologies, para realizar uma busca de um artefato chamado _Scion_, que na verdade é formado por três peças e estas, estão espalhadas pelo mundo a fora.
 
 Nesta jornada, Lara passará por diversos lugares como, América do Sul, Grécia, Egito e até pela lendária Atlântida. Também enfrentará diversos inimigos que vão desde tigres, gorilas até os sobrenaturais dinossauros e múmias!
 
@@ -26,9 +27,9 @@ Nesta primeira aventura, Lara possui movimentos limitados a saltos para frente, 
 
 {% include image.html url="/imgs/posts/game_over/09_tomb_raider/foto1.jpg" description="Scion, o artefato desajado por Lara!" %}
 
-E por falar em saltos, estes te deixam de cabelo em pé, pois em vários momentos são exigidos saltos perfeitos, onde uma falha se quer, ou é morte certa ou, pior ainda, é ter que refazer todo um trajeto novamente, principalmente se seu último *save* foi muito longe.
+E por falar em saltos, estes te deixam de cabelo em pé, pois em vários momentos são exigidos saltos perfeitos, onde uma falha se quer, ou é morte certa ou, pior ainda, é ter que refazer todo um trajeto novamente, principalmente se seu último _save_ foi muito longe.
 
-Por falar nisso, o sistema de *save* é realizado através cristais azuis localizados em pontos específicos no jogo, ou seja, não é possível salvar o jogo a todo momento.
+Por falar nisso, o sistema de _save_ é realizado através cristais azuis localizados em pontos específicos no jogo, ou seja, não é possível salvar o jogo a todo momento.
 
 Tomb Raider não é um jogo difícil, mas exige paciência, alías, muita paciência, pois as vezes, tive que me segurar para não jogar o controle na parede! (rs) Sério, a maior dificuldade do jogo é controlar a Lara em seus saltos com uma jogabilidade que ficou muito "datada", e ainda por cima, não possui suporte ao controle analógico, é somente pelo D-Pad mesmo, demorei um tempinho para me acostumar com isso!
 
