@@ -4,8 +4,8 @@ title: "Aquisição - Jogos de PS3 por Ótimos Preços"
 date: 2011-01-08 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags: [sony, ps3]
+categories: colecionando
+tags: [sony, ps3, colecao-pessoal]
 games: [medal-of-honor, motorstorm]
 thumbnail: /imgs/posts/colecao/07_jogos_ps3/post_thumbnail.jpg
 cover: /imgs/posts/colecao/07_jogos_ps3/post_header.jpg

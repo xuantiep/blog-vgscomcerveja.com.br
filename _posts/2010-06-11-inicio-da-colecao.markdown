@@ -4,8 +4,20 @@ title: "O início da coleção de videogames!"
 date: 2010-06-11 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags: [master-system, ps1, ps2, snes, gba, tectoy, nintendo, sony, sega]
+categories: colecionando
+tags:
+  [
+    master-system,
+    ps1,
+    ps2,
+    snes,
+    gba,
+    tectoy,
+    nintendo,
+    sony,
+    sega,
+    colecao-pessoal,
+  ]
 games: [phantasy-star, ultima-iv, metal-gear-solid]
 thumbnail: /imgs/posts/colecao/01_inicio/post_thumbnail.jpg
 cover: /imgs/posts/colecao/01_inicio/post_header.jpg

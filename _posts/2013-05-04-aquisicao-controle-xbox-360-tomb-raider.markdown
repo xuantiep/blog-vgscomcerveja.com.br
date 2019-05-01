@@ -4,8 +4,16 @@ title: "Aquisição - Controle Tomb Raider Xbox 360 Limited Edition"
 date: 2013-05-04 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags: [microsoft, xbox-360, tomb-raider, crystal-dynamics, square-enix]
+categories: colecionando
+tags:
+  [
+    microsoft,
+    xbox-360,
+    tomb-raider,
+    crystal-dynamics,
+    square-enix,
+    colecao-pessoal,
+  ]
 thumbnail: /imgs/posts/colecao/15_controle_tomb_raider/post_thumbnail.jpg
 cover: /imgs/posts/colecao/15_controle_tomb_raider/post_header.jpg
 ---

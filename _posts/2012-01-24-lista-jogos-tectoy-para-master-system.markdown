@@ -6,7 +6,7 @@ lastmod: 2019-02-21 22:30
 author: felipebbarbosa
 session: Utilidade Pública &#35 04
 categories: colecionando utilidade-publica
-tags: [sega, tectoy, master-system, lists, utilidade-publica]
+tags: [sega, tectoy, master-system, lists, utilidade-publica, complete-lists]
 games: [phantasy-star, ultima-iv]
 thumbnail: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_header.jpg

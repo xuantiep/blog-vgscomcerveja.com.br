@@ -4,8 +4,19 @@ title: "Últimas aquisições #01"
 date: 2012-01-14 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags: [sega, master-system, tectoy, nintendo, snes, n64, game-cube, wii]
+categories: colecionando
+tags:
+  [
+    sega,
+    master-system,
+    tectoy,
+    nintendo,
+    snes,
+    n64,
+    game-cube,
+    wii,
+    colecao-pessoal,
+  ]
 games:
   [
     alex-kidd-in-miracle-world,

@@ -10,6 +10,8 @@
 - slug: lists
   name: Listas
   link: lists
+- slug: complete-lists
+  name: Listas completas
 - slug: toplist
   name: Série Toplist
   link: jogando/toplist
@@ -19,6 +21,8 @@
 - slug: utilidade-publica
   name: Utilidade Pública
   link: utilidade-publica
+- slug: colecao-pessoal
+  name: Coleção Pessoal
 
 - slug: android
   name: Android

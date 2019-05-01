@@ -4,7 +4,7 @@ title: "Últimas Aquisições #06 - Abr~Jun/16"
 date: 2016-08-09 19:50
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: colecionando
 tags:
   [
     microsoft,
@@ -18,6 +18,7 @@ tags:
     tomb-raider,
     ps2,
     capcom,
+    colecao-pessoal,
   ]
 games:
   [

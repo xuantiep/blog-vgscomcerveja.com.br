@@ -4,8 +4,8 @@ title: "Últimas Aquisições #02"
 date: 2013-10-20 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags: [sony, ps3, sega, master-system, tomb-raider]
+categories: colecionando
+tags: [sony, ps3, sega, master-system, tomb-raider, colecao-pessoal]
 games:
   [
     gtav,

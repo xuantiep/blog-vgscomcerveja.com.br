@@ -4,7 +4,7 @@ title: "Últimas Aquisições #04"
 date: 2014-12-07 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: colecionando
 tags:
   [
     sega,
@@ -22,6 +22,7 @@ tags:
     rockband,
     lego,
     metal-gear-solid,
+    colecao-pessoal,
   ]
 games:
   [

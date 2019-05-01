@@ -4,8 +4,8 @@ title: "Aquisição - Metal Gear Solid (Game Boy Color)"
 date: 2012-05-07 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
-tags: [nintendo, gbc, konami, metal-gear-solid]
+categories: colecionando
+tags: [nintendo, gbc, konami, metal-gear-solid, colecao-pessoal]
 games: [metal-gear-solid]
 thumbnail: /imgs/posts/colecao/12_metal_gear_solid/post_thumbnail.jpg
 cover: /imgs/posts/colecao/12_metal_gear_solid/post_header.jpg

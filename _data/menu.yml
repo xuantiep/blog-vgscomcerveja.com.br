@@ -36,6 +36,8 @@
       url: /colecionando/edicao-colecionador/
     - title: Mosca Branca
       url: /colecionando/mosca-branca/
+    - title: Listas Completas
+      url: /complete-lists/
 - title: Utilidade Pública
   url: /utilidade-publica/
   classe: icon-book

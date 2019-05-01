@@ -4,7 +4,7 @@ title: "Últimas Aquisições #05 - Março/16"
 date: 2016-04-16 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: colecionando
 tags:
   [
     sony,
@@ -23,6 +23,7 @@ tags:
     master-system,
     tectoy,
     ps4,
+    colecao-pessoal,
   ]
 games:
   [
