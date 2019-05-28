@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/toplist/06_coisas_recomendo_1/post_thumbnail.jpg
 cover: /imgs/posts/toplist/06_coisas_recomendo_1/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Vira e mexe eu descubro coisas legais relacionadas à games, que não são necessariamente jogos, mas que gostaria de compartilhar com vocês, só não sabia como! Então, tive a ideia de criar essa série de dicas: "5 'coisas' que recomendo" (eu sei, esse nome não é bom, né? aceito sugestões) onde pretendo escrever sempre que tiver algumas interessantes para compartilhar, tais como, livros, aplicativos, sites, eventos, podcasts e entre outras relacionadas ao universo dos games.. Espero que gostem! :)
 
 <!--more-->

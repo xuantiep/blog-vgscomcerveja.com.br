@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/toplist/07_artistas_spotify/post_thumbnail.jpg
 cover: /imgs/posts/toplist/07_artistas_spotify/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo beleza?
-
 Um dos elementos que mais gosto em um jogo é sua trilha sonora. É ela quem te coloca no clima e dita o ritmo do jogo, concorda? Sendo assim, existem centenas de milhares de composições sonoras excelentes e marcantes e, por trás delas há sempre grandes artistas que a desenvolvem, certo? Entretanto, há também diversos de outros artistas que não compoem trilhas originais, mas que as recriam com maestria, cujo os resultados são tão fantásticos quanto as originais! E um ótimo lugar para encontrar esses artistas é no Spotify. Pensando nisso, selecionei 13 artistas dos quais eu mais escuto por lá!
 
 <!--more-->

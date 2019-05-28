@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/toplist/11_cacadores_trofeus2/post_thumbnail.jpg
 cover: /imgs/posts/toplist/11_cacadores_trofeus2/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Como devem saber, a **Telltale** foi uma das responsáveis em trazer de volta o estilo que foi bem popular nos jogos de PCs dos anos 90: os adventures point-and-click! Porém, o foco da produtora é quase que totalmente na narrativa, deixando de lado o maior atrativo dos clássicos que são os puzzles, que muitas vezes eram de quebrar a cabeça.. literalmente!
 
 Mas como não é só de Telltale que vivem os adventures, selecionei 6 deles que não são da produtora, mas representam muito bem o estilo, seja com foco na narrativa, nos puzzles ou em ambos, porém todos com uma característica em comum: possuem troféus fáceis de serem adquiridos! :)

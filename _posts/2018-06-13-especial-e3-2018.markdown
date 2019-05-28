@@ -27,8 +27,6 @@ thumbnail: /imgs/posts/especial/06_e32018/post_thumbnail.jpg
 cover: /imgs/posts/especial/06_e32018/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Mais uma E3 se passou e, como sempre, muitas novidades foram reveladas. Algumas já conhecidas, mas
 outras que pegaram todo mundo de surpresa! Confira o que eu curti desta E3...
 

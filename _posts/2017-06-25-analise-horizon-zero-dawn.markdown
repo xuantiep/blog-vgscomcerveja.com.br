@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg
 cover: /imgs/posts/game_over/38_horizon_zero_dawn/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Pensem comigo, uma ruiva "badass" que luta contra robôs em um mundo pós-apocaliptico não tinha como dar errado, certo? Ou será que tinha? Não.. não tinha, [Horizon Zero Dawn](https://www.guerrilla-games.com/play/horizon) é a nova IP da **Guerrilla Games** (mesma de Killzone) que chegou para ficar!
 
 <!--more-->

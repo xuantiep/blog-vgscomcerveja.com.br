@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/toplist/10_caracteristicas_chatas/post_thumbnail.jpg
 cover: /imgs/posts/toplist/10_caracteristicas_chatas/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Pois é, o ano está acabando, o Natal está aí já.. então este provavelmente será o último post de 2017! E para finalizar o ano antes de lhes desejar boas festas, gostaria de compartilhar com vocês uma pequena frustração que tenho com certas características de alguns jogos. Pois, eu não sei vocês, mas às vezes me preocupo com o rumo que os jogos eletrônicos estão tomando!
 
 Digo isso devido à popularidade de algumas características dos jogos atuais, que simplesmente não me agradam... Pelo menos, não a primeiro momento, mas que sempre fico com um pé atrás quando descubro que tal jogo as possui. Pois bem, reuni cinco das quais mais me incomoda!

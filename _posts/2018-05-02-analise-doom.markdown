@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/game_over/39_doom/post_thumbnail.jpg
 cover: /imgs/posts/game_over/39_doom/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Ao contrário do que possam imaginar, esta é praticamente minha primeira experiência com a série
 DOOM. Pois quando ganhei meu primeiro computador, lá por volta de 1998, a era do FPS já estava
 bem difundida (exatamente por causa do sucesso do primeiro DOOM de 1993) e o primeiro do gênero que

@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/news/27_cases/post_thumbnail.jpg
 cover: /imgs/posts/news/27_cases/post_header.jpg
 ---
 
-Fala ae jogadores cervejeiros, beleza?
-
 Quem coleciona sabe o quão frustrante é ter na coleção jogos com a caixa danificada, principalmente
 aquelas de plataformas que possuem formatos fora do padrão, como a do Sega CD, Saturn e PS1 (no
 início), os famosos long boxes americano de acrílico, que apesar de serem mais resistentes que o

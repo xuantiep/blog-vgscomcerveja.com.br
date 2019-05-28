@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/toplist/09_cacadores_trofeus1/post_thumbnail.jpg
 cover: /imgs/posts/toplist/09_cacadores_trofeus1/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Quem me conhece um pouco, sabe que gosto de "caçar" os troféus dos jogos. Para mim, este foi um dos recursos mais legais adicionados na geração passada (7a geração) e, apesar do Xbox 360 ter sido pioneiro com os _achievements_ (conquistas), sou mais fã dos troféus do PlayStation. Porém, independente da plataforma, gostaria de iniciar uma nova série aqui no blog: **Caçadores de Troféus**!
 
 Aqui pretendo indicar alguns jogos bons (ou quase isso ^^') que possuem troféus relativamente fáceis de serem adquiridos para você dar um "UP" no seu perfil, seja ele da LIVE, PSN ou de qualquer outra plataforma que tenha troféus! :)

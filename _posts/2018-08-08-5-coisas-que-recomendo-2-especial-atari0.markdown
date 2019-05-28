@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/toplist/12_coisas_recomendo_2/post_thumbnail.jpg
 cover: /imgs/posts/toplist/12_coisas_recomendo_2/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bem com vocês?
-
 No ano passado, um console bastante querido por nós brasileiros, completou incríveis 40 anos!
 Sim, os videogames já estão em sua fase adulta à algum tempo, mas estamos falando do inimigo número 1 da família brasileira, o **Atari 2600**.
 E nada melhor para comemorar seus 41 anos (pois apesar do post atrasado, o [Atari ainda não morreu](https://tecnoblog.net/251667/atari-vcs-linux-8-gb-ram/))

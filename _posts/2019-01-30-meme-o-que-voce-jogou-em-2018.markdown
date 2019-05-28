@@ -168,7 +168,7 @@ Esse post faz do MeMe Gamer "O Que Você Jogou em 2018?", organizado pelo site [
 - [Arquivos do Woo](https://www.arquivosdowoo.com.br/2019/01/o-que-eu-joguei-em-2018.html) - por Cyber Woo
 - [Desocupado](http://des-ocupado.blogspot.com/2019/02/especial-o-que-joguei-em-2018.html) - por Paulo Victor
 - [Gamer Caduco](https://gamercaduco.com/2019/01/23/meme-gamer-o-que-voce-jogou-em-2018-oqvj2018/) - por Cadu
-- [Gamerníaco](https://gamerniaco.wordpress.com/) - por Eduardo Farnezi
+- [Gamerníaco](https://gamerniaco.wordpress.com/2019/03/05/meme-gamer-o-que-voce-jogou-em-2018/) - por Eduardo Farnezi
 - [Locadora Resident Ivo](https://locadoraresidentivo.com/meme-gamer-o-que-voce-jogou-em-2018/) - por Ivo Ornelas
 - [MarvoxBrasil](https://marvoxbrasil.wordpress.com/2019/01/21/memegamer-oquevocejogouem2018/) - por Marvox
 - [RetroPlayers](http://www.retroplayers.com.br/retro/retrospectiva-2018-gamistico-sabat/) - por Sabat

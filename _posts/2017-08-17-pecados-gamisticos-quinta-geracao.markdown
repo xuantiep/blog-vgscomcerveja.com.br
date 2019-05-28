@@ -24,8 +24,6 @@ thumbnail: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.j
 cover: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Dando continuidade à série <strike>(eterna)</strike> **Pecados Gamísticos** em ordem regressa, chegamos à 5a geração de videogames, a era do 32-bit (e 64-bit)!
 
 Formada basicamente pelos consoles 3DO, Atari Jaguar, Sega Saturn, Nintendo 64 e PlayStation 1, esta foi a época que talvez eu mais tenha jogado videogame na vida! Porém, praticamente em somente um console: o PS1, tanto que os jogos dele que estão na lista, eu até cheguei a jogar, mas só não finalizei!

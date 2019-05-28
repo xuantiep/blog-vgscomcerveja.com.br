@@ -10,8 +10,6 @@ thumbnail: /imgs/posts/game_over/40_resident_evil7/post_thumbnail.jpg
 cover: /imgs/posts/game_over/40_resident_evil7/post_header.jpg
 ---
 
-Olá jogadores cervejeiros, tudo bom?
-
 Se você é que nem eu, um fã de **Resident Evil**, que já tinha perdido as esperanças de jogar um novo capitulo da série que seja tão bom quanto os clássicos? Um jogo que traga aquela sensação tensa de que todo passo, tiro ou uso de recursos tem que ser calculado para conseguir avançar no jogo?
 
 Pois bem, eu já tinha perdido aquela paixão pela série, logo depois de só experimentar um pouco do **Resident Evil 5** e não curtir. Tá, confesso que deveria dar uma chance maior ao jogo (e ainda pretendo), mas aquele não era o Resident Evil que esperava. Aí veio o **Resident Evil 6**, e nem dei bola para ele, nem sei se é bom ou ruim! rs... E depois, na E3 2016, anunciaram o **Resident Evil 7**... com visão em primeira pessoa e personagens totalmente desconhecidos... foi aí que pensei que iria me divorciar de vez da série! Mas queimei a língua (e bonito)...
