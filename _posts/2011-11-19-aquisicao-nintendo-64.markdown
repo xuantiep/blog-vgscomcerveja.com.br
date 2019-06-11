@@ -4,7 +4,7 @@ title: "Aquisição - Nintendo Sixty Fooouur!"
 date: 2011-11-19 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando
+categories: colecionando colecao-pessoal
 tags: [nintendo, n64, colecao-pessoal]
 thumbnail: /imgs/posts/colecao/10_nintendo_64/post_thumbnail.jpg
 cover: /imgs/posts/colecao/10_nintendo_64/post_header.jpg

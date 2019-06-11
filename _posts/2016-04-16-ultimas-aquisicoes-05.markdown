@@ -4,7 +4,7 @@ title: "Últimas Aquisições #05 - Março/16"
 date: 2016-04-16 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando
+categories: colecionando colecao-pessoal
 tags:
   [
     sony,

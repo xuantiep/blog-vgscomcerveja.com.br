@@ -4,7 +4,7 @@ title: "Aquisição - Controle Tomb Raider Xbox 360 Limited Edition"
 date: 2013-05-04 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando
+categories: colecionando colecao-pessoal
 tags:
   [
     microsoft,

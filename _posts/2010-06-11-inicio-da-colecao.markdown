@@ -4,7 +4,7 @@ title: "O início da coleção de videogames!"
 date: 2010-06-11 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando
+categories: colecionando colecao-pessoal
 tags:
   [
     master-system,

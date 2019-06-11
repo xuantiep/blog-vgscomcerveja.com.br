@@ -4,7 +4,7 @@ title: "Últimas Aquisições #04"
 date: 2014-12-07 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando
+categories: colecionando colecao-pessoal
 tags:
   [
     sega,

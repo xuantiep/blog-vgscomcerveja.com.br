@@ -4,7 +4,7 @@ title: "Aquisição - Série Gran Turismo (PS1)"
 date: 2010-09-05 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando
+categories: colecionando colecao-pessoal
 tags: [sony, ps1, gran-turismo, colecao-pessoal]
 games: [gran-turismo, gran-turismo-2]
 thumbnail: /imgs/posts/colecao/03_gran_turismo/post_thumbnail.jpg
