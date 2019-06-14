@@ -37,6 +37,10 @@ Bom, só o fato de ser um jogo baseado em filme já diz muita coisa, né? Mas no
   online="Não"
   jogadas="1 no HARD" %}
 
+{% include achivement-unlock.html
+    content="O jogo também está disponível no Xbox 360!"
+    points="1000" %}
+
 ### Jurassic: The Hunted
 
 {% include image.html
@@ -66,6 +70,10 @@ Tirando isso, os outros trofeús não tem segredo nenhum, são basicamente relac
   online="Não"
   jogadas="2" %}
 
+{% include achivement-unlock.html
+    content="O jogo também está disponível no Xbox 360!"
+    points="1000" %}
+
 ### MIB: Alien Crisis
 
 {% include image.html
@@ -90,6 +98,10 @@ Sobre os troféus, infelizmente você também terá que terminá-lo duas vezes (
   tempo="10-12 horas"
   online="Não"
   jogadas="2 (história e competitive VR missions)" %}
+
+{% include achivement-unlock.html
+    content="O jogo também está disponível no Xbox 360!"
+    points="1000" %}
 
 ---
 

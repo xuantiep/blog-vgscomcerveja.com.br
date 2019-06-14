@@ -814,6 +814,36 @@
   }
 }
 
+.achivement-box {
+  float: left;
+  padding: 0;
+  border-radius: 32px;
+  color: white;
+  background-color: #02770c;
+  margin: 10px auto;
+  width: 100%;
+  font-size: 0.95em;
+
+  img {
+    float: left;
+  }
+
+  span {
+    float: left;
+    padding: 8px;
+  }
+
+  small {
+    float: left;
+    margin: 6px 0 0 6px;
+    font-weight: 100;
+
+    img {
+      margin: 2px 5px;
+    }
+  }
+}
+
 /*
  * Newsletter 
  */
