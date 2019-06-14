@@ -79,7 +79,7 @@ Mas no pior dos casos, o jogo é tão curto que talvez valha a pena iniciar outr
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox One!"
+    content="Disponível no Xbox One!"
     points="1000" %}
 
 ### The Little Acre
@@ -112,7 +112,7 @@ publicado pela [Curve Digital](http://www.curve-digital.com/) no final de 2016.
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox One!"
+    content="Disponível no Xbox One!"
     points="1000" %}
 
 ### Late Shift
@@ -144,7 +144,7 @@ Quanto aos troféus, a maneira mais rápida é seguir um roteiro para não perde
   jogadas="1 (com algumas repetições de capítulos)" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox One!"
+    content="Disponível no Xbox One!"
     points="1000" %}
 
 ### Dying: Reborn
@@ -173,7 +173,7 @@ O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado 
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox One!"
+    content="Disponível no Xbox One!"
     points="1000" %}
 
 ### Demetrios: The Big Cynical Adventure
@@ -203,7 +203,7 @@ Tirando isso, os outros troféus são bem tranquilos, bastando dar uma olhada ne
   jogadas="1" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox One!"
+    content="Disponível no Xbox One!"
     points="1000" %}
 
 ---

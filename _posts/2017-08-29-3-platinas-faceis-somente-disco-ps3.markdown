@@ -38,7 +38,7 @@ Bom, só o fato de ser um jogo baseado em filme já diz muita coisa, né? Mas no
   jogadas="1 no HARD" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox 360!"
+    content="Disponível no Xbox 360!"
     points="1000" %}
 
 ### Jurassic: The Hunted
@@ -71,7 +71,7 @@ Tirando isso, os outros trofeús não tem segredo nenhum, são basicamente relac
   jogadas="2" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox 360!"
+    content="Disponível no Xbox 360!"
     points="1000" %}
 
 ### MIB: Alien Crisis
@@ -100,7 +100,7 @@ Sobre os troféus, infelizmente você também terá que terminá-lo duas vezes (
   jogadas="2 (história e competitive VR missions)" %}
 
 {% include achivement-unlock.html
-    content="O jogo também está disponível no Xbox 360!"
+    content="Disponível no Xbox 360!"
     points="1000" %}
 
 ---
