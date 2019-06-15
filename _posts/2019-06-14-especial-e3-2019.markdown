@@ -10,7 +10,7 @@ thumbnail: /imgs/posts/especial/08_e32019/post_thumbnail.jpg
 cover: /imgs/posts/especial/08_e32019/post_header.jpg
 ---
 
-Apesar da edição deste ano não ter contado com a presença da Sony e não ter sido tão boa quanto a do [ano passado](jogando/especial/2018/06/13/especial-e3-2018.html), a E3 ainda é uma das maiores feiras de videogames do mundo e várias novidades interessantes foram apresentadas! Selecionei 5 das que eu mais gostei...
+Apesar da edição deste ano não ter contado com a presença da Sony e não ter sido tão boa quanto a do [ano passado](jogando/especial/2018/06/13/especial-e3-2018.html), a E3 ainda é uma das maiores feiras de videogames do mundo e várias novidades interessantes foram apresentadas! Selecionei algumas das que eu mais gostei...
 
 <!--more-->
 
@@ -48,7 +48,7 @@ O jogo está sendo desenvolvido pela [CD Projekt Red](https://en.cdprojektred.co
 
 ### PC Engine / TurboGrafx-16 Mini
 
-E por fim, uma notícia que quase me passou despercebido: o anúncio da **Konami** sobre o [TurboGrafx-16 mini](https://www.konami.com/games/pcemini/us/en/) (PC Engine no japão). Este é um console bastante querido e procurado pelos colecionadores, principalmente, nós brasileiros, que praticamente não tivemos acesso ao console na época.
+Uma notícia que quase me passou despercebido: o anúncio da **Konami** sobre o [TurboGrafx-16 mini](https://www.konami.com/games/pcemini/us/en/) (PC Engine no japão). Este é um console bastante querido e procurado pelos colecionadores, principalmente, nós brasileiros, que praticamente não tivemos acesso ao console na época.
 
 {% include youtubePlayer.html id="iOXlnZqPUuE" %}
 
@@ -64,6 +64,14 @@ Os títulos revelados até o momento são:
 | Ys Book I & II       | Ys I & II                   |
 
 O PC Engine / TurboGrafx-16 foi desenvolvido pela Hudson Soft e distribuído pela NEC e "competia" com o Mega Drive e Super Nintendo na época. Em 2011, a [Hudson Soft foi comprada pela Konami](https://www.gamespot.com/articles/konami-acquiring-hudson/1100-6286645/).
+
+### Ghostwire: Tokyo
+
+E por fim, o novo jogo de Shinji Mikami, criador da série Resident Evil e The Evil Within, foi apresentado na conferência da Bethesda. Confira:
+
+{% include youtubePlayer.html id="mFbNFkhm3UM" %}
+
+Promissor, não?
 
 ---
 
