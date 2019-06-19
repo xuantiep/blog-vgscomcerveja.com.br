@@ -7,6 +7,7 @@ session: Game Over &#35 18
 categories: jogando analise
 tags: [sony, psp, silent-hill, konami, analise, game-over]
 games: [silent-hill-origins]
+related: game-over
 thumbnail: /imgs/posts/game_over/18_silent_hill_origins/post_thumbnail.jpg
 cover: /imgs/posts/game_over/18_silent_hill_origins/post_header.jpg
 ---

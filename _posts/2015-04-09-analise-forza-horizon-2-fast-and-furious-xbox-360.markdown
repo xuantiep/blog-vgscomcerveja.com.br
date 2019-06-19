@@ -7,6 +7,7 @@ session: Game Over &#35 23
 categories: jogando analise
 tags: [microsoft, xbox-360, analise, game-over]
 games: [forza-horizon-2]
+related: game-over
 thumbnail: /imgs/posts/game_over/23_forza_horizon2_fast_furious/post_thumbnail.jpg
 cover: /imgs/posts/game_over/23_forza_horizon2_fast_furious/post_header.jpg
 ---

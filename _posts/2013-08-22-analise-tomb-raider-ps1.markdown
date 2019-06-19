@@ -7,6 +7,7 @@ session: Game Over &#35 09
 categories: jogando analise
 tags: [sony, ps1, eidos, core-design, tomb-raider, analise, game-over]
 games: [tomb-raider-ps1]
+related: game-over
 thumbnail: /imgs/posts/game_over/09_tomb_raider/post_thumbnail.jpg
 cover: /imgs/posts/game_over/09_tomb_raider/post_header.jpg
 ---

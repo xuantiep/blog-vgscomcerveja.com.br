@@ -5,7 +5,8 @@ date: 2011-11-27 19:00
 author: felipebbarbosa
 session: Utilidade Pública &#35 03
 categories: jogando utilidade-publica
-tags: [atari, utilidade-publica]
+tags: [atari, utilidade-publica, diy]
+related: diy
 thumbnail: /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/03_saida_av_atari2600/post_header.jpg
 ---

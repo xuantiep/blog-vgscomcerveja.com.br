@@ -7,6 +7,7 @@ session: Game Over &#35 33
 categories: jogando analise
 tags: [sony, ps4, ps-plus, analise, game-over]
 games: [gone-home]
+related: game-over
 thumbnail: /imgs/posts/game_over/33_gone_home/post_thumbnail.jpg
 cover: /imgs/posts/game_over/33_gone_home/post_header.jpg
 ---

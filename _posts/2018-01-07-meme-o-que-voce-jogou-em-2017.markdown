@@ -23,7 +23,9 @@ tags:
     uncharted,
     gran-turismo,
     indie,
+    meme-oqvj,
   ]
+related: meme-oqvj
 thumbnail: /imgs/posts/especial/05_meme2017/thumbnail.jpg
 cover: /imgs/posts/especial/05_meme2017/header.jpg
 ---

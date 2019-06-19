@@ -24,6 +24,7 @@ tags:
     microsoft,
     ps2,
     especial,
+    meme-oqvj,
   ]
 games:
   [
@@ -53,6 +54,7 @@ games:
     the-last-guardian,
     goof-troop,
   ]
+related: meme-oqvj
 thumbnail: /imgs/posts/especial/04_meme2016/thumbnail.jpg
 cover: /imgs/posts/especial/04_meme2016/header.jpg
 ---

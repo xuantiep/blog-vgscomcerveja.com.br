@@ -7,6 +7,7 @@ session: Game Over &#35 30
 categories: jogando analise
 tags: [sony, ps4, uncharted, naughty-dog, analise, game-over]
 games: [uncharted-4]
+related: game-over
 thumbnail: /imgs/posts/game_over/30_uncharted4/post_thumbnail.jpg
 cover: /imgs/posts/game_over/30_uncharted4/post_header.jpg
 ---

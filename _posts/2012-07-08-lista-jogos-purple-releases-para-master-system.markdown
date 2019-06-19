@@ -7,6 +7,7 @@ author: felipebbarbosa
 session: Utilidade Pública &#35 06
 categories: colecionando utilidade-publica
 tags: [sega, tectoy, master-system, lists, utilidade-publica, complete-lists]
+related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_header.jpg
 ---

@@ -6,6 +6,7 @@ author: felipebbarbosa
 session: Game Over &#35 38
 categories: jogando analise
 tags: [sony, ps4, horizon-zero-dawn, analise, game-over]
+related: game-over
 thumbnail: /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg
 cover: /imgs/posts/game_over/38_horizon_zero_dawn/post_header.jpg
 ---

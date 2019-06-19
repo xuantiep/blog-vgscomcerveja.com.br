@@ -32,6 +32,7 @@ games:
     star-fox-adventures,
     super-mario-galaxy,
   ]
+related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/11_aquisicoes01/post_thumbnail.jpg
 cover: /imgs/posts/colecao/11_aquisicoes01/post_header.jpg
 ---

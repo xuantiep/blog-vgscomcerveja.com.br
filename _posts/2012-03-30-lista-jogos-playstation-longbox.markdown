@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Utilidade Pública &#35 05
 categories: colecionando utilidade-publica
 tags: [sony, ps1, resident-evil, lists, utilidade-publica, complete-lists]
-games: [resident-evil, space-hulk, doom]
+related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_header.jpg
 ---

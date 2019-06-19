@@ -5,7 +5,8 @@ date: 2017-03-30 22:00
 author: felipebbarbosa
 session: Utilidade Pública &#35 09
 categories: jogando utilidade-publica
-tags: [sony, ps3, psvita, ps4, trofeus, utilidade-publica]
+tags: [trofeus, sony, ps3, psvita, ps4, utilidade-publica]
+related: trofeus
 thumbnail: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_header.jpg
 ---

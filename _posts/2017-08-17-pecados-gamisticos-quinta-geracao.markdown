@@ -19,7 +19,9 @@ tags:
     tomb-raider,
     lists,
     toplist,
+    pecados-gamisticos,
   ]
+related: pecados-gamisticos
 thumbnail: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg
 ---

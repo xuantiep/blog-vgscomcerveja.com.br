@@ -7,6 +7,7 @@ session: Game Over &#35 27
 categories: jogando analise
 tags: [sony, psvita, drinkbox, analise, game-over]
 games: [guacamelee]
+related: game-over
 thumbnail: /imgs/posts/game_over/27_guacamelee/post_thumbnail.jpg
 cover: /imgs/posts/game_over/27_guacamelee/post_header.jpg
 ---

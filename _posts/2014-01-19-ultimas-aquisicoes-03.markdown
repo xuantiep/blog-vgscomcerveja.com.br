@@ -35,6 +35,7 @@ games:
     street-fighter-2,
     gears-of-war-judgement,
   ]
+related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/17_aquisicoes03/post_thumbnail.jpg
 cover: /imgs/posts/colecao/17_aquisicoes03/post_header.jpg
 ---

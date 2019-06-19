@@ -7,6 +7,7 @@ session: Game Over &#35 20
 categories: jogando analise
 tags: [sony, ps3, rockband, electronic-arts, analise, game-over]
 games: [acdc-rockband]
+related: game-over
 thumbnail: /imgs/posts/game_over/20_acdc_live/post_thumbnail.jpg
 cover: /imgs/posts/game_over/20_acdc_live/post_header.jpg
 ---

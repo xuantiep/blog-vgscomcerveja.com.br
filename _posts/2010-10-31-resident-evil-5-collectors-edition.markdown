@@ -5,8 +5,9 @@ date: 2010-10-31 19:00
 author: felipebbarbosa
 session: Edição de Colecionador &#35 01
 categories: colecionando edicao-colecionador
-tags: [ps3, xbox-360, capcom]
+tags: [ps3, xbox-360, capcom, edicao-colecionador]
 games: [resident-evil-5]
+related: edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/01_resident_evil5/post_thumbnail.jpg
 cover: /imgs/posts/ed_colecionador/01_resident_evil5/post_header.jpg
 ---

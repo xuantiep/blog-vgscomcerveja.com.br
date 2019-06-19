@@ -7,6 +7,7 @@ session: Game Over &#35 05
 categories: jogando analise
 tags: [sega, master-system, tectoy, analise, game-over]
 games: [taz-mania]
+related: game-over
 thumbnail: /imgs/posts/game_over/05_tazmania/post_thumbnail.jpg
 cover: /imgs/posts/game_over/05_tazmania/post_header.jpg
 ---

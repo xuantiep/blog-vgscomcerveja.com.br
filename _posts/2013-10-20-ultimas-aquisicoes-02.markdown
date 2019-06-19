@@ -17,6 +17,7 @@ games:
     tomb-raider-underworld,
     need-for-speed-most-wanted,
   ]
+related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/16_aquisicoes02/post_thumbnail.jpg
 cover: /imgs/posts/colecao/16_aquisicoes02/post_header.jpg
 ---

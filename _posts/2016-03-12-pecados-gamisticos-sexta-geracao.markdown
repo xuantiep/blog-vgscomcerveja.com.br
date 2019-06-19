@@ -17,6 +17,7 @@ tags:
     xbox,
     lists,
     toplist,
+    pecados-gamisticos,
   ]
 games:
   [
@@ -32,6 +33,7 @@ games:
     silent-hill-2,
     silent-hill-3,
   ]
+related: pecados-gamisticos
 thumbnail: /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_header.jpg
 ---

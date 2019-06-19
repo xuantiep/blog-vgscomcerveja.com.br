@@ -6,6 +6,7 @@ author: felipebbarbosa
 session: Especial
 categories: jogando
 tags: [e3, microsoft, xbox-one]
+related: e3
 thumbnail: /imgs/posts/especial/08_e32019/post_thumbnail.jpg
 cover: /imgs/posts/especial/08_e32019/post_header.jpg
 ---

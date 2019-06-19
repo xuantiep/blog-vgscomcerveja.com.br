@@ -38,6 +38,7 @@ games:
     deep-duck-trouble,
     fallout-4,
   ]
+related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/19_aquisicoes05/post_thumbnail.jpg
 cover: /imgs/posts/colecao/19_aquisicoes05/post_header.jpg
 ---

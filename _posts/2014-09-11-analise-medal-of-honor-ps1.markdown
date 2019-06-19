@@ -7,6 +7,7 @@ session: Game Over &#35 19
 categories: jogando analise
 tags: [sony, ps1, electronic-arts, analise, game-over]
 games: [medal-of-honor]
+related: game-over
 thumbnail: /imgs/posts/game_over/19_medal_of_honor/post_thumbnail.jpg
 cover: /imgs/posts/game_over/19_medal_of_honor/post_header.jpg
 ---

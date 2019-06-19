@@ -7,6 +7,7 @@ session: Game Over &#35 28
 categories: jogando analise
 tags: [sony, ps1, capcom, resident-evil, analise, game-over]
 games: [resident-evil]
+related: game-over
 thumbnail: /imgs/posts/game_over/28_resident_evil/post_thumbnail.jpg
 cover: /imgs/posts/game_over/28_resident_evil/post_header.jpg
 ---

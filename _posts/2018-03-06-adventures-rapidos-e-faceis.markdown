@@ -5,7 +5,8 @@ date: 2018-03-06 21:30
 author: felipebbarbosa
 session: Toplist &#35 11 - Caçadores de Troféus &#35 02
 categories: jogando toplist
-tags: [sony, ps4, trofeus, lists, toplist]
+tags: [trofeus, sony, ps4, lists, toplist]
+related: trofeus
 thumbnail: /imgs/posts/toplist/11_cacadores_trofeus2/post_thumbnail.jpg
 cover: /imgs/posts/toplist/11_cacadores_trofeus2/post_header.jpg
 ---

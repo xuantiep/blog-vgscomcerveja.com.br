@@ -17,6 +17,7 @@ tags:
     game-over,
   ]
 games: [metal-gear-solid-the-twin-snakes]
+related: game-over
 thumbnail: /imgs/posts/game_over/06_mgs_twin_snakes/post_thumbnail.jpg
 cover: /imgs/posts/game_over/06_mgs_twin_snakes/post_header.jpg
 ---

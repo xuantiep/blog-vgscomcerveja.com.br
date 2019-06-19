@@ -7,6 +7,7 @@ session: Game Over &#35 17
 categories: jogando analise
 tags: [sony, ps3, analise, game-over]
 games: [spec-ops-the-line]
+related: game-over
 thumbnail: /imgs/posts/game_over/17_spec_ops_the_line/post_thumbnail.jpg
 cover: /imgs/posts/game_over/17_spec_ops_the_line/post_header.jpg
 ---

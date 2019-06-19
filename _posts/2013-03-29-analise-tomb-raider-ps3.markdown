@@ -8,6 +8,7 @@ categories: jogando analise
 tags:
   [sony, ps3, tomb-raider, crystal-dynamics, square-enix, analise, game-over]
 games: [tomb-raider]
+related: game-over
 thumbnail: /imgs/posts/game_over/04_tomb_raider/post_thumbnail.jpg
 cover: /imgs/posts/game_over/04_tomb_raider/post_header.jpg
 ---

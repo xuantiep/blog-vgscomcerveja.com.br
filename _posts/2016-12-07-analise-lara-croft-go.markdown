@@ -1,15 +1,15 @@
 ---
-layout:     post
-title:      "Análise - Lara Croft GO (PS Vita)"
-date:       2016-12-07 20:00
-author:     felipebbarbosa
-session:    Game Over &#35 35
+layout: post
+title: "Análise - Lara Croft GO (PS Vita)"
+date: 2016-12-07 20:00
+author: felipebbarbosa
+session: Game Over &#35 35
 categories: jogando analise
-tags:       [sony, psvita, tomb-raider, analise, game-over]
-games:      [lara-croft-go]
-thumbnail:  /imgs/posts/game_over/35_lara_croft_go/post_thumbnail.jpg
-cover:      /imgs/posts/game_over/35_lara_croft_go/post_header.jpg
-game_cover:
+tags: [sony, psvita, tomb-raider, analise, game-over]
+games: [lara-croft-go]
+related: game-over
+thumbnail: /imgs/posts/game_over/35_lara_croft_go/post_thumbnail.jpg
+cover: /imgs/posts/game_over/35_lara_croft_go/post_header.jpg
 ---
 
 Em uma aventura um pouco diferente do que estamos acostumados ver nossa musa, [Lara Croft GO](http://www.laracroftgo.com/) a colocou em uma nova proposta de jogo focado em um dos principais elementos da série Tomb Raider! Sim, estou falando dos puzzles.. amados por uns e odiados por outros!

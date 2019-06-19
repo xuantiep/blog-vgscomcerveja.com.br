@@ -7,6 +7,7 @@ session: Game Over &#35 15
 categories: jogando analise
 tags: [microsoft, xbox-360, tequila-works, analise, game-over]
 games: [deadlight]
+related: game-over
 thumbnail: /imgs/posts/game_over/15_deadlight/post_thumbnail.jpg
 cover: /imgs/posts/game_over/15_deadlight/post_header.jpg
 ---

@@ -25,6 +25,7 @@ tags:
     sega,
     sonic,
     especial,
+    meme-oqvj,
   ]
 games:
   [
@@ -47,6 +48,7 @@ games:
     enslaved,
     uncharted,
   ]
+related: meme-oqvj
 thumbnail: /imgs/posts/especial/03_meme2015/post_thumbnail.jpg
 cover: /imgs/posts/especial/03_meme2015/post_header.jpg
 ---

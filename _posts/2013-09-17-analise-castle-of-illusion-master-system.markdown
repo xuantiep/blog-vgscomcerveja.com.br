@@ -7,6 +7,7 @@ session: Game Over &#35 10
 categories: jogando analise
 tags: [sega, master-system, tectoy, mickey, disney, analise, game-over]
 games: [castle-of-illusion]
+related: game-over
 thumbnail: /imgs/posts/game_over/10_castle_of_illusion/post_thumbnail.jpg
 cover: /imgs/posts/game_over/10_castle_of_illusion/post_header.jpg
 ---

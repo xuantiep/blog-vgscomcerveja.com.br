@@ -6,7 +6,19 @@ author: felipebbarbosa
 session: Toplist &#35 01 - Pecados Gamísticos &#35 01
 categories: jogando toplist
 tags:
-  [sony, ps3, microsoft, xbox-360, nintendo, wii, indie, zelda, lists, toplist]
+  [
+    sony,
+    ps3,
+    microsoft,
+    xbox-360,
+    nintendo,
+    wii,
+    indie,
+    zelda,
+    lists,
+    toplist,
+    pecados-gamisticos,
+  ]
 games:
   [
     journey,
@@ -22,6 +34,7 @@ games:
     new-super-mario,
     super-mario-galaxy,
   ]
+related: pecados-gamisticos
 thumbnail: /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_header.jpg
 ---

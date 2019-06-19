@@ -7,6 +7,7 @@ session: Game Over &#35 24
 categories: jogando analise
 tags: [snes, nintendo, mario, analise, game-over]
 games: [super-mario-world]
+related: game-over
 thumbnail: /imgs/posts/game_over/24_super_mario_world/post_thumbnail.jpg
 cover: /imgs/posts/game_over/24_super_mario_world/post_header.jpg
 ---

@@ -7,6 +7,7 @@ session: Game Over &#35 01
 categories: jogando analise
 tags: [microsft, xbox-360, ubisoft, farcry, analise, game-over]
 games: [farcry-3]
+related: game-over
 thumbnail: /imgs/posts/game_over/01_farcry3/post_thumbnail.jpg
 cover: /imgs/posts/game_over/01_farcry3/post_header.jpg
 ---

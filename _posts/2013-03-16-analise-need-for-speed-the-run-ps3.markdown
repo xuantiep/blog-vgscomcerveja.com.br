@@ -8,6 +8,7 @@ categories: jogando analise
 tags:
   [sony, ps3, electronic-arts, need-for-speed, black-box, analise, game-over]
 games: [need-for-speed-the-run]
+related: game-over
 thumbnail: /imgs/posts/game_over/03_nfs_the_run/post_thumbnail.jpg
 cover: /imgs/posts/game_over/03_nfs_the_run/post_header.jpg
 ---

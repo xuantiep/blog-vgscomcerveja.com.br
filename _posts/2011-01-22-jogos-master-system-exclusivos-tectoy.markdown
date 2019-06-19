@@ -7,6 +7,7 @@ author: felipebbarbosa
 session: Utilidade Pública &#35 01
 categories: colecionando utilidade-publica
 tags: [sega, master-system, tectoy, lists, utilidade-publica, complete-lists]
+related: complete-lists
 games: [phantasy-star]
 thumbnail: /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/01_jogos_master_system_exclusivos_tectoy/post_header.jpg

@@ -7,6 +7,7 @@ session: Game Over &#35 31
 categories: jogando analise
 tags: [sony, psvita, ps4, telltale, analise, game-over]
 games: [the-walking-dead, the-walking-dead-2]
+related: game-over
 thumbnail: /imgs/posts/game_over/31_the_walking_dead/post_thumbnail.jpg
 cover: /imgs/posts/game_over/31_the_walking_dead/post_header.jpg
 ---

@@ -5,7 +5,8 @@ date: 2017-08-29 21:00
 author: felipebbarbosa
 session: Toplist &#35 09 - Caçadores de Troféus &#35 01
 categories: jogando toplist
-tags: [sony, ps3, trofeus, lists, toplist]
+tags: [trofeus, sony, ps3, lists, toplist]
+related: trofeus
 thumbnail: /imgs/posts/toplist/09_cacadores_trofeus1/post_thumbnail.jpg
 cover: /imgs/posts/toplist/09_cacadores_trofeus1/post_header.jpg
 ---

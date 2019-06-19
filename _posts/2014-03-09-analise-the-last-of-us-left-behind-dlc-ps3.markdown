@@ -7,6 +7,7 @@ session: Game Over &#35 16
 categories: jogando analise
 tags: [sony, ps3, naughty-dog, analise, game-over]
 games: [the-last-of-us]
+related: game-over
 thumbnail: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_thumbnail.jpg
 cover: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_header.jpg
 ---

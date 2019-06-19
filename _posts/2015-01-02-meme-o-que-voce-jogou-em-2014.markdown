@@ -18,6 +18,7 @@ tags:
     wii,
     need-for-speed,
     especial,
+    meme-oqvj,
   ]
 games:
   [
@@ -33,6 +34,7 @@ games:
     need-for-speed-most-wanted,
     dead-island,
   ]
+related: meme-oqvj
 thumbnail: /imgs/posts/especial/01_meme2014/post_thumbnail.jpg
 cover: /imgs/posts/especial/01_meme2014/post_header.jpg
 ---

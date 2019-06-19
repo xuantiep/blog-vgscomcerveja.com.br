@@ -7,6 +7,7 @@ session: Game Over &#35 36
 categories: jogando analise
 tags: [sony, ps4, analise, game-over]
 games: [the-last-guardian]
+related: game-over
 thumbnail: /imgs/posts/game_over/36_the_last_guardian/post_thumbnail.jpg
 cover: /imgs/posts/game_over/36_the_last_guardian/post_header.jpg
 ---

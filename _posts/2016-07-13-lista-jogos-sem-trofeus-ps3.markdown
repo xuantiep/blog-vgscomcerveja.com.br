@@ -6,6 +6,7 @@ author: felipebbarbosa
 session: Utilidade Pública &#35 08
 categories: jogando utilidade-publica
 tags: [sony, ps3, trofeus, lists, utilidade-publica, complete-lists]
+related: trofeus
 thumbnail: /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_header.jpg
 ---

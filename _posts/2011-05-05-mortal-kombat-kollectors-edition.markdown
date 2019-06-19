@@ -5,8 +5,9 @@ date: 2011-05-05 19:00
 author: felipebbarbosa
 session: Edição de Colecionador &#35 02
 categories: colecionando edicao-colecionador
-tags: [sony, ps3, microsoft, xbox-360, mortal-kombat]
+tags: [sony, ps3, microsoft, xbox-360, mortal-kombat, edicao-colecionador]
 games: [mortal-kombat]
+related: edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/02_mortal_kombat/post_thumbnail.jpg
 cover: /imgs/posts/ed_colecionador/02_mortal_kombat/post_header.jpg
 ---

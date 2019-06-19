@@ -7,6 +7,7 @@ session: Game Over &#35 37
 categories: jogando analise
 tags: [sony, psvita, drinkbox, analise, game-over]
 games: [severed]
+related: game-over
 thumbnail: /imgs/posts/game_over/37_severed/post_thumbnail.jpg
 cover: /imgs/posts/game_over/37_severed/post_header.jpg
 ---

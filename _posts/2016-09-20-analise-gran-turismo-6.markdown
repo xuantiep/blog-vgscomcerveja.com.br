@@ -7,6 +7,7 @@ session: Game Over &#35 32
 categories: jogando analise
 tags: [sony, ps3, gran-turismo, analise, game-over]
 games: [gran-turismo-6]
+related: game-over
 thumbnail: /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.jpg
 cover: /imgs/posts/game_over/32_gran_turismo6/post_header.jpg
 ---

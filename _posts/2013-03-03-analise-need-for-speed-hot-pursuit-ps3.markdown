@@ -8,6 +8,7 @@ categories: jogando analise
 tags:
   [sony, ps3, need-for-speed, criterion, electronic-arts, analise, game-over]
 games: [need-for-speed-hot-pursuit]
+related: game-over
 thumbnail: /imgs/posts/game_over/02_nfs_hot_pursuit/post_thumbnail.jpg
 cover: /imgs/posts/game_over/02_nfs_hot_pursuit/post_header.jpg
 ---

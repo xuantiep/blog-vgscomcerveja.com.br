@@ -5,8 +5,9 @@ date: 2015-01-14 19:00
 author: felipebbarbosa
 session: Edição de Colecionador &#35 03
 categories: colecionando edicao-colecionador
-tags: [sony, ps3, naughty-dog, uncharted]
+tags: [sony, ps3, naughty-dog, uncharted, edicao-colecionador]
 games: [uncharted-2]
+related: edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/03_uncharted2/post_thumbnail.jpg
 cover: /imgs/posts/ed_colecionador/03_uncharted2/post_header.jpg
 ---

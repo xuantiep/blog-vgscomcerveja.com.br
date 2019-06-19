@@ -6,6 +6,7 @@ author: felipebbarbosa
 session: Game Over &#35 40
 categories: jogando analise
 tags: [sony, ps4, resident-evil-7, analise, game-over]
+related: game-over
 thumbnail: /imgs/posts/game_over/40_resident_evil7/post_thumbnail.jpg
 cover: /imgs/posts/game_over/40_resident_evil7/post_header.jpg
 ---

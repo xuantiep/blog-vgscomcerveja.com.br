@@ -31,6 +31,7 @@ games:
     rise-of-the-tomb-raider,
     uncharted-4,
   ]
+related: e3
 thumbnail: /imgs/posts/toplist/04_melhores_e3_2015/post_thumbnail.jpg
 cover: /imgs/posts/toplist/04_melhores_e3_2015/post_header.jpg
 ---

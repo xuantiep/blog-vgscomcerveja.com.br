@@ -6,6 +6,7 @@ author: felipebbarbosa
 session: Game Over &#35 39
 categories: jogando analise
 tags: [sony, ps4, doom, analise, game-over]
+related: game-over
 thumbnail: /imgs/posts/game_over/39_doom/post_thumbnail.jpg
 cover: /imgs/posts/game_over/39_doom/post_header.jpg
 ---

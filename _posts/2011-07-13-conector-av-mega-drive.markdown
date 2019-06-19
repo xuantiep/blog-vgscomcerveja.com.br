@@ -5,7 +5,8 @@ date: 2011-07-13 19:00
 author: felipebbarbosa
 session: Utilidade Pública &#35 02
 categories: jogando utilidade-publica
-tags: [sega, mega-drive, utilidade-publica]
+tags: [sega, mega-drive, utilidade-publica, diy]
+related: diy
 thumbnail: /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_header.jpg
 ---

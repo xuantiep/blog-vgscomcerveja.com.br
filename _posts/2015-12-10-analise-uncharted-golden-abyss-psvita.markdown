@@ -7,6 +7,7 @@ session: Game Over &#35 26
 categories: jogando analise
 tags: [sony, psvita, uncharted, analise, game-over]
 games: [uncharted-golden-abyss]
+related: game-over
 thumbnail: /imgs/posts/game_over/26_uncharted_golden_abyss/post_thumbnail.jpg
 cover: /imgs/posts/game_over/26_uncharted_golden_abyss/post_header.jpg
 ---

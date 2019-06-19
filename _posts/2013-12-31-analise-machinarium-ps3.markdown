@@ -7,6 +7,7 @@ session: Game Over &#35 14
 categories: jogando analise
 tags: [sony, ps3, indie, analise, game-over]
 games: [machinarium]
+related: game-over
 thumbnail: /imgs/posts/game_over/14_machinarium/post_thumbnail.jpg
 cover: /imgs/posts/game_over/14_machinarium/post_header.jpg
 ---

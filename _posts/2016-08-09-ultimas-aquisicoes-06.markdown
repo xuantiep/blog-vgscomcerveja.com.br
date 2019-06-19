@@ -35,6 +35,7 @@ games:
     silent-hill-2,
     dino-crisis-3,
   ]
+related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/20_aquisicoes06/post_thumbnail.jpg
 cover: /imgs/posts/colecao/20_aquisicoes06/post_header.jpg
 ---

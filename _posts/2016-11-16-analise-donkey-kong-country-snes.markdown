@@ -7,6 +7,7 @@ session: Game Over &#35 34
 categories: jogando analise
 tags: [nintendo, snes, rare, donkey-kong, analise, game-over]
 games: [donkey-kong-country]
+related: game-over
 thumbnail: /imgs/posts/game_over/34_donkey_kong_country/post_thumbnail.jpg
 cover: /imgs/posts/game_over/34_donkey_kong_country/post_header.jpg
 ---
