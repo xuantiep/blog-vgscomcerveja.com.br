@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "9 jogos ridiculamente (em ambos os sentidos) fáceis de platinar!"
-date: 2019-05-01 07:30
+date: 2019-06-20 18:30
 author: felipebbarbosa
 session: Toplist &#35 13 - Caçadores de Troféus &#35 03
 categories: jogando
@@ -11,7 +11,7 @@ thumbnail: /imgs/posts/toplist/13_cacadores_trofeus3/post_thumbnail.jpg
 cover: /imgs/posts/toplist/13_cacadores_trofeus3/post_header.jpg
 ---
 
-Às vezes o prazer de caçar troféus acaba ultrapassando o de jogar e acabamos caindo na tentação de nos "rebaixar" a conseguir troféus fáceis e rápidos não importando a qualidade do game que está na sua tela. Selecionei 9 dos piores jogos que já enfrentei apenas para aumentar minha coleção de troféus de platina (e já adianto que não são os únicos e vem mais listas destas no futuro).
+Às vezes o prazer de caçar troféus acaba ultrapassando o de jogar e acabamos caindo na tentação de nos "rebaixar" a conseguir troféus fáceis e rápidos não importando a qualidade do game que está na sua tela. Para você ter uma ideia do que estou dizendo, selecionei 9 dos piores jogos que já enfrentei apenas para aumentar minha coleção de troféus de platina (e já adianto que não são os únicos e vem mais listas destas no futuro).
 
 <!--more-->
 
@@ -44,11 +44,11 @@ Acredite, esse é o menos pior da lista.
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/orc_slayer.jpg" %}
 
-Quais foram os piores FPS que você já jogou? Se [Orc Slayer](http://www.theorcslayer.com/) não está lista, é porque você ainda não o jogou! Sério, o game peca em praticamente TUDO, gráficos muito pobres, jogabilidade muito fraca, som bem genérico e a história... bem, que história? Suas opções de armas são apenas um machado, uma espada, uma tocha ou um arco-e-flecha e seu objetivo é matar todos os orcs e porcos voadores da fase... E só!
+Quais foram os piores jogos de tiro (FPS) que você já jogou? Se [Orc Slayer](http://www.theorcslayer.com/) não está lista, é porque você ainda não o jogou! Sério, o game peca em praticamente TUDO. Gráficos muito pobres, jogabilidade muito fraca, som bem genérico e a história... bem, que história? Suas opções de armas são apenas um machado, uma espada, uma tocha ou um arco-e-flecha e seu objetivo é matar todos os orcs e porcos voadores da fase... E só!
 
 Recomendo fortemente jogar no nível mais fácil possível para não perder muito tempo com o jogo. Felizmente a maioria dos troféus são relacionados à campanha e de grind, ou seja, do tipo: mate "x" orcs em uma fase. Porém, tem 3 troféus que são perdíveis que é bom você se atentar: [Relics in the woods](https://psnprofiles.com/guide/4799-orc-slayer-trophy-guide#Relics-in-the-woods-), [A place in the mountains](https://psnprofiles.com/guide/4799-orc-slayer-trophy-guide#A-place-in-the-mountains-) e [Slay Big Bertha](https://psnprofiles.com/guide/4799-orc-slayer-trophy-guide#Slay-Big-Bertha-).
 
-O jogo foi desenvolvido pela [Cooply Solutions](https://www.cooply.com/) e está disponível para [PlayStation 4](https://store.playstation.com/pt-br/product/UP0892-CUSA03801_00-0123456789ABCDEF) e [Steam](https://store.steampowered.com/app/374990/Orc_Slayer/).
+O jogo foi desenvolvido pela [Cooply Solutions](https://www.cooply.com/) e está disponível para [PS4](https://store.playstation.com/pt-br/product/UP0892-CUSA03801_00-0123456789ABCDEF) e [Steam](https://store.steampowered.com/app/374990/Orc_Slayer/).
 
 {% include game-psn-trophies-card.html
   platinas=1 ouros=7 pratas=9 bronzes=10
@@ -67,9 +67,9 @@ O jogo foi desenvolvido pela [Cooply Solutions](https://www.cooply.com/) e está
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/mr_massagy.jpg" %}
 
-Este é até que é um jogo bem feitinho visualmente, porém, sua proposta de jogo não é das melhores! Ao menos não faz sentido para mim. Seu objetivo é ser "bom de lábia" com mulheres solteiras para conseguir uma recompensadora massagem! E sim, o controle vibra para simular a massagem.
+Este é até que é um jogo bem feitinho visualmente, porém, sua proposta de jogo não é das melhores! Ao menos não faz sentido para mim. Seu objetivo é ser "bom de lábia" com mulheres solteiras para conseguir uma recompensadora massagem! E sim, o controle vibra para simular a massagem! :D
 
-Para conseguir todos os troféus, recomendo seguir um [guia](https://psnprofiles.com/guide/5923-mr-massagy-trophy-guide), pois a maioria dos troféus exige uma sequência certa de opções de falas para obtê-los. E sim, o jogo é basicamente isso, você apenas escolhe as falas que dirá para as garotas e se elas curtirem, você ganha uma massagem no final!
+Para conseguir todos os troféus, recomendo seguir um [guia](https://psnprofiles.com/guide/5923-mr-massagy-trophy-guide), pois a maioria dos troféus exige uma sequência certa de opções de falas para obtê-los. O jogo é basicamente isso, você apenas escolhe as falas que dirá para as garotas e se elas curtirem, você ganha uma massagem no final!
 
 Desenvolvido pela [Green Lava Studios](https://www.greenlavastudios.com/), o jogo está disponível para [PS4](https://www.playstation.com/en-us/games/mr-massagy-ps4/) (não está disponível na PS Store brasileira).
 
@@ -112,7 +112,7 @@ O jogo tem 3 modos: Puzzle mode, Time attack e Infinity layer. Todos eles seguem
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_balance.jpg" %}
 
-Mais um jogo da série "Energy", porém esse é mais díficil e meio controverso no quesito "fácil de platinar". Pois para se tornar fácil, você terá que "burlar o sistema" e usar um software para resolver os puzzles para você. Entretanto, não é tão simples quanto parece, pois a cada desafio, você terá que modificar o código-fonte deste [software](https://github.com/xuyiqi/EnergyBalance) para ele te dar o resultado, pois os desafios do jogo são aleatórios. Então, caso você não tenha muita familiaridade com programação, isso pode ser tornar um desafio ainda maior do que o do próprio jogo. :)
+Mais um jogo da série "Energy", porém esse é mais díficil e meio controverso no quesito "fácil de platinar". Pois para se tornar fácil, você terá que "burlar o sistema" e usar um programa para resolver os puzzles para você. Entretanto, não é tão simples quanto parece, pois a cada desafio, você terá que modificar o código-fonte deste [software](https://github.com/xuyiqi/EnergyBalance) para ele te dar o resultado, pois os desafios do jogo são aleatórios. Então, caso você não tenha muita familiaridade com programação, isso pode ser tornar um desafio ainda maior do que o do próprio jogo. :)
 
 Mas caso se interesse, [aqui tem um tutorial](https://www.playstationtrophies.org/forum/energy-balance/316832-energy-balance-how-download-use-solver.html) de como usar o programa e tudo mais.
 
@@ -132,9 +132,9 @@ Mas caso se interesse, [aqui tem um tutorial](https://www.playstationtrophies.or
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_invasion.jpg" %}
 
-Outro da série "Energy", porém esse não tem nada de puzzles. Ele é meio que um clone do [Breakout](http://blogtectoy.com.br/conheca-breakout-o-classico-jogo-desenvolvido-por-steve-jobs-para-atari/), onde você tem que destruir todos os blocos rebatendo uma bolinha (ou várias) com sua barra, sem deixar que a bolinha caia.
+Outro da série "Energy", porém esse não tem nada de puzzles. Ele é meio que um clone do [Breakout](http://blogtectoy.com.br/conheca-breakout-o-classico-jogo-desenvolvido-por-steve-jobs-para-atari/), onde você tem que destruir todos os blocos rebatendo uma bolinha (ou várias) com sua barra (que neste caso não é bem uma barra, sei lá o que é aquilo), sem deixar que a bolinha caia.
 
-Para platinar, você tem chegar nos níveis correspondentes de cada modo. São três modos: Invasion Mode, Linear Mode e o Endless Mode. Nos dois primeiros, você tem que chegar no nível 25 e no último no nível 30. Feito isso, a platina é sua! Para uma platina mais fácil, recomendo jogar no nível de dificuldade fácil, pois com o tempo o jogo se torna chato e você só vai querer terminar logo.
+Para platinar, você tem chegar nos níveis correspondentes de cada modo, são três ao todo: Invasion Mode, Linear Mode e o Endless Mode. Nos dois primeiros, você tem que chegar no nível 25 e no último no nível 30. Feito isso, a platina é sua! Para uma platina mais rápida, recomendo jogar no nível de dificuldade fácil, pois com o tempo o jogo se torna chato e você só vai querer terminar logo.
 
 {% include game-psn-trophies-card.html
   platinas=1 ouros=8 pratas=7 bronzes=3
@@ -152,7 +152,7 @@ Para platinar, você tem chegar nos níveis correspondentes de cada modo. São t
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/puzzle_showdown_4k.jpg" %}
 
-Esse não tem muito segredo, basta você montar os quebra-cabeças! Sim, esse é um jogo de montar quebra-cabeças. Ah, você irá precisar de dois controles, pois tem alguns troféus de multiplayer local. Mas basta plugar o segundo controle e jogar normalmente só com o primeiro.
+Esse não tem muito segredo, basta você montar os quebra-cabeças! Sim, esse é um jogo de montar quebra-cabeças literalmente. Ah, você irá precisar de dois controles, pois tem alguns troféus de multiplayer local. Mas basta plugar o segundo controle e jogar normalmente só com o primeiro.
 
 Mas caso você tenha alguém para jogar contigo, o jogo se torna bem mais fácil e rápido se jogado em dois, mesmo para obter os troféus que não são de multiplayer.
 
@@ -173,7 +173,7 @@ Mas caso você tenha alguém para jogar contigo, o jogo se torna bem mais fácil
 
 Fiquei na dúvida de qual jogo eu elegeria como pior jogo desta lista. E este escapou só porque, apesar do seu propósito ser rídiculo, o "acabamento" dele é melhor, pois teve um trabalho artistíco e tudo mais.
 
-Mas como eu disse, o propósito deste "jogo" é rídiculo, pois tudo que você tem fazer é apertar um botão para que a mãozinha (cursor do jogo) toque no vidro de maionese "trocentas" vezes, 10.000 vezes para ser mais exato. Ah, não esqueça de ir trocando as "roupinhas" do vidro de maionese durante essa "jornada".
+Mas como eu disse, o propósito deste "jogo" é rídiculo, pois tudo que você tem fazer é apertar um botão para que a mãozinha (cursor do jogo) toque no vidro de maionese "trocentas" vezes, 10.000 vezes para ser mais exato. Ah, não esqueça de ir trocando as "roupinhas" do vidro de maionese durante essa "jornada". Feito isso, a platina é sua!
 
 {% include game-psn-trophies-card.html
   platinas=1 ouros=4 pratas=0 bronzes=46
@@ -196,7 +196,7 @@ Eis o jogo "campeão" desta lista! Imagine que você está aprendendo a desenvol
 
 O lado bom é que dá para conquistar a platina em apenas 15 minutos! Inclusive, a desenvolvedora do jogo, [Infinite Madaa](https://www.infinitemadaa-studios.com/), disse em uma [entrevista](https://psxbrasil.com.br/noticias/estudio-independente-diz-que-platina-facil-de-little-adventure-on-the-prairie-ajudou-nas-vendas/) que a platina fácil ajudou a alavancar as vendas do jogo, possibilitando o investimento num outro jogo melhor no futuro. Mas sejamos sinceros, será que essa estratégia é boa? Para mim, esse estúdio já está mais do que queimado e dificilmente sairá coisa boa de lá!
 
-Ah, o jogo também está disponível para Nintendo 3DS, Android e iOS. Caso tenha interesse. rs
+Ah, o jogo também está disponível para Nintendo 3DS, Android e iOS. Caso tenha interesse! :D
 
 {% include game-psn-trophies-card.html
   platinas=1 ouros=7 pratas=8 bronzes=6
@@ -211,4 +211,4 @@ Ah, o jogo também está disponível para Nintendo 3DS, Android e iOS. Caso tenh
 
 ---
 
-E é isso! Esses foram os piores jogos (por enquanto) que "enfrentei" só por causa dos seus troféus fáceis. Agora, se você não curte troféus ou quer manter sua dignidade, essa lista servirá para você ficar ciente dos jogos que deve passar longe! :D
+E é isso! Esses foram os piores jogos (por enquanto) que "enfrentei" só por causa dos seus troféus fáceis. Agora, se você não curte troféus ou quer manter sua dignidade, essa lista servirá para você ficar ciente dos jogos que deve passar bem longe! :D
