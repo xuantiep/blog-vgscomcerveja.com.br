@@ -4,7 +4,8 @@ title: "Últimas aquisições #01"
 date: 2012-01-14 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2012/01/14/ultimas-aquisicoes-01.html
 tags:
   [
     sega,

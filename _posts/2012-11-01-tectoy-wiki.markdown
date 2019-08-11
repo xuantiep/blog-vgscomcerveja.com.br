@@ -4,7 +4,8 @@ title: "Tectoy Wiki"
 date: 2012-11-01 19:00
 author: felipebbarbosa
 session: Utilidade Pública &#35 07
-categories: colecionando utilidade-publica
+categories: games colecionando
+redirect_from: /colecionando/utilidade-publica/2012/11/01/tectoy-wiki.html
 tags: [sega, tectoy, utilidade-publica]
 thumbnail: /imgs/posts/utilidade_publica/07_tectoy_wiki/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/07_tectoy_wiki/post_header.jpg

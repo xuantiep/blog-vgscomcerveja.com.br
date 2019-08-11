@@ -4,7 +4,8 @@ title: "Análise - Need for Speed: The Run (PS3)"
 date: 2013-03-16 19:00
 author: felipebbarbosa
 session: Game Over &#35 03
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2013/03/16/analise-need-for-speed-the-run-ps3.html
 tags:
   [sony, ps3, electronic-arts, need-for-speed, black-box, analise, game-over]
 games: [need-for-speed-the-run]

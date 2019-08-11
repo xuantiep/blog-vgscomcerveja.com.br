@@ -4,7 +4,8 @@ title: "Resumo da Semana - Mortal Kombat X; Deus Ex: Mankind Divided; Continuaç
 date: 2015-04-13 19:00
 author: felipebbarbosa
 session: Drops &#35 14
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2015/04/13/resumo-da-semana.html
 tags:
   [mortal-kombat, square-enix, electronic-arts, need-for-speed, call-of-duty]
 games: [mortal-kombat-x, deus-ex-manking-divided, ducktales-remastered]

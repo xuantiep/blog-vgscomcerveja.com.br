@@ -4,7 +4,8 @@ title: "Análise - Need for Speed: Most Wanted (PS3)"
 date: 2014-12-26 19:00
 author: felipebbarbosa
 session: Game Over &#35 21
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html
 tags:
   [need-for-speed, ps3, sony, criterion, electronic-arts, analise, game-over]
 games: [need-for-speed-most-wanted]

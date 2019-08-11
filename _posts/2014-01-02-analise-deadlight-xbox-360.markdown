@@ -4,7 +4,8 @@ title: "Análise - Deadlight (Xbox 360)"
 date: 2014-01-02 19:00
 author: felipebbarbosa
 session: Game Over &#35 15
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2014/01/02/analise-deadlight-xbox-360.html
 tags: [microsoft, xbox-360, tequila-works, analise, game-over]
 games: [deadlight]
 related: game-over

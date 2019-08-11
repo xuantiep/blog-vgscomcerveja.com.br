@@ -4,7 +4,8 @@ title: "Meus 10 jogos favoritos do PS1"
 date: 2015-03-04 19:00
 author: felipebbarbosa
 session: Toplist &#35 03
-categories: jogando toplist
+categories: games jogando
+redirect_from: /jogando/toplist/2015/03/04/meus-dez-jogos-favoritos-do-ps1.html
 tags:
   [
     sony,

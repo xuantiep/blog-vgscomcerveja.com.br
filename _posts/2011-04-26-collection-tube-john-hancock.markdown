@@ -4,7 +4,8 @@ title: "Colecionador John Hancock"
 date: 2011-04-26 19:00
 author: felipebbarbosa
 session: Collection Tube &#35 02
-categories: colecionando collection-tube
+categories: games colecionando
+redirect_from: /colecionando/collection-tube/2011/04/26/collection-tube-john-hancock.html
 thumbnail: /imgs/posts/collection_tube/02_john_hancock/post_thumbnail.jpg
 cover: /imgs/posts/collection_tube/02_john_hancock/post_header.jpg
 ---

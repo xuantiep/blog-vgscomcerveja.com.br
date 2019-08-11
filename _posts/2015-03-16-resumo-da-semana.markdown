@@ -4,7 +4,8 @@ title: "Resumo da Semana - Uncharted 4 é adiado para 2016; Novo jogo da Game Fr
 date: 2015-03-16 19:00
 author: felipebbarbosa
 session: Drops &#35 10
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2015/03/16/resumo-da-semana.html
 tags: [naughty-dog, uncharted, arcade, ps4, sony, lego]
 games: [uncharted-4, tembo, lego-jurassic-world]
 thumbnail: /imgs/posts/news/11_resumo05/post_thumbnail.jpg

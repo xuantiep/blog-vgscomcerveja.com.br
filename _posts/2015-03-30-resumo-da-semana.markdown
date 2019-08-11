@@ -4,7 +4,8 @@ title: "Resumo da Semana - Forza Horizon 2 Fast & Furious grátis; Novo Guitar H
 date: 2015-03-30 19:00
 author: felipebbarbosa
 session: Drops &#35 12
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2015/03/30/resumo-da-semana.html
 tags: [guitar-hero, konami, kojima, games-with-gold, microsoft, xbox-live]
 games: [batman-arkham-knight, halo-5, forza-horizon-2]
 thumbnail: /imgs/posts/news/13_resumo07/post_thumbnail.jpg

@@ -5,7 +5,8 @@ date: 2012-07-08 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
 session: Utilidade Pública &#35 06
-categories: colecionando utilidade-publica
+categories: games colecionando
+redirect_from: /colecionando/utilidade-publica/2012/07/08/lista-jogos-purple-releases-para-master-system.html
 tags: [sega, tectoy, master-system, lists, utilidade-publica, complete-lists]
 related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_thumbnail.jpg

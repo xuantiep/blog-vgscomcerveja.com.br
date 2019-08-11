@@ -4,7 +4,8 @@ title: "Aquisição - PlayStation 3 Slim"
 date: 2010-07-15 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2010/07/15/aquisicao-playstation3.html
 tags: [sony, ps3, colecao-pessoal]
 thumbnail: /imgs/posts/colecao/02_ps3/post_thumbnail.jpg
 cover: /imgs/posts/colecao/02_ps3/post_header.jpg

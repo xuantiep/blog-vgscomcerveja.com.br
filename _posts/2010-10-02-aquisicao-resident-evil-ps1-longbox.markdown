@@ -4,7 +4,8 @@ title: "Aquisição - Resident Evil versão Longbox (PS1)"
 date: 2010-10-02 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2010/10/02/aquisicao-resident-evil-ps1-longbox.html
 tags: [sony, ps1, capcom, colecao-pessoal, resident-evil]
 games: [resident-evil]
 related: colecao-pessoal

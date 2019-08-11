@@ -4,7 +4,8 @@ title: "Análise - Taz-Mania (Master System)"
 date: 2013-05-27 19:00
 author: felipebbarbosa
 session: Game Over &#35 05
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2013/05/27/analise-taz-mania-master-system.html
 tags: [sega, master-system, tectoy, analise, game-over]
 games: [taz-mania]
 related: game-over

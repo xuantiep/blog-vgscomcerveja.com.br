@@ -4,7 +4,8 @@ title: "Análise - Uncharted: Golden Abyss (PS Vita)"
 date: 2015-12-10 19:00
 author: felipebbarbosa
 session: Game Over &#35 26
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2015/12/10/analise-uncharted-golden-abyss-psvita.html
 tags: [sony, psvita, uncharted, analise, game-over]
 games: [uncharted-golden-abyss]
 related: game-over

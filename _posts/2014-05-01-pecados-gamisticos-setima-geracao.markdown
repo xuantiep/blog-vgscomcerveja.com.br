@@ -4,7 +4,8 @@ title: "Meus pecados gamísticos da sétima geração de videogames!"
 date: 2014-05-01 19:00
 author: felipebbarbosa
 session: Toplist &#35 01 - Pecados Gamísticos &#35 01
-categories: jogando toplist
+categories: games jogando
+redirect_from: /jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html
 tags:
   [
     sony,

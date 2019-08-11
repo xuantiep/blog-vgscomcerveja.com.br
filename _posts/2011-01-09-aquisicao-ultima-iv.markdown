@@ -4,7 +4,8 @@ title: "Aquisição - Última IV (Master System)"
 date: 2011-01-09 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2011/01/09/aquisicao-ultima-iv.html
 tags: [sega, master-system, tectoy, colecao-pessoal]
 games: [ultima-iv]
 thumbnail: /imgs/posts/colecao/08_ultima_iv/post_thumbnail.jpg

@@ -4,8 +4,9 @@ title: "Coleção de Arcades do Michael Jackson"
 date: 2011-01-11 19:00
 author: felipebbarbosa
 session: Drops &#35 02
-categories: noticias
-tags: [arcades]
+categories: games colecionando
+redirect_from: /noticias/2011/01/11/colecao-arcades-michael-jackson.html
+tags: [arcades, drops]
 thumbnail: /imgs/posts/news/02_arcades_michael_jackson/post_thumbnail.jpg
 cover: /imgs/posts/news/02_arcades_michael_jackson/post_header.jpg
 ---

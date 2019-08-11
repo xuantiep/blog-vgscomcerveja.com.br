@@ -4,7 +4,8 @@ title: "Resumo da Semana - Metal Gear Solid V: The Phantom Pain ganhou data de l
 date: 2015-03-09 19:00
 author: felipebbarbosa
 session: Drops &#35 09
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2015/03/09/resumo-da-semana.html
 tags:
   [
     sony,

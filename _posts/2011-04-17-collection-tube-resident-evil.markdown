@@ -4,7 +4,8 @@ title: "Resident Evil Collection"
 date: 2011-04-17 19:00
 author: felipebbarbosa
 session: Collection Tube &#35 01
-categories: colecionando collection-tube
+categories: games colecionando
+redirect_from: /colecionando/collection-tube/2011/04/17/collection-tube-resident-evil.html
 tags: [resident-evil, capcom]
 games: [resident-evil, resident-evil-5]
 thumbnail: /imgs/posts/collection_tube/01_resident_evil/post_thumbnail.jpg

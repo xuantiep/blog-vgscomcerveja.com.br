@@ -4,7 +4,8 @@ title: "Sony lançará PS3 exclusivos para Copa de 2014"
 date: 2011-07-30 19:00
 author: felipebbarbosa
 session: Drops &#35 04
-categories: noticias
+categories: games colecionando
+redirect_from: /noticias/2011/07/30/ps3-exclusivos-copa-2014.html
 tags: [sony, ps3]
 thumbnail: /imgs/posts/news/04_ps3_copa2014/post_thumbnail.jpg
 cover: /imgs/posts/news/04_ps3_copa2014/post_header.jpg

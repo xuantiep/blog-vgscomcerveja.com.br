@@ -4,8 +4,9 @@ title: "Evento de Gran Turismo 5 em São Paulo"
 date: 2010-12-27 19:00
 author: felipebbarbosa
 session: Drops &#35 01
-categories: noticias
-tags: [sony, ps3]
+categories: games noticias
+redirect_from: /noticias/2010/12/27/gran-turismo-5-em-sp.html
+tags: [sony, ps3, drops]
 games: [gran-turismo-5]
 thumbnail: /imgs/posts/news/01_gt5_sp/post_thumbnail.jpg
 cover: /imgs/posts/news/01_gt5_sp/post_header.jpg

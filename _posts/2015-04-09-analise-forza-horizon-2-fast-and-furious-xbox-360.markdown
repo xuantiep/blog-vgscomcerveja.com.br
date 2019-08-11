@@ -4,7 +4,8 @@ title: "Análise - Forza Horizon 2: Fast & Furious (Xbox 360)"
 date: 2015-04-09 19:00
 author: felipebbarbosa
 session: Game Over &#35 23
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2015/04/09/analise-forza-horizon-2-fast-and-furious-xbox-360.html
 tags: [microsoft, xbox-360, analise, game-over]
 games: [forza-horizon-2]
 related: game-over

@@ -4,7 +4,8 @@ title: "Resumo da Semana - Nintendo abandona o Brasil, Razer lançará console A
 date: 2015-01-11 19:00
 author: felipebbarbosa
 session: Drops &#35 07
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2015/01/11/resumo-da-semana.html
 tags: [nintendo, razer, resident-evil, nes, android]
 games: [resident-evil, stadium-events, grim-fandango]
 thumbnail: /imgs/posts/news/08_resumo03/post_thumbnail.jpg

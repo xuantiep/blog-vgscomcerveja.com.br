@@ -4,7 +4,8 @@ title: "Aquisição - Mega Drive"
 date: 2011-01-08 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2011/01/08/aquisicao-mega-drive.html
 tags: [sega, mega-drive, colecao-pessoal]
 thumbnail: /imgs/posts/colecao/06_mega_drive/post_thumbnail.jpg
 cover: /imgs/posts/colecao/06_mega_drive/post_header.jpg

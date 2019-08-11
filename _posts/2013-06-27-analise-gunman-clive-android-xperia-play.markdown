@@ -4,7 +4,8 @@ title: "Análise - Gunman Clive (Android - Xperia PLAY)"
 date: 2013-06-27 19:00
 author: felipebbarbosa
 session: Game Over &#35 08
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2013/06/27/analise-gunman-clive-android-xperia-play.html
 tags: [android, xperia-play, analise, game-over]
 games: [gunman-clive]
 related: game-over

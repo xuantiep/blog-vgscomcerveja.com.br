@@ -4,7 +4,9 @@ title: "Coleção destruída em enchente na Austrália"
 date: 2011-01-18 19:00
 author: felipebbarbosa
 session: Drops &#35 03
-categories: noticias
+categories: games colecionando
+redirect_from: /noticias/2011/01/18/colecao-destruida-enchente-australia.html
+tags: [drops]
 thumbnail: /imgs/posts/news/03_enchente_australia/post_thumbnail.jpg
 cover: /imgs/posts/news/03_enchente_australia/post_header.jpg
 ---

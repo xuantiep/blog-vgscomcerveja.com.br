@@ -49,6 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile

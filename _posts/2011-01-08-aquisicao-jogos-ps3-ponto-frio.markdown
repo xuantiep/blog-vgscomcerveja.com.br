@@ -4,7 +4,8 @@ title: "Aquisição - Jogos de PS3 por Ótimos Preços"
 date: 2011-01-08 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2011/01/08/aquisicao-jogos-ps3-ponto-frio.html
 tags: [sony, ps3, colecao-pessoal]
 games: [medal-of-honor, motorstorm]
 thumbnail: /imgs/posts/colecao/07_jogos_ps3/post_thumbnail.jpg

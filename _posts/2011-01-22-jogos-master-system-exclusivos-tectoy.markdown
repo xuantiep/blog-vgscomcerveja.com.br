@@ -5,7 +5,8 @@ date: 2011-01-22 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
 session: Utilidade Pública &#35 01
-categories: colecionando utilidade-publica
+categories: games colecionando
+redirect_from: /colecionando/utilidade-publica/2011/01/22/jogos-master-system-exclusivos-tectoy.html
 tags: [sega, master-system, tectoy, lists, utilidade-publica, complete-lists]
 related: complete-lists
 games: [phantasy-star]

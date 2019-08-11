@@ -4,7 +4,8 @@ title: "Coleção completa de cartuchos NES"
 date: 2011-12-17 19:00
 author: felipebbarbosa
 session: Collection Tube &#35 03
-categories: colecionando collection-tube
+categories: games colecionando
+redirect_from: /colecionando/collection-tube/2011/12/17/collection-tube-colecao-completa-nes.html
 tags: [nintendo, nes]
 thumbnail: /imgs/posts/collection_tube/03_nes_collection/post_thumbnail.jpg
 cover: /imgs/posts/collection_tube/03_nes_collection/post_header.jpg

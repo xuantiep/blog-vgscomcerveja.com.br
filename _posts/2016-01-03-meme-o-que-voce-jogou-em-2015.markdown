@@ -4,7 +4,8 @@ title: "MeMe - O Que Você Jogou Em 2015?"
 date: 2016-01-03 19:00
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
+categories: games jogando
+redirect_from: /jogando/especiais/2016/01/03/meme-o-que-voce-jogou-em-2015.html
 tags:
   [
     nintendo,

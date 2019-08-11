@@ -4,7 +4,8 @@ title: "Montei meu próprio cabo A/V para Mega Drive"
 date: 2011-07-13 19:00
 author: felipebbarbosa
 session: Utilidade Pública &#35 02
-categories: jogando utilidade-publica
+categories: games colecionando
+redirect_from: /jogando/utilidade-publica/2011/07/13/conector-av-mega-drive.html
 tags: [sega, mega-drive, utilidade-publica, diy]
 related: diy
 thumbnail: /imgs/posts/utilidade_publica/02_conector_av_mega_drive/post_thumbnail.jpg

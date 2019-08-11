@@ -4,7 +4,8 @@ title: "Análise - Castle of Illusion (Master System)"
 date: 2013-09-17 19:00
 author: felipebbarbosa
 session: Game Over &#35 10
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2013/09/17/analise-castle-of-illusion-master-system.html
 tags: [sega, master-system, tectoy, mickey, disney, analise, game-over]
 games: [castle-of-illusion]
 related: game-over

@@ -4,7 +4,8 @@ title: "Análise - BioShock 2 (Xbox 360)"
 date: 2013-12-26 19:00
 author: felipebbarbosa
 session: Game Over &#35 13
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2013/12/26/analise-bioshock-2-xbox-360.html
 tags: [microsoft, xbox-360, analise, game-over]
 games: [bioshock-2]
 related: game-over

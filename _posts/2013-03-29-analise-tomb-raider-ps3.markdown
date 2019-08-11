@@ -4,7 +4,8 @@ title: "Análise - Tomb Raider (PS3)"
 date: 2013-03-29 19:00
 author: felipebbarbosa
 session: Game Over &#35 04
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2013/03/29/analise-tomb-raider-ps3.html
 tags:
   [sony, ps3, tomb-raider, crystal-dynamics, square-enix, analise, game-over]
 games: [tomb-raider]

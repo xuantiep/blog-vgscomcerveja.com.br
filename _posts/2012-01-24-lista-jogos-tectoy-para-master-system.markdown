@@ -5,7 +5,8 @@ date: 2012-01-24 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
 session: Utilidade Pública &#35 04
-categories: colecionando utilidade-publica
+categories: games colecionando 
+redirect_from: /colecionando/utilidade-publica/2012/01/24/lista-jogos-tectoy-para-master-system.html
 tags: [sega, tectoy, master-system, lists, utilidade-publica, complete-lists]
 games: [phantasy-star, ultima-iv]
 related: complete-lists

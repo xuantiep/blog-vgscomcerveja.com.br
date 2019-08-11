@@ -4,7 +4,8 @@ title: "Análise - Need for Speed: Hot Pursuit (PS3)"
 date: 2013-03-03 19:00
 author: felipebbarbosa
 session: Game Over &#35 02
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2013/03/03/analise-need-for-speed-hot-pursuit-ps3.html
 tags:
   [sony, ps3, need-for-speed, criterion, electronic-arts, analise, game-over]
 games: [need-for-speed-hot-pursuit]
