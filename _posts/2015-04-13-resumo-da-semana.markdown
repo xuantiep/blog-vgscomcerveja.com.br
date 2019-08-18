@@ -3,7 +3,7 @@ layout: post
 title: "Resumo da Semana - Mortal Kombat X; Deus Ex: Mankind Divided; Continuação do filme de Need for Speed e mais.. "
 date: 2015-04-13 19:00
 author: felipebbarbosa
-session: Drops &#35 14
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/04/13/resumo-da-semana.html
 tags:

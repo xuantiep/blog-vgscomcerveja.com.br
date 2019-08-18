@@ -3,7 +3,7 @@ layout: post
 title: "Resumo da Semana - Pokémon GO, Novidades do Xbox One, Inside, Clássicos da Disney e mais.. "
 date: 2016-08-07 21:30
 author: felipebbarbosa
-session: Drops &#35 18
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/08/07/resumo-da-semana.html
 tags: [microsoft, xbox-one, ps4, nintendo, gog, disney]

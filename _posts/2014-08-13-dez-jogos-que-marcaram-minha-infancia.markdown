@@ -3,7 +3,7 @@ layout: post
 title: "10 jogos que marcaram minha infância"
 date: 2014-08-13 19:00
 author: felipebbarbosa
-session: Toplist &#35 02
+session: Toplist
 categories: games jogando
 redirect_from: /jogando/toplist/2014/08/13/dez-jogos-que-marcaram-minha-infancia.html
 tags:

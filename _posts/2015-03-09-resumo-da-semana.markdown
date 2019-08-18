@@ -3,7 +3,7 @@ layout: post
 title: "Resumo da Semana - Metal Gear Solid V: The Phantom Pain ganhou data de lançamento; Rockband 4 será lançado; Battletoads de volta?; Jogos grátis e mais.."
 date: 2015-03-09 19:00
 author: felipebbarbosa
-session: Drops &#35 09
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/03/09/resumo-da-semana.html
 tags:

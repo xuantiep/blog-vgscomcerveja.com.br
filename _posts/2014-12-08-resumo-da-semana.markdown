@@ -3,7 +3,7 @@ layout: post
 title: "Resumo da Semana - Ganhadores do TGA, Uncharted 4, Grim Fandango HD e mais.."
 date: 2014-12-08 19:00
 author: felipebbarbosa
-session: Drops &#35 05
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2014/12/08/resumo-da-semana.html
 tags: [nintendo, uncharted, mario, farcry]

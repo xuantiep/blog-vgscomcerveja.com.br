@@ -3,7 +3,7 @@ layout: post
 title: "Nintendo Switch - 4 coisas que gostei (e UMA que me incomodou um pouco)"
 date: 2016-10-26 18:00
 author: felipebbarbosa
-session: Drops &#35 22
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/10/26/nintendo-switch.html
 tags: [nintendo, switch]

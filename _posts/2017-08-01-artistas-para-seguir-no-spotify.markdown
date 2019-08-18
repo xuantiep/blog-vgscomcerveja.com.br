@@ -3,7 +3,7 @@ layout: post
 title: "13 artistas para seguir no Spotify"
 date: 2017-08-01 20:00
 author: felipebbarbosa
-session: Toplist &#35 07
+session: Toplist
 categories: games jogando
 redirect_from: /jogando/toplist/2017/08/01/13-artistas-para-seguir-no-spotify.html
 tags: [spotify, game-music, lists, toplist]

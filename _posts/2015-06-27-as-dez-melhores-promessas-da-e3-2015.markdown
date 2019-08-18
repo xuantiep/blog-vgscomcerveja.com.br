@@ -3,7 +3,7 @@ layout: post
 title: "As 10 melhores novidades da E3 2015"
 date: 2015-06-27 19:00
 author: felipebbarbosa
-session: Toplist &#35 04
+session: Especial
 categories: games noticias
 redirect_from: /jogando/toplist/2015/06/27/as-dez-melhores-promessas-da-e3-2015.html
 tags:

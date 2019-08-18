@@ -3,7 +3,7 @@ layout: post
 title: "Como funciona o sistema de troféus da Sony"
 date: 2017-03-30 22:00
 author: felipebbarbosa
-session: Utilidade Pública &#35 09
+session: Caçadores de Troféus
 categories: games jogando
 redirect_from: /jogando/utilidade-publica/2017/03/30/como-funciona-sistema-trofeus-sony.html
 tags: [trofeus, sony, ps3, psvita, ps4, utilidade-publica]

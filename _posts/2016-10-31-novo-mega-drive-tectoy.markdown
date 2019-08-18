@@ -3,7 +3,7 @@ layout: post
 title: "Sobre o 'novo' Mega Drive da Tectoy.."
 date: 2016-10-31 18:00
 author: felipebbarbosa
-session: Drops &#35 23
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/10/31/novo-mega-drive-tectoy.html
 tags: [sega, mega-drive, tectoy]

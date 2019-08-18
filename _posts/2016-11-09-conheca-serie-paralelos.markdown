@@ -3,7 +3,7 @@ layout: post
 title: "Conheça a série 'Paralelos'"
 date: 2016-11-09 17:00
 author: felipebbarbosa
-session: Drops &#35 24
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/11/09/conheca-serie-paralelos.html
 tags: [mercado-brasileiro, tectoy]

@@ -3,7 +3,7 @@ layout: post
 title: "Resumo da Semana - PlayStation Plus mais cara, Restaurante Nintendo, Games with Gold e mais.."
 date: 2016-08-28 18:00
 author: felipebbarbosa
-session: Drops &#35 20
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/08/28/resumo-da-semana.html
 tags:

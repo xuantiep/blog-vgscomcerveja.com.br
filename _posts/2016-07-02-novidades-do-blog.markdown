@@ -3,7 +3,7 @@ layout: post
 title: "Novidades no Blog!"
 date: 2016-07-02 17:00
 author: felipebbarbosa
-session: Drops &#35 15
+session: Drops
 categories: noticias
 ---
 

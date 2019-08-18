@@ -3,7 +3,7 @@ layout: post
 title: "Resumo da Semana - Forza Horizon 2 Fast & Furious grátis; Novo Guitar Hero; Batman; Novidades do Xbox; Mais informações de Kojima e mais.. "
 date: 2015-03-30 19:00
 author: felipebbarbosa
-session: Drops &#35 12
+session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/03/30/resumo-da-semana.html
 tags: [guitar-hero, konami, kojima, games-with-gold, microsoft, xbox-live]

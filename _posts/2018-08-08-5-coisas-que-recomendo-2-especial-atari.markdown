@@ -3,7 +3,7 @@ layout: post
 title: "5 'coisas' que recomendo! #2 - Especial Atari"
 date: 2018-08-08 21:00
 author: felipebbarbosa
-session: Toplist &#35 12
+session: Toplist
 categories: games jogando
 redirect_from: /jogando/toplist/2018/08/08/5-coisas-que-recomendo-2-especial-atari0.html
 tags: [livros, atari, lists, toplist]

@@ -3,7 +3,7 @@ layout: post
 title: "Meus pecados gamísticos da quinta geração de videogames!"
 date: 2017-08-17 22:00
 author: felipebbarbosa
-session: Toplist &#35 08 - Pecados Gamísticos &#35 03
+session: Pecados Gamísticos &#35 03
 categories: games jogando
 redirect_from: /jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html
 tags:
