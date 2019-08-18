@@ -4,7 +4,8 @@ title: "Resumo da Semana - Pokémon GO, Novidades do Xbox One, Inside, Clássico
 date: 2016-08-07 21:30
 author: felipebbarbosa
 session: Drops &#35 18
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2016/08/07/resumo-da-semana.html
 tags: [microsoft, xbox-one, ps4, nintendo, gog, disney]
 games: [inside, prey-for-the-gods, prey]
 thumbnail: /imgs/posts/news/19_resumo12/post_thumbnail.jpg

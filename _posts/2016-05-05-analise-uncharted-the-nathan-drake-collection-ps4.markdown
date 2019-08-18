@@ -4,7 +4,8 @@ title: "Análise - Uncharted: The Nathan Drake Collection (PS4)"
 date: 2016-05-05 19:00
 author: felipebbarbosa
 session: Game Over &#35 29
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html
 tags: [sony, ps4, uncharted, naughty-dog, analise, game-over]
 games: [uncharted-collection, uncharted, uncharted-2, uncharted-3]
 related: game-over

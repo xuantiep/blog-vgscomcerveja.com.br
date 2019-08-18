@@ -4,7 +4,8 @@ title: "Análise - Horizon Zero Dawn (PS4)"
 date: 2017-06-25 20:00
 author: felipebbarbosa
 session: Game Over &#35 38
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2017/06/25/analise-horizon-zero-dawn.html
 tags: [sony, ps4, horizon-zero-dawn, analise, game-over]
 related: game-over
 thumbnail: /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg

@@ -4,7 +4,8 @@ title: "Análise - Resident Evil (PS1)"
 date: 2016-03-24 19:00
 author: felipebbarbosa
 session: Game Over &#35 28
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2016/03/24/analise-resident-evil-ps1.html
 tags: [sony, ps1, capcom, resident-evil, analise, game-over]
 games: [resident-evil]
 related: game-over

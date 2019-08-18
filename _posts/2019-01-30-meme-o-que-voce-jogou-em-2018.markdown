@@ -4,7 +4,8 @@ title: "MeMe - O Que Você Jogou em 2018?"
 date: 2019-01-30 22:00
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
+categories: games jogando
+redirect_from: /jogando/especiais/2019/01/30/meme-o-que-voce-jogou-em-2018.html
 tags: [especial, meme-oqvj]
 related: meme-oqvj
 thumbnail: /imgs/posts/especial/07_meme2018/thumbnail.jpg

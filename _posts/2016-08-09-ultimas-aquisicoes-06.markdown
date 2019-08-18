@@ -4,7 +4,8 @@ title: "Últimas Aquisições #06 - Abr~Jun/16"
 date: 2016-08-09 19:50
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2016/08/09/ultimas-aquisicoes-06.html
 tags:
   [
     microsoft,

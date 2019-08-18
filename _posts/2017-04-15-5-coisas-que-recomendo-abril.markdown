@@ -4,7 +4,8 @@ title: "5 'coisas' (relacionadas à games) que recomendo!"
 date: 2017-04-15 18:00
 author: felipebbarbosa
 session: Toplist &#35 06
-categories: jogando toplist
+categories: games jogando
+redirect_from: /jogando/toplist/2017/04/15/5-coisas-que-recomendo-abril.html
 tags: [livros, mega-drive, lists, toplist]
 thumbnail: /imgs/posts/toplist/06_coisas_recomendo_1/post_thumbnail.jpg
 cover: /imgs/posts/toplist/06_coisas_recomendo_1/post_header.jpg

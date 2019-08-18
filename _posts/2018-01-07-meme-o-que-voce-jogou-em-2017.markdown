@@ -4,7 +4,8 @@ title: "MeMe - O Que Você Jogou em 2017?"
 date: 2018-01-07 20:45
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
+categories: games jogando
+redirect_from: /jogando/especiais/2018/01/07/meme-o-que-voce-jogou-em-2017.html
 tags:
   [
     especial,

@@ -4,7 +4,8 @@ title: "9 jogos ridiculamente (em ambos os sentidos) fáceis de platinar!"
 date: 2019-06-20 18:30
 author: felipebbarbosa
 session: Toplist &#35 13 - Caçadores de Troféus &#35 03
-categories: jogando
+categories: games jogando
+redirect_from: /jogando/toplist/2019/06/20/9-jogos-ridiculamente-faceis-de-platinar.html
 tags: [trofeus, sony, ps4, lists, toplist]
 related: trofeus
 thumbnail: /imgs/posts/toplist/13_cacadores_trofeus3/post_thumbnail.jpg

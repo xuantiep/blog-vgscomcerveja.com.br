@@ -4,7 +4,8 @@ title: "Análise - Severed (PS Vita)"
 date: 2017-05-06 18:00
 author: felipebbarbosa
 session: Game Over &#35 37
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2017/05/06/analise-severed.html
 tags: [sony, psvita, drinkbox, analise, game-over]
 games: [severed]
 related: game-over

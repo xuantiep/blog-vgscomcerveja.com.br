@@ -4,7 +4,8 @@ title: "Microsoft lançará edição limitada do Xbox One para celebrar o aniver
 date: 2017-02-06 21:00
 author: felipebbarbosa
 session: Drops &#35 25
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2017/02/06/xbox-one-palmeiras.html
 tags: [microsoft, xbox-one]
 thumbnail: /imgs/posts/news/26_xbox_palmeiras/post_thumbnail.jpg
 cover: /imgs/posts/news/26_xbox_palmeiras/post_header.jpg

@@ -4,7 +4,8 @@ title: "Super Mario voltará a ser tema dos brindes do McLanche Feliz em Novembr
 date: 2016-10-16 18:00
 author: felipebbarbosa
 session: Drops &#35 21
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2016/10/16/super-mario-tema-mclanche-feliz-novembro.html
 tags: [nintendo, mario]
 thumbnail: /imgs/posts/news/22_mclanche_mario/post_thumbnail.jpg
 cover: /imgs/posts/news/22_mclanche_mario/post_header.jpg

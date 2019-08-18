@@ -4,7 +4,8 @@ title: "Análise - The Walking Dead: Season 1 & 2 (PS Vita / PS4)"
 date: 2016-07-07 19:00
 author: felipebbarbosa
 session: Game Over &#35 31
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2016/07/07/analise-the-walking-dead.html
 tags: [sony, psvita, ps4, telltale, analise, game-over]
 games: [the-walking-dead, the-walking-dead-2]
 related: game-over

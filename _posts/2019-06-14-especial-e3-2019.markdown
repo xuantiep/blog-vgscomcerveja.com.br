@@ -4,7 +4,8 @@ title: "O que gostei da E3 2019"
 date: 2019-06-14 10:30
 author: felipebbarbosa
 session: Especial
-categories: jogando
+categories: games jogando
+redirect_from: /jogando/2019/06/14/especial-e3-2019.html
 tags: [e3, microsoft, xbox-one]
 related: e3
 thumbnail: /imgs/posts/especial/08_e32019/post_thumbnail.jpg

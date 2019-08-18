@@ -4,7 +4,8 @@ title: "Meus pecados gamísticos da sexta geração de videogames!"
 date: 2016-03-12 19:00
 author: felipebbarbosa
 session: Toplist &#35 05 - Pecados Gamísticos &#35 02
-categories: jogando toplist
+categories: games jogando
+redirect_from: /jogando/toplist/2016/03/12/pecados-gamisticos-sexta-geracao.html
 tags:
   [
     sega,

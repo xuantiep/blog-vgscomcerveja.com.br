@@ -4,7 +4,8 @@ title: "Análise - Gran Turismo 6 (PS3)"
 date: 2016-09-20 19:00
 author: felipebbarbosa
 session: Game Over &#35 32
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2016/09/20/analise-gran-turismo-6.html
 tags: [sony, ps3, gran-turismo, analise, game-over]
 games: [gran-turismo-6]
 related: game-over

@@ -4,7 +4,8 @@ title: "Sonic Mania: Collector's Edition"
 date: 2016-10-05 19:00
 author: felipebbarbosa
 session: Edição de Colecionador &#35 04
-categories: colecionando edicao-colecionador
+categories: games colecionando
+redirect_from: /colecionando/edicao-colecionador/2016/10/05/sonic-mania-collectors-edition.html
 tags: [sega, sonic, edicao-colecionador]
 games: [sonic-mania]
 related: edicao-colecionador

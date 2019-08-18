@@ -4,7 +4,8 @@ title: "Resumo da Semana - Spotify, Metal Gear Survive, Resident Evil 7, Fim das
 date: 2016-08-21 18:00
 author: felipebbarbosa
 session: Drops &#35 19
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2016/08/21/resumo-da-semana.html
 tags: [spotify, metal-gear-solid, resident-evil, microsoft]
 games: [metal-gear-survive, resident-evil-7]
 thumbnail: /imgs/posts/news/20_resumo13/post_thumbnail.jpg

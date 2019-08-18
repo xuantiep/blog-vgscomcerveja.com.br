@@ -4,7 +4,8 @@ title: "Análise - Uncharted 4: A Thief's End (PS4)"
 date: 2016-05-18 19:00
 author: felipebbarbosa
 session: Game Over &#35 30
-categories: jogando analise
+categories: games jogando
+redirect_from: /jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html
 tags: [sony, ps4, uncharted, naughty-dog, analise, game-over]
 games: [uncharted-4]
 related: game-over

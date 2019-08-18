@@ -4,7 +4,8 @@ title: "Lista de jogos sem troféus do PS3"
 date: 2016-07-13 19:00
 author: felipebbarbosa
 session: Utilidade Pública &#35 08
-categories: jogando utilidade-publica
+categories: games jogando
+redirect_from: /jogando/utilidade-publica/2016/07/13/lista-jogos-sem-trofeus-ps3.html
 tags: [sony, ps3, trofeus, lists, utilidade-publica, complete-lists]
 related: trofeus
 thumbnail: /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_thumbnail.jpg

@@ -4,7 +4,8 @@ title: "O que gostei da E3 2018"
 date: 2018-06-13 18:45
 author: felipebbarbosa
 session: Especial
-categories: jogando especial
+categories: games jogando
+redirect_from: /jogando/especial/2018/06/13/especial-e3-2018.html
 tags:
   [
     lists,

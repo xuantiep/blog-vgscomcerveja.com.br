@@ -4,7 +4,8 @@ title: "Conheça as melhores ferramentas para desenvolvedores de games e apps An
 date: 2019-02-26 22:00
 author: udemy
 session: Utilidade Pública &#35 10
-categories: utilidade-publica
+categories: games noticias
+redirect_from: /utilidade-publica/2019/02/26/ferramentas-para-desenvolvimento-games-android.html
 tags: [utilidade-publica, android]
 thumbnail: /imgs/posts/utilidade_publica/10_udemy/thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/10_udemy/header.jpg

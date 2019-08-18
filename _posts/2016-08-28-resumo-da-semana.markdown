@@ -4,7 +4,8 @@ title: "Resumo da Semana - PlayStation Plus mais cara, Restaurante Nintendo, Gam
 date: 2016-08-28 18:00
 author: felipebbarbosa
 session: Drops &#35 20
-categories: noticias
+categories: games noticias
+redirect_from: /noticias/2016/08/28/resumo-da-semana.html
 tags:
   [
     sony,
