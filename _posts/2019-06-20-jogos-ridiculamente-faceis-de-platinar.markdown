@@ -6,8 +6,8 @@ author: felipebbarbosa
 session: Caçadores de Troféus &#35 03
 categories: games jogando
 redirect_from: /jogando/toplist/2019/06/20/9-jogos-ridiculamente-faceis-de-platinar.html
-tags: [trofeus, sony, ps4, lists, toplist]
-related: trofeus
+tags: [sony, ps4, categoria-lista, serie-cacadores-trofeus]
+related: serie-cacadores-trofeus
 thumbnail: /imgs/posts/toplist/13_cacadores_trofeus3/post_thumbnail.jpg
 cover: /imgs/posts/toplist/13_cacadores_trofeus3/post_header.jpg
 ---

@@ -19,7 +19,7 @@ tags:
     tomb-raider,
     ps2,
     capcom,
-    colecao-pessoal,
+    categoria-colecao-pessoal,
   ]
 games:
   [

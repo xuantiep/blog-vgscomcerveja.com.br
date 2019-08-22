@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Mosca Branca &#35 03
 categories: games colecionando
 redirect_from: /colecionando/mosca-branca/2014/12/06/promocao-especial-master-system-3-tectoy.html
-tags: [sega, tectoy, master-system, sonic]
+tags: [sega, tectoy, master-system, sonic, serie-mosca-branca]
 thumbnail: /imgs/posts/mosca_branca/03_promo_master_system_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/mosca_branca/03_promo_master_system_tectoy/post_header.jpg
 ---

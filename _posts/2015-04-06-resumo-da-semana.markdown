@@ -6,7 +6,16 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/04/06/resumo-da-semana.html
-tags: [metal-gear-solid, nintendo, ps-plus, playstation, ubisoft, kojima]
+tags:
+  [
+    metal-gear-solid,
+    nintendo,
+    ps-plus,
+    playstation,
+    ubisoft,
+    kojima,
+    categoria-noticias,
+  ]
 games: [assassins-creed-chronicles]
 thumbnail: /imgs/posts/news/14_resumo08/post_thumbnail.jpg
 cover: /imgs/posts/news/14_resumo08/post_header.jpg

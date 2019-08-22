@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 24
 categories: games jogando
 redirect_from: /jogando/analise/2015/06/30/analise-super-mario-world-snes.html
-tags: [snes, nintendo, mario, analise, game-over]
+tags: [snes, nintendo, mario, categoria-analise, serie-game-over]
 games: [super-mario-world]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/24_super_mario_world/post_thumbnail.jpg
 cover: /imgs/posts/game_over/24_super_mario_world/post_header.jpg
 ---

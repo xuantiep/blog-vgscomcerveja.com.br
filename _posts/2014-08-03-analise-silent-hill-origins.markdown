@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 18
 categories: games jogando
 redirect_from: /jogando/analise/2014/08/03/analise-silent-hill-origins-psp.html
-tags: [sony, psp, silent-hill, konami, analise, game-over]
+tags: [sony, psp, silent-hill, konami, categoria-analise, serie-game-over]
 games: [silent-hill-origins]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/18_silent_hill_origins/post_thumbnail.jpg
 cover: /imgs/posts/game_over/18_silent_hill_origins/post_header.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Meus 10 jogos favoritos do PS1"
 date: 2015-03-04 19:00
 author: felipebbarbosa
-session: Toplist
+session: Especial
 categories: games jogando
 redirect_from: /jogando/toplist/2015/03/04/meus-dez-jogos-favoritos-do-ps1.html
 tags:
@@ -14,8 +14,8 @@ tags:
     tomb-raider,
     metal-gear-solid,
     gran-turismo,
-    lists,
-    toplist,
+    categoria-lista,
+    categoria-especial,
   ]
 games:
   [

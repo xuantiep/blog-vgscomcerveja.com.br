@@ -6,8 +6,8 @@ author: felipebbarbosa
 session: Edição de Colecionador &#35 05
 categories: games colecionando
 redirect_from: /colecionando/edicao-colecionador/2017/08/08/3-edicoes-de-colecionador-naughty-dog.html
-tags: [naughty-dog, uncharted, sony, ps3, ps4, lists, edicao-colecionador]
-related: edicao-colecionador
+tags: [naughty-dog, uncharted, sony, ps3, ps4, lists, serie-edicao-colecionador]
+related: serie-edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/05_naughty_dog/post_thumbnail.jpg
 cover: /imgs/posts/ed_colecionador/05_naughty_dog/post_header.jpg
 ---

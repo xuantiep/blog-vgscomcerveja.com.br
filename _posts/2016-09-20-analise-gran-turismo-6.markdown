@@ -3,12 +3,20 @@ layout: post
 title: "Análise - Gran Turismo 6 (PS3)"
 date: 2016-09-20 19:00
 author: felipebbarbosa
-session: Game Over &#35 32
+session: VCC Racing // Game Over &#35 32
 categories: games jogando
 redirect_from: /jogando/analise/2016/09/20/analise-gran-turismo-6.html
-tags: [sony, ps3, gran-turismo, analise, game-over]
+tags:
+  [
+    sony,
+    ps3,
+    gran-turismo,
+    categoria-analise,
+    serie-game-over,
+    serie-vcc-racing,
+  ]
 games: [gran-turismo-6]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/32_gran_turismo6/post_thumbnail.jpg
 cover: /imgs/posts/game_over/32_gran_turismo6/post_header.jpg
 ---

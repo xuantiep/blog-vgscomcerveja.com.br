@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 05
 categories: games jogando
 redirect_from: /jogando/analise/2013/05/27/analise-taz-mania-master-system.html
-tags: [sega, master-system, tectoy, analise, game-over]
+tags: [sega, master-system, tectoy, categoria-analise, serie-game-over]
 games: [taz-mania]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/05_tazmania/post_thumbnail.jpg
 cover: /imgs/posts/game_over/05_tazmania/post_header.jpg
 ---

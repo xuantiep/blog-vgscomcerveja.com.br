@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/10/26/nintendo-switch.html
-tags: [nintendo, switch]
+tags: [nintendo, switch, categoria-noticias]
 thumbnail: /imgs/posts/news/23_nintendo_switch/post_thumbnail.jpg
 cover: /imgs/posts/news/23_nintendo_switch/post_header.jpg
 ---

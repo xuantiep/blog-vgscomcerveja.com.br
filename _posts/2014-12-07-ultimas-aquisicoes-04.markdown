@@ -23,7 +23,7 @@ tags:
     rockband,
     lego,
     metal-gear-solid,
-    colecao-pessoal,
+    categoria-colecao-pessoal,
   ]
 games:
   [

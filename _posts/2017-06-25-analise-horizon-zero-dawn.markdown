@@ -6,8 +6,8 @@ author: felipebbarbosa
 session: Game Over &#35 38
 categories: games jogando
 redirect_from: /jogando/analise/2017/06/25/analise-horizon-zero-dawn.html
-tags: [sony, ps4, horizon-zero-dawn, analise, game-over]
-related: game-over
+tags: [sony, ps4, horizon-zero-dawn, categoria-analise, serie-game-over]
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/38_horizon_zero_dawn/post_thumbnail.jpg
 cover: /imgs/posts/game_over/38_horizon_zero_dawn/post_header.jpg
 ---

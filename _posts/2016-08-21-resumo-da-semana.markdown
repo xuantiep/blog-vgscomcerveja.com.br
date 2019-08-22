@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/08/21/resumo-da-semana.html
-tags: [spotify, metal-gear-solid, resident-evil, microsoft]
+tags: [spotify, metal-gear-solid, resident-evil, microsoft, categoria-noticias]
 games: [metal-gear-survive, resident-evil-7]
 thumbnail: /imgs/posts/news/20_resumo13/post_thumbnail.jpg
 cover: /imgs/posts/news/20_resumo13/post_header.jpg

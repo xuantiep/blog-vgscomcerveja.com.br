@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2014/12/08/resumo-da-semana.html
-tags: [nintendo, uncharted, mario, farcry]
+tags: [nintendo, uncharted, mario, farcry, categoria-noticias]
 games:
   [
     uncharted-4,

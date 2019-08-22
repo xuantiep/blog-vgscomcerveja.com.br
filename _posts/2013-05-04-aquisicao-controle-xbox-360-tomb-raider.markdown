@@ -13,7 +13,7 @@ tags:
     tomb-raider,
     crystal-dynamics,
     square-enix,
-    colecao-pessoal,
+    categoria-colecao-pessoal,
   ]
 thumbnail: /imgs/posts/colecao/15_controle_tomb_raider/post_thumbnail.jpg
 cover: /imgs/posts/colecao/15_controle_tomb_raider/post_header.jpg

@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/08/07/resumo-da-semana.html
-tags: [microsoft, xbox-one, ps4, nintendo, gog, disney]
+tags: [microsoft, xbox-one, ps4, nintendo, gog, disney, categoria-noticias]
 games: [inside, prey-for-the-gods, prey]
 thumbnail: /imgs/posts/news/19_resumo12/post_thumbnail.jpg
 cover: /imgs/posts/news/19_resumo12/post_header.jpg

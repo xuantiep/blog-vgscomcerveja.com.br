@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2018/02/01/limited-run-lancara-cases-para-sega-cd-saturn-ps1.html
-tags: [sega, saturn, sega-cd, ps1, limitedrun]
+tags: [sega, saturn, sega-cd, ps1, limitedrun, categoria-noticias]
 thumbnail: /imgs/posts/news/27_cases/post_thumbnail.jpg
 cover: /imgs/posts/news/27_cases/post_header.jpg
 ---

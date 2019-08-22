@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2012/05/07/aquisicao-metal-gear-solid-gbc.html
-tags: [nintendo, gbc, konami, metal-gear-solid, colecao-pessoal]
+tags: [nintendo, gbc, konami, metal-gear-solid, categoria-colecao-pessoal]
 games: [metal-gear-solid]
 thumbnail: /imgs/posts/colecao/12_metal_gear_solid/post_thumbnail.jpg
 cover: /imgs/posts/colecao/12_metal_gear_solid/post_header.jpg

@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 19
 categories: games jogando
 redirect_from: /jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html
-tags: [sony, ps1, electronic-arts, analise, game-over]
+tags: [sony, ps1, electronic-arts, categoria-analise, serie-game-over]
 games: [medal-of-honor]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/19_medal_of_honor/post_thumbnail.jpg
 cover: /imgs/posts/game_over/19_medal_of_honor/post_header.jpg
 ---

@@ -5,6 +5,7 @@ date: 2013-02-05 19:00
 author: felipebbarbosa
 session: Drops
 redirect_from: /noticias/2013/02/05/novidades-do-blog.html
+tags: [categoria-noticias]
 ---
 
 O ano virou e já estamos em 2013! O carnaval não passou ainda, mas "já" vamos voltar a ativa com o blog ^^. Bom, primeiramente, gostaria de contar algumas novidades!

@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 22
 categories: games jogando
 redirect_from: /jogando/analise/2015/03/19/analise-dead-island-xbox-360.html
-tags: [microsoft, xbox-360, analise, game-over]
+tags: [microsoft, xbox-360, categoria-analise, serie-game-over]
 games: [dead-island]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/22_dead_island/post_thumbnail.jpg
 cover: /imgs/posts/game_over/22_dead_island/post_header.jpg
 ---

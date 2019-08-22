@@ -3,14 +3,12 @@ layout: post
 title: "O que gostei da E3 2018"
 date: 2018-06-13 18:45
 author: felipebbarbosa
-session: Especial
+session: Drops // Especial
 categories: games jogando
 redirect_from: /jogando/especial/2018/06/13/especial-e3-2018.html
 tags:
   [
-    lists,
     e3,
-    especial,
     sony,
     microsoft,
     naughty-dog,
@@ -21,6 +19,9 @@ tags:
     indie,
     square-enix,
     capcom,
+    categoria-especial,
+    categoria-listas,
+    categoria-noticias,
   ]
 related: e3
 thumbnail: /imgs/posts/especial/06_e32018/post_thumbnail.jpg

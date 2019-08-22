@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Utilidade Pública
 categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2012/11/01/tectoy-wiki.html
-tags: [sega, tectoy, utilidade-publica]
+tags: [sega, tectoy, categoria-utilidade-publica]
 thumbnail: /imgs/posts/utilidade_publica/07_tectoy_wiki/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/07_tectoy_wiki/post_header.jpg
 ---

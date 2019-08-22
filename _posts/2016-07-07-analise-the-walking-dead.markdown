@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 31
 categories: games jogando
 redirect_from: /jogando/analise/2016/07/07/analise-the-walking-dead.html
-tags: [sony, psvita, ps4, telltale, analise, game-over]
+tags: [sony, psvita, ps4, telltale, categoria-analise, serie-game-over]
 games: [the-walking-dead, the-walking-dead-2]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/31_the_walking_dead/post_thumbnail.jpg
 cover: /imgs/posts/game_over/31_the_walking_dead/post_header.jpg
 ---

@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 27
 categories: games jogando
 redirect_from: /jogando/analise/2016/02/15/analise-guacamelee-psvita.html
-tags: [sony, psvita, drinkbox, analise, game-over]
+tags: [sony, psvita, drinkbox, categoria-analise, serie-game-over]
 games: [guacamelee]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/27_guacamelee/post_thumbnail.jpg
 cover: /imgs/posts/game_over/27_guacamelee/post_header.jpg
 ---

@@ -6,8 +6,9 @@ author: felipebbarbosa
 session: Caçadores de Troféus
 categories: games jogando
 redirect_from: /jogando/utilidade-publica/2017/03/30/como-funciona-sistema-trofeus-sony.html
-tags: [trofeus, sony, ps3, psvita, ps4, utilidade-publica]
-related: trofeus
+tags:
+  [sony, ps3, psvita, ps4, categoria-utilidade-publica, serie-cacadores-trofeus]
+related: serie-cacadores-trofeus
 thumbnail: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/09_trofeus_playstation/post_header.jpg
 ---

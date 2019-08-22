@@ -22,6 +22,7 @@ defaults:
       og_type: article
       type: article
       excerpt_separator: <!--more-->
+      permalink: /post/:title
 
 #files_to_cache:
 #  - "/js/vcc.js"

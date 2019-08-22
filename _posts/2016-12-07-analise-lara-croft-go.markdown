@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 35
 categories: games jogando
 redirect_from: /jogando/analise/2016/12/07/analise-lara-croft-go.html
-tags: [sony, psvita, tomb-raider, analise, game-over]
+tags: [sony, psvita, tomb-raider, categoria-analise, serie-game-over]
 games: [lara-croft-go]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/35_lara_croft_go/post_thumbnail.jpg
 cover: /imgs/posts/game_over/35_lara_croft_go/post_header.jpg
 ---

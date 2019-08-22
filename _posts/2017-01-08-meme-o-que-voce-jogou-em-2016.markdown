@@ -24,7 +24,7 @@ tags:
     xbox,
     microsoft,
     ps2,
-    especial,
+    categoria-especial,
     meme-oqvj,
   ]
 games:

@@ -25,7 +25,7 @@ tags:
     master-system,
     sega,
     sonic,
-    especial,
+    categoria-especial,
     meme-oqvj,
   ]
 games:

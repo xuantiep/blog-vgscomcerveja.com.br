@@ -3,10 +3,10 @@ layout: post
 title: "5 características que me incomoda nos games!"
 date: 2017-12-21 19:00
 author: felipebbarbosa
-session: Toplist
+session: Especial
 categories: games jogando
 redirect_from: /jogando/2017/12/21/5-caracteristicas-que-me-incomodam-nos-games.html
-tags: [lists, toplist]
+tags: [categoria-lista, categoria-especial]
 thumbnail: /imgs/posts/toplist/10_caracteristicas_chatas/post_thumbnail.jpg
 cover: /imgs/posts/toplist/10_caracteristicas_chatas/post_header.jpg
 ---

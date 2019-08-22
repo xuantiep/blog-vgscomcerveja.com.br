@@ -3,10 +3,11 @@ layout: post
 title: "5 'coisas' que recomendo! #2 - Especial Atari"
 date: 2018-08-08 21:00
 author: felipebbarbosa
-session: Toplist
+session: VCC Recomenda!
 categories: games jogando
 redirect_from: /jogando/toplist/2018/08/08/5-coisas-que-recomendo-2-especial-atari0.html
-tags: [livros, atari, lists, toplist]
+tags: [livros, atari, categoria-lista, serie-vcc-recomenda]
+related: serie-vcc-recomenda
 thumbnail: /imgs/posts/toplist/12_coisas_recomendo_2/post_thumbnail.jpg
 cover: /imgs/posts/toplist/12_coisas_recomendo_2/post_header.jpg
 ---

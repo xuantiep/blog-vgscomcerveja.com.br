@@ -15,6 +15,7 @@ tags:
     games-with-gold,
     metal-gear-solid,
     rockband,
+    categoria-noticias,
   ]
 games: [metal-gear-solid-v, rockband-4, shovel-knight, syndicate]
 thumbnail: /imgs/posts/news/10_resumo04/post_thumbnail.jpg

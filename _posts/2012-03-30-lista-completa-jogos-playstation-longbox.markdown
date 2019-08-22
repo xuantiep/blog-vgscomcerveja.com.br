@@ -3,10 +3,10 @@ layout: post
 title: "Lista de todos os jogos PlayStation no formato Longbox"
 date: 2012-03-30 19:00
 author: felipebbarbosa
-session: Utilidade Pública
+session: Game DB
 categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2012/03/30/lista-jogos-playstation-longbox.html
-tags: [sony, ps1, resident-evil, lists, utilidade-publica, complete-lists]
+tags: [sony, ps1, complete-lists, categoria-utilidade-publica, serie-game-db]
 related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_header.jpg

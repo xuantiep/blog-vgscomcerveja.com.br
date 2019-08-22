@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2012/06/12/aquisicao-xbox-360.html
-tags: [microsoft, xbox-360, colecao-pessoal]
+tags: [microsoft, xbox-360, categoria-colecao-pessoal]
 thumbnail: /imgs/posts/colecao/13_xbox_360/post_thumbnail.jpg
 cover: /imgs/posts/colecao/13_xbox_360/post_header.jpg
 ---

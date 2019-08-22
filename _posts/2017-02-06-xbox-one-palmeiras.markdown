@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2017/02/06/xbox-one-palmeiras.html
-tags: [microsoft, xbox-one]
+tags: [microsoft, xbox-one, categoria-noticias]
 thumbnail: /imgs/posts/news/26_xbox_palmeiras/post_thumbnail.jpg
 cover: /imgs/posts/news/26_xbox_palmeiras/post_header.jpg
 ---

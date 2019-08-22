@@ -3,7 +3,7 @@ layout: post
 title: "10 jogos que marcaram minha infância"
 date: 2014-08-13 19:00
 author: felipebbarbosa
-session: Toplist
+session: Especial
 categories: games jogando
 redirect_from: /jogando/toplist/2014/08/13/dez-jogos-que-marcaram-minha-infancia.html
 tags:
@@ -18,8 +18,8 @@ tags:
     tomb-raider,
     metal-gear-solid,
     gran-turismo,
-    lists,
-    toplist,
+    categoria-lista,
+    categoria-especial,
   ]
 games:
   [

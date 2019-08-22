@@ -7,7 +7,14 @@ session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/04/13/resumo-da-semana.html
 tags:
-  [mortal-kombat, square-enix, electronic-arts, need-for-speed, call-of-duty]
+  [
+    mortal-kombat,
+    square-enix,
+    electronic-arts,
+    need-for-speed,
+    call-of-duty,
+    categoria-noticias,
+  ]
 games: [mortal-kombat-x, deus-ex-manking-divided, ducktales-remastered]
 thumbnail: /imgs/posts/news/15_resumo09/post_thumbnail.jpg
 cover: /imgs/posts/news/15_resumo09/post_header.jpg

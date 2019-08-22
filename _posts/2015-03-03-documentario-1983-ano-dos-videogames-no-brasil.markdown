@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/03/03/documentario-1983-ano-dos-videogames-no-brasil.html
-tags: [livros]
+tags: [livros, categoria-noticias]
 thumbnail: /imgs/posts/news/09_documentario_1983/post_thumbnail.jpg
 cover: /imgs/posts/news/09_documentario_1983/post_header.jpg
 ---

@@ -6,7 +6,16 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/03/30/resumo-da-semana.html
-tags: [guitar-hero, konami, kojima, games-with-gold, microsoft, xbox-live]
+tags:
+  [
+    guitar-hero,
+    konami,
+    kojima,
+    games-with-gold,
+    microsoft,
+    xbox-live,
+    categoria-noticias,
+  ]
 games: [batman-arkham-knight, halo-5, forza-horizon-2]
 thumbnail: /imgs/posts/news/13_resumo07/post_thumbnail.jpg
 cover: /imgs/posts/news/13_resumo07/post_header.jpg

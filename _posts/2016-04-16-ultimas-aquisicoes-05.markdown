@@ -24,7 +24,7 @@ tags:
     master-system,
     tectoy,
     ps4,
-    colecao-pessoal,
+    categoria-colecao-pessoal,
   ]
 games:
   [

@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 08
 categories: games jogando
 redirect_from: /jogando/analise/2013/06/27/analise-gunman-clive-android-xperia-play.html
-tags: [android, xperia-play, analise, game-over]
+tags: [android, xperia-play, categoria-analise, serie-game-over]
 games: [gunman-clive]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/08_gunman_clive/post_thumbnail.jpg
 cover: /imgs/posts/game_over/08_gunman_clive/post_header.jpg
 ---

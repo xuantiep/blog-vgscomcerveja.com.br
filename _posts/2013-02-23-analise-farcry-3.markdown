@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 01
 categories: games jogando
 redirect_from: /jogando/analise/2013/02/23/analise-farcry-3-xbox-360.html
-tags: [microsft, xbox-360, ubisoft, farcry, analise, game-over]
+tags: [microsft, xbox-360, ubisoft, farcry, categoria-analise, serie-game-over]
 games: [farcry-3]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/01_farcry3/post_thumbnail.jpg
 cover: /imgs/posts/game_over/01_farcry3/post_header.jpg
 ---
@@ -21,9 +21,13 @@ FC3 foi minha surpresa de final de ano, comprei porque estava numa promoção mu
 
 Você é **Jason Brody**, um cara comum que resolveu curtir as férias com os amigos em uma ilha paradisíaca. Tudo começa bem com praia, sol, festas.. até que de repente, estão aprisionados por piratas que são liderados por **Vaas Montenegro**.
 
-{% include image.html url="/imgs/posts/game_over/01_farcry3/farcry3_1.jpg" description="No começo é só festa..." %}
+{% include image.html
+  url="/imgs/posts/game_over/01_farcry3/farcry3_1.jpg"
+  description="No começo é só festa..." %}
 
-{% include image.html url="/imgs/posts/game_over/01_farcry3/farcry3_2.jpg" description="..mas depois!" %}
+{% include image.html
+  url="/imgs/posts/game_over/01_farcry3/farcry3_2.jpg"
+  description="..mas depois!" %}
 
 Você consegue escapar dos piratas e conhece os membros da tribo **Rakyat** que estão em guerra contra o exército de Vaas. A história do jogo é basicamente se aliar com a tribo, lutar contra os piratas e salvar seus amigos. Mas o que torna FC3 ótimo é que ele é um jogo de mundo aberto muito bem feito.
 

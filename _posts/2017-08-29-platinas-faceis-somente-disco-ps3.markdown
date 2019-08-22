@@ -6,8 +6,8 @@ author: felipebbarbosa
 session: Caçadores de Troféus &#35 01
 categories: games jogando
 redirect_from: /jogando/toplist/2017/08/29/3-platinas-faceis-somente-disco-ps3.html
-tags: [trofeus, sony, ps3, lists, toplist]
-related: trofeus
+tags: [sony, ps3, categoria-lista, serie-cacadores-trofeus]
+related: serie-cacadores-trofeus
 thumbnail: /imgs/posts/toplist/09_cacadores_trofeus1/post_thumbnail.jpg
 cover: /imgs/posts/toplist/09_cacadores_trofeus1/post_header.jpg
 ---

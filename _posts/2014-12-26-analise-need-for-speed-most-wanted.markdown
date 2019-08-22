@@ -3,13 +3,22 @@ layout: post
 title: "Análise - Need for Speed: Most Wanted (PS3)"
 date: 2014-12-26 19:00
 author: felipebbarbosa
-session: Game Over &#35 21
+session: VCC Racing // Game Over &#35 21
 categories: games jogando
 redirect_from: /jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html
 tags:
-  [need-for-speed, ps3, sony, criterion, electronic-arts, analise, game-over]
+  [
+    need-for-speed,
+    ps3,
+    sony,
+    criterion,
+    electronic-arts,
+    categoria-analise,
+    serie-game-over,
+    serie-vcc-racing,
+  ]
 games: [need-for-speed-most-wanted]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/21_nfs_most_wanted/post_thumbnail.jpg
 cover: /imgs/posts/game_over/21_nfs_most_wanted/post_header.jpg
 ---

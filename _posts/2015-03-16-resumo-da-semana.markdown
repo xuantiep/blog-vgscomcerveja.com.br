@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/03/16/resumo-da-semana.html
-tags: [naughty-dog, uncharted, arcade, ps4, sony, lego]
+tags: [naughty-dog, uncharted, arcade, ps4, sony, lego, categoria-noticias]
 games: [uncharted-4, tembo, lego-jurassic-world]
 thumbnail: /imgs/posts/news/11_resumo05/post_thumbnail.jpg
 cover: /imgs/posts/news/11_resumo05/post_header.jpg

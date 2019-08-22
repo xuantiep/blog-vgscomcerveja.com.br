@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 16
 categories: games jogando
 redirect_from: /jogando/analise/2014/03/09/analise-the-last-of-us-left-behind-dlc-ps3.html
-tags: [sony, ps3, naughty-dog, analise, game-over]
+tags: [sony, ps3, naughty-dog, categoria-analise, serie-game-over]
 games: [the-last-of-us]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_thumbnail.jpg
 cover: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_header.jpg
 ---

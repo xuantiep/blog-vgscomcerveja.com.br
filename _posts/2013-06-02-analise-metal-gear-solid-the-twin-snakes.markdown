@@ -14,11 +14,11 @@ tags:
     metal-gear,
     konami,
     silicon-knights,
-    analise,
-    game-over,
+    categoria-analise,
+    serie-game-over,
   ]
 games: [metal-gear-solid-the-twin-snakes]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/06_mgs_twin_snakes/post_thumbnail.jpg
 cover: /imgs/posts/game_over/06_mgs_twin_snakes/post_header.jpg
 ---

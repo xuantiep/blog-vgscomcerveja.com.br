@@ -4,10 +4,18 @@ title: "Lista de jogos de Master System Portuguese Purple Releases"
 date: 2012-07-08 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
-session: Utilidade Pública
+session: Game DB
 categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2012/07/08/lista-jogos-purple-releases-para-master-system.html
-tags: [sega, tectoy, master-system, lists, utilidade-publica, complete-lists]
+tags:
+  [
+    sega,
+    tectoy,
+    master-system,
+    complete-lists,
+    categoria-utilidade-publica,
+    serie-game-db,
+  ]
 related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/06_jogos_master_system_purple_releases/post_header.jpg

@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 33
 categories: games jogando
 redirect_from: /jogando/analise/2016/09/27/analise-gone-home-ps4.html
-tags: [sony, ps4, ps-plus, analise, game-over]
+tags: [sony, ps4, ps-plus, categoria-analise, serie-game-over]
 games: [gone-home]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/33_gone_home/post_thumbnail.jpg
 cover: /imgs/posts/game_over/33_gone_home/post_header.jpg
 ---

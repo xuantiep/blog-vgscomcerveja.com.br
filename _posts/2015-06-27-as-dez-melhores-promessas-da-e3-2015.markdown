@@ -16,8 +16,7 @@ tags:
     naughty-dog,
     tomb-raider,
     sony,
-    lists,
-    toplist,
+    categoria-lista,
   ]
 games:
   [

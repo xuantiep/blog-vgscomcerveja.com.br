@@ -6,9 +6,18 @@ author: felipebbarbosa
 session: Game Over &#35 09
 categories: games jogando
 redirect_from: /jogando/analise/2013/08/22/analise-tomb-raider-ps1.html
-tags: [sony, ps1, eidos, core-design, tomb-raider, analise, game-over]
+tags:
+  [
+    sony,
+    ps1,
+    eidos,
+    core-design,
+    tomb-raider,
+    categoria-analise,
+    serie-game-over,
+  ]
 games: [tomb-raider-ps1]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/09_tomb_raider/post_thumbnail.jpg
 cover: /imgs/posts/game_over/09_tomb_raider/post_header.jpg
 ---

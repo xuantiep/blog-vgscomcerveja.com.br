@@ -3,13 +3,22 @@ layout: post
 title: "Análise - Need for Speed: Hot Pursuit (PS3)"
 date: 2013-03-03 19:00
 author: felipebbarbosa
-session: Game Over &#35 02
+session: VCC Racing // Game Over &#35 02
 categories: games jogando
 redirect_from: /jogando/analise/2013/03/03/analise-need-for-speed-hot-pursuit-ps3.html
 tags:
-  [sony, ps3, need-for-speed, criterion, electronic-arts, analise, game-over]
+  [
+    sony,
+    ps3,
+    need-for-speed,
+    criterion,
+    electronic-arts,
+    categoria-analise,
+    serie-game-over,
+    serie-vcc-racing,
+  ]
 games: [need-for-speed-hot-pursuit]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/02_nfs_hot_pursuit/post_thumbnail.jpg
 cover: /imgs/posts/game_over/02_nfs_hot_pursuit/post_header.jpg
 ---

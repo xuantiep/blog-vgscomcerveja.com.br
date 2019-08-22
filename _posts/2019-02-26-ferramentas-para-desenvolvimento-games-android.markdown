@@ -6,7 +6,7 @@ author: udemy
 session: Drops
 categories: games noticias
 redirect_from: /utilidade-publica/2019/02/26/ferramentas-para-desenvolvimento-games-android.html
-tags: [utilidade-publica, android]
+tags: [android, categoria-noticias, categoria-utilidade-publica]
 thumbnail: /imgs/posts/utilidade_publica/10_udemy/thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/10_udemy/header.jpg
 ---

@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 36
 categories: games jogando
 redirect_from: /jogando/analise/2017/03/09/analise-the-last-guardian.html
-tags: [sony, ps4, analise, game-over]
+tags: [sony, ps4, categoria-analise, serie-game-over]
 games: [the-last-guardian]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/36_the_last_guardian/post_thumbnail.jpg
 cover: /imgs/posts/game_over/36_the_last_guardian/post_header.jpg
 ---

@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Especial
 categories: games jogando
 redirect_from: /jogando/especiais/2015/10/18/brasil-game-show-2015.html
-tags: [bgs, e3, sony, microsoft, especial]
+tags: [bgs, e3, sony, microsoft, categoria-especial]
 related: e3
 thumbnail: /imgs/posts/especial/02_bgs2015/post_thumbnail.jpg
 cover: /imgs/posts/especial/02_bgs2015/post_header.jpg

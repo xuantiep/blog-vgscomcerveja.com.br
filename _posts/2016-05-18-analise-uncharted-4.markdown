@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 30
 categories: games jogando
 redirect_from: /jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html
-tags: [sony, ps4, uncharted, naughty-dog, analise, game-over]
+tags: [sony, ps4, uncharted, naughty-dog, categoria-analise, serie-game-over]
 games: [uncharted-4]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/30_uncharted4/post_thumbnail.jpg
 cover: /imgs/posts/game_over/30_uncharted4/post_header.jpg
 ---

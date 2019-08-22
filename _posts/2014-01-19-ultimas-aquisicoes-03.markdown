@@ -21,7 +21,7 @@ tags:
     tectoy,
     master-system,
     xbox-360,
-    colecao-pessoal,
+    categoria-colecao-pessoal,
   ]
 games:
   [

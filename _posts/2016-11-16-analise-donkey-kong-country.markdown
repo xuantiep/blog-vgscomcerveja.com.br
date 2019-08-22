@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 34
 categories: games jogando
 redirect_from: /jogando/analise/2016/11/16/analise-donkey-kong-country-snes.html
-tags: [nintendo, snes, rare, donkey-kong, analise, game-over]
+tags: [nintendo, snes, rare, donkey-kong, categoria-analise, serie-game-over]
 games: [donkey-kong-country]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/34_donkey_kong_country/post_thumbnail.jpg
 cover: /imgs/posts/game_over/34_donkey_kong_country/post_header.jpg
 ---

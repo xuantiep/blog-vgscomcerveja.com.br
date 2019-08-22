@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2019/04/01/o-bom-do-videogame.html
-tags: []
+tags: [categoria-noticias]
 thumbnail: /imgs/posts/news/28_bom_do_videogame/thumbnail.jpg
 cover: /imgs/posts/news/28_bom_do_videogame/header.jpg
 ---

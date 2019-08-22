@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Especial
 categories: games jogando
 redirect_from: /jogando/especiais/2019/01/30/meme-o-que-voce-jogou-em-2018.html
-tags: [especial, meme-oqvj]
+tags: [categoria-especial, meme-oqvj]
 related: meme-oqvj
 thumbnail: /imgs/posts/especial/07_meme2018/thumbnail.jpg
 cover: /imgs/posts/especial/07_meme2018/header.jpg

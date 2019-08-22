@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/10/31/novo-mega-drive-tectoy.html
-tags: [sega, mega-drive, tectoy]
+tags: [sega, mega-drive, tectoy, categoria-noticias]
 thumbnail: /imgs/posts/news/24_mega_drive_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/news/24_mega_drive_tectoy/post_header.jpg
 ---

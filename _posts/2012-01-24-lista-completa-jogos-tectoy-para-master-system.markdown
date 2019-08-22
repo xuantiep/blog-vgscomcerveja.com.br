@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "Lista de todos os jogos de Master System lançados pela Tectoy"
+title: "Lista completa dos jogos de Master System lançados pela Tectoy no Brasil"
 date: 2012-01-24 19:00
 lastmod: 2019-02-21 22:30
 author: felipebbarbosa
-session: Utilidade Pública
-categories: games colecionando 
+session: Game DB
+categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2012/01/24/lista-jogos-tectoy-para-master-system.html
-tags: [sega, tectoy, master-system, lists, utilidade-publica, complete-lists]
+tags:
+  [
+    sega,
+    tectoy,
+    master-system,
+    complete-lists,
+    categoria-utilidade-publica,
+    serie-game-db,
+  ]
 games: [phantasy-star, ultima-iv]
 related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_thumbnail.jpg

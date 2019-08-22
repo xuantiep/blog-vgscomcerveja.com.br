@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 12
 categories: games jogando
 redirect_from: /jogando/analise/2013/11/15/analise-the-great-battle-vi-ps1.html
-tags: [sony, ps1, analise, game-over]
+tags: [sony, ps1, categoria-analise, serie-game-over]
 games: [great-battle-vi]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/12_great_battle_vi/post_thumbnail.jpg
 cover: /imgs/posts/game_over/12_great_battle_vi/post_header.jpg
 ---

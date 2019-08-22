@@ -18,7 +18,7 @@ tags:
     nintendo,
     wii,
     need-for-speed,
-    especial,
+    categoria-especial,
     meme-oqvj,
   ]
 games:

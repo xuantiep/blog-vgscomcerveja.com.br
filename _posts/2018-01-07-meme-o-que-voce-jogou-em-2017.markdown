@@ -8,7 +8,7 @@ categories: games jogando
 redirect_from: /jogando/especiais/2018/01/07/meme-o-que-voce-jogou-em-2017.html
 tags:
   [
-    especial,
+    categoria-especial,
     android,
     nintendo,
     game-cube,

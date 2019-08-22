@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 26
 categories: games jogando
 redirect_from: /jogando/analise/2015/12/10/analise-uncharted-golden-abyss-psvita.html
-tags: [sony, psvita, uncharted, analise, game-over]
+tags: [sony, psvita, uncharted, categoria-analise, serie-game-over]
 games: [uncharted-golden-abyss]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/26_uncharted_golden_abyss/post_thumbnail.jpg
 cover: /imgs/posts/game_over/26_uncharted_golden_abyss/post_header.jpg
 ---

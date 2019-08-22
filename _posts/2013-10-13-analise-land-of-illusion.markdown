@@ -6,9 +6,18 @@ author: felipebbarbosa
 session: Game Over &#35 11
 categories: games jogando
 redirect_from: /jogando/analise/2013/10/13/analise-land-of-illusion-master-system.html
-tags: [sega, master-system, tectoy, mickey, disney, analise, game-over]
+tags:
+  [
+    sega,
+    master-system,
+    tectoy,
+    mickey,
+    disney,
+    categoria-analise,
+    serie-game-over,
+  ]
 games: [land-of-illusion]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/11_land_of_illusion/post_thumbnail.jpg
 cover: /imgs/posts/game_over/11_land_of_illusion/post_header.jpg
 ---

@@ -3,10 +3,11 @@ layout: post
 title: "13 artistas para seguir no Spotify"
 date: 2017-08-01 20:00
 author: felipebbarbosa
-session: Toplist
+session: VCC Recomenda!
 categories: games jogando
 redirect_from: /jogando/toplist/2017/08/01/13-artistas-para-seguir-no-spotify.html
-tags: [spotify, game-music, lists, toplist]
+tags: [spotify, game-music, categoria-lista, serie-vcc-recomenda]
+related: serie-vcc-recomenda
 thumbnail: /imgs/posts/toplist/07_artistas_spotify/post_thumbnail.jpg
 cover: /imgs/posts/toplist/07_artistas_spotify/post_header.jpg
 ---

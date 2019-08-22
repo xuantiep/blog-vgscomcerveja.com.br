@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/10/16/super-mario-tema-mclanche-feliz-novembro.html
-tags: [nintendo, mario]
+tags: [nintendo, mario, categoria-noticias]
 thumbnail: /imgs/posts/news/22_mclanche_mario/post_thumbnail.jpg
 cover: /imgs/posts/news/22_mclanche_mario/post_header.jpg
 ---

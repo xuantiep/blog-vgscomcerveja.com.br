@@ -6,7 +6,17 @@ author: felipebbarbosa
 session: Drops
 categories: games noticias
 redirect_from: /noticias/2016/07/31/resumo-da-semana.html
-tags: [nintendo, ps4, tomb-raider, microsoft, games-with-gold, sony, ps-plus]
+tags:
+  [
+    nintendo,
+    ps4,
+    tomb-raider,
+    microsoft,
+    games-with-gold,
+    sony,
+    ps-plus,
+    categoria-noticias,
+  ]
 games: [life-is-strange, rise-of-the-tomb-raider]
 thumbnail: /imgs/posts/news/18_resumo11/post_thumbnail.jpg
 cover: /imgs/posts/news/18_resumo11/post_header.jpg

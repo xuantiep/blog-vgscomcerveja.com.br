@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 20
 categories: games jogando
 redirect_from: /jogando/analise/2014/11/04/analise-acdc-live-rockband-ps3.html
-tags: [sony, ps3, rockband, electronic-arts, analise, game-over]
+tags: [sony, ps3, rockband, electronic-arts, categoria-analise, serie-game-over]
 games: [acdc-rockband]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/20_acdc_live/post_thumbnail.jpg
 cover: /imgs/posts/game_over/20_acdc_live/post_header.jpg
 ---

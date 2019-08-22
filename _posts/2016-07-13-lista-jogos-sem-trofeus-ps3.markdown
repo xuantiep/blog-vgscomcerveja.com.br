@@ -6,7 +6,14 @@ author: felipebbarbosa
 session: Caçadores de Troféus
 categories: games jogando
 redirect_from: /jogando/utilidade-publica/2016/07/13/lista-jogos-sem-trofeus-ps3.html
-tags: [sony, ps3, trofeus, lists, utilidade-publica, complete-lists]
+tags:
+  [
+    sony,
+    ps3,
+    complete-lists,
+    categoria-utilidade-publica,
+    serie-cacadores-trofeus,
+  ]
 related: trofeus
 thumbnail: /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_header.jpg

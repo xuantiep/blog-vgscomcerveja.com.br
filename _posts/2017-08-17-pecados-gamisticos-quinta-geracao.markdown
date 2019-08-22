@@ -18,11 +18,10 @@ tags:
     donkey-kong,
     mario,
     tomb-raider,
-    lists,
-    toplist,
-    pecados-gamisticos,
+    categoria-lista,
+    serie-pecados-gamisticos,
   ]
-related: pecados-gamisticos
+related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg
 ---

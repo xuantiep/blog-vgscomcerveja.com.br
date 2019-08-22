@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 13
 categories: games jogando
 redirect_from: /jogando/analise/2013/12/26/analise-bioshock-2-xbox-360.html
-tags: [microsoft, xbox-360, analise, game-over]
+tags: [microsoft, xbox-360, categoria-analise, serie-game-over]
 games: [bioshock-2]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/13_bioshock2/post_thumbnail.jpg
 cover: /imgs/posts/game_over/13_bioshock2/post_header.jpg
 ---

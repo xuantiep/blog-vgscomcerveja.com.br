@@ -7,9 +7,17 @@ session: Game Over &#35 04
 categories: games jogando
 redirect_from: /jogando/analise/2013/03/29/analise-tomb-raider-ps3.html
 tags:
-  [sony, ps3, tomb-raider, crystal-dynamics, square-enix, analise, game-over]
+  [
+    sony,
+    ps3,
+    tomb-raider,
+    crystal-dynamics,
+    square-enix,
+    categoria-analise,
+    serie-game-over,
+  ]
 games: [tomb-raider]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/04_tomb_raider/post_thumbnail.jpg
 cover: /imgs/posts/game_over/04_tomb_raider/post_header.jpg
 ---

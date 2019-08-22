@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 15
 categories: games jogando
 redirect_from: /jogando/analise/2014/01/02/analise-deadlight-xbox-360.html
-tags: [microsoft, xbox-360, tequila-works, analise, game-over]
+tags: [microsoft, xbox-360, tequila-works, categoria-analise, serie-game-over]
 games: [deadlight]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/15_deadlight/post_thumbnail.jpg
 cover: /imgs/posts/game_over/15_deadlight/post_header.jpg
 ---

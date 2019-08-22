@@ -16,6 +16,7 @@ tags:
     resident-evil,
     square-enix,
     tomb-raider,
+    categoria-noticias,
   ]
 games: [resident-evil-7, rise-of-the-tomb-raider]
 thumbnail: /imgs/posts/news/21_resumo14/post_thumbnail.jpg

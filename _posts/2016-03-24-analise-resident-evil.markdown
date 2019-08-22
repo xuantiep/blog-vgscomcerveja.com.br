@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Game Over &#35 28
 categories: games jogando
 redirect_from: /jogando/analise/2016/03/24/analise-resident-evil-ps1.html
-tags: [sony, ps1, capcom, resident-evil, analise, game-over]
+tags: [sony, ps1, capcom, resident-evil, categoria-analise, serie-game-over]
 games: [resident-evil]
-related: game-over
+related: serie-game-over
 thumbnail: /imgs/posts/game_over/28_resident_evil/post_thumbnail.jpg
 cover: /imgs/posts/game_over/28_resident_evil/post_header.jpg
 ---

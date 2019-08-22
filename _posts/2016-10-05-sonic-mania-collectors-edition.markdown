@@ -6,9 +6,9 @@ author: felipebbarbosa
 session: Edição de Colecionador &#35 04
 categories: games colecionando
 redirect_from: /colecionando/edicao-colecionador/2016/10/05/sonic-mania-collectors-edition.html
-tags: [sega, sonic, edicao-colecionador]
+tags: [sega, sonic, serie-edicao-colecionador]
 games: [sonic-mania]
-related: edicao-colecionador
+related: serie-edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/04_sonic_mania/post_thumbnail.jpg
 cover: /imgs/posts/ed_colecionador/04_sonic_mania/post_header.jpg
 ---
