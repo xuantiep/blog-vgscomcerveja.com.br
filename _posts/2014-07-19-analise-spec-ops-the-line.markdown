@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Spec Ops: The Line (PS3)"
 date: 2014-07-19 19:00
 author: felipebbarbosa
-session: Game Over &#35 17
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2014/07/19/analise-spec-ops-the-line-ps3.html
 tags: [sony, ps3, categoria-analise, serie-game-over]

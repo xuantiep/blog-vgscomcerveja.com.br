@@ -3,7 +3,7 @@ layout: post
 title: "Resident Evil 5 Collector's Edition"
 date: 2010-10-31 19:00
 author: felipebbarbosa
-session: Edição de Colecionador &#35 01
+session: Edição de Colecionador 
 categories: games colecionando
 redirect_from: /colecionando/edicao-colecionador/2010/10/31/resident-evil-5-collectors-edition.html
 tags: [ps3, xbox-360, capcom, serie-edicao-colecionador]

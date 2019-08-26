@@ -3,7 +3,7 @@ layout: post
 title: "Mortal Kombat Kollector's Edition"
 date: 2011-05-05 19:00
 author: felipebbarbosa
-session: Edição de Colecionador &#35 02
+session: Edição de Colecionador 
 categories: games colecionando
 redirect_from: /colecionando/edicao-colecionador/2011/05/05/mortal-kombat-kollectors-edition.html
 tags: [sony, ps3, microsoft, xbox-360, mortal-kombat, serie-edicao-colecionador]

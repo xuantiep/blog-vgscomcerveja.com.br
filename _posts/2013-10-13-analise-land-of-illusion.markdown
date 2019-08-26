@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Land of Illusion (Master System)"
 date: 2013-10-13 19:00
 author: felipebbarbosa
-session: Game Over &#35 11
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2013/10/13/analise-land-of-illusion-master-system.html
 tags:

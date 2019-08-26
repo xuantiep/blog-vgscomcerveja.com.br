@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Dead Island (Xbox 360)"
 date: 2015-03-19 19:00
 author: felipebbarbosa
-session: Game Over &#35 22
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2015/03/19/analise-dead-island-xbox-360.html
 tags: [microsoft, xbox-360, categoria-analise, serie-game-over]

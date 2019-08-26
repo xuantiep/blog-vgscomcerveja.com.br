@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Machinarium (PS3)"
 date: 2013-12-31 19:00
 author: felipebbarbosa
-session: Game Over &#35 14
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2013/12/31/analise-machinarium-ps3.html
 tags: [sony, ps3, indie, categoria-analise, serie-game-over]

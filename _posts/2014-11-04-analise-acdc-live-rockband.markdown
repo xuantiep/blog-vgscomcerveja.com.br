@@ -3,7 +3,7 @@ layout: post
 title: "Análise - AC/DC Live: Rockband Track Pack (PS3)"
 date: 2014-11-04 19:00
 author: felipebbarbosa
-session: Game Over &#35 20
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2014/11/04/analise-acdc-live-rockband-ps3.html
 tags: [sony, ps3, rockband, electronic-arts, categoria-analise, serie-game-over]

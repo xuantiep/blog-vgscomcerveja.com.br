@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Castle of Illusion (Master System)"
 date: 2013-09-17 19:00
 author: felipebbarbosa
-session: Game Over &#35 10
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2013/09/17/analise-castle-of-illusion-master-system.html
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Gone Home (PS4)"
 date: 2016-09-27 22:00
 author: felipebbarbosa
-session: Game Over &#35 33
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2016/09/27/analise-gone-home-ps4.html
 tags: [sony, ps4, ps-plus, categoria-analise, serie-game-over]

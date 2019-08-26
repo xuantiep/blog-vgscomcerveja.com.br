@@ -3,7 +3,7 @@ layout: post
 title: "Meus pecados gamísticos da sétima geração de videogames!"
 date: 2014-05-01 19:00
 author: felipebbarbosa
-session: Pecados Gamísticos &#35 01
+session: Pecados Gamísticos 
 categories: games jogando
 redirect_from: /jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html
 tags:

@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Tomb Raider (PS3)"
 date: 2013-03-29 19:00
 author: felipebbarbosa
-session: Game Over &#35 04
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2013/03/29/analise-tomb-raider-ps3.html
 tags:

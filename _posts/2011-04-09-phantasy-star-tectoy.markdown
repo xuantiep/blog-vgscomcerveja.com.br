@@ -3,7 +3,7 @@ layout: post
 title: "Phantasy Star (Master System)"
 date: 2011-04-09 19:00
 author: felipebbarbosa
-session: Mosca Branca &#35 01
+session: Mosca Branca 
 categories: games colecionando
 redirect_from: /colecionando/mosca-branca/2011/04/09/phantasy-star-tectoy.html
 tags: [sega, master-system, tectoy, serie-mosca-branca]

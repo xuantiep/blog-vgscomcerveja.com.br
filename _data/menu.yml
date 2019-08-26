@@ -22,14 +22,12 @@
       url: /listas
     - title: Utilidade Pública
       url: /utilidade-publica
-- title: Séries do Blog
+- title: Colunas
   subitems:
     - title: Caçadores de Troféus
       url: /cacadores-de-trofeus
     - title: Cervejando
       url: /cervejando
-    - title: Drops
-      url: /drops
     - title: Edição de Colecionador
       url: /edicao-colecionador
     - title: Faça Você Mesmo

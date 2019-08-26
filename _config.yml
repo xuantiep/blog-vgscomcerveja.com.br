@@ -28,16 +28,9 @@ defaults:
 #  - "/js/vcc.js"
 
 pages_to_cache:
-  - "/colecionando/"
-  - "/jogando/"
   - "/loja/"
-  - "/noticias/"
   - "/parceiros/"
   - "/sobre/"
-  - "/microsoft/"
-  - "/nintendo/"
-  - "/sega/"
-  - "/sony/"
   - "/offline/index.html"
 
 sass:

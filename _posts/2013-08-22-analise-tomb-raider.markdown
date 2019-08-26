@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Tomb Raider (PS1)"
 date: 2013-08-22 19:00
 author: felipebbarbosa
-session: Game Over &#35 09
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2013/08/22/analise-tomb-raider-ps1.html
 tags:

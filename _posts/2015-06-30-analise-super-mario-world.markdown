@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Super Mario World (Super Nintendo)"
 date: 2015-06-30 19:00
 author: felipebbarbosa
-session: Game Over &#35 24
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2015/06/30/analise-super-mario-world-snes.html
 tags: [snes, nintendo, mario, categoria-analise, serie-game-over]

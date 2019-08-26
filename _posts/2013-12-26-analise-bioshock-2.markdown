@@ -3,7 +3,7 @@ layout: post
 title: "Análise - BioShock 2 (Xbox 360)"
 date: 2013-12-26 19:00
 author: felipebbarbosa
-session: Game Over &#35 13
+session: Game Over 
 categories: games jogando
 redirect_from: /jogando/analise/2013/12/26/analise-bioshock-2-xbox-360.html
 tags: [microsoft, xbox-360, categoria-analise, serie-game-over]
