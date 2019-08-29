@@ -27,22 +27,35 @@
             </a>
             <ul class="submenu">
               {% for sub in nav.subitems %}
-                <li><a href="{{ sub.url | prepend: site.baseurl }}">{{ sub.title }}</a></li>
+                <li>
+                  <a href="{{ sub.url | prepend: site.baseurl }}">
+                    {% if sub.logo %}
+                      <img src="{{ sub.logo }}" width="130px">
+                    {% else %}
+                      {{ sub.title }}
+                    {% endif %}
+                  </a>
+                </li>
               {% endfor %}
             </ul>
           </li>
         {% else %}
           <li>
             <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.title }}">
-
               <span class="nav-link-title nav-link-title-without-sub nav-hide">
                 {{ nav.title }}
               </span>
-
             </a>
           </li>
         {% endif %}
       {% endfor %}
+      <span class="social-links">
+        {% for socialLink in site.data.social_links %}
+          <li>
+            <a class="{{ socialLink.classe }}" href="{{ socialLink.url | prepend: site.baseurl }}" title="{{ socialLink.title }}"></a>
+          </li>
+        {% endfor %}
+      </span>
     </ul>
   </nav>
 

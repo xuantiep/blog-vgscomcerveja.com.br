@@ -1,0 +1,15 @@
+- title: Twitter
+  url: https://www.twitter.com/vgscomcerveja
+  classe: icon-twitter
+
+- title: Facebook
+  url: https://www.facebook.com/vgscomcerveja
+  classe: icon-facebook
+
+- title: Instagram
+  url: https://www.instagram.com/vgscomcerveja
+  classe: icon-instagram
+
+- title: Feed RSS
+  url: http://feeds.feedburner.com/VideogamesComCerveja
+  classe: icon-rss

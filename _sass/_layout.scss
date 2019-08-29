@@ -27,15 +27,12 @@
       position: relative;
       display: inline;
       padding: 15px 10px 11px;
-    }
 
-    li.submenu-link {
-      padding: 15px 10px 11px 20px;
-    }
-
-    li a {
-      color: gray;
-      margin: 0 auto;
+      a {
+        color: gray;
+        margin: 0 auto;
+        padding: 0 !important;
+      }
     }
 
     li:hover {
@@ -56,28 +53,29 @@
       position: absolute;
       top: 54px;
       left: 0;
-      background-color: $vcc-color-escuro;
+      background-color: white;
       z-index: 1000;
       display: none;
       padding: 0;
       margin: 0;
-      width: 200px;
-      color: #fff;
+      width: 150px;
+      color: gray;
       font-size: 0.85em;
+      border: 1px solid #ececec;
     }
 
     .submenu li {
       display: block;
-      padding: 10px 20px;
+      padding: 10px 20px !important;
       text-align: left;
 
       a {
-        color: white;
+        color: gray;
       }
     }
 
     .submenu li:hover {
-      background-color: $vcc-color;
+      background-color: #cacaca;
       border: 0;
     }
   }
@@ -129,11 +127,12 @@
 
     .site-nav {
       position: fixed;
-      width: 250px;
-      top: 60px;
+      width: 100%;
+      top: 59px;
       right: 0;
       bottom: 0;
-      background-color: gray;
+      background-color: white;
+      padding: 10px;
       overflow-x: auto;
       z-index: 3;
       -webkit-transition: all 500ms ease;
@@ -153,9 +152,11 @@
 
         padding: 0 !important;
         text-align: left;
+        font-variant: small-caps;
+        text-transform: lowercase;
 
         a {
-          color: #fff;
+          color: gray;
           margin: 0px;
           padding: 15px 10px 16px 20px;
           display: block;
@@ -167,24 +168,42 @@
         }
       }
 
+      li:hover {
+        background-color: white;
+        border: 0;
+      }
+
+      .social-links {
+        margin-top: 10px;
+        display: flex;
+        justify-content: center;
+      }
+
       .nav-hide {
         display: inline;
       }
 
-      li:hover {
-        background-color: #ccc;
+      .submenu {
+        display: block;
+        width: 100%;
         border: 0;
-      }
 
-      li:hover .submenu {
-        display: none;
-      }
-    }
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
 
-    .submenu {
-      top: 50px;
-      border: 0;
-      width: 100%;
+        position: initial;
+
+        li {
+          display: inline-flex;
+          font-variant: normal;
+          text-transform: none;
+        }
+
+        li:hover {
+          background-color: white;
+        }
+      }
     }
 
     .control-nav {
@@ -274,7 +293,7 @@
 
   @media (max-width: $on-palm) {
     padding: 0;
-    margin-top: 60px;
+    margin: 60px 0 0 0;
   }
 
   .main-wrapper {
@@ -726,6 +745,12 @@
 
   img {
     margin-bottom: 10px;
+  }
+
+  .tag-logo {
+    margin: 20px 0;
+    max-height: 120px;
+    max-width: 380px;
   }
 }
 
