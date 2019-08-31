@@ -1,9 +1,11 @@
-- title: Start
+- slug: start
+  title: Start
   url: /
   classe: icon-home
   showtitle: false
 
-- title: Categorias
+- slug: categorias
+  title: Categorias
   subitems:
     - title: Análises
       url: /analises
@@ -18,14 +20,15 @@
     - title: Utilidade Pública
       url: /utilidade-publica
 
-- title: Colunas / Séries
+- slug: series
+  title: Colunas / Séries
   subitems:
     - title: Caçadores de Troféus
       url: /cacadores-de-trofeus
       logo: /imgs/tags/cacadores-de-trofeus.png
-    - title: Cervejando
-      url: /cervejando
-      logo: /imgs/tags/cervejando.png
+    #    - title: Cervejando
+    #      url: /cervejando
+    #      logo: /imgs/tags/cervejando.png
     - title: Edição de Colecionador
       url: /edicao-colecionador
       logo: /imgs/tags/edicao-colecionador.png
@@ -50,6 +53,6 @@
     - title: VCC Recomenda!
       url: /vcc-recomenda
       logo: /imgs/tags/vcc-recomenda.png
-    - title: Videogames em Latas
-      url: /videogames-em-latas
-      logo: /imgs/tags/vgs-em-latas.png
+#    - title: Videogames em Latas
+#      url: /videogames-em-latas
+#      logo: /imgs/tags/vgs-em-latas.png

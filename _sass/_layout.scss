@@ -54,7 +54,7 @@
 
     .submenu {
       position: absolute;
-      top: 55px;
+      top: 54px;
       left: 0;
       background-color: white;
       z-index: 1000;
@@ -755,6 +755,12 @@
     margin: 20px 0;
     max-height: 120px;
     max-width: 360px;
+  }
+
+  p {
+    text-transform: none;
+    font-variant: normal;
+    font-weight: normal;
   }
 }
 
