@@ -4,7 +4,8 @@ title: "MeMe - O Que Você Jogou Em 2014?"
 date: 2015-01-02 19:00
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
+categories: games jogando
+redirect_from: /jogando/especiais/2015/01/02/meme-o-que-voce-jogou-em-2014.html
 tags:
   [
     microsoft,
@@ -17,7 +18,7 @@ tags:
     nintendo,
     wii,
     need-for-speed,
-    especial,
+    categoria-especial,
     meme-oqvj,
   ]
 games:

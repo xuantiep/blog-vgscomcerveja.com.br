@@ -4,7 +4,8 @@ title: "MeMe - O Que Você Jogou em 2016?"
 date: 2017-01-08 20:00
 author: felipebbarbosa
 session: Especial
-categories: jogando especiais
+categories: games jogando
+redirect_from: /jogando/especiais/2017/01/08/meme-o-que-voce-jogou-em-2016.html
 tags:
   [
     sony,
@@ -23,7 +24,7 @@ tags:
     xbox,
     microsoft,
     ps2,
-    especial,
+    categoria-especial,
     meme-oqvj,
   ]
 games:

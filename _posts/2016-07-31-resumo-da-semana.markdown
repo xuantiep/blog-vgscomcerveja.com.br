@@ -3,9 +3,20 @@ layout: post
 title: "Resumo da Semana - Nintendo NX e Jogos Grátis.. "
 date: 2016-07-31 21:00
 author: felipebbarbosa
-session: Drops &#35 17
-categories: noticias
-tags: [nintendo, ps4, tomb-raider, microsoft, games-with-gold, sony, ps-plus]
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2016/07/31/resumo-da-semana.html
+tags:
+  [
+    nintendo,
+    ps4,
+    tomb-raider,
+    microsoft,
+    games-with-gold,
+    sony,
+    ps-plus,
+    categoria-noticias,
+  ]
 games: [life-is-strange, rise-of-the-tomb-raider]
 thumbnail: /imgs/posts/news/18_resumo11/post_thumbnail.jpg
 cover: /imgs/posts/news/18_resumo11/post_header.jpg

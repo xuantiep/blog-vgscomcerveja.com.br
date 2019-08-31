@@ -3,8 +3,9 @@ layout: post
 title: "Meus pecados gamísticos da sétima geração de videogames!"
 date: 2014-05-01 19:00
 author: felipebbarbosa
-session: Toplist &#35 01 - Pecados Gamísticos &#35 01
-categories: jogando toplist
+session: Pecados Gamísticos 
+categories: games jogando
+redirect_from: /jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html
 tags:
   [
     sony,
@@ -15,9 +16,8 @@ tags:
     wii,
     indie,
     zelda,
-    lists,
-    toplist,
-    pecados-gamisticos,
+    categoria-lista,
+    serie-pecados-gamisticos,
   ]
 games:
   [
@@ -34,7 +34,7 @@ games:
     new-super-mario,
     super-mario-galaxy,
   ]
-related: pecados-gamisticos
+related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_header.jpg
 ---

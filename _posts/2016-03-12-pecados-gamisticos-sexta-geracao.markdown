@@ -3,8 +3,9 @@ layout: post
 title: "Meus pecados gamísticos da sexta geração de videogames!"
 date: 2016-03-12 19:00
 author: felipebbarbosa
-session: Toplist &#35 05 - Pecados Gamísticos &#35 02
-categories: jogando toplist
+session: Pecados Gamísticos 
+categories: games jogando
+redirect_from: /jogando/toplist/2016/03/12/pecados-gamisticos-sexta-geracao.html
 tags:
   [
     sega,
@@ -15,9 +16,8 @@ tags:
     game-cube,
     microsoft,
     xbox,
-    lists,
-    toplist,
-    pecados-gamisticos,
+    categoria-lista,
+    serie-pecados-gamisticos,
   ]
 games:
   [
@@ -33,7 +33,7 @@ games:
     silent-hill-2,
     silent-hill-3,
   ]
-related: pecados-gamisticos
+related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_header.jpg
 ---

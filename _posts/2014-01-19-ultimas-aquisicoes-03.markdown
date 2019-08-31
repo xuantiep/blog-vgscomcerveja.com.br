@@ -4,7 +4,8 @@ title: "Últimas Aquisições #03"
 date: 2014-01-19 19:00
 author: felipebbarbosa
 session: Coleção Pessoal
-categories: colecionando colecao-pessoal
+categories: games colecionando
+redirect_from: /colecionando/colecao-pessoal/2014/01/19/ultimas-aquisicoes-03.html
 tags:
   [
     tomb-raider,
@@ -20,7 +21,7 @@ tags:
     tectoy,
     master-system,
     xbox-360,
-    colecao-pessoal,
+    categoria-colecao-pessoal,
   ]
 games:
   [

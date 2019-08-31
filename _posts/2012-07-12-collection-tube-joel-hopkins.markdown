@@ -3,8 +3,9 @@ layout: post
 title: "Joel Hopkins, Colecionador Australiano de Games"
 date: 2012-07-12 19:00
 author: felipebbarbosa
-session: Collection Tube &#35 04
-categories: colecionando collection-tube
+session: Collection Tube 
+categories: games colecionando
+redirect_from: /colecionando/collection-tube/2012/07/12/collection-tube-joel-hopkins.html
 tags: [sega, mega-drive]
 games: [tetris]
 thumbnail: /imgs/posts/collection_tube/04_joel_hopkins/post_thumbnail.jpg

@@ -3,8 +3,9 @@ layout: post
 title: "Meus pecados gamísticos da quinta geração de videogames!"
 date: 2017-08-17 22:00
 author: felipebbarbosa
-session: Toplist &#35 08 - Pecados Gamísticos &#35 03
-categories: jogando toplist
+session: Pecados Gamísticos 
+categories: games jogando
+redirect_from: /jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html
 tags:
   [
     saturn,
@@ -17,11 +18,10 @@ tags:
     donkey-kong,
     mario,
     tomb-raider,
-    lists,
-    toplist,
-    pecados-gamisticos,
+    categoria-lista,
+    serie-pecados-gamisticos,
   ]
-related: pecados-gamisticos
+related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg
 cover: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_header.jpg
 ---

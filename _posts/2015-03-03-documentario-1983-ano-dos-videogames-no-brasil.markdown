@@ -3,9 +3,10 @@ layout: post
 title: "Documentário quer contar o início da história do videogames no Brasil"
 date: 2015-03-03 19:00
 author: felipebbarbosa
-session: Drops &#35 08
-categories: noticias
-tags: [livros]
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2015/03/03/documentario-1983-ano-dos-videogames-no-brasil.html
+tags: [livros, categoria-noticias]
 thumbnail: /imgs/posts/news/09_documentario_1983/post_thumbnail.jpg
 cover: /imgs/posts/news/09_documentario_1983/post_header.jpg
 ---

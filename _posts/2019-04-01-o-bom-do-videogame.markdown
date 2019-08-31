@@ -3,9 +3,10 @@ layout: post
 title: "O Bom do Videogame"
 date: 2019-04-01 08:00
 author: felipebbarbosa
-session: Drops &#35 27
-categories: noticias
-tags: []
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2019/04/01/o-bom-do-videogame.html
+tags: [categoria-noticias]
 thumbnail: /imgs/posts/news/28_bom_do_videogame/thumbnail.jpg
 cover: /imgs/posts/news/28_bom_do_videogame/header.jpg
 ---

@@ -247,6 +247,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-gist
   jekyll-paginate
+  jekyll-redirect-from
   wdm
 
 BUNDLED WITH

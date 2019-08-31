@@ -3,11 +3,12 @@ layout: post
 title: "Uncharted 2: Among Thieves Fortune Hunter Edition"
 date: 2015-01-14 19:00
 author: felipebbarbosa
-session: Edição de Colecionador &#35 03
-categories: colecionando edicao-colecionador
-tags: [sony, ps3, naughty-dog, uncharted, edicao-colecionador]
+session: Edição de Colecionador 
+categories: games colecionando
+redirect_from: /colecionando/edicao-colecionador/2015/01/14/uncharted-2-among-thieves-fortune-hunter-edition.html
+tags: [sony, ps3, naughty-dog, uncharted, serie-edicao-colecionador]
 games: [uncharted-2]
-related: edicao-colecionador
+related: serie-edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/03_uncharted2/post_thumbnail.jpg
 cover: /imgs/posts/ed_colecionador/03_uncharted2/post_header.jpg
 ---

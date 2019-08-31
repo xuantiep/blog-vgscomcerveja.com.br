@@ -3,9 +3,10 @@ layout: post
 title: "Microsoft lançará edição limitada do Xbox One para celebrar o aniversário do Palmeiras"
 date: 2017-02-06 21:00
 author: felipebbarbosa
-session: Drops &#35 25
-categories: noticias
-tags: [microsoft, xbox-one]
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2017/02/06/xbox-one-palmeiras.html
+tags: [microsoft, xbox-one, categoria-noticias]
 thumbnail: /imgs/posts/news/26_xbox_palmeiras/post_thumbnail.jpg
 cover: /imgs/posts/news/26_xbox_palmeiras/post_header.jpg
 ---

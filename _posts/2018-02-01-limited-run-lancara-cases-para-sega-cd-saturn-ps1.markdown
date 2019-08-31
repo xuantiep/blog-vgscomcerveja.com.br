@@ -3,9 +3,10 @@ layout: post
 title: "Limited Run fabricará novas cases de acrílico para seus jogos de Sega CD, Saturn e PS1"
 date: 2018-02-01 23:00
 author: felipebbarbosa
-session: Drops &#35 26
-categories: noticias
-tags: [sega, saturn, sega-cd, ps1, limitedrun]
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2018/02/01/limited-run-lancara-cases-para-sega-cd-saturn-ps1.html
+tags: [sega, saturn, sega-cd, ps1, limitedrun, categoria-noticias]
 thumbnail: /imgs/posts/news/27_cases/post_thumbnail.jpg
 cover: /imgs/posts/news/27_cases/post_header.jpg
 ---

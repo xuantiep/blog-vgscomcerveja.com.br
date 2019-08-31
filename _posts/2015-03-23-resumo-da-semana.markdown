@@ -3,9 +3,10 @@ layout: post
 title: "Resumo da Semana - Novidades da Nintendo; Filme Pixels; Bloodborne; Hideo Kojima; God of War e mais.. "
 date: 2015-03-23 19:00
 author: felipebbarbosa
-session: Drops &#35 11
-categories: noticias
-tags: [nintendo, god-of-war, kojima]
+session: Drops
+categories: games noticias
+redirect_from: /noticias/2015/03/23/resumo-da-semana.html
+tags: [nintendo, god-of-war, kojima, categoria-noticias]
 games: [god-of-war-3, bloodborne]
 thumbnail: /imgs/posts/news/12_resumo06/post_thumbnail.jpg
 cover: /imgs/posts/news/12_resumo06/post_header.jpg
