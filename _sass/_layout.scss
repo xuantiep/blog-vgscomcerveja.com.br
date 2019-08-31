@@ -21,23 +21,26 @@
     ul {
       text-align: center;
       list-style: none;
+      margin: 0;
     }
 
     li {
       position: relative;
-      display: inline;
-      padding: 15px 10px 11px;
+      display: inline-block;
+      padding: 15px 10px 10px;
 
       a {
         color: gray;
         margin: 0 auto;
-        padding: 0 !important;
       }
+    }
+
+    li.has-submenu {
+      padding-left: 18px;
     }
 
     li:hover {
       background-color: #f0f0f0;
-      border-bottom: 4px solid $vcc-color;
       color: $vcc-color;
     }
 
@@ -51,14 +54,14 @@
 
     .submenu {
       position: absolute;
-      top: 54px;
+      top: 55px;
       left: 0;
       background-color: white;
       z-index: 1000;
       display: none;
       padding: 0;
       margin: 0;
-      width: 150px;
+      width: 100%;
       color: gray;
       font-size: 0.85em;
       border: 1px solid #ececec;
@@ -150,7 +153,6 @@
       li {
         display: block;
 
-        padding: 0 !important;
         text-align: left;
         font-variant: small-caps;
         text-transform: lowercase;
@@ -158,11 +160,10 @@
         a {
           color: gray;
           margin: 0px;
-          padding: 15px 10px 16px 20px;
           display: block;
           width: 100%;
-          height: 100%;
         }
+
         .icon-angle-down {
           display: none;
         }
@@ -198,6 +199,9 @@
           display: inline-flex;
           font-variant: normal;
           text-transform: none;
+          width: 160px;
+          padding: 10px 5px !important;
+          text-align: center;
         }
 
         li:hover {
@@ -750,7 +754,7 @@
   .tag-logo {
     margin: 20px 0;
     max-height: 120px;
-    max-width: 380px;
+    max-width: 360px;
   }
 }
 

@@ -20,10 +20,9 @@
     <ul>
       {% for nav in site.data.menu %}
         {% if nav.subitems != null %}
-          <li class="submenu-link">
-            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}"
-                title="{{ nav.title }}">
-              <span class="nav-link-title">{{ nav.title }}</span><span class="icon-angle-down">
+          <li class="has-submenu">
+            <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.title }}">
+              <span>{{ nav.title }}</span><span class="icon-angle-down">
             </a>
             <ul class="submenu">
               {% for sub in nav.subitems %}
@@ -42,7 +41,7 @@
         {% else %}
           <li>
             <a class="{{ nav.classe }}" href="{{ nav.url | prepend: site.baseurl }}" title="{{ nav.title }}">
-              <span class="nav-link-title nav-link-title-without-sub nav-hide">
+              <span class="nav-hide">
                 {{ nav.title }}
               </span>
             </a>
