@@ -17,6 +17,8 @@ tags:
     tomb-raider,
     sony,
     categoria-lista,
+    categoria-especial,
+    categoria-noticias,
   ]
 games:
   [
