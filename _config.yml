@@ -9,6 +9,10 @@ url: "https://www.vgscomcerveja.com.br"
 twitter_username: vgscomcerveja
 github_username: felipebbarbosa
 
+enable_disqus: true
+enable_analytics: true
+enable_googleads: true
+
 # Build settings
 markdown: kramdown
 
