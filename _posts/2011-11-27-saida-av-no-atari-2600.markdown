@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coloquei saída A/V no meu Atari 2600 Polyvox"
+title: "Colocando saída A/V no Atari 2600 (Polyvox)"
 date: 2011-11-27 19:00
 author: felipebbarbosa
 session: Faça Você Mesmo
