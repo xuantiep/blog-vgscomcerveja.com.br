@@ -45,7 +45,7 @@
     }
 
     li:hover .submenu {
-      display: block;
+      display: flex;
     }
 
     .nav-hide {
@@ -54,23 +54,26 @@
 
     .submenu {
       position: absolute;
-      top: 50px;
+      top: 45px;
       left: 0;
       background-color: white;
       z-index: 1000;
       display: none;
       padding: 0;
       margin: 0;
-      width: 100%;
+      width: 690px;
       color: gray;
       font-size: 0.85em;
       border: 1px solid #ececec;
+      justify-content: center;
+      flex-wrap: wrap;
     }
 
     .submenu li {
-      display: block;
+      display: inline-block;
       padding: 10px 20px !important;
-      text-align: left;
+      text-align: center;
+      /*width: 100%;*/
 
       a {
         color: gray;
