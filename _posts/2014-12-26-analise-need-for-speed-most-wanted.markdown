@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Need for Speed: Most Wanted (PS3)"
 date: 2014-12-26 19:00
 author: felipebbarbosa
-session: VCC Racing // Game Over 
+session: VCC Racing // Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html
 tags:
@@ -23,7 +23,7 @@ thumbnail: /imgs/posts/game_over/21_nfs_most_wanted/post_thumbnail.jpg
 cover: /imgs/posts/game_over/21_nfs_most_wanted/post_header.jpg
 ---
 
-Eaí, como passou o Natal? Espero que bem! Bom, vou falar de um jogo que quase desisti no ano passado (2013) quando comecei a jogá-lo, não sei exatamente o motivo, mas algo não em agradou na época. Porém, resolvi dar uma segunda chance ao jogo e descobri que é um jogo muito bom!
+Eaí, como passou o Natal? Espero que bem! Bom, vou falar de um jogo que quase desisti no ano passado (2013) quando comecei a jogá-lo, não sei exatamente o motivo, mas algo não em agradou na época. Porém, resolvi dar uma segunda chance ao jogo e descobri que é um jogo muito bom, muito bom mesmo!
 
 <!--more-->
 
@@ -33,9 +33,9 @@ Lançado em 2012 pela **Electronic Arts**, **NFS: Most Wanted** é uma espécie 
 
 {% include youtubePlayer.html id='IpGS1K9mLPQ' %}
 
-O jogo se passa na fictícia cidade **Fairhaven** e você é um corredor de rua ainda desconhecido que tem toda uma cidade para explorar (sim, o jogo é de mundo aberto/sandbox) e sua principal missão é derrotar os dez corredores mais procurados da cidade, e se tornar o _Most Wanted_ (o mais procurado, em português). Porém, você só pode enfrentar cada um desses corredores quando tiver reputação suficiente (_Speed Points_), ou seja, você terá que ganhar várias corridas antes de enfrentá-los!
+O jogo se passa na fictícia cidade **Fairhaven** e você é um corredor de rua ainda desconhecido que tem toda uma cidade para explorar e sua principal missão é derrotar os dez corredores mais procurados da cidade, e se tornar o _Most Wanted_. Porém, você só pode enfrentar cada um desses corredores quando tiver reputação suficiente (_Speed Points_), ou seja, você terá que ganhar várias corridas antes de enfrentá-los!
 
-Por falar em corridas, elas são eletrizantes, bem ao estilo de _Hot Pursuit_, onde um simples vacilo te custará a vitória, tornando o jogo mais empolgante (ou não! :P). Há vários tipos de corridas, ou melhor, eventos:
+Por falar em corridas, elas são eletrizantes, bem ao estilo de _Hot Pursuit_, onde um simples vacilo te custará a vitória, tornando o jogo mais empolgante. Há vários tipos de corridas, ou melhor, eventos:
 
 - **Sprint Race** - Corridas de um ponto ao outro com ou sem policiais;
 - **Circuit Race** - Corridas em um circuito pré-determinado, também com ou sem policiais;
@@ -76,11 +76,17 @@ Mas o grande barato do jogo é o sistema **Autolog** que registra seus recordes,
 
 Para os caçadores de troféus, _Most Wanted_ não é difícil de conseguir a platina, no meu caso, os troféus mais chatos foram o _Nothing Personal_ e o _Mix Master_, que dependiam de um amigo para ganhá-los e como o jogo já é um pouquinho antigo, não tinha nenhum jogando no momento, então tive que recorrer aos _boosts_ do site [MyPST](http://www.mypst.com.br)! É por isso que não gosto de troféus online! :P
 
-Tirando os onlines, que são apenas quatro, o mais chatinho é o _Second is Nothing_, onde você tem que chegar em primeiro em todos os eventos, ou seja, você tem que ganhar as 61 corridas!
+Tirando os onlines (que são apenas quatro), o mais chatinho é o _Second is Nothing_, onde você tem que chegar em primeiro em todos os eventos, ou seja, você tem que ganhar as 61 corridas, entretanto, como dito anteriormente, não é necessário correr todas as corridas com todos os carros, pois algumas corridas se repetem com carros diferentes, ou seja, se você ganhou um evento com determinado carro, não precisa vencer novamente com outro carro para contar para o troféu! Veja a lista de todos os eventos:
+
+{% include image.html
+  url="/imgs/posts/game_over/21_nfs_most_wanted/nfs-most-wanted-all-racings.jpg"
+  description="Lista de todas as corridas e os níveis de dificuldade para cada carro" %}
+
+Além disso, há os troféus de colecionáveis (radares, outdoors, jack spots e grades de seguranças) que recomendo usar [este mapa interativo](http://nfsmw.shinedalgarno.de/) onde você pode ir marcando quais você já conseguiu!
 
 ## Resumindo
 
-O jogo é excelente! Recomendo para os fãs de um bom jogo de corrida _arcade_, onde não exige que o jogador tenha que se preocupar em ajustar ou até mesmo pilotar o carro com precisão. O jogo é muito divertido e empolgante, a **Criterion** acertou mais uma vez!
+O jogo é excelente! Recomendo para os fãs de um bom jogo de corrida _arcade_. O jogo é muito divertido e empolgante, a **Criterion** acertou mais uma vez!
 
 {% include ficha.html
   titulo='Need for Speed: Most Wanted'
