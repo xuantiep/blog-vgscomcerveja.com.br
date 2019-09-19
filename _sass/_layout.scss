@@ -81,7 +81,10 @@
     }
 
     .submenu li:hover {
-      background-color: #cacaca;
+      a {
+        color: orange;
+      }
+      background: inherit;
       border: 0;
     }
   }
@@ -120,12 +123,80 @@
   transform: translate(0, 0);
 }
 
+/**
+ * Cabeçalho pequeno
+ */
+.site-header.smaller {
+  position: fixed;
+  width: 100%;
+  background-color: $vcc-color;
+  border-bottom: 4px solid $vcc-color-escuro;
+  height: 60px;
+  top: 0;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .site-nav {
+    position: relative;
+    float: right;
+    width: auto;
+
+    ul {
+      margin: 0;
+    }
+
+    li {
+      position: relative;
+      display: inline;
+
+      a {
+        color: white;
+      }
+
+      .submenu-link {
+        padding-bottom: 16px;
+      }
+    }
+
+    li:hover {
+      background: inherit;
+    }
+  }
+
+  .submenu {
+    left: auto;
+    right: 0;
+
+    li a {
+      color: gray;
+    }
+
+    li:hover {
+      background-color: inherit;
+      border: 0;
+    }
+  }
+}
+
+#header-logo.smaller #logo-pequeno {
+  display: block;
+  float: left;
+  width: 300px;
+  margin: 8px 10px 2px;
+}
+
+#header-logo.smaller #logo-grande {
+  display: none;
+}
+
 /*
  * Cabeçalho on mobile devices
  */
 @media screen and (max-width: $on-palm) {
   .site-header {
-    position: absolute;
+    position: fixed;
     top: 0;
     width: 100%;
     background-color: $vcc-color;
