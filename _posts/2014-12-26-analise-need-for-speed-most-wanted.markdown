@@ -17,7 +17,6 @@ tags:
     serie-game-over,
     serie-vcc-racing,
   ]
-games: [need-for-speed-most-wanted]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/21_nfs_most_wanted/post_thumbnail.jpg
 cover: /imgs/posts/game_over/21_nfs_most_wanted/post_header.jpg

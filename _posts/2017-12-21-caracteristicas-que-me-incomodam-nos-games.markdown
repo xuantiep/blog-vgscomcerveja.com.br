@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Proseando
 categories: games jogando
 redirect_from: /jogando/2017/12/21/5-caracteristicas-que-me-incomodam-nos-games.html
-tags: [categoria-lista, categoria-especial, serie-proseando]
+tags: [categoria-lista, serie-proseando]
 thumbnail: /imgs/posts/toplist/10_caracteristicas_chatas/post_thumbnail.jpg
 cover: /imgs/posts/toplist/10_caracteristicas_chatas/post_header.jpg
 ---

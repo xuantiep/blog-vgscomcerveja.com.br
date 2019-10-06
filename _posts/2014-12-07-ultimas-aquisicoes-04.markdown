@@ -25,15 +25,6 @@ tags:
     metal-gear-solid,
     categoria-colecao-pessoal,
   ]
-games:
-  [
-    bonkers,
-    sonic,
-    castle-of-illusion,
-    god-of-war-ascension,
-    plants-vs-zombies,
-    metal-gear-solid-v,
-  ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/18_aquisicoes04/post_thumbnail.jpg
 cover: /imgs/posts/colecao/18_aquisicoes04/post_header.jpg

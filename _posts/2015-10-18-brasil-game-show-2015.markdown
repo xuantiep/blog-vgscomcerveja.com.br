@@ -3,10 +3,10 @@ layout: post
 title: "Brasil Game Show 2015"
 date: 2015-10-18 19:00
 author: felipebbarbosa
-session: Especial
+session: Proseando
 categories: games jogando
 redirect_from: /jogando/especiais/2015/10/18/brasil-game-show-2015.html
-tags: [bgs, e3, sony, microsoft, categoria-especial]
+tags: [bgs, e3, sony, microsoft, categoria-especial, serie-proseando]
 related: e3
 thumbnail: /imgs/posts/especial/02_bgs2015/post_thumbnail.jpg
 cover: /imgs/posts/especial/02_bgs2015/post_header.jpg

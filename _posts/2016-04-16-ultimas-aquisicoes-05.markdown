@@ -26,19 +26,6 @@ tags:
     ps4,
     categoria-colecao-pessoal,
   ]
-games:
-  [
-    eye-of-judgment,
-    super-mario-world-2,
-    goldeneye-007,
-    streets-of-rage-2,
-    tomb-raider-legend,
-    tomb-raider-anniversary,
-    silent-hill-shattered-memories,
-    soul-reaver,
-    deep-duck-trouble,
-    fallout-4,
-  ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/19_aquisicoes05/post_thumbnail.jpg
 cover: /imgs/posts/colecao/19_aquisicoes05/post_header.jpg

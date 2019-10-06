@@ -16,7 +16,6 @@ tags:
     categoria-utilidade-publica,
     serie-game-db,
   ]
-games: [phantasy-star, ultima-iv]
 related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_header.jpg

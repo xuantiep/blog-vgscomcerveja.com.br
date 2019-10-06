@@ -3,11 +3,10 @@ layout: post
 title: "Análise - The Last of Us: Left Behind (PS3)"
 date: 2014-03-09 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2014/03/09/analise-the-last-of-us-left-behind-dlc-ps3.html
 tags: [sony, ps3, naughty-dog, categoria-analise, serie-game-over]
-games: [the-last-of-us]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_thumbnail.jpg
 cover: /imgs/posts/game_over/16_the_last_of_us_left_behind/post_header.jpg

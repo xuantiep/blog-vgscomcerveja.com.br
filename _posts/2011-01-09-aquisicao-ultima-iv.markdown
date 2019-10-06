@@ -7,7 +7,6 @@ session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/01/09/aquisicao-ultima-iv.html
 tags: [sega, master-system, tectoy, categoria-colecao-pessoal]
-games: [ultima-iv]
 thumbnail: /imgs/posts/colecao/08_ultima_iv/post_thumbnail.jpg
 cover: /imgs/posts/colecao/08_ultima_iv/post_header.jpg
 ---

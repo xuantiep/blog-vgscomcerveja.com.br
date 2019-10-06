@@ -11,10 +11,11 @@ tags:
     sony,
     ps3,
     complete-lists,
+    categoria-lista,
     categoria-utilidade-publica,
     serie-cacadores-trofeus,
   ]
-related: trofeus
+related: serie-cacadores-trofeus
 thumbnail: /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/08_jogos_ps3_sem_trofeus/post_header.jpg
 ---

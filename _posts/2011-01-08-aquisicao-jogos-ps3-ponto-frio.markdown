@@ -7,7 +7,6 @@ session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/01/08/aquisicao-jogos-ps3-ponto-frio.html
 tags: [sony, ps3, categoria-colecao-pessoal]
-games: [medal-of-honor, motorstorm]
 thumbnail: /imgs/posts/colecao/07_jogos_ps3/post_thumbnail.jpg
 cover: /imgs/posts/colecao/07_jogos_ps3/post_header.jpg
 ---

@@ -3,12 +3,11 @@ layout: post
 title: "MeMe - O Que Você Jogou em 2017?"
 date: 2018-01-07 20:45
 author: felipebbarbosa
-session: Especial
+session: Proseando // Especial
 categories: games jogando
 redirect_from: /jogando/especiais/2018/01/07/meme-o-que-voce-jogou-em-2017.html
 tags:
   [
-    categoria-especial,
     android,
     nintendo,
     game-cube,
@@ -25,6 +24,9 @@ tags:
     gran-turismo,
     indie,
     meme-oqvj,
+    categoria-especial,
+    categoria-lista,
+    serie-proseando,
   ]
 related: meme-oqvj
 thumbnail: /imgs/posts/especial/05_meme2017/thumbnail.jpg

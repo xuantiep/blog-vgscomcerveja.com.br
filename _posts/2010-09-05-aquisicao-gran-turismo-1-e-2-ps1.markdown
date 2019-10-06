@@ -7,7 +7,6 @@ session: VCC Racing // Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2010/09/05/aquisicao-gran-turismo-1-e-2-ps1.html
 tags: [sony, ps1, gran-turismo, categoria-colecao-pessoal, serie-vcc-racing]
-games: [gran-turismo, gran-turismo-2]
 thumbnail: /imgs/posts/colecao/03_gran_turismo/post_thumbnail.jpg
 cover: /imgs/posts/colecao/03_gran_turismo/post_header.jpg
 ---

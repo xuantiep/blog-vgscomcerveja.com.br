@@ -3,7 +3,7 @@ layout: post
 title: "Meus pecados gamísticos da sétima geração de videogames!"
 date: 2014-05-01 19:00
 author: felipebbarbosa
-session: Pecados Gamísticos 
+session: Proseando // Pecados Gamísticos
 categories: games jogando
 redirect_from: /jogando/toplist/2014/05/01/pecados-gamisticos-setima-geracao.html
 tags:
@@ -18,21 +18,7 @@ tags:
     zelda,
     categoria-lista,
     serie-pecados-gamisticos,
-  ]
-games:
-  [
-    journey,
-    braid,
-    world-goo,
-    heavy-rain,
-    red-dead-redemption,
-    portal,
-    zelda-skyward-sword,
-    fallout-3,
-    fallout-new-vegas,
-    gears-of-war,
-    new-super-mario,
-    super-mario-galaxy,
+    serie-proseando,
   ]
 related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/01_pecados_gamisticos_7a_geracao/post_thumbnail.jpg

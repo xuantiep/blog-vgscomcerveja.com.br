@@ -3,7 +3,7 @@ layout: post
 title: "10 jogos que marcaram minha infância"
 date: 2014-08-13 19:00
 author: felipebbarbosa
-session: VCC Recomenda!
+session: Proseando
 categories: games jogando
 redirect_from: /jogando/toplist/2014/08/13/dez-jogos-que-marcaram-minha-infancia.html
 tags:
@@ -19,19 +19,7 @@ tags:
     metal-gear-solid,
     gran-turismo,
     categoria-lista,
-    serie-vcc-recomenda,
-  ]
-games:
-  [
-    megamania,
-    sonic,
-    double-dragon,
-    super-mario-world,
-    donkey-kong-country-2,
-    tomb-raider-3,
-    metal-gear-solid,
-    resident-evil-3,
-    gran-turismo,
+    serie-proseando,
   ]
 thumbnail: /imgs/posts/toplist/02_jogos_infancia/post_thumbnail.jpg
 cover: /imgs/posts/toplist/02_jogos_infancia/post_header.jpg
@@ -42,6 +30,7 @@ Dias atrás vi um post de um amigo no grupo de Master System no Facebook cujo a 
 <!--more-->
 
 ## Megamania
+
 ##### Atari 2600
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/megamania.jpg" %}
@@ -51,6 +40,7 @@ Recentemente eu achei uma foto datada com a ano de 1987 - mesmo ano que nasci - 
 Bom, e o primeiro jogo que me vem à cabeça é o excelente **Megamania** da **Activision**, adoro esse jogo! Lembro de passar várias horas jogando, porém não conseguia chegar muito longe, acho que raramente passava da primeira rodada, onde volta aos primeiros "discos voadores" só que com cores, movimentos e velocidades diferentes.
 
 ## Sonic The Hedgehog
+
 ##### Master System
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/sonic.jpg" %}
@@ -60,6 +50,7 @@ Depois do Atari, nosso segundo videogame foi o Master, **Master System III Compa
 Para mim, esse jogo é um dos melhores jogos do console e gosto demais dele, mas depois conseguimos outros jogos, as vezes eu o odiava, pois toda hora que colocavámos uma fita (sim, sempre chamei de fita e não de cartucho) e não funcionava, lá vinha o Sonic com seu dedinho balançando negativamente! ^^
 
 ## Double Dragon
+
 ##### Master System
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/double-dragon.jpg" %}
@@ -69,6 +60,7 @@ Desde que ganhamos o Master, minha irmã queria a fita do **Double Dragon**, poi
 Tenho ótimas lembranças de eu e meus irmãos (somos em três) jogando. Porém, este jogo era muito difícil, dava trabalho para chegar na quarta fase e, passávemos muita raiva, quando chegavamos no último chefão e acabava nossas vidas e dava _Game Over_, a gente desconhecia aquele truque que dava vidas extras na quarta fase! Mas mesmo assim, acho que conseguimos terminá-lo na época!
 
 ## Super Mario World
+
 ##### Super Nintendo
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/super-mario-world.jpg" %}
@@ -80,6 +72,7 @@ Mas enfim, **Super Mario World** foi a nossa primeira fita e compramos de uma lo
 Quando chegamos no lugar, minha lembrança é de um lugar meio escuro com pilhas e pilhas de jogos (para uma criança deveria ser), porém, só levamos o Mario mesmo. Mas ele foi o suficiente para nos manter ocupado por muito tempo! Chegamos a zerar ele na época, mas estou com uma vontade grande de jogá-lo novamente de início ao fim, quem sabe fazer as 96 saídas? :)
 
 ## Donkey Kong Country 2
+
 ##### Super Nintendo
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/donkey-kong-country2.jpg" %}
@@ -87,13 +80,15 @@ Quando chegamos no lugar, minha lembrança é de um lugar meio escuro com pilhas
 A maior lembrança que tenho deste jogo é da época que eu e meu primo éramos bastante amigos, praticamente todo final de semana dormíamos um na casa do outro, até fazíamos catequese na mesma sala! Ele tinha um **Mega Drive** e eu um **Super Nintendo**. E num destes finais de semana, alugamos o recém lançado **Donkey Kong Country 2**, jogamos por várias horas, mas chegou uma hora que fomos forçados a parar, pois tínhamos que estudar para uma prova de catequese que iria ter no Domingo de manhã. Porém, quando chegamos na aula, o catequista disse que iria adiar a prova para outra semana, ficamos muitos putos, pois não conseguimos finalizar o jogo antes de devolver! :D
 
 ## Sonic The Hedgehog
+
 ##### Mega Drive
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/sonic_mega-drive.jpg" %}
 
 Este jogo me marcou mesmo não possuindo um **Mega Drive** em casa, pois como citei acima, meu primo tinha um Mega e a gente sempre jogava na casa dele. Eu gostava demais, pois ficava impressionado com a qualidade dos gráficos (e com a quantidade de argolas que o Sonic perdia quando tocava em um inimigo) em relação ao Sonic do Master System. Não tem como jogá-lo sem recordar desta época!
 
-## Tomb Raider III 
+## Tomb Raider III
+
 ##### PlayStation
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/tomb-raider3.jpg" %}
@@ -103,6 +98,7 @@ Chegamos à era 32-bit! Mas eu ainda nem tinha meu **PlayStation** quando comece
 Na época, eu cheguei a terminar os três últimos jogos da série e em cada um deles eu tenho uma recordação marcante, mas o terceiro marcou mais pois, praticamente terminamos em co-op (se é que isso é possível).
 
 ## Gran Turismo
+
 ##### PlayStation
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/gran-turismo.jpg" %}
@@ -114,6 +110,7 @@ Conhecia GT através de uma demo que vinha no **CD Interactive** que meu amigo t
 Este conceito só foi quebrado tempos depois com o **Need for Speed: Underground** no PC, onde voltei a jogar outro jogo de corrida que não seja GT. :)
 
 ## Power Rangers: Lightspeed Rescue e Time Force
+
 ##### PlayStation
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/power-rangers.jpg" %}
@@ -121,6 +118,7 @@ Este conceito só foi quebrado tempos depois com o **Need for Speed: Underground
 Em segundo lugar estão dois jogos, pois não tem como separá-los! Minha lembrança deles é de algumas tardes que passei junto com um outro amigo jogando em co-op. Começamos pelo **Lightspeed Rescue** e após zerar, já emendamos no **Time Force**. Este amigo é muito fã de _Tokusatsus_, e mesmo sabendo que Power Rangers é uma porcaria porque a Saban estragou os _sentais_ japoneses, a gente jogava mesmo assim, era bem divertido! Tempo bom que não volta mais!
 
 ## Metal Gear Solid
+
 ##### PlayStation
 
 {% include image.html url="/imgs/posts/toplist/02_jogos_infancia/metal-gear-solid.jpg" %}

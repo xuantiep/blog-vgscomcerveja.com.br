@@ -3,7 +3,7 @@ layout: post
 title: "MeMe - O Que Você Jogou Em 2015?"
 date: 2016-01-03 19:00
 author: felipebbarbosa
-session: Especial
+session: Proseando // Especial
 categories: games jogando
 redirect_from: /jogando/especiais/2016/01/03/meme-o-que-voce-jogou-em-2015.html
 tags:
@@ -25,29 +25,9 @@ tags:
     master-system,
     sega,
     sonic,
-    categoria-especial,
     meme-oqvj,
-  ]
-games:
-  [
-    super-mario-world,
-    forza-horizon-2,
-    need-for-speed-most-wanted,
-    conkers-bad-fur-day,
-    assassins-creed,
-    uncharted-golden-abyss,
-    metal-gear-solid-v,
-    guacamelee,
-    resident-evil,
-    gran-turismo-6,
-    jurassic-the-hunted,
-    sonic,
-    cars-2,
-    fat-princess,
-    rise-of-the-tomb-raider,
-    terminator-salvation,
-    enslaved,
-    uncharted,
+    categoria-especial,
+    serie-proseando,
   ]
 related: meme-oqvj
 thumbnail: /imgs/posts/especial/03_meme2015/post_thumbnail.jpg

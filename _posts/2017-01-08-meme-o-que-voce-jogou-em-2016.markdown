@@ -3,7 +3,7 @@ layout: post
 title: "MeMe - O Que Você Jogou em 2016?"
 date: 2017-01-08 20:00
 author: felipebbarbosa
-session: Especial
+session: Proseando // Especial
 categories: games jogando
 redirect_from: /jogando/especiais/2017/01/08/meme-o-que-voce-jogou-em-2016.html
 tags:
@@ -24,36 +24,10 @@ tags:
     xbox,
     microsoft,
     ps2,
-    categoria-especial,
     meme-oqvj,
-  ]
-games:
-  [
-    uncharted-2,
-    uncharted-3,
-    lara-croft-go,
-    horizon-chase,
-    house-of-the-dead-overkill,
-    jurassic-park,
-    resident-evil,
-    sound-shapes,
-    the-order-1886,
-    metal-gear-solid-v,
-    uncharted-4,
-    guitar-hero-live,
-    the-walking-dead,
-    the-walking-dead-2,
-    grim-fandango,
-    gone-home,
-    cloudy-with-chance-meatballs,
-    need-for-speed,
-    donkey-kong-country,
-    dino-crisis-3,
-    silent-hill-2,
-    donkey-kong-country-returns,
-    hitman-go,
-    the-last-guardian,
-    goof-troop,
+    categoria-lista,
+    categoria-especial,
+    serie-proseando,
   ]
 related: meme-oqvj
 thumbnail: /imgs/posts/especial/04_meme2016/thumbnail.jpg

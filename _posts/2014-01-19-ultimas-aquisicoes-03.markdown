@@ -23,19 +23,6 @@ tags:
     xbox-360,
     categoria-colecao-pessoal,
   ]
-games:
-  [
-    tomb-raider,
-    resident-evil,
-    resident-evil-2,
-    resident-evil-3,
-    gran-turismo-6,
-    new-super-mario,
-    gears-of-war-2,
-    pica-pau,
-    street-fighter-2,
-    gears-of-war-judgement,
-  ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/17_aquisicoes03/post_thumbnail.jpg
 cover: /imgs/posts/colecao/17_aquisicoes03/post_header.jpg

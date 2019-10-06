@@ -3,10 +3,10 @@ layout: post
 title: "Conheça a série 'Paralelos'"
 date: 2016-11-09 17:00
 author: felipebbarbosa
-session: Drops
+session: VCC Recomenda! // Drops
 categories: games noticias
 redirect_from: /noticias/2016/11/09/conheca-serie-paralelos.html
-tags: [mercado-brasileiro, tectoy, categoria-noticias]
+tags: [mercado-brasileiro, tectoy, categoria-noticias, serie-vcc-recomenda]
 thumbnail: /imgs/posts/news/25_serie_paralelos/post_thumbnail.jpg
 cover: /imgs/posts/news/25_serie_paralelos/post_header.jpg
 ---

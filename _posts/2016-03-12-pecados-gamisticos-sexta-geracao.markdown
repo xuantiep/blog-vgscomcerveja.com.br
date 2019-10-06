@@ -3,7 +3,7 @@ layout: post
 title: "Meus pecados gamísticos da sexta geração de videogames!"
 date: 2016-03-12 19:00
 author: felipebbarbosa
-session: Pecados Gamísticos 
+session: Proseando // Pecados Gamísticos
 categories: games jogando
 redirect_from: /jogando/toplist/2016/03/12/pecados-gamisticos-sexta-geracao.html
 tags:
@@ -18,20 +18,7 @@ tags:
     xbox,
     categoria-lista,
     serie-pecados-gamisticos,
-  ]
-games:
-  [
-    tomb-raider-the-angel-of-darkness,
-    sonic-adventure,
-    the-legend-of-zelda,
-    super-mario-sunshine,
-    resident-evil,
-    resident-evil-zero,
-    god-of-war-2,
-    luigi-mansion,
-    kingdom-hearts,
-    silent-hill-2,
-    silent-hill-3,
+    serie-proseando,
   ]
 related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/post_thumbnail.jpg

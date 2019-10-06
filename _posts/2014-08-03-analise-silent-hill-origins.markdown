@@ -3,11 +3,10 @@ layout: post
 title: "Análise - Silent Hill: Origins (PSP)"
 date: 2014-08-03 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2014/08/03/analise-silent-hill-origins-psp.html
 tags: [sony, psp, silent-hill, konami, categoria-analise, serie-game-over]
-games: [silent-hill-origins]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/18_silent_hill_origins/post_thumbnail.jpg
 cover: /imgs/posts/game_over/18_silent_hill_origins/post_header.jpg

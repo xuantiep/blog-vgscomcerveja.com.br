@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Resumo da Semana - Nintendo NX e Jogos Grátis.. "
+title: "Resumo da Semana - Nintendo NX e Jogos Grátis.."
 date: 2016-07-31 21:00
 author: felipebbarbosa
 session: Drops
@@ -17,7 +17,6 @@ tags:
     ps-plus,
     categoria-noticias,
   ]
-games: [life-is-strange, rise-of-the-tomb-raider]
 thumbnail: /imgs/posts/news/18_resumo11/post_thumbnail.jpg
 cover: /imgs/posts/news/18_resumo11/post_header.jpg
 ---

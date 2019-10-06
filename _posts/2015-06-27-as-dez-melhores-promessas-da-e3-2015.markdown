@@ -20,19 +20,6 @@ tags:
     categoria-especial,
     categoria-noticias,
   ]
-games:
-  [
-    forza-6,
-    need-for-speed,
-    gears-of-war-4,
-    kingdom-hearts-3,
-    fallout-4,
-    shenmue-3,
-    final-fantasy-7,
-    the-last-guardian,
-    rise-of-the-tomb-raider,
-    uncharted-4,
-  ]
 related: e3
 thumbnail: /imgs/posts/toplist/04_melhores_e3_2015/post_thumbnail.jpg
 cover: /imgs/posts/toplist/04_melhores_e3_2015/post_header.jpg

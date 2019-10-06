@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Metal Gear Solid: The Twin Snakes (GC)"
 date: 2013-06-02 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2013/06/02/analise-metal-gear-solid-the-twin-snakes-gamecube.html
 tags:
@@ -17,7 +17,6 @@ tags:
     categoria-analise,
     serie-game-over,
   ]
-games: [metal-gear-solid-the-twin-snakes]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/06_mgs_twin_snakes/post_thumbnail.jpg
 cover: /imgs/posts/game_over/06_mgs_twin_snakes/post_header.jpg

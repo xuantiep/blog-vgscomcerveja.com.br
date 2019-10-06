@@ -7,7 +7,6 @@ session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2012/09/04/aquisicao-sonic-blast-master-system.html
 tags: [sega, tectoy, master-system, sonic, categoria-colecao-pessoal]
-games: [sonic-blast]
 thumbnail: /imgs/posts/colecao/14_sonic_blast/post_thumbnail.jpg
 cover: /imgs/posts/colecao/14_sonic_blast/post_header.jpg
 ---

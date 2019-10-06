@@ -7,7 +7,6 @@ session: Drops
 categories: games noticias
 redirect_from: /noticias/2015/01/11/resumo-da-semana.html
 tags: [nintendo, razer, resident-evil, nes, android, categoria-noticias]
-games: [resident-evil, stadium-events, grim-fandango]
 thumbnail: /imgs/posts/news/08_resumo03/post_thumbnail.jpg
 cover: /imgs/posts/news/08_resumo03/post_header.jpg
 ---

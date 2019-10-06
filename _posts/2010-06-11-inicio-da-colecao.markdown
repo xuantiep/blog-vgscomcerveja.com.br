@@ -19,7 +19,6 @@ tags:
     sega,
     categoria-colecao-pessoal,
   ]
-games: [phantasy-star, ultima-iv, metal-gear-solid]
 thumbnail: /imgs/posts/colecao/01_inicio/post_thumbnail.jpg
 cover: /imgs/posts/colecao/01_inicio/post_header.jpg
 ---

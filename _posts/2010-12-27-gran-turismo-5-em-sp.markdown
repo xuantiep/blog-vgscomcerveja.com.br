@@ -7,7 +7,6 @@ session: VCC Racing // Drops
 categories: games noticias
 redirect_from: /noticias/2010/12/27/gran-turismo-5-em-sp.html
 tags: [sony, ps3, categoria-noticias, serie-vcc-racing]
-games: [gran-turismo-5]
 thumbnail: /imgs/posts/news/01_gt5_sp/post_thumbnail.jpg
 cover: /imgs/posts/news/01_gt5_sp/post_header.jpg
 ---

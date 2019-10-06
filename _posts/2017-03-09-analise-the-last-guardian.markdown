@@ -3,11 +3,10 @@ layout: post
 title: "Análise - The Last Guardian (PS4)"
 date: 2017-03-09 20:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2017/03/09/analise-the-last-guardian.html
 tags: [sony, ps4, categoria-analise, serie-game-over]
-games: [the-last-guardian]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/36_the_last_guardian/post_thumbnail.jpg
 cover: /imgs/posts/game_over/36_the_last_guardian/post_header.jpg

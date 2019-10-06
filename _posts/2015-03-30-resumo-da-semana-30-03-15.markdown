@@ -16,7 +16,6 @@ tags:
     xbox-live,
     categoria-noticias,
   ]
-games: [batman-arkham-knight, halo-5, forza-horizon-2]
 thumbnail: /imgs/posts/news/13_resumo07/post_thumbnail.jpg
 cover: /imgs/posts/news/13_resumo07/post_header.jpg
 ---

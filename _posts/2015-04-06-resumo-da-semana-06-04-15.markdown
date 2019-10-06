@@ -16,7 +16,6 @@ tags:
     kojima,
     categoria-noticias,
   ]
-games: [assassins-creed-chronicles]
 thumbnail: /imgs/posts/news/14_resumo08/post_thumbnail.jpg
 cover: /imgs/posts/news/14_resumo08/post_header.jpg
 ---

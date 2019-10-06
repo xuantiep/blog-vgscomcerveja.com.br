@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Need for Speed: The Run (PS3)"
 date: 2013-03-16 19:00
 author: felipebbarbosa
-session: VCC Racing // Game Over 
+session: VCC Racing // Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2013/03/16/analise-need-for-speed-the-run-ps3.html
 tags:
@@ -17,7 +17,6 @@ tags:
     serie-game-over,
     serie-vcc-racing,
   ]
-games: [need-for-speed-the-run]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/03_nfs_the_run/post_thumbnail.jpg
 cover: /imgs/posts/game_over/03_nfs_the_run/post_header.jpg

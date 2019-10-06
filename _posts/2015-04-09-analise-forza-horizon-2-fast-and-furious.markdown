@@ -3,12 +3,11 @@ layout: post
 title: "Análise - Forza Horizon 2: Fast & Furious (Xbox 360)"
 date: 2015-04-09 19:00
 author: felipebbarbosa
-session: VCC Racing // Game Over 
+session: VCC Racing // Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2015/04/09/analise-forza-horizon-2-fast-and-furious-xbox-360.html
 tags:
   [microsoft, xbox-360, categoria-analise, serie-game-over, serie-vcc-racing]
-games: [forza-horizon-2]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/23_forza_horizon2_fast_furious/post_thumbnail.jpg
 cover: /imgs/posts/game_over/23_forza_horizon2_fast_furious/post_header.jpg

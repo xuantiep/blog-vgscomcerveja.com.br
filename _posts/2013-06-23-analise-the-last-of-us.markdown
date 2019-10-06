@@ -3,11 +3,10 @@ layout: post
 title: "Análise - The Last of Us (PS3)"
 date: 2013-06-23 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2013/06/23/analise-the-last-of-us-ps3.html
 tags: [sony, ps3, naughty-dog, categoria-analise, serie-game-over]
-games: [the-last-of-us]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/07_the_last_of_us/post_thumbnail.jpg
 cover: /imgs/posts/game_over/07_the_last_of_us/post_header.jpg

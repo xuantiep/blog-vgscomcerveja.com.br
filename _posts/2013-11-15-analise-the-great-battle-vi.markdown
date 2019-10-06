@@ -3,11 +3,10 @@ layout: post
 title: "Análise - The Great Battle VI (PS1)"
 date: 2013-11-15 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2013/11/15/analise-the-great-battle-vi-ps1.html
 tags: [sony, ps1, categoria-analise, serie-game-over]
-games: [great-battle-vi]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/12_great_battle_vi/post_thumbnail.jpg
 cover: /imgs/posts/game_over/12_great_battle_vi/post_header.jpg

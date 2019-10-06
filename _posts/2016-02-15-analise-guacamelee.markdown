@@ -3,11 +3,10 @@ layout: post
 title: "Análise - Guacamelee! (PS Vita)"
 date: 2016-02-15 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2016/02/15/analise-guacamelee-psvita.html
 tags: [sony, psvita, drinkbox, categoria-analise, serie-game-over]
-games: [guacamelee]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/27_guacamelee/post_thumbnail.jpg
 cover: /imgs/posts/game_over/27_guacamelee/post_header.jpg

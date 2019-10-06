@@ -3,11 +3,10 @@ layout: post
 title: "Análise - Conker's Bad Fur Day (Nintendo 64)"
 date: 2015-11-11 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2015/11/11/analise-conkers-bad-fur-day-n64.html
 tags: [rare, nintendo, n64, categoria-analise, serie-game-over]
-games: [conkers-bad-fur-day]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/25_conkers_bad_fur_day/post_thumbnail.jpg
 cover: /imgs/posts/game_over/25_conkers_bad_fur_day/post_header.jpg

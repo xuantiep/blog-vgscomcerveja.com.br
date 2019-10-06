@@ -3,7 +3,7 @@ layout: post
 title: "Meus pecados gamísticos da quinta geração de videogames!"
 date: 2017-08-17 22:00
 author: felipebbarbosa
-session: Pecados Gamísticos 
+session: Proseando // Pecados Gamísticos
 categories: games jogando
 redirect_from: /jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html
 tags:
@@ -20,6 +20,7 @@ tags:
     tomb-raider,
     categoria-lista,
     serie-pecados-gamisticos,
+    serie-proseando,
   ]
 related: serie-pecados-gamisticos
 thumbnail: /imgs/posts/toplist/08_pecados_gamisticos_5a_geracao/post_thumbnail.jpg

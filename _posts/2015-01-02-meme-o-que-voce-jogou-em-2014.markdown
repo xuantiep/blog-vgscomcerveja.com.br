@@ -3,7 +3,7 @@ layout: post
 title: "MeMe - O Que Você Jogou Em 2014?"
 date: 2015-01-02 19:00
 author: felipebbarbosa
-session: Especial
+session: Proseando // Especial
 categories: games jogando
 redirect_from: /jogando/especiais/2015/01/02/meme-o-que-voce-jogou-em-2014.html
 tags:
@@ -18,22 +18,10 @@ tags:
     nintendo,
     wii,
     need-for-speed,
-    categoria-especial,
     meme-oqvj,
-  ]
-games:
-  [
-    deadlight,
-    gran-turismo-6,
-    the-last-of-us,
-    spec-ops-the-line,
-    gears-of-war,
-    silent-hill-origins,
-    medal-of-honor,
-    super-mario-galaxy,
-    acdc-rockband,
-    need-for-speed-most-wanted,
-    dead-island,
+    categoria-lista,
+    categoria-especial,
+    serie-proseando,
   ]
 related: meme-oqvj
 thumbnail: /imgs/posts/especial/01_meme2014/post_thumbnail.jpg

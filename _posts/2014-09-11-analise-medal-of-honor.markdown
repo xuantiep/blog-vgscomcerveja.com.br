@@ -3,11 +3,10 @@ layout: post
 title: "Análise - Medal of Honor (PS1)"
 date: 2014-09-11 19:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html
 tags: [sony, ps1, electronic-arts, categoria-analise, serie-game-over]
-games: [medal-of-honor]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/19_medal_of_honor/post_thumbnail.jpg
 cover: /imgs/posts/game_over/19_medal_of_honor/post_header.jpg
