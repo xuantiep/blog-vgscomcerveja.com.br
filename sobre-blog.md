@@ -11,7 +11,7 @@ sitemap:
     lastmod: 2017-10-06T18:40:30-03:00
 ---
 
-**Videogames com Cerveja** é um blog sobre games. (ponto)
+**Videogames com Cerveja** é um blog independente sobre games. (ponto)
 
 Compartilhar experiências e opiniões gamísticas tanto ao jogo em si quanto no colecionismo é o foco principal! Aqui você encontrará recomendações de jogos, notícias selecionadas, curiosidades, dicas de colecionismo e tudo mais que é relacionado ao universo virtual que tanto gostamos! :)
 
