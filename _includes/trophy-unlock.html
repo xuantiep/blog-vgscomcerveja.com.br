@@ -1,0 +1,15 @@
+<div class="trophy-box">
+    <span>
+        {{ include.title }}<br>
+        <small>
+            {% if include.noplatinum %}
+                <img src="/imgs/no-platinum-trophy_small.png" height="16px">
+            {% else %}
+                <img src="/imgs/platinum-trophy_small.png" height="16px">
+            {% endif %} 
+            {{ include.subtitle }}</small>
+    </span>
+    <a href="{{ include.link }}" target="_blank">
+        <img src="/imgs/ps-bottom.png" class="ps-bottom" height="32px">
+    </a>
+</div>

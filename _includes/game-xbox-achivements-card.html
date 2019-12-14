@@ -1,0 +1,45 @@
+<div class="xbox-achivement-card">
+  <img src="{{ include.cover }}" class="game-cover">
+  <div class="game-description">
+    {% if include.dificuldade %}
+      <b>Dificuldade:</b> {{ include.dificuldade }}/5<br>
+    {% endif %}
+    <b>Tempo estimado p/ conclusão:</b> {{ include.tempo }}
+    <br><b>Total de conquistas:</b> {{ include.quantidade }}
+    <br><b>Mínimo de jogadas:</b> {{ include.jogadas }}
+    <br><b>Conquistas online:</b> {{ include.online }}
+    <br><b>Conquistas perdíveis:</b> {{ include.perdiveis }}
+    {% if include.nota %}
+      <br><b>Nota para o jogo:</b> {{ include.nota }}/5
+    {% endif %}
+    {% if include.ondeComprar %}
+      <br><b>Onde encontrar:</b>
+        <a href="{{ include.ondeComprarLink }}" target="_blank">{{ include.ondeComprar }}</a>
+        {% if include.ondeComprarPreco %}
+          por {{ include.ondeComprarPreco }}.
+        {% endif %}
+    {% endif %}
+
+    {% if include.obs %}
+      <br><small>{{ include.obs }}</small>
+    {% endif %}
+
+    {% if include.playstation %}
+      {% capture linkPlayStation %}
+        {{ include.linkPlayStation }}
+      {% endcapture %}
+      {% if include.platinum %}
+        {% include trophy-unlock.html
+            title="Também disponível no PS4!"
+            subtitle="Platina!"
+            link=linkPlayStation %}
+      {% else %}
+        {% include trophy-unlock.html
+            title="Também disponível no PS4!"
+            subtitle="Sem platina!"
+            noplatinum="true"
+            link=linkPlayStation %}
+      {% endif %}
+    {% endif %}
+  </div>
+</div>
