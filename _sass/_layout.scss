@@ -91,7 +91,7 @@
 }
 
 #header-logo #logo-grande {
-  width: 800px;
+  width: 1024px;
   margin-top: 20px;
   -webkit-transition: height 0.3s;
   -moz-transition: height 0.3s;
@@ -951,6 +951,61 @@
     img {
       margin: 2px 5px;
     }
+  }
+}
+
+.trophy-box {
+  float: left;
+  padding: 0;
+  background-color: #ececec;
+  margin: 10px auto;
+  width: 100%;
+  font-size: 0.95em;
+
+  .ps-bottom {
+    float: right;
+    margin: 16px;
+  }
+
+  .ps-bottom:hover {
+    border: 2px solid #284a85;
+    border-radius: 16px;
+  }
+
+  span {
+    float: left;
+    font-weight: 100;
+    font-size: 1.1em;
+    margin: 8px 0 0 10px;
+  }
+
+  small {
+    float: left;
+    margin: 0 0 0 6px;
+
+    img {
+      float: left;
+      margin: 2px 5px 0 0;
+    }
+  }
+}
+
+.xbox-achivement-card {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 10px;
+  float: left;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+
+  .game-cover {
+    width: 140px;
+    margin-right: 10px;
+  }
+
+  .game-description {
+    width: 450px;
   }
 }
 

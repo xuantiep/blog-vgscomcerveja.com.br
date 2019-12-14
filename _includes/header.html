@@ -2,13 +2,14 @@
 
   <div id="header-logo">
     <a class="site-title" href="{{ site.baseurl }}/">
-      <object id="logo-grande" data="{{ '/imgs/logo_verde.svg' | prepend: site.baseurl }}" type="image/svg+xml">
+      <!-- <object id="logo-grande" data="{{ '/imgs/logo_verde.svg' | prepend: site.baseurl }}" type="image/svg+xml"> -->
         <!-- TODO: carregar imagem de fallback -->
-      </object>
+      <!-- </object> -->
+      <img id="logo-grande" src="{{ '/imgs/header.png' | prepend: site.baseurl }}">
 
       <img id="logo-pequeno" src="{{ '/imgs/logo_branco.svg' | prepend: site.baseurl }}"
           onerror="this.src={{ '/imgs/logo-branco.png' | prepend: site.baseurl }}">
-      </object>
+      <!--</object> -->
     </a>
   </div>
 
