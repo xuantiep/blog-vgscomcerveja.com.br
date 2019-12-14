@@ -5,7 +5,7 @@ date: 2019-10-30 22:30
 author: felipebbarbosa
 session: Mosca Branca
 categories: games colecionando
-tags: [sony, ps4, categoria-especial, serie-mosca-branca]
+tags: [sony, ps4, serie-mosca-branca]
 thumbnail: /imgs/posts/mosca_branca/04_poop_slinger/post_thumbnail.jpg
 cover: /imgs/posts/mosca_branca/04_poop_slinger/post_header.jpg
 ---
@@ -22,7 +22,7 @@ Antes de mais nada, **Poop Slinger** é um jogo independente lançado pela [Digg
 
 Bom, a história é mais ou menos a seguinte...
 
-A **Limited Run** é uma empresa que vem fazendo um enorme sucesso no mercado de jogos limitados, onde basicamente, eles fecham acordo com alguma desenvolvedora de jogos *indies* para lançar seus jogos em formato físico numa quantidade extremamente limitadas, algo em torno de 5.000 cópias. Alguns de seus lançamentos fazem tanto sucesso que, simplesmente, esgotam em pouco minutos após seu lançamento. Uma loucura!
+A **Limited Run** é uma empresa que vem fazendo um enorme sucesso no mercado de jogos limitados, onde basicamente, eles fecham acordo com alguma desenvolvedora de jogos _indies_ para lançar seus jogos em formato físico numa quantidade extremamente limitadas, algo em torno de 5.000 cópias. Alguns de seus lançamentos fazem tanto sucesso que, simplesmente, esgotam em pouco minutos após seu lançamento. Uma loucura!
 
 Tentando "morder uma fatia" deste mercado, uma nova empresa chamada **Limited Rare Games** fechou um acordo com a desenvolvedora **Diggidy.net** para lançarem o jogo **Poop Slinger** em mídia física e, como este seria o primeiro lançamento da empresa, todo o investimento dependia de suas vendas, caso contrário, a empresa não teria dinheiro para continuar!
 
@@ -48,7 +48,7 @@ Mas o pior de tudo é que eles não poderiam ter escolhido uma data pior para di
 
 Não deu outra, viralizou na internet! Mas de forma negativa. Pois muita gente desconfiou da veracidade, ainda mais que depois de um certo momento chegou até ao conhecimento da Limited Run, que eles estavam plagiando o logo, que imediatamente negou o envolvimento e disse para eles retirassem o logo do anúncio. Enfim, estava claro que era tudo uma brincadeira ou um grande golpe!
 
-Mas ainda sim, teve "meia dúzia de gato pingado", 84 para ser mais exato, que comprou o jogo. E mesmo sem muitas esperanças de receber algo ou ter o dinheiro de volta. Eis que em um anúncio "oficial" da empresa alegando que estavam fechando as portas após o fracasso de vendas, ela disse que honraria seus clientes. 
+Mas ainda sim, teve "meia dúzia de gato pingado", 84 para ser mais exato, que comprou o jogo. E mesmo sem muitas esperanças de receber algo ou ter o dinheiro de volta. Eis que em um anúncio "oficial" da empresa alegando que estavam fechando as portas após o fracasso de vendas, ela disse que honraria seus clientes.
 
 Dito e feito, algum tempo depois, os compradores começaram a receber sua cópia!
 
