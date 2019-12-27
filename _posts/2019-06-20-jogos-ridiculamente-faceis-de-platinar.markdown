@@ -3,7 +3,7 @@ layout: post
 title: "9 jogos ridiculamente (em ambos os sentidos) fáceis de platinar!"
 date: 2019-06-20 18:30
 author: felipebbarbosa
-session: Caçadores de Troféus 
+session: Caçadores de Troféus
 categories: games jogando
 redirect_from: /jogando/toplist/2019/06/20/9-jogos-ridiculamente-faceis-de-platinar.html
 tags: [sony, ps4, categoria-lista, serie-cacadores-trofeus]
@@ -208,7 +208,7 @@ Ah, o jogo também está disponível para Nintendo 3DS, Android e iOS. Caso tenh
   ondeComprar="PlayStation Store"
   ondeComprarPreco="R$6,50"
   ondeComprarLink="https://store.playstation.com/pt-br/product/UP3825-CUSA11333_00-LITTLEADVENTURE0"
-  obs="O jogo também está disponível para PS Vita e na compra de um, você ganha o outro. E são duas platinas separadas!" %}
+  obs="O jogo também está disponível para PS Vita e são duas platinas separadas!" %}
 
 ---
 

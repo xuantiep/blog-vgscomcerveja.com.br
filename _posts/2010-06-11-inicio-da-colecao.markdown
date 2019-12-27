@@ -23,7 +23,7 @@ thumbnail: /imgs/posts/colecao/01_inicio/post_thumbnail.jpg
 cover: /imgs/posts/colecao/01_inicio/post_header.jpg
 ---
 
-Pois é, não resisti! Comecei a colecionar videogames.
+Pois é, não resisti... Comecei a colecionar videogames!
 
 Sempre fui apaixonado por jogos eletrônicos e sempre tive dó (e sorte de não ter pais que obrigassem) de me desfazer dos meus videogames antigos! Mas agora, todos eles fazem parte da minha coleção! :)
 
@@ -37,7 +37,7 @@ O meu primeiro videogame foi um **Atari 2600** da **Polyvox**, que foi o único 
 
 Depois veio o **Master System III Compact** da **Tectoy** com o _Sonic_ na memória! Este sim, permaneceu com a gente a vida toda, só as caixas e manuais dele e de alguns jogos que foram jogadas fora (provavelmente)!
 
-O próximo foi o **Super Nintendo**, mais tarde o **PlayStation**, o **Game Boy Advance** e por fim o **PlayStation 2**, o último console ganhado dos pais!
+O próximo foi o **Super Nintendo**, mais tarde o **PlayStation**, o **Game Boy Advance** e por fim o **PlayStation 2**, o último console ganhado pelos pais!
 
 Pois bem, agora que comecei a colecionar, descobri que já tenho alguns itens interessantes, como por exemplo, o jogo **Phantasy Star** para **Master System**, o jogo é totalmente em português e está completo com caixa e manual. Tenho também o **Última IV** também para Master System, onde dizem que a versão nacional é um pouco incomum (estou aprendendo ainda), ambos os jogos eu tenho desde a infância e, confesso que não gostava muito deles! rs
 
