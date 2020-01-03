@@ -34,7 +34,7 @@ Outra quase tradição é iniciar o ano jogando um clássico, e não existe nada
 
 Eis o jogo que trouxe de volta a essência da série Resident Evil e que ao mesmo tempo a "revolucionou" trazendo pela primeira vez a visão em primeira pessoa (na série principal, sem contar os spin-offs)! E mesmo tendo ficado com um pé atrás por causa disso, resolvi jogar e me surpreendi no quão bom é o jogo. Esta visão trouxe outra perspectiva e o tornou ainda mais sinistro, onde o suspense e a tensão estão presentes do começo ao fim. Foi uma das melhores experiências de 2018, só não tive a coragem de tentar pegar a platina ainda!
 
-Escrevi sobre ele no [Game Over #40](jogando/analise/2018/12/12/analise-resident-evil-7.html), caso queira dar uma olhada. :)
+Escrevi sobre ele no [Game Over #40](/jogando/analise/2018/12/12/analise-resident-evil-7.html), caso queira dar uma olhada. :)
 
 ## Need for Speed: Payback (PS4)
 

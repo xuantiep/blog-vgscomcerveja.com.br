@@ -12,7 +12,7 @@ thumbnail: /imgs/posts/especial/08_e32019/post_thumbnail.jpg
 cover: /imgs/posts/especial/08_e32019/post_header.jpg
 ---
 
-Apesar da edição deste ano não ter contado com a presença da Sony e não ter sido tão boa quanto a do [ano passado](jogando/especial/2018/06/13/especial-e3-2018.html), a E3 ainda é uma das maiores feiras de videogames do mundo e várias novidades interessantes foram apresentadas! Selecionei algumas das que eu mais gostei...
+Apesar da edição deste ano não ter contado com a presença da Sony e não ter sido tão boa quanto a do [ano passado](/jogando/especial/2018/06/13/especial-e3-2018.html), a E3 ainda é uma das maiores feiras de videogames do mundo e várias novidades interessantes foram apresentadas! Selecionei algumas das que eu mais gostei...
 
 <!--more-->
 

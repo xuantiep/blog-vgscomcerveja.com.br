@@ -102,7 +102,7 @@ No [Game Over 20](/jogando/analise/2014/11/04/analise-acdc-live-rockband-ps3.htm
 
 {% include image.html url="/imgs/posts/especial/01_meme2014/9_need_for_speed_most_wanted.jpg" description="" %}
 
-Me tornei fã da série a partir do **Underground** em 2003, mas joguei os dois _Undergrounds_ e depois abandonei a série novamente, voltando apenas em 2010 com o **Hot Pursuit**, apartir daí, venho jogando tudo e o **Most Wanted** foi o último que joguei antes de partir para o **Rivals**. Confira minha análise dele no [Game Over 21](jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html).
+Me tornei fã da série a partir do **Underground** em 2003, mas joguei os dois _Undergrounds_ e depois abandonei a série novamente, voltando apenas em 2010 com o **Hot Pursuit**, apartir daí, venho jogando tudo e o **Most Wanted** foi o último que joguei antes de partir para o **Rivals**. Confira minha análise dele no [Game Over 21](/jogando/analise/2014/12/26/analise-need-for-speed-most-wanted-ps3.html).
 
 ## Dead Island (Xbox 360)
 
