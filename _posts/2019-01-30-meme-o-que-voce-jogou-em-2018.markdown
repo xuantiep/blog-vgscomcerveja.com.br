@@ -61,9 +61,9 @@ Como ainda não joguei RDR2, achei o prêmio de melhor jogo do ano totalmente me
 {% include image.html
   url="/imgs/posts/especial/07_meme2018/05_goldeneye_007.jpg" %}
 
-Um dos meus [pecados gamísticos da quinta geração](jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html) quase foi redimido. Comecei a jogá-lo, me empolguei, porém ainda não cheguei ao final (o próximo jogo da lista, tomou toda minha empolgação para si).
+Um dos meus [pecados gamísticos da quinta geração](/jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html) quase foi redimido. Comecei a jogá-lo, me empolguei, porém ainda não cheguei ao final (o próximo jogo da lista, tomou toda minha empolgação para si).
 
-Apesar de muitos dizerem que o jogo envelheceu mal, tornando injogável e tudo mais, eu tenho que discordar. Se você pegar para jogar com a mente aberta, você acaba se acostumando com a jogabilidade datada e se diverte tranquilamente com o jogo, que é um clássico absoluto (apesar de ainda achar [Medal of Honor (PS1)](jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html) melhor! :D)
+Apesar de muitos dizerem que o jogo envelheceu mal, tornando injogável e tudo mais, eu tenho que discordar. Se você pegar para jogar com a mente aberta, você acaba se acostumando com a jogabilidade datada e se diverte tranquilamente com o jogo, que é um clássico absoluto (apesar de ainda achar [Medal of Honor (PS1)](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html) melhor! :D)
 
 ## Horizon Chase Turbo (PS4)
 
