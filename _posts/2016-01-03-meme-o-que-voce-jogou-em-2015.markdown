@@ -192,7 +192,7 @@ Dead Nation (PS Vita), Midnight Club: Los Angeles (PS3), Ninja Gaiden Sigma Plus
 
 Eu adoro números e listas, então para finalizar gostaria de compartilhar alguns números referentes ao meu ano gamístico! :)
 
-{% include image.html url="/imgs/posts/especial/03_meme2015/stats_2015.jpg" %}
+{% include image.html url="/imgs/posts/especial/03_meme2015/stats_2015.jpg" full="true" %}
 
 ---
 
