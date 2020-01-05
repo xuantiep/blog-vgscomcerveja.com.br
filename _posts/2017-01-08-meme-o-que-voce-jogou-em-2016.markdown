@@ -286,7 +286,9 @@ Assim como Lara Croft GO, as fases são bem criativas.. vicia! :)
 
 Eu só costumo comprar jogos no lançamento quando o jogo é quase certo que me agradará, como foi o caso de Uncharted 4. Com **The Last Guardian** eu não pretendia fazer isso, mas acabei fazendo, e até agora está sendo um caso de amor e ódio. Eu não sei como explicar, o jogo é lindo, você tem ajudar Trico (aquele cachorro-gato-galinha gigante) a chegar não sei onde ainda, passando por várias ruínas resolvendo _puzzles_ que na maioria das vezes você depende do Trico. Mas o que acontece é que às vezes, o Trico te tira do sério, porque ele simplesmente não faz o que você quer, você tem que praticamente domá-lo, pois ele é um animal selvagem e faz o que bem entende.
 
-Mas se parar para analisar, talvez esta seja a grande sacada do jogo, pois quando você consegue avançar é incrível. Bom, eu ainda não terminei.. quando chegar ao final, ~~pretendo escrever sobre ele por aqui~~ [feito](/post/analise-the-last-guardian)! :)
+Mas se parar para analisar, talvez esta seja a grande sacada do jogo, pois quando você consegue avançar é incrível. ~~Bom, eu ainda não terminei.. quando chegar ao final, pretendo escrever sobre ele por aqui!~~
+
+**ATUALIZAÇÃO:** [Análise - The Last Guardian](/post/analise-the-last-guardian)
 
 ## Goof Troop
 
