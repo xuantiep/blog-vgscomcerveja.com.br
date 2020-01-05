@@ -12,13 +12,13 @@ thumbnail: /imgs/posts/game_over/20_acdc_live/post_thumbnail.jpg
 cover: /imgs/posts/game_over/20_acdc_live/post_header.jpg
 ---
 
-Desde que joguei **Guitar Hero** pela primeira vez no **PlayStation 2** que me tornei fã dos jogos do gênero musical do tipo _"de guitarra"_, porém confesso que sempre joguei de maneira casual e, **AC/DC Live: Rockband Track Pack** é o primeiro que peguei para jogar até o final o modo carreira.
+Desde que joguei **Guitar Hero** pela primeira vez no **PlayStation 2** me tornei fã dos jogos do gênero musical do tipo _"de guitarra"_, porém confesso que sempre joguei de maneira casual e, **AC/DC Live: Rockband Track Pack** é o primeiro que peguei para jogar até o final o modo carreira.
 
 <!--more-->
 
-Lançado em 2008 para PS2, PS3, Nintendo Wii e Xbox 360, este **Rockband** foi desenvolvido pela **Harmonix** e publicado pela **MTV Games** e **EA**. Ele é uma espécie de complemento para os _Rockbands_ originais, inclusive, caso você os tenham, você pode baixar as músicas e incrementar o _setlist_.
+Lançado em 2008 para PS2, PS3, Nintendo Wii e Xbox 360, este **Rockband** foi desenvolvido pela **Harmonix** e publicado pela **MTV Games** e **EA**. Ele é uma espécie de complemento para os _Rockbands_ originais, inclusive, caso você os tenham, você pode baixar as músicas e incrementar o _setlist_ deles.
 
-Por se tratar de um _Track Pack_, o modo carreira dele é bastante simples, porém, deixará fãs da banda **AC/DC** bem satisfeitos. Pois você terá que simplesmente reproduzir a _performace_ da banda no famoso show de 1991 em _Donington Park_. Quando digo reproduzir, digo literalmente, pois até os solos você terá que tocar, muito legal!
+Por se tratar de um _Track Pack_, o modo carreira dele é bastante simples, porém, deixará fãs da banda **AC/DC** bem satisfeitos. Pois você terá que simplesmente reproduzir a _performance_ da banda no famoso show de 1991 em _Donington Park_. Quando digo reproduzir, falo literalmente, pois até os solos você terá que tocar, muito legal!
 
 ## Setlist
 
@@ -53,9 +53,9 @@ Conforme você toca, você é avaliado através da sua barra de desempenho, se v
 
 Agora, se você acertar as notas na sequência sem errar, você irá aumentar o fator de multiplicação dos pontos, podendo chegar até em 4x. E com isso, sua barra de especial também encherá e, quando estiver cheia, você pode usá-la para dobrar seu fator de multiplicação, podendo assim, chegar até em 8x. Isso ajuda muito em partes difíceis, pois você escapa de ficar no vermelho! :)
 
-## Minha Performace
+### Meu desempenho
 
-Eu terminei jogando no _Hard_ com a guitarra, até porque este jogo **não tem suporte para jogar com controle**. Eu jogo neste nível porque assim todas as cinco teclas coloridas são utilizadas, no modo _Normal_, somente quatro teclas são usadas e é bem mais lento o ritmo. No _Hard_ dá para jogar legal! :)
+Eu terminei jogando no _Hard_ com a guitarra, até porque este jogo **não tem suporte para jogar com controle**. Eu jogo neste nível porque assim todas as cinco teclas coloridas são utilizadas, pois no modo _Normal_, somente quatro teclas são usadas e é bem mais lento o ritmo. No _Hard_ dá para jogar legal! :)
 
 {% include image.html url="/imgs/posts/game_over/20_acdc_live/foto2.jpg" %}
 
