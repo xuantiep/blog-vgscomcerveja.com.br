@@ -39,13 +39,17 @@ Depois que comecei a colecionar, comprei um Game Cube em 2012. E recentemente, t
 
 Bom, sendo assim, minha lista de jogos para jogar está cada vez maior, selecionei os dez que mais tenho vontade, confira:
 
-## Tomb Raider: The Angel of Darkness (PS2)
+## Tomb Raider: The Angel of Darkness
+
+##### PlayStation 2
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/tomb-raider-the-angel-darkness.jpg" %}
 
 Mas você não disse que essa lista seria de jogos bons? Tá, **The Angel of Darkness** não é nem de longe o melhor jogo da série, aliás, muito pelo contrário, é considerado o PIOR e quase matou a franquia! Mas eu, como fã da série, me sinto na obrigação de jogá-lo até o final, exatamente por estes motivos! E pretendo fazer isso em breve, me deseje sorte! ^^'
 
-## Série Sonic Aventure (DC)
+## Série Sonic Aventure
+
+##### Dreamcast
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/sonic-adventure.jpg" %}
 
@@ -53,19 +57,25 @@ Minha primeira revista de videogame foi uma Ação Games de 1999, cujo tinha o S
 
 Obs.: Aceito indicações de jogos para Dreamcast! :)
 
-## Série The Legend of Zelda (GC)
+## Série The Legend of Zelda
+
+##### Game Cube
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/zelda.jpg" %}
 
 Acredito que a série **The Legend of Zelda** estará presente em todos os posts da série "Pecados Gamísticos", pois tenho vontade de jogar TODOS! E no Game Cube temos **The Wind Waker** e **Twilight Princess**.
 
-## Super Mario Sunshine (GC)
+## Super Mario Sunshine
+
+##### Game Cube
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/super-mario-sunshine.jpg" %}
 
 Apesar de ouvir muita gente dizer que não é bom, eu joguei um pouco, gostei e pretendo jogar até o final. **Super Mario Sunshine** para alguns foi meio que uma recaída da série por não apresentar muitas inovações, mas acho que foi meio "birra" por não ter sido lançado junto com o lançamento do console, pois foi muito bem recebido pela crítica especializada.
 
-## Resident Evil Zero e Resident Evil (remake) (GC)
+## Resident Evil Zero e Resident Evil
+
+##### Game Cube
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/resident-evil.jpg" %}
 
@@ -75,19 +85,25 @@ Bom, ano passado eu terminei a campanha da Jill no PS1, e recentemente terminei 
 
 E como se não bastasse o _remake_, a Capcom também lançou o **RE: Zero** exclusivamente para GC, e deixou muitos donos de PS2 "putos" (eu, por exemplo)! xD
 
-## God of War II (PS2)
+## God of War II
+
+##### PlayStation 2
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/god-of-war2.jpg" %}
 
 Mas quem precisa de Resident Evil se temos God of War? Essa era, acredito, uma boa resposta dos donos de PS2 na época. Mas como eu sou um pecador, ainda não terminei o segundo, ou seja, não terminei o que é considerado o melhor da série! Que vergonha! :(
 
-## Luigi's Mansion (GC)
+## Luigi's Mansion
+
+##### Game Cube
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/luigis-mansion.jpg" %}
 
 GC dominando a lista! **Luigi's Mansion** é um jogo que só pelo fato de não ser o Mario como protagonista já me deixa com muita curiosidade de jogá-lo! ^^
 
-## Série Kingdom Hearts (PS2)
+## Série Kingdom Hearts
+
+##### PlayStation 2
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/kingdom-hearts.jpg" %}
 
@@ -95,13 +111,17 @@ Jogos de RPG não é o meu gênero favorito, pois exigem muito tempo de dedicaç
 
 Mas alguns jogos me chamam a atenção a ponto de ficar com vontade de jogar, **Kingdom Hearts** é um deles, lembro de ter jogado um pouco e ter gostado bastante na época. Não lembro porque não cheguei no final!
 
-## Série Shenmue (DC / Xbox)
+## Série Shenmue
+
+##### Dreamcast / Xbox
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/shenmue.jpg" %}
 
 Este é considerado por muitos, um dos melhores jogos do DC, e para falar a verdade, não conheço muito sobre a história da série, e nem quero para não ter _spoilers_, mas sei que o jogo teve muitas inovações que mudaram a indústria, só por este fato, tenho que colocar este jogo no "currículo"! :P
 
-## Série Silent Hill (PS2 / Xbox)
+## Série Silent Hill
+
+##### PlayStation 2 / Xbox
 
 {% include image.html url="/imgs/posts/toplist/05_pecados_gamisticos_6a_geracao/silent-hill2.jpg" %}
 

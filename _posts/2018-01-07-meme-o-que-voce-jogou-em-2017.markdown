@@ -41,7 +41,9 @@ Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamís
 
 Confira:
 
-## Dan The Man (Android)
+## Dan The Man
+
+##### Android
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/13_dan-the-man.jpg" %}
 
@@ -53,7 +55,9 @@ seus diversos inimigos, lembrando bastante o **Metal Slug**, porém sem armas! :
 
 Ele é gratuito com propagandas, porém você pode optar por remover as propagandas, comprando!
 
-## Resident Evil (GameCube)
+## Resident Evil
+
+##### Game Cube
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/12_resident-evil.jpg" %}
 
@@ -64,7 +68,9 @@ O jogo conta com a mesma essência do [RE clássico do PS1](/jogando/analise/201
 
 Infelizmente, ainda não consegui termina-lo, meta para este ano! :)
 
-## Severed (PS Vita)
+## Severed
+
+##### PS Vita
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/11_severed.jpg" %}
 
@@ -78,7 +84,9 @@ você tem que adotar uma estratégia diferente de ataque. E pelo incrível que p
 
 Escrevi sobre ele no [Game Over #37](/jogando/analise/2017/05/06/analise-severed.html). ;)
 
-## Horizon Zero Dawn (PS4)
+## Horizon Zero Dawn
+
+##### PlayStation 4
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/10_horizon-zero-dawn.jpg" %}
 
@@ -91,7 +99,9 @@ usando lanças e arcos e flechas, e além do mais, a história é fascinante!
 
 Escrevi sobre ele no [Game Over #38](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html).
 
-## Tomb Raider II (PS1)
+## Tomb Raider II
+
+##### PlayStation
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/09_tomb-raider-2.jpg" %}
 
@@ -102,7 +112,9 @@ Estava indo tudo bem, avançando legal, até que do nada... Perco meu save do [M
 
 Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
 
-## Wonder Boy: The Dragon's Trap (PC)
+## Wonder Boy: The Dragon's Trap
+
+##### PC
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/08_wonder-boy-dragons-trap.jpg" %}
 
@@ -118,7 +130,9 @@ Turma da Mônica de volta ao jogo, que fiz questão de experimentar e ficou real
 
 Ainda não terminei o jogo, meta para este ano! Mas mesmo assim já recomendo o jogo!
 
-## Uncharted: The Lost Legacy (PS4)
+## Uncharted: The Lost Legacy
+
+##### PlayStation 4
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/07_uncharted-lost-legacy.jpg" %}
 
@@ -133,7 +147,9 @@ muito bem contar!
 
 Recomendo! :)
 
-## Brutal Legend (PS3)
+## Brutal Legend
+
+##### PlayStation 3
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/06_brutal-legend.jpg" %}
 
@@ -148,7 +164,9 @@ ser dublado por Jack Black!
 Ah, um detalhe importante, o jogo é produzido por **Tim Schafer** (Double Fine) que foi responsável
 pelos grandes clássicos na época da LucasArts: Full Throttle, Grim Fandango e outros!
 
-## Cuphead (PC)
+## Cuphead
+
+##### PC
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/05_cuphead.jpg" %}
 
@@ -162,7 +180,9 @@ irá te fazer perder as contas de quantas vezes irá morrer para conseguir derro
 
 Altamente recomendado! :)
 
-## Stranger Things: The Game (Android)
+## Stranger Things: The Game
+
+##### Android
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/04_stranger-things.jpg" %}
 
@@ -178,7 +198,9 @@ Cada personagem tem uma habilidade diferente, sendo assim, há áreas e inimigos
 personagem consegue passar. Por ser gratuito, o jogo é bem legal e viciante,
 pois a sensação de progressão e recompensa é rápida, vale cada centavo gasto! :o)
 
-## Gran Turismo Sport (PS4)
+## Gran Turismo Sport
+
+##### PlayStation 4
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/03_gran-turismo-sport.jpg" %}
 
@@ -195,21 +217,25 @@ atrás (não sei se já era previsto) e [lançou os campeonatos offline na atual
 trazendo de volta o jogo a vida, pois apesar de tudo, ele conta com um ótimo visual e uma jogabilidade excelente ao
 nível de um bom GT!
 
-## Doom (PS4)
+## DOOM
+
+##### PlayStation 4
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/02_doom.jpg" %}
 
-Quando todo mundo dizia que este **Doom** estava fantástico, eu não dei muita bola devido ao meu problema
+Quando todo mundo dizia que este **DOOM** estava fantástico, eu não dei muita bola devido ao meu problema
 com jogos FPS ([eles me causam Motion Sickness](/jogando/2017/12/21/5-caracteristicas-que-me-incomodam-nos-games.html)).
 Mas mesmo assim, depois de um tempo, resolvi jogar para ver qual é do jogo..
 
 E olha, me surpreendi, o jogo é tudo que falaram e mais um pouco! Mas o que me deixou mais surpreso é que não passei
 mal com ele, o que é uma luz no fim do túnel! rsrs
 
-Doom é um "senhor" FPS, onde sua adrenalina vai à mil com muita ação frenética e rock pesado.
+DOOM é um "senhor" FPS, onde sua adrenalina vai à mil com muita ação frenética e rock pesado.
 O jogo te incentiva a não ficar parado, sair atirando em tudo o que vê pela frente (porém, com cautelas) é a melhor estratégia!
 
-## Hollow Knight (PC)
+## Hollow Knight
+
+##### PC
 
 {% include image.html url="/imgs/posts/especial/05_meme2017/01_hollow-knight.jpg" %}
 

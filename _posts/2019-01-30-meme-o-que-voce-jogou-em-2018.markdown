@@ -20,25 +20,31 @@ Já é uma tradição, o primeiro post do ano é sempre uma releitura do meu ano
 
 Sem mais delongas, selecionei alguns dos melhores jogos que joguei em ordem cronológica. Confira:
 
-## Metal Gear Solid (PS1)
+## Metal Gear Solid
 
-{% include image.html
+##### PlayStation
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/01_metal_gear_solid.jpg" %}
 
 Outra quase tradição é iniciar o ano jogando um clássico, e não existe nada mais clássico do que esta obra prima do mestre **Hideo Kojima**. Tá, exagerei um pouco, mas é porque quem me conhece, sabe que considero este jogo como sendo o meu favorito de todos os tempos, então não poupo elogios! E apesar dele dispensar de apresentações, ele é um jogo atemporal que merece toda reputação que ele tem. E caso você ainda não tenha jogado, recomendo fortemente!
 
-## Resident Evil VII biohazard (PS4)
+## Resident Evil VII: biohazard
 
-{% include image.html
+##### PlayStation 4
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/02_resident_evil_7.jpg" %}
 
 Eis o jogo que trouxe de volta a essência da série Resident Evil e que ao mesmo tempo a "revolucionou" trazendo pela primeira vez a visão em primeira pessoa (na série principal, sem contar os spin-offs)! E mesmo tendo ficado com um pé atrás por causa disso, resolvi jogar e me surpreendi no quão bom é o jogo. Esta visão trouxe outra perspectiva e o tornou ainda mais sinistro, onde o suspense e a tensão estão presentes do começo ao fim. Foi uma das melhores experiências de 2018, só não tive a coragem de tentar pegar a platina ainda!
 
 Escrevi sobre ele no [Game Over #40](/jogando/analise/2018/12/12/analise-resident-evil-7.html), caso queira dar uma olhada. :)
 
-## Need for Speed: Payback (PS4)
+## Need for Speed: Payback
 
-{% include image.html
+##### PlayStation 4
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/03_nfs_payback.jpg" %}
 
 Eu adoro a série Need for Speed e praticamente todo ano eu jogo um diferente... Você agora deve estar se perguntando: "Sério mesmo, NFS?". Eu sei... Eu sei, mas todo mundo tem aquele jogo ou série que não é muito bem avaliada pela crítica, mas que você adora, não? Pois bem, NFS é um destes casos para mim. :)
@@ -47,27 +53,33 @@ Bom, **NFS: Payback** cumpre muito bem seu papel, sendo um jogo bem divertido e 
 
 Gostei bastante e já finalizei, mas este ano pretendo buscar o troféu de platina dele. ;)
 
-## God of War (PS4)
+## God of War
 
-{% include image.html
+##### PlayStation 4
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/04_god_of_war.jpg" %}
 
 GOTY! A **Santa Monica Studios** conseguiu fazer algo impressionante com a série: Kratos se tornou um personagem bem mais maduro, porém ainda continua brutal como sempre. O sistema de combate ficou mais cadenciado, mas ainda é divertido e desafiador. Os gráficos e a trilha estão impecáveis! Enfim, jogaço!
 
 Como ainda não joguei RDR2, achei o prêmio de melhor jogo do ano totalmente merecido!
 
-## Goldeneye 007 (N64)
+## Goldeneye 007
 
-{% include image.html
+##### Nintendo 64
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/05_goldeneye_007.jpg" %}
 
 Um dos meus [pecados gamísticos da quinta geração](/jogando/toplist/2017/08/17/pecados-gamisticos-quinta-geracao.html) quase foi redimido. Comecei a jogá-lo, me empolguei, porém ainda não cheguei ao final (o próximo jogo da lista, tomou toda minha empolgação para si).
 
 Apesar de muitos dizerem que o jogo envelheceu mal, tornando injogável e tudo mais, eu tenho que discordar. Se você pegar para jogar com a mente aberta, você acaba se acostumando com a jogabilidade datada e se diverte tranquilamente com o jogo, que é um clássico absoluto (apesar de ainda achar [Medal of Honor (PS1)](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html) melhor! :D)
 
-## Horizon Chase Turbo (PS4)
+## Horizon Chase Turbo
 
-{% include image.html
+##### PlayStation 4
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/06_horizon_chase_turbo.jpg" %}
 
 Estava ansioso por esta versão de PS4 desde quando [anunciaram em 2015](http://g1.globo.com/tecnologia/games/brasil-game-show/2015/noticia/2015/10/horizon-chase-game-brasileiro-la-top-gear-sera-lancado-para-ps4.html), pois apesar da versão mobile ser ótima, queria ter a experiência de jogar num console de mesa como era na época do Top Gear...
@@ -78,18 +90,22 @@ Para quem não conhece, **Horizon Chase Turbo** é um game totalmente brasileiro
 
 Se você ainda não jogou, recomendo fortemente. É um excelente jogo, principalmente se estiver procurando um bom jogo para jogar com os amigos em um multiplayer local! O jogo também saiu para PC, Xbox One e Nintendo Switch... além, é claro, das versões mobile para Android e iOS.
 
-## Resident Evil 2 (PS1)
+## Resident Evil 2
 
-{% include image.html
+##### PlayStation
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/07_resident_evil_2.jpg" %}
 
 Provavelmente quando este post sair eu já estarei jogando o remake, pois não irei resistir a tentação de joga-lo no lançamento. Mas como já venho esperando por este remake desde seu anúncio, resolvi dar uma revisitada na sua versão original e... que jogo foda! Ô saudade desta época de PS1... Resident Evil com certeza marcou uma geração de jogadores, tanto que o remake foi clamado por muita gente e que "para nossa alegria" a CAPCOM nos atendeu!
 
 Eu não cheguei a zerar em todos modos de jogo (Claire A, Leon B, Leon A e Claire B), mas já valeu para matar a saudade, pois fazia um certo tempinho que não o jogava.
 
-## NFS: Most Wanted (Xbox 360)
+## Need for Speed: Most Wanted
 
-{% include image.html
+##### Xbox 360
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/08_nfs_most_wanted.jpg" %}
 
 Eu disse acima que adoro a série Need for Speed, certo? Mas tenho que confessar uma coisa, depois do **NFS: Underground 2** (lá em 2004), eu acabei não jogando mais nada da série e só fui retornar no **NFS: Hot Pursuit** (em 2010), pouco tempo depois de ter comprado o PS3. Porém, desde então venho jogando praticamente todos os que saíram.
@@ -98,9 +114,11 @@ Bom, mas porque o Most Wanted? Se você perguntar para os fãs da série "qual �
 
 Logicamente que se você está acostumado com os jogos atuais de corrida, irá estranhar um pouco a jogabilidade e gráficos (ainda mais na versão de Xbox 360 que não é muito bem otimizada e tem algumas quedas na taxa de frames bem nítidas), mas a diversão continua lá! Além disso, ele é um jogo bastante desafiador, pois para se tornar o "Most Wanted" (o mais procurado), você terá que, além de disputar diversas corridas de rua, enfrentar uma série de desafios que envolvem fugas de policiais para ter créditos suficientes para enfrentar o próximo piloto da lista de procurados. E cara, quando a polícia está "irritada" contigo, elas são bem apelonas! :)
 
-## Marvel's Spider-man (PS4)
+## Marvel's Spider-man
 
-{% include image.html
+##### PlayStation 4
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/09_spider_man.jpg" %}
 
 Confesso que não estava dando muita bola para ele desde seu anúncio, mas conforme foi chegando perto do seu lançamento, comecei a ver uns trailer, me empolguei e não resisti, comprei no dia 1! E olha, valeu cada centavo!
@@ -111,25 +129,31 @@ Que jogo divertido! É extramamente prazeroso controlar o cabeça de teia pelas 
   url="/imgs/posts/especial/07_meme2018/spider-man_captura.jpg"
   description="Não disse que o jogo estava bonito? Olha essa captura no pôr-do-sol usando um traje dos quadrinhos clássicos!" %}
 
-## Shadow of the Tomb Raider (PS4)
+## Shadow of the Tomb Raider
 
-{% include image.html
+##### PlayStation 4
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/10_shadow_of_the_tomb_raider.jpg" %}
 
 Independentemente de qualquer crítica que o jogo leva, eu não consigo resistir à uma nova aventura da nossa querida Lara Croft! E este, apesar de desapontar um pouquinho, segue na mesma pegada dos anteriores, porém sem muitas inovações e "charme" do que o reboot foi em 2013, ou seja, está caindo de qualidade. Acho que este foi o mais fraquinho (e curto) desta trilogia.
 
-## Forza Horizon 4 (Xbox One)
+## Forza Horizon 4
 
-{% include image.html
+##### Xbox One
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/11_forza_horizon_4.jpg" %}
 
 Ano passado eu tive a oportunidade de adquirir um Xbox One e a primeira coisa pela qual me apaixonei no console foi o serviço **Game Pass**! A **Microsoft** está de parabéns, porque por um valor de R\$ 29 por mês, você tem acesso a um [acervo bem generoso de jogos bons](https://www.xbox.com/pt-BR/xbox-game-pass/games). Mas o que mais me surpreendeu foi que ela liberou **Forza Horizon 4** para assinantes no dia do lançamento (e fará o mesmo com Crackdown 3 e Gears 5)! Eu achei isso extremamente fantástico! Só por este jogo já valeu a assinatura por alguns meses ou talvez do ano inteiro! rs
 
 FH4 está impressionante, ótimos gráficos, jogabilidade deliciosa, trilha sonora muito boa (tenho várias playlists no Spotify) e me rendeu várias horas de jogo! Imperdível para fãs de jogos de corrida!
 
-## Dead Space (PS3)
+## Dead Space
 
-{% include image.html
+##### PlayStation 3
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/12_dead_space.jpg" %}
 
 Mais um dos meus pecados gamísticos, porém desta vez eu consegui me redimir! Sempre ouvi falar muito bem da série **Dead Space** e nunca tinha dado uma chance ao jogo. Pois bem, resolvi encarar o medo e partir para cima dos "ETs malditos"! rs
@@ -138,9 +162,11 @@ Olha, só posso dizer uma coisa: só estava pendendo tempo em deixá-lo na estan
 
 Pretendo começar o segundo jogo muito em breve!
 
-## Super Mario World 2: Yoshi's Island (SNES)
+## Super Mario World 2: Yoshi's Island
 
-{% include image.html
+##### Super Nintendo
+
+{% include image.html full="true"
   url="/imgs/posts/especial/07_meme2018/13_yoshi_island.jpg" %}
 
 E para fechar o ano, resolvi jogar outro clássico e, bota clássico nisso! **Yoshi's Island** é belíssimo e dispensa muitos comentários! Talvez o único detalhe que incomoda um pouco é o choro do bebê Mario de quando você o perde. Mas isso é fácil de resolver, é só não ser RUIM como eu! hahaha
@@ -161,7 +187,7 @@ Ainda não consegui terminá-lo (mais um pecado gamístico pendente), mas estou 
 
 ---
 
-{% include image.html url="/imgs/posts/especial/07_meme2018/participantes.jpg" %}
+{% include image.html full="true" url="/imgs/posts/especial/07_meme2018/participantes.jpg" %}
 
 Esse post faz do MeMe Gamer "O Que Você Jogou em 2018?", organizado pelo site [MarvoxBrasil](https://marvoxbrasil.wordpress.com). Sendo assim, confira também os posts dos demais participantes:
 
