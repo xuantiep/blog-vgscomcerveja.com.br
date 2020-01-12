@@ -3,7 +3,7 @@ layout: post
 title: "Análise - DOOM (PS4)"
 date: 2018-05-02 21:00
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2018/05/02/analise-doom.html
 tags: [sony, ps4, doom, categoria-analise, serie-game-over]
@@ -19,12 +19,12 @@ me recordo de ter jogado foi o tal de **Blood** da [Monolith Productions](https:
 um dos jogos mais violentos de 1997! Nesta época, eu não tinha muito acesso à jogos, e só joguei
 Blood, por causa da extinta revista **CD Expert**. E além disso, uns dois anos depois, eu ganhei
 o PS1 e conheci [Medal of Honor](/jogando/analise/2014/09/11/analise-medal-of-honor-ps1.html),
-que me fez perder de vez o total interesse por DOOM. Entretanto, sinto uma certa inveja de quem
-vivenciou esta época do nascimento dos jogos de tiro em primeira pessoa.
+que me fez perder de vez o total interesse por DOOM (tecnicamente ultrapassado). Entretanto, sinto uma certa inveja de quem
+vivenciou esta época do nascimento dos jogos de tiro em primeira pessoa, pois gostaria de tê-lo curtido no lançamento!
 
-Mais de 20 anos se passaram desde o lançamento do DOOM clássico e, mesmo sem ter o jogado,
+Mais de 20 anos se passaram desde o lançamento do clássico e, mesmo sem ter o jogado,
 pude sentir o carinho e o capricho que os desenvolvedores tiveram para resgatar a essência da
-série com este reboot.
+série com este _reboot_.
 
 <!--more-->
 
@@ -47,35 +47,35 @@ português brasileiro e conta com uma dublagem excelente!
 
 Entretanto, o grande atrativo do jogo é com certeza sua mecânica quase que perfeita e viciante
 para um jogo de tiro, onde o nível de dificuldade vai subindo progressivamente conforme avança no
-jogo. Você começa sendo apresentado ao seu traje, conhecido como Praetor Suit, a uma pistola de
+jogo. Você começa sendo apresentado ao seu traje, conhecido como _Praetor Suit_, a uma pistola de
 munição infinita e a seu primeiro inimigo. Atire nele sem dó, aí de repente ele começa a piscar
-laranja e você conhece um dos recursos mais viciantes do jogo: a **execução gloriosa** (Glory Kills),
-onde você finaliza o inimigo de forma brutal e violenta com apenas um botão!
+laranja e você conhece um dos recursos mais viciantes do jogo: a **execução gloriosa** (_Glory Kills_),
+onde você finaliza o inimigo de forma violentamente brutal com apenas um botão!
 
 {% include image.html
   url="/imgs/posts/game_over/39_doom/doom_screen2.jpg"
   description="O jogo possui várias referências!" %}
 
 Conforme você avança, a quantidade de inimigos vai aumentando, assim como, seus tamanhos. Porém,
-seu arsenal também aumenta, contando com shotguns (são duas: a combat e a super), metralhadora
+seu arsenal também aumenta, contando com _shotguns_ (são duas: a combat e a super), metralhadora
 giratória, rifle de assalto, arma de plasma, de raio, granadas, serras elétricas, bazucas e
-a mais mortal, desvastadora e famosa BFG9000, onde com apenas um tiro elimina praticamente todos
-inimigos de uma vez. E quase todas elas possuem upgrades que você pode realizar durante o jogo,
+a mais mortal, desvastadora e famosa BFG-9000, onde com apenas um tiro elimina praticamente todos
+inimigos de uma vez. E quase todas elas possuem _upgrades_ que você pode realizar durante o jogo,
 basta encontrar os drones espalhados pelas fases.
 
 Ao todo são 13 fases, todas elas bem trabalhadas e com áreas abertas, onde escondem vários segredos.
-Em cada fase, você tem vários recursos extras que você pode fazer, tais como:
+Em cada fase, você tem vários recursos extras que você pode explorar, tais como:
 
 - **Desafios**: Onde cada fase tem o seu e são algo do tipo: execute "x" inimigos com uma granada,
   faça "x" execuções gloriosas em diabretes e por aí vai;
 - **Testes de runas**: Uma espécie de portal que você encontra na fase e que te transporta para um
-  desvio à parte, como por exemplo, elimitar todos os inimigos da arena em um determinado tempo;
+  desvio à parte, como por exemplo, eliminar todos os inimigos da arena em um determinado tempo;
 - **Drones de campo**: Eles oferecem modificações para suas armas, mas às vezes, estão bem escondidos;
 - **Guardas de Elite**: São guardas que foram mortos em batalha, mas que você consegue retirar o chip
   do traje deles e colocar no seu, melhorando assim seu traje;
 - **Células Argent**: São esferas vermelhas que melhoram sua energia e habilita novos recursos;
-- **Segredos**: Estes são apenas colecionáveis, podendo ser um bonequinho do Doomguy ou áreas escondidas
-  que representam alguma fase clássica do primeiro e segundo DOOM, inclusive com o mesmo visual da
+- **Segredos**: Estes são apenas colecionáveis, podendo ser um bonequinho do _Doomguy_ ou áreas escondidas
+  que representam alguma fase clássica do primeiro e segundo **DOOM**, inclusive com o mesmo visual da
   época, bem legal! :)
 
 {% include image.html
@@ -87,13 +87,12 @@ em nenhum momento percebi alguma lentidão, engasgo ou algo do tipo.
 A [trilha sonora](https://open.spotify.com/album/0KQyC28P9808r0oKKNgHvp) também é fantástica, principalmente
 para aqueles que curtem um som pesado e, com certeza, é ela quem dita a emoção do jogo!
 
-Por fim, além da ótima campanha single player (que só por ela já vale o jogo), tem o modo **SnapMap**,
+Por fim, além da ótima campanha _single player_ (que só por ela já vale o jogo), tem o modo **SnapMap**,
 onde você pode criar seu próprio mapa do jogo. E tem também o modo **Multiplayer**, que não foi
 desenvolvido pela mesma equipe e que acabou deixando um pouco a desejar, mas é divertido para quem
 curte. Eu confesso que nem dei bola para estes modos, só joguei a campanha principal que já valeu e muito!
 
-E é isso! DOOM é um jogo que superou todas minhas expectativas, pois é violento, agressivo e
-extremamente delicioso! Recomendo à todos!
+E é isso! Talvez não tenha consiguido transmitir o quão legal é esse **DOOM**! Ele superou todas minhas expectativas, pois é violento, agressivo e extremamente delicioso! Recomendo à todos!
 
 ---
 
