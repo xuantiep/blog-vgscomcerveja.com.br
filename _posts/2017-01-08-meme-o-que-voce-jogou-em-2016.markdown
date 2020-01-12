@@ -42,7 +42,7 @@ Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamís
 
 Meu ano de 2015 foi encerrado jogando o primeiro jogo da trilogia remasterizada de Uncharted do console recém adquirido, o PS4. Sendo assim, 2016 não poderia ser iniciado de maneira diferente:
 
-## Uncharted 2: Among Thieves Remastered
+## Uncharted 2 (Remastered) {#uncharted-2}
 
 ##### PlayStation 4
 
@@ -50,7 +50,7 @@ Meu ano de 2015 foi encerrado jogando o primeiro jogo da trilogia remasterizada 
 
 O até então melhor jogo da série voltou ainda mais bonito graficamente na coletânea para PS4, mesmo não atingindo todo o poder do console (pois se trata de uma remasterização) o jogo é ótimo e vale muito a pena ser jogado, principalmente aqueles que ainda não conhecem a série. O mesmo vale para...
 
-## Uncharted 3: Drake's Deception Remastered
+## Uncharted 3 (Remastered) {#uncharted-3}
 
 ##### PlayStation 4
 
@@ -60,7 +60,7 @@ O até então melhor jogo da série voltou ainda mais bonito graficamente na col
 
 Leia mais em: [Análise - Uncharted: The Nathan Drake Collection](/jogando/analise/2016/05/05/analise-uncharted-the-nathan-drake-collection-ps4.html)
 
-## Lara Croft GO
+## Lara Croft GO {#lara-croft-go}
 
 ##### Android / PS Vita
 
@@ -72,7 +72,7 @@ Joguei a versão de Android no começo do ano e quando saiu a versão para o PS 
 
 Leia mais em: [Análise - Lara Croft GO](/jogando/analise/2016/12/07/analise-lara-croft-go.html)
 
-## Horizon Chase
+## Horizon Chase {#horizon-chase}
 
 ##### Android
 
@@ -84,7 +84,7 @@ O jogo é nacional e foi desenvolvido pela [Aquiris Game Studio](http://www.aqui
 
 Ainda não terminei o jogo, mas mesmo assim recomendo com toda certeza!
 
-## The House of the Dead: Overkill
+## The House of the Dead: Overkill {#house-dead-overkill}
 
 ##### Wii
 
@@ -94,7 +94,7 @@ Em 2016, resolvi tirar poeira do meu Wii e tomar vergonha na cara e jogar seus j
 
 O jogo tem uma pegada daquelas paródias de filmes de terror dos anos 80. Com bastante humor, ação e uma boa trilha sonora, o jogo te empolga para encher de balas os zumbis! Bem divertido!
 
-## Jurassic Park: The Game
+## Jurassic Park: The Game {#jurassic-park}
 
 ##### PlayStation 3
 
@@ -102,7 +102,7 @@ O jogo tem uma pegada daquelas paródias de filmes de terror dos anos 80. Com ba
 
 2016 também foi o ano que resolvi dar uma chance aos jogos de aventura estilo _point-and-click_, que particularmente não são os meus favoritos! Mas confesso que essa chance só surgiu porque, não sei porque raios, estava empolgado com a temática Jurassic Park, pois tinha acabado de descobrir que existia um livro que deu origem ao filme (sim, eu confesso, desconhecia sua existência). Li o livro, depois assisti os filmes e queria mais.. Daí lembrei que eu tinha esse jogo no meu PS3, resolvi experimentar.. E não é que gostei, ele conta uma história original que ocorre paralalemente à história do filme, bem legal! O jogo é da **Telltale**, uma desenvolvedora que é especialista neste tipo de jogo!
 
-## Resident Evil
+## Resident Evil {#resident-evil}
 
 ##### PlayStation
 
@@ -114,7 +114,7 @@ Meta 2017: terminar o remake de GameCube e depois a versão de PS3/PS4!
 
 **Leia mais:** [Análise - Resident Evil (PS1)](/jogando/analise/2016/03/24/analise-resident-evil-ps1.html)
 
-## Sound Shapes
+## Sound Shapes {#sound-shapes}
 
 ##### PS Vita
 
@@ -124,7 +124,7 @@ Tá, eu confesso.. só dei uma chance à esse jogo por causa dos seus troféus! 
 
 Em tempo ainda, sobre o troféus.. eles não são tão fáceis assim! Para você ter uma ideia, você só consegue o primeiro deles terminando o jogo. Os outros são ganhos quando você termina cada capítulo dos dois modos extras que abrem ao final! Mas sabe porque esse jogo é procurado pelos caçadores de troféus? Simples, ele é _cross-play_ entre o PS Vita, PS3 e PS4, ou seja, você pode começar a jogar em uma plataforma, salvar e continuar em outra. Tá, mas e daí? E daí que o jogo possui sistema de troféus independentes, ou seja, pegou a platina no PS Vita, salve e carregue o save no PS3 e você ganhará outra platina, mesma coisa no PS4. Sendo assim, se você tiver os três videogames, serão três platinas terminando apenas o jogo uma vez! ;)
 
-## The Order 1886
+## The Order 1886 {#the-order-1886}
 
 ##### PlayStation 4
 
@@ -132,7 +132,7 @@ Em tempo ainda, sobre o troféus.. eles não são tão fáceis assim! Para você
 
 Este não joguei por causa dos troféus, mas descobri que tem platina considerada fácil! Bom, o jogo se passa no ano 1886 e você é _Sir Galahad_ e faz parte da ordem dos cavaleiros do rei, mas devido à alguns acontecimentos paranormais (como aparecimento de lobisomens), maus entendidos e corrupções, você é banido da ordem e preso. Para não dar spoilers, vou resumir: o jogo é de ação/aventura em terceira-pessoa com uma jogabilidade boa e gráficos belíssimos. Apesar de não ser muito bem recebido pelas críticas, eu gostei! O jogo é exclusivo para PlayStation 4.
 
-## Metal Gear Solid V: The Phantom Pain
+## Metal Gear Solid V: The Phantom Pain {#metal-gear-solid-v}
 
 ##### Xbox 360
 
@@ -140,7 +140,7 @@ Este não joguei por causa dos troféus, mas descobri que tem platina considerad
 
 Este é um jogo que me decepcionou um pouco, talvez seja pela expectativa que tinha sobre ele pelo fato de ser um Metal Gear Solid. Mas não é que o jogo seja ruim, pelo contrário, ele é muito bom, mas tem um defeito que me incomoda bastante: por ser de mundo aberto, ele é repetitivo demais à ponto de não me empolgar em jogá-lo. Jogava no máximo uma missão por dia e abandonava, até que abandonei de vez (mas ainda pretendo voltar) quando lançou..
 
-## Uncharted 4: A Thief's End
+## Uncharted 4: A Thief's End {#uncharted-4}
 
 ##### PlayStation 4
 
@@ -150,7 +150,7 @@ Sem sombras de dúvidas o melhor jogo que joguei em 2016! Ele não só atendeu, 
 
 **Leia mais:** [Análise - Uncharted 4: A Thief's End](/jogando/analise/2016/05/18/analise-uncharted-4-a-thiefs-end-ps4.html)
 
-## Guitar Hero Live
+## Guitar Hero Live {#guitar-hero-live}
 
 ##### PlayStation 4
 
@@ -164,7 +164,7 @@ O jogo possui dois modos: o Live, onde você toca em uma série de shows numa tu
 
 Se você gosta dos jogos da série, com certeza gostará deste!
 
-## The Walking Dead
+## The Walking Dead {#walking-dead}
 
 ##### PS Vita
 
@@ -174,7 +174,7 @@ Mais um _adventure point-and-click_ da **Telltale**, desta vez, o aclamado **The
 
 Esse jogo ganhou vários prêmios pelo simples motivo: históra excepcional! Ela foi criada exclusivamente para jogo, ou seja, não existe nos quadrinhos, muito menos no seriado. Mas mesmo assim é envolvente! Tanto que terminei o primeiro jogo e já parti para o..
 
-## The Walking Dead: Season 2
+## The Walking Dead: Season 2 {#walking-dead-2}
 
 ##### PlayStation 4
 
@@ -184,7 +184,7 @@ Continuação direta do primeiro jogo, tanto que as decisões tomadas no primeir
 
 **Leia mais:** [Análise - The Walking Dead (Season 1 & 2)](/jogando/analise/2016/07/07/analise-the-walking-dead.html)
 
-## Grim Fandango Remastered
+## Grim Fandango Remastered {#grim-fandango}
 
 ##### PS Vita
 
@@ -194,7 +194,7 @@ Por falar em _adventure point-and-click_, depois de terminado os dois The Walkin
 
 Eu ainda não cheguei a terminá-lo, mas o jogo é muito bom! Talvez a única coisa que me incomodou um pouco, é que às vezes, você fica perdido e tem que ir na base de tentativa e erro, o que acaba cansando um pouco! Mas o jogo está bem fiel ao original, inclusive foi mantida a mesma dublagem para o português da época, bem legal! Acho demais o sotaque do _Manny Calavera_ (personagem principal)! :)
 
-## Gone Home
+## Gone Home {#gone-home}
 
 ##### PlayStation 4
 
@@ -204,7 +204,7 @@ Outro jogo disponibilizado gratuitamente pela PS Plus e mais um no estilo _adven
 
 **Leia mais:** [Análise - Gone Home (PS4)](/jogando/analise/2016/09/27/analise-gone-home-ps4.html)
 
-## Cloudy with a Chance of Meatballs
+## Cloudy with a Chance of Meatballs {#cloudy-chance-meatballs}
 
 ##### PlayStation 3
 
@@ -214,7 +214,7 @@ Se você conhece um pouco dos jogos que são fáceis de platinar, já deve ter p
 
 Baseado no filme "Tá Chovendo Hambúrguer", o jogo é um simples plataforma 3D voltado para o público infantil. E o mais legal: dá para jogar em co-op! :)
 
-## Need for Speed
+## Need for Speed {#need-for-speed}
 
 ##### PlayStation 4
 
@@ -224,7 +224,7 @@ O _reboot_ da série **Need for Speed** pode não ter agradado à todos! Mas com
 
 A jogabilidade (arcade) está aprimorada, sendo muito gostoso de pilotar os carros em alta velocidades. E o visual do jogo está impressionante, apesar que ele foi minha única base de jogos de corrida da geração!
 
-## Donkey Kong Country
+## Donkey Kong Country {#donkey-kong-country}
 
 ##### Super Nintendo
 
@@ -234,7 +234,7 @@ Só uma coisa a se dizer: clássico absoluto! E rejogá-lo fazendo os 101% na co
 
 **Leia mais:** [Análise - Donkey Kong Country (SNES)](/jogando/analise/2016/11/16/analise-donkey-kong-country-snes.html)
 
-## Dino Crisis 3
+## Dino Crisis 3 {#dino-crisis-3}
 
 ##### Xbox
 
@@ -246,7 +246,7 @@ E que decepção! Eu já não esperava algo muito bom, pois conhecia por cima a 
 
 Mas não vou desistir.. ainda pretendo pegar para terminá-lo, só para ter certeza do quão ruim ele é! :D
 
-## Silent Hill 2
+## Silent Hill 2 {#silent-hill-2}
 
 ##### PlayStation 2
 
@@ -256,7 +256,7 @@ Para compensar a péssima experiência com dinossauros no espaço, parti para pa
 
 Considerado por muitos o melhor da franquia, SH2 traz um terror psicológico de primeira com inimigos icônicos, ou melhor, grotescos (como o _Pyramid Head_) e uma trilha sonora que com o uso de fones de ouvido, torna-se uma experiência única! Ainda pretendo escrever sobre ele por aqui, então vou deixar os detalhes para depois! :)
 
-## Donkey Kong Country Returns
+## Donkey Kong Country Returns {#dkc-returns}
 
 ##### Wii
 
@@ -266,7 +266,7 @@ Por falar em jogo bom.. Que jogo é esse? Depois de ter jogado o DKC de SNES com
 
 Que delícia de jogo, ele pegou tudo o que o DKC tinha de bom (jogabilidade, trilha sonora, etc) e adicionou o uso dos controles de movimentos do Wii na medida certa, nada que torne a jogatina cansativa ou chata como vários jogos de Wii! Este jogo também merece um review.. então aguarde! :)
 
-## Hitman GO: Definitive Edition
+## Hitman GO: Definitive Edition {#hitman-go}
 
 ##### PS Vita
 
@@ -278,7 +278,7 @@ Além disso, cada fase possuem 3 desafios variados, um deles é o de simplesment
 
 Assim como Lara Croft GO, as fases são bem criativas.. vicia! :)
 
-## The Last Guardian
+## The Last Guardian {#last-guardian}
 
 ##### PlayStation 4
 
@@ -288,9 +288,9 @@ Eu só costumo comprar jogos no lançamento quando o jogo é quase certo que me 
 
 Mas se parar para analisar, talvez esta seja a grande sacada do jogo, pois quando você consegue avançar é incrível. ~~Bom, eu ainda não terminei.. quando chegar ao final, pretendo escrever sobre ele por aqui!~~
 
-**ATUALIZAÇÃO:** [Análise - The Last Guardian](/post/analise-the-last-guardian)
+_(Atualização!)_ **Leia mais:** [Análise - The Last Guardian](/post/analise-the-last-guardian)
 
-## Goof Troop
+## Goof Troop {#goof-troop}
 
 ##### Super Nintendo
 

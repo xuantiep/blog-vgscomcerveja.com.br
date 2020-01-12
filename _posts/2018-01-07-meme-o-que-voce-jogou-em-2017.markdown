@@ -41,7 +41,7 @@ Já é uma tradição, o primeiro post do ano é uma releitura do meu ano gamís
 
 Confira:
 
-## Dan The Man
+## Dan The Man {#dan-the-man}
 
 ##### Android
 
@@ -55,7 +55,7 @@ seus diversos inimigos, lembrando bastante o **Metal Slug**, porém sem armas! :
 
 Ele é gratuito com propagandas, porém você pode optar por remover as propagandas, comprando!
 
-## Resident Evil
+## Resident Evil {#resident-evil}
 
 ##### Game Cube
 
@@ -68,7 +68,7 @@ O jogo conta com a mesma essência do [RE clássico do PS1](/jogando/analise/201
 
 Infelizmente, ainda não consegui termina-lo, meta para este ano! :)
 
-## Severed
+## Severed {#severed}
 
 ##### PS Vita
 
@@ -84,7 +84,7 @@ você tem que adotar uma estratégia diferente de ataque. E pelo incrível que p
 
 Escrevi sobre ele no [Game Over #37](/jogando/analise/2017/05/06/analise-severed.html). ;)
 
-## Horizon Zero Dawn
+## Horizon Zero Dawn {#horizon-zero-dawn}
 
 ##### PlayStation 4
 
@@ -99,7 +99,7 @@ usando lanças e arcos e flechas, e além do mais, a história é fascinante!
 
 Escrevi sobre ele no [Game Over #38](/jogando/analise/2017/06/25/analise-horizon-zero-dawn.html).
 
-## Tomb Raider II
+## Tomb Raider II {#tomb-raider-2}
 
 ##### PlayStation
 
@@ -112,7 +112,7 @@ Estava indo tudo bem, avançando legal, até que do nada... Perco meu save do [M
 
 Mas ainda não me dei por vencido, pretendo tentar novamente este ano!
 
-## Wonder Boy: The Dragon's Trap
+## Wonder Boy: The Dragon's Trap {#wonder-boy}
 
 ##### PC
 
@@ -130,7 +130,7 @@ Turma da Mônica de volta ao jogo, que fiz questão de experimentar e ficou real
 
 Ainda não terminei o jogo, meta para este ano! Mas mesmo assim já recomendo o jogo!
 
-## Uncharted: The Lost Legacy
+## Uncharted: The Lost Legacy {#uncharted-lost-legacy}
 
 ##### PlayStation 4
 
@@ -147,7 +147,7 @@ muito bem contar!
 
 Recomendo! :)
 
-## Brutal Legend
+## Brutal Legend {#brutal-legend}
 
 ##### PlayStation 3
 
@@ -164,7 +164,7 @@ ser dublado por Jack Black!
 Ah, um detalhe importante, o jogo é produzido por **Tim Schafer** (Double Fine) que foi responsável
 pelos grandes clássicos na época da LucasArts: Full Throttle, Grim Fandango e outros!
 
-## Cuphead
+## Cuphead {#cuphead}
 
 ##### PC
 
@@ -180,7 +180,7 @@ irá te fazer perder as contas de quantas vezes irá morrer para conseguir derro
 
 Altamente recomendado! :)
 
-## Stranger Things: The Game
+## Stranger Things: The Game {#stranger-things}
 
 ##### Android
 
@@ -198,7 +198,7 @@ Cada personagem tem uma habilidade diferente, sendo assim, há áreas e inimigos
 personagem consegue passar. Por ser gratuito, o jogo é bem legal e viciante,
 pois a sensação de progressão e recompensa é rápida, vale cada centavo gasto! :o)
 
-## Gran Turismo Sport
+## Gran Turismo Sport {#gran-turismo-sport}
 
 ##### PlayStation 4
 
@@ -217,7 +217,7 @@ atrás (não sei se já era previsto) e [lançou os campeonatos offline na atual
 trazendo de volta o jogo a vida, pois apesar de tudo, ele conta com um ótimo visual e uma jogabilidade excelente ao
 nível de um bom GT!
 
-## DOOM
+## DOOM {#doom}
 
 ##### PlayStation 4
 
@@ -233,7 +233,7 @@ mal com ele, o que é uma luz no fim do túnel! rsrs
 DOOM é um "senhor" FPS, onde sua adrenalina vai à mil com muita ação frenética e rock pesado.
 O jogo te incentiva a não ficar parado, sair atirando em tudo o que vê pela frente (porém, com cautelas) é a melhor estratégia!
 
-## Hollow Knight
+## Hollow Knight {#hollow-knight}
 
 ##### PC
 
