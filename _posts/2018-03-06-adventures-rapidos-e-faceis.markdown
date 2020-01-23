@@ -3,7 +3,7 @@ layout: post
 title: "6 adventures rápidos e fáceis para PS4 (e que não são da Telltale)"
 date: 2018-03-06 21:30
 author: felipebbarbosa
-session: Caçadores de Troféus 
+session: Caçadores de Troféus
 categories: games jogando
 redirect_from: /jogando/toplist/2018/03/06/adventures-rapidos-e-faceis.html
 tags: [sony, ps4, categoria-lista, serie-cacadores-trofeus]
@@ -18,7 +18,7 @@ Mas como não é só de Telltale que vivem os adventures, selecionei 6 deles que
 
 <!--more-->
 
-### Deponia
+### Deponia {#deponia}
 
 {% include image.html
   url="/imgs/posts/toplist/11_cacadores_trofeus2/deponia.jpg" %}
@@ -49,7 +49,7 @@ se preocupar com os troféus a primeiro momento, para depois voltar em cada ato 
   online="Não"
   jogadas="1" %}
 
-### The Bunker
+### The Bunker {#the-bunker}
 
 {% include image.html
   url="/imgs/posts/toplist/11_cacadores_trofeus2/the-bunker.jpg" %}
@@ -84,7 +84,7 @@ Mas no pior dos casos, o jogo é tão curto que talvez valha a pena iniciar outr
     content="Disponível no Xbox One!"
     points="1000" %}
 
-### The Little Acre
+### The Little Acre {#the-little-acre}
 
 {% include image.html
   url="/imgs/posts/toplist/11_cacadores_trofeus2/the-little-acre.jpg" %}
@@ -117,7 +117,7 @@ publicado pela [Curve Digital](http://www.curve-digital.com/) no final de 2016.
     content="Disponível no Xbox One!"
     points="1000" %}
 
-### Late Shift
+### Late Shift {#late-shift}
 
 {% include image.html
   url="/imgs/posts/toplist/11_cacadores_trofeus2/late-shift.jpg" %}
@@ -149,7 +149,7 @@ Quanto aos troféus, a maneira mais rápida é seguir um roteiro para não perde
     content="Disponível no Xbox One!"
     points="1000" %}
 
-### Dying: Reborn
+### Dying: Reborn {#dying-reborn}
 
 {% include image.html
   url="/imgs/posts/toplist/11_cacadores_trofeus2/dying-reborn.jpg" %}
@@ -178,7 +178,7 @@ O jogo foi desenvolvido pela [Nekcom](https://www.nekcomgames.com/) e publicado 
     content="Disponível no Xbox One!"
     points="1000" %}
 
-### Demetrios: The Big Cynical Adventure
+### Demetrios: The Big Cynical Adventure {#demetrios}
 
 {% include image.html
   url="/imgs/posts/toplist/11_cacadores_trofeus2/demetrios.jpg" %}

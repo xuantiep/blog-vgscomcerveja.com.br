@@ -16,7 +16,7 @@ cover: /imgs/posts/toplist/13_cacadores_trofeus3/post_header.jpg
 
 <!--more-->
 
-### Mecho Tales
+### Mecho Tales {#mecho-tales}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/mecho_tales.jpg" %}
@@ -40,7 +40,7 @@ Acredite, esse é o menos pior da lista.
   ondeComprarLink="https://store.playstation.com/pt-br/product/UP1594-CUSA09693_00-MECHOTALES000000"
   obs="O jogo também está disponível para PS Vita e na compra de um, você ganha o outro. E são duas platinas separadas!" %}
 
-### Orc Slayer
+### Orc Slayer {#orc-slayer}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/orc_slayer.jpg" %}
@@ -63,7 +63,7 @@ O jogo foi desenvolvido pela [Cooply Solutions](https://www.cooply.com/) e está
   obs="Se quiser ter duas platinas do game (isso se tiver coragem de terminar o jogo novamente), a versão européia possui outra lista de troféus e consequentemente, outra platina!"
 %}
 
-### Mr. Massagy
+### Mr. Massagy {#mr-massagy}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/mr_massagy.jpg" %}
@@ -84,7 +84,7 @@ Desenvolvido pela [Green Lava Studios](https://www.greenlavastudios.com/), o jog
   ondeComprarPreco="$3,99"
   ondeComprarLink="https://www.playstation.com/en-us/games/mr-massagy-ps4/" %}
 
-### Energy Cycle
+### Energy Cycle {#energy-cycle}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_cycle.jpg" %}
@@ -108,7 +108,7 @@ O jogo tem 3 modos: Puzzle mode, Time attack e Infinity layer. Todos eles seguem
     content="Disponível no Xbox One!"
     points="1000" %}
 
-### Energy Balance
+### Energy Balance {#energy-balance}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_balance.jpg" %}
@@ -128,7 +128,7 @@ Mas caso se interesse, [aqui tem um tutorial](https://www.playstationtrophies.or
   ondeComprarLink="https://store.playstation.com/pt-br/product/UP1675-CUSA08963_00-SYPS4ENERGYBALAN"
   obs="O jogo também está disponível para PS Vita e na compra de um, você ganha o outro. E são duas platinas separadas!" %}
 
-### Energy Invasion
+### Energy Invasion {#energy-invasion}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_invasion.jpg" %}
@@ -148,7 +148,7 @@ Para platinar, você tem chegar nos níveis correspondentes de cada modo, são t
   ondeComprarLink="https://store.playstation.com/pt-br/product/UP1675-CUSA08961_00-SYPS4ENERGYINVAS"
   obs="O jogo também está disponível para PS Vita e na compra de um, você ganha o outro. E são duas platinas separadas!" %}
 
-### Puzzle Showdown 4K
+### Puzzle Showdown 4K {#puzzle-showdown-4k}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/puzzle_showdown_4k.jpg" %}
@@ -167,7 +167,7 @@ Mas caso você tenha alguém para jogar contigo, o jogo se torna bem mais fácil
   ondeComprarPreco="$9,99"
   ondeComprarLink="https://store.playstation.com/en-us/product/UP3493-CUSA07861_00-PUZZLECHAMPHD000" %}
 
-### My Name Is Mayo
+### My Name Is Mayo {#my-name-is-mayo}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/my_name_is_mayo.jpg" %}
@@ -186,7 +186,7 @@ Mas como eu disse, o propósito deste "jogo" é rídiculo, pois tudo que você t
   ondeComprarPreco="$0,99"
   ondeComprarLink="https://store.playstation.com/en-us/product/UP0307-CUSA06397_00-MYNAMEISMAYO0000" %}
 
-### Little Adventure on the Prairie
+### Little Adventure on the Prairie {#little-adventure-prairie}
 
 {% include image.html
   url="/imgs/posts/toplist/13_cacadores_trofeus3/little_adventure_on_the_prairie.jpg" %}
