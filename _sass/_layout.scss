@@ -618,8 +618,8 @@
 .post-content {
   margin-bottom: $spacing-unit;
   font-weight: normal;
-  padding-left: $spacing-unit;
-  padding-right: $spacing-unit;
+  /*padding-left: $spacing-unit;
+  padding-right: $spacing-unit;*/
   background-color: white;
 
   h2 {
@@ -835,6 +835,7 @@
     text-transform: none;
     font-variant: normal;
     font-weight: normal;
+    text-indent: 0;
   }
 }
 
@@ -1015,12 +1016,19 @@
 
 .lastest-newsletters {
   float: left;
-  max-width: 880px;
+  width: 100%;
   text-align: left;
   list-style: none;
+  text-transform: none;
 
   li {
     margin: 10px;
+    border-left: 5px solid orange;
+    padding-left: 10px;
+  }
+
+  li:hover {
+    background-color: #ccc;
   }
 
   a {
@@ -1079,5 +1087,46 @@
     .rel:hover {
       opacity: 1;
     }
+  }
+}
+
+/*
+ * PSN Game Card
+ */
+
+.psn-game-card {
+  background-color: #000f28;
+  float: left;
+  width: 100%;
+  margin: 10px 0;
+  color: white;
+  display: flex;
+  align-content: flex-start;
+}
+
+.psn-game-card-col1 {
+  float: left;
+  width: 125px;
+  flex-shrink: 0;
+}
+
+.psn-game-card-col2 {
+  float: left;
+  padding: 10px;
+  h3 {
+    font-weight: normal;
+    margin-bottom: 1px;
+    font-size: 1.4em;
+  }
+  span {
+    border: 1px solid gray;
+    border-radius: 2px;
+    padding: 2px 5px;
+    line-height: 1.5;
+    display: inline-block;
+    margin-bottom: 3px;
+  }
+  a {
+    color: #cccfd3;
   }
 }
