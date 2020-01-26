@@ -139,14 +139,14 @@ Lembrando que este post faz parte de uma brincadeira entre amigos e convido voc�
 
 - [A TV Vai Estragar!](https://atvvaiestragar.wordpress.com/2020/01/11/meme-gamer-o-que-voce-jogou-em-2019/) - por Eduardo Farnezi
 - [Arquivos do Woo](https://www.arquivosdowoo.com.br/2020/01/o-que-eu-joguei-em-2019.html) - por Diogo Batista
-- [Blog Desocupado](https://des-ocupado.blogspot.com/) - por Paulo Victor
+- [Blog Desocupado](https://des-ocupado.blogspot.com/2020/01/especial-o-que-joguei-em-2019.html) - por Paulo Victor
 - [Gamer Caduco](https://gamercaduco.com/2020/01/11/meme-o-que-voce-jogou-em-2019-oqvj2019/) - por Caduco
 - [Jogatinas Saudáveis](https://www.youtube.com/watch?v=QFEdU6EMTJM) - por Vigia
 - [Locadora Resident Ivo](https://locadoraresidentivo.com/o-que-joguei-em-2019/) - por Ivo Ornelas
 - [MarvoxBrasil](https://marvoxbrasil.wordpress.com/2020/01/11/memegameroqvj2019/) - por Marvox
-- [Vão Jogar!](https://vaojogar.com.br/) - por SucodelarAngela
+- [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2019-sucodelarangela) - por SucodelarAngela
 - [Vão Jogar!](https://vaojogar.com.br/) - por Tchulanguero
-- [Vão Jogar!](https://vaojogar.com.br/) - por Somari
+- [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2019-somari) - por Somari
 - [Videogames com Cerveja](#) - por Felipe B. Barbosa
 
 Também convido à comentar sobre seu ano gamístico, espero que tenha aproveitado bastante! :)
