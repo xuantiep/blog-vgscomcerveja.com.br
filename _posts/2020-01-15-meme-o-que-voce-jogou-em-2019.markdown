@@ -145,8 +145,7 @@ Lembrando que este post faz parte de uma brincadeira entre amigos e convido voc�
 - [Locadora Resident Ivo](https://locadoraresidentivo.com/o-que-joguei-em-2019/) - por Ivo Ornelas
 - [MarvoxBrasil](https://marvoxbrasil.wordpress.com/2020/01/11/memegameroqvj2019/) - por Marvox
 - [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2019-sucodelarangela) - por SucodelarAngela
-- [Vão Jogar!](https://vaojogar.com.br/) - por Tchulanguero
+- [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2019-tchulanguero) - por Tchulanguero
 - [Vão Jogar!](https://vaojogar.com.br/escrito/o-que-eu-joguei-em-2019-somari) - por Somari
-- [Videogames com Cerveja](#) - por Felipe B. Barbosa
 
-Também convido à comentar sobre seu ano gamístico, espero que tenha aproveitado bastante! :)
+Também te convido à comentar sobre seu ano gamístico, espero que tenha aproveitado bastante! :)
