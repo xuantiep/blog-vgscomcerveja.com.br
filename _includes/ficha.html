@@ -10,8 +10,23 @@
   </div>
   <h3>{{ include.plataforma }}</h3>
   <br>
-  <b>Desenvolvido por: </b>{{ include.desenvolvedor }}<br>
-  <b>Publicado por: </b>{{ include.publicador }}<br>
+  <b>Desenvolvido por: </b>
+    {% if include.desenvolvedorSite %}
+      <a href="{{ include.desenvolvedorSite }}" title="{{ include.desenvolvedor }}">
+    {% endif %}
+    {{ include.desenvolvedor }}
+    {% if include.desenvolvedorSite %}
+      </a>
+    {% endif %}
+  <br>
+  <b>Publicado por: </b>
+    {% if include.publicadorSite %}
+      <a href="{{ include.publicadorSite }}" title="{{ include.publicador }}">
+    {% endif %}
+    {{ include.publicador }}<br>
+    {% if include.publicadorSite %}
+      </a>
+    {% endif %}
   <b>Data de Lançamento: </b>{{ include.lancamento }}<br>
   <b>Gênero: </b>{{ include.genero }}<br>
   <br>
@@ -39,4 +54,7 @@
   <span itemprop="author" style="display:none">{{ page.author }}</span>
   <br><br>
   <small><b>Finalizado em: </b>{{ include.data }}</small>
+  {% if include.obs %}
+    <br><small><b>Obs.: </b>{{ include.obs }}</small>
+  {% endif %}
 </div>
