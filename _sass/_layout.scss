@@ -1015,8 +1015,10 @@
  */
 
 .lastest-newsletters {
-  float: left;
+  /*float: left;*/
   width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
   text-align: left;
   list-style: none;
   text-transform: none;
@@ -1039,6 +1041,13 @@
 #mc_embed_signup {
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
+}
+
+.newsletter-page-msg {
+  max-width: 800px;
+  margin: 0 auto;
+  font-size: 1.2em;
+  text-align: left;
 }
 
 /*
