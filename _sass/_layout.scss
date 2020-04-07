@@ -1064,6 +1064,34 @@
   letter-spacing: -1px;
 }
 
+.trophies {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  float: left;
+  width: 100%;
+
+  .trophies-box {
+    width: 100%;
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+    font-weight: bold;
+
+    span {
+      text-align: center;
+    }
+  }
+
+  .achivement-box {
+    border-radius: 0;
+    margin: 0;
+    padding: 2px;
+    background-color: white;
+    border-top: 1px dashed gray;
+    color: green;
+  }
+}
+
 /*
  * related-posts
  */

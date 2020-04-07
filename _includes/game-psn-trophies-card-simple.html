@@ -1,0 +1,16 @@
+<div class="trophies">
+  <div class="trophies-box">
+    <h4>TROFÉUS</h4>
+    <span><img src="/imgs/40-platinum.png"><br>{{ include.platinas }}</span>
+    <span><img src="/imgs/40-gold.png"><br>{{ include.ouros }}</span>
+    <span><img src="/imgs/40-silver.png"><br>{{ include.pratas }}</span>
+    <span><img src="/imgs/40-bronze.png"><br>{{ include.bronzes }}</span>
+  </div>
+  {% if include.xboxAvailable %}
+    <div class="achivement-box">
+      <span>
+        {{ include.xboxPoints }} G - Também disponível no {{ include.xboxConsole }}!
+    </span>
+    </div>
+  {% endif %}
+</div>
