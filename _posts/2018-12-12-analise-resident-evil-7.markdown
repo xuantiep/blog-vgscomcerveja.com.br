@@ -3,7 +3,7 @@ layout: post
 title: "Análise - Resident Evil VII biohazard (PS4)"
 date: 2018-12-12 22:30
 author: felipebbarbosa
-session: Game Over 
+session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2018/12/12/analise-resident-evil-7.html
 tags: [sony, ps4, resident-evil-7, categoria-analise, serie-game-over]
@@ -34,7 +34,7 @@ Pois bem, apesar da trama ser bastante envolvente e misteriosa, do tipo "O que a
 
 ### Mas e quanto a visão em primeira pessoa?
 
-Bom, no final das contas, eu acabei acostumando, pois ela é talvez a principal responsável em trazer uma experiência ainda mais aterrorizante ao jogo, você fica totalmente imergido ao ambiente (fico imaginando como seria jogar no PSVR?). Mas ao mesmo tempo, a visão te limita um pouco na jogabilidade, pois além de não ter uma visão mais ampla do cenário, você também tem seus movimentos mais limitados, como por exemplo, você não tem a opção da esquiva rápida e não sabe o quão longe do inimigo você está quando está tentando fugir dele, o que aumenta ainda mais o nível de tensão! rs
+Bom, no final das contas, eu acabei acostumando, pois ela é talvez a principal responsável em trazer uma experiência ainda mais aterrorizante ao jogo, você fica totalmente imergido ao ambiente (fico imaginando como seria jogar no PSVR?). Mas ao mesmo tempo, a visão te limita um pouco na jogabilidade, pois além de não ter uma visão mais ampla do cenário, você também tem seus movimentos mais limitados, como por exemplo, você não tem a opção da esquiva rápida e não sabe o quão longe do inimigo você está quando está tentando fugir dele, o que aumenta ainda mais o nível de tensão!
 
 {% include image.html
   url='/imgs/posts/game_over/40_resident_evil7/RESIDENT-EVIL-7-biohazard_2.jpg'
@@ -42,7 +42,7 @@ Bom, no final das contas, eu acabei acostumando, pois ela é talvez a principal 
 
 ### O bom e velho Resident Evil de volta?
 
-A Capcom caprichou nas referência e trouxe de volta vários elementos clássicos, tais como puzzles, baús de armazenamento, dispositivo para salvar seu progresso (que agora é um gravador, não mais uma máquina de escrever) e o gerenciamento de recursos (munições e medicamentos) que você pode carregar contigo no avanço no jogo.
+A Capcom caprichou nas referências e trouxe de volta vários elementos clássicos, tais como puzzles, baús de armazenamento, dispositivo para salvar seu progresso (que agora é um gravador, não mais uma máquina de escrever) e o gerenciamento de recursos (munições e medicamentos) que você pode carregar contigo no avanço no jogo.
 
 No começo, você tem que basicamente explorar a residência dos Bakers e resolver alguns puzzles para conseguir escapar dela, mas tudo isso sendo feito com muita cautela pois seus inimigos neste início são próprios Bakers (um de cada vez), começando pelo pai, **_Jack Baker_**, que fica te "caçando" pela casa inteira (e ainda por cima, fica gritando seu nome, perguntando onde que você tá?). Você tem que se esconder, esperar ele passar e progredir. É muito tenso, pois se ele te ver, você terá que correr e achar um esconderijo, pois é muito difícil derrotá-lo (para não dizer impossível) e se ele te pegar, é morte na certa! Depois que você consegue sair da casa principal, é a vez da **_Marguerite Baker_** nos anexos da casa e segue mais ou menos o mesmo esquema.
 
@@ -50,13 +50,13 @@ No começo, você tem que basicamente explorar a residência dos Bakers e resolv
   url='/imgs/posts/game_over/40_resident_evil7/RESIDENT-EVIL-7-biohazard_1.jpg'
   description='Os Bakers adoram uma cerveja também! :)'%}
 
-Depois de um certo avanço no jogo, você começar a encontrar os **Mofados**, os "zumbis" do jogo. Estas mutações, tem três variações, o Mofado, o Mofado obeso e o Mofado de quatro pernas, cada um com suas particularidades, sendo o Mofado o mais comum e fácil de derrotar, o obeso o mais resistente e o último mais ágil e veloz. Enfim, você tem que agir com muita cautela e contando munições, pois tem momentos que fará muita falta se você não economizar!
+Depois de um certo avanço no jogo, você começar a encontrar os **Mofados**, os "zumbis" do jogo. Estas mutações, tem três variações, o Mofado, o Mofado obeso e o Mofado de quatro pernas, cada um com suas particularidades, sendo o Mofado o mais comum e fácil de derrotar, o obeso o mais resistente e o último mais ágil e veloz. Enfim, você tem que agir com muita cautela e contando munições, pois tem momentos que fará muita falta se você não economizar! Sendo sincero, o jogo ficou mais interessante para mim quando cheguei nesta etapa!
 
 ### Conclusão
 
 **Resident Evil 7** não trouxe de volta o mesmo sentimento de estar jogando um Resident Evil clássico, mas com certeza, trouxe uma experiência muito marcante com a cara da série, ou seja, com uma história envolvente, onde cada detalhe é revelado no tempo perfeito e, que procurei não revelar nada aqui para não estragar sua experiência (caso ainda não tenha jogado). Enfim, recomendo à todos, principalmente, para aqueles que gostam de um belo jogo de suspense/terror, pois faz jus ao gênero! :)
 
-Agora, é esperar ansiosamente pelo lançamento de [Resident Evil 2 remake](http://www.residentevil2.com/us/) em Janeiro/19, mais precisamente no dia 25. Acredito que o jogo terá uma pegada mais tensa como o RE7 unificada com uma jogabilidade mais voltada para os clássicos. Só QUERO!
+Agora, é esperar ansiosamente pelo lançamento de [Resident Evil 2 remake](http://www.residentevil2.com/us/) em Janeiro/19, mais precisamente no dia 25. Acredito que o jogo terá uma pegada mais tensa como o RE7 unificada com uma jogabilidade em terceira pessoa mais voltada para os clássicos. Só QUERO!
 
 {% include ficha.html
   titulo='Resident Evil VII biohazard'
