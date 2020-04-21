@@ -7,7 +7,7 @@ const HEADER_MIN_SIZE = 180;
 
 function init() {
   checkScroll();
-  window.addEventListener("scroll", function(e) {
+  window.addEventListener("scroll", function (e) {
     checkScroll();
   });
 }
