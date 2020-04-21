@@ -34,14 +34,14 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 
 ### Lista de jogos sem troféus
 
-| 1942: Joint Strike <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| 1942: Joint Strike <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | 50 Cent: Blood on the Sand {% include emoji.html url="/imgs/bandeira-eua.png" title="EUA" %} {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _\*A versão japonesa tem troféus!_ | 2009 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | AC/DC Live: Rock Band Track Pack | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Afro Samurai | 2009 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | All-Pro Football 2K8 | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Angel Love Online {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _Somente digital_ | 2006 | Exclusivo |
-| Angel Senki {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _Somente digital_ | 2009 | Exclusivo |
-| Aqua Vita {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _Somente digital_ | 2007 | Exclusivo |
+| Angel Love Online {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _(somente digital)_ | 2006 | Exclusivo |
+| Angel Senki {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _(somente digital)_ | 2009 | Exclusivo |
+| Aqua Vita {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _(somente digital)_ | 2007 | Exclusivo |
 | Armored Core 4 | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Armored Core: For Answer | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Army of Two | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -55,14 +55,14 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Blazing Angels 2: Secret Missions of WWII | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Bolt | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Brothers in Arms: Hell's Highway | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Buzz! Junior: Jungle Party {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _Somente digital_ | 2008 | Exclusivo |
+| Buzz! Junior: Jungle Party {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _(somente digital)_ | 2008 | Exclusivo |
 | Cabela's Dangerous Hunts 2009 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Call of Duty 3 | 2006 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Call of Duty 4: Modern Warfare | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Calling All Cars! <br> _Somente digital_ | 2007 | Exclusivo |
+| Calling All Cars! <br> _(somente digital)_ | 2007 | Exclusivo |
 | Cars Mater-National Championship | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Cash Guns Chaos <br> _Somente digital_ | 2006 | Exclusivo |
-| Championship Sprint <br> _Somente digital_ | 2007 | Exclusivo |
+| Cash Guns Chaos <br> _(somente digital)_ | 2006 | Exclusivo |
+| Championship Sprint <br> _(somente digital)_ | 2007 | Exclusivo |
 | Clive Barker's Jericho | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Colin McRae: DiRT | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | College Hoops 2K7 | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -70,29 +70,29 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Conan | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Condemned 2: Bloodshot | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Conflict: Denied Ops | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Dark Mist {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _Somente digital_ | 2007 | Exclusivo |
+| Dark Mist {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _(somente digital)_ | 2007 | Exclusivo |
 | Dark Sector | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Deathmatch Village <br> _Somente digital_ | 2013 | Exclusivo |
+| Deathmatch Village <br> _(somente digital)_ | 2013 | Exclusivo |
 | Def Jam: Icon | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Destroy All Humans! Path of the Furon {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} | 2009 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Devil May Cry 4 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Disney Sing It | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Disney Sing It! High School Musical 3: Senior Year | 2009 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Dragon Ball Z: Burst Limit | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| dress {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _Somente digital_ | 2009 | Exclusivo |
-| Dust 514 <br> _Somente digital_ | 2013 | Exclusivo |
+| dress {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _(somente digital)_ | 2009 | Exclusivo |
+| Dust 514 <br> _(somente digital)_ | 2013 | Exclusivo |
 | Dynasty Warriors 6 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Dynasty Warriors: Gundam | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Elefunk <br> _Somente digital_ | 2008 | Exclusivo |
+| Elefunk <br> _(somente digital)_ | 2008 | Exclusivo |
 | Enchanted Arms | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Enemy Territory: Quake Wars | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Eternal Sonata | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Everyday Shooter <br> _Somente digital_ | 2007 | Exclusivo |
+| Everyday Shooter <br> _(somente digital)_ | 2007 | Exclusivo |
 | EyeCreate | 2007 | Exclusivo |
 | F.E.A.R. | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | FaceBreaker | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Fantastic Four: Rise of the Silver Surfer | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Fatal Inertia EX <br> _Somente digital_ | 2008 | Exclusivo |
+| Fatal Inertia EX <br> _(somente digital)_ | 2008 | Exclusivo |
 | FIFA Soccer 08 | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | FIFA Street 3 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Fight Night Round 3 | 2006 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -102,15 +102,15 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Full Auto 2: Battlelines | 2006 | Exclusivo |
 | G1 Jockey 4 2007 {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
 | G1 Jockey 4 2008 {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2008 | Exclusivo |
-| Gauntlet II <br> _Somente digital_ | 2007 | Exclusivo |
+| Gauntlet II <br> _(somente digital)_ | 2007 | Exclusivo |
 | Genji: Days of the Blade | 2006 | Exclusivo |
-| Go! Puzzle <br> _Somente digital_ | 2007 | Exclusivo |
-| Go! Sports Ski <br> _Somente digital_ | 2007 | Exclusivo |
-| Go! Sports Skydiving <br> _Somente digital_ | 2008 | Exclusivo |
-| Go! Sudoku <br> _Somente digital_ | 2006 | Exclusivo |
+| Go! Puzzle <br> _(somente digital)_ | 2007 | Exclusivo |
+| Go! Sports Ski <br> _(somente digital)_ | 2007 | Exclusivo |
+| Go! Sports Skydiving <br> _(somente digital)_ | 2008 | Exclusivo |
+| Go! Sudoku <br> _(somente digital)_ | 2006 | Exclusivo |
 | Golden Axe: Beast Rider | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Gran Turismo 5: Prologue | 2008 | Exclusivo |
-| GripShift <br> _Somente digital_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| GripShift <br> _(somente digital)_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Guitar Hero III: Legends of Rock | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Guitar Hero: World Tour | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Guitar Hero: Aerosmith | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -123,8 +123,8 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Imabikisō {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
 | Initial D Extreme Stage {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2008 | Exclusivo |
 | Iron Man | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Joust <br> _Somente digital_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Joysound Dive {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _Somente digital_ | 2011 | Exclusivo |
+| Joust <br> _(somente digital)_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Joysound Dive {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _(somente digital)_ | 2011 | Exclusivo |
 | Juiced 2: Hot Import Nights | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Kane & Lynch: Dead Men | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Karaoke Revolution presents American Idol Encore | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -135,7 +135,7 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | LEGO Batman: The Videogame | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | LEGO Indiana Jones: The Original Adventures | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | LEGO Star Wars: The Complete Saga | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| LocoRoco Cocoreccho <br> _Somente digital_ | 2007 | Exclusivo |
+| LocoRoco Cocoreccho <br> _(somente digital)_ | 2007 | Exclusivo |
 | Lost Planet: Extreme Condition | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Lost: Via Domus | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Madagascar: Escape 2 Africa | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -148,10 +148,10 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Major League Baseball 2K8 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Marvel: Ultimate Alliance | 2006 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Medal of Honor: Airborne | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Mega Man 9 <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Mega Man 9 <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Megazone 23: Aoi Garland {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
-| Mesmerize: Distort <br> _Somente digital_ | 2007 | Exclusivo |
-| Mesmerize: Trace <br> _Somente digital_ | 2008 | Exclusivo |
+| Mesmerize: Distort <br> _(somente digital)_ | 2007 | Exclusivo |
+| Mesmerize: Trace <br> _(somente digital)_ | 2008 | Exclusivo |
 | Mist of Chaos {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
 | MLB 07: The Show | 2007 | Exclusivo |
 | MLB 08: The Show | 2008 | Exclusivo |
@@ -159,7 +159,7 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Mobile Suit Gundam: Crossfire | 2006 | Exclusivo |
 | Monopoly | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Monster Madness: Grave Danger | 2008 | Exclusivo |
-| Mortal Kombat II <br> _Somente digital_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Mortal Kombat II <br> _(somente digital)_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | MotoGP 08 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | MotorStorm | 2007 | Exclusivo |
 | MX vs ATV: Untamed | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -191,32 +191,32 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | NHL 2K9 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Ninja Gaiden Sigma | 2007 | Exclusivo |
 | NPPL Championship Paintball 2009 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Nucleus <br> _Somente digital_ | 2007 | Exclusivo |
-| Operation Creature Feature {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _Somente digital_ | 2007 | Exclusivo |
+| Nucleus <br> _(somente digital)_ | 2007 | Exclusivo |
+| Operation Creature Feature {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _(somente digital)_ | 2007 | Exclusivo |
 | Overlord: Raising Hell | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| PachiPara DL Hyper Sea Story in Karibu {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _Somente digital_ | 2008 | Exclusivo |
+| PachiPara DL Hyper Sea Story in Karibu {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _(somente digital)_ | 2008 | Exclusivo |
 | Pirates of the Caribbean: At World's End | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| PixelJunk Racers {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _Somente digital_ | 2007 | Exclusivo |
-| Piyotama <br> _Somente digital_ | 2007 | Exclusivo |
-| PowerUp Forever <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Prince of Persia Classic <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| PixelJunk Racers {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} <br> _(somente digital)_ | 2007 | Exclusivo |
+| Piyotama <br> _(somente digital)_ | 2007 | Exclusivo |
+| PowerUp Forever <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Prince of Persia Classic <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Pro Evolution Soccer 2008 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Pro Evolution Soccer 2009 | 2009 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Professional Baseball Spirits 4 {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
 | Professional Baseball Spirits 5 {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2008 | Exclusivo |
-| Puzzle Quest: Challenge of the Warlords <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Q\*bert <br> _Somente digital_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Puzzle Quest: Challenge of the Warlords <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Q\*bert <br> _(somente digital)_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Race Driver: GRID | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Railfan: Chigaco Transit Authority Brown Line {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %}| 2006 | Exclusivo |
 | Railfan: Taiwan High Speed Rail {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
-| Rampage World Tour <br> _Somente digital_ | 2007 | Exclusivo |
-| Rampart <br> _Somente digital_ | 2007 | Exclusivo |
+| Rampage World Tour <br> _(somente digital)_ | 2007 | Exclusivo |
+| Rampart <br> _(somente digital)_ | 2007 | Exclusivo |
 | Rapala Fishing Frenzy 2009 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Ratatouille | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Ratchet & Clank Future: Quest for Booty | 2008 | Exclusivo |
 | Ratchet & Clank Future: Tools of Destruction | 2007 | Exclusivo |
 | Record of Agarest War {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Red Baron Arcade <br> _Somente digital_ | 2008 | Exclusivo |
+| Red Baron Arcade <br> _(somente digital)_ | 2008 | Exclusivo |
 | Resistance: Fall of Man | 2006 | Exclusivo |
 | Ridge Racer 7 | 2006 | Exclusivo |
 | Rise of the Argonauts | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -224,7 +224,7 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Rock Band | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Rock Band Track Pack Volume 2 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Rock Revolution | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Rocketmen: Axis of Evil <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Rocketmen: Axis of Evil <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Ryū ga Gotoku Kenzan! {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2008 | Exclusivo |
 | Saints Row 2 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | SBK Superbike World Champioship {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -233,13 +233,13 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Sega Rally Revo | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Sega Superstars Tennis | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | ShellShock 2: Blood Trails | 2009 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Shiki-Tei {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _Somente digital_ | 2008 | Exclusivo |
+| Shiki-Tei {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _(somente digital)_ | 2008 | Exclusivo |
 | Sid Meier's Civilization Revolution | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Silent Hill: Homecoming | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | SingStar Queen {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} | 2009 | Exclusivo |
 | Siren: Blood Curse (US/EUR) / Siren: New Translation {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} <br> _Somente digital na versão americana_ | 2008 | Exclusivo |
 | Skate | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Snakeball <br> _Somente digital_ | 2007 | Exclusivo |
+| Snakeball <br> _(somente digital)_ | 2007 | Exclusivo |
 | Soldier of Fortune: Payback | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Sonic The Hedgehog | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Soulcalibur IV | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -247,12 +247,12 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Spider-Man: Web of Shadows | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Stranglehold | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Stuntman Ignition | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Super Puzzle Fighter II Turbo HD Remix <br> _Somente digital_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Super Rub 'a' Dub <br> _Somente digital_ | 2007 | Exclusivo |
-| Super Street Fighter II Turbo HD Remix <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Super Puzzle Fighter II Turbo HD Remix <br> _(somente digital)_ | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Super Rub 'a' Dub <br> _(somente digital)_ | 2007 | Exclusivo |
+| Super Street Fighter II Turbo HD Remix <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Surf's Up | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Tears to Tiara: Earth's Wreath {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2008 | Exclusivo |
-| Tekken 5: Dark Resurrection <br> _Somente digital_ | 2007 | Exclusivo |
+| Tekken 5: Dark Resurrection <br> _(somente digital)_ | 2007 | Exclusivo |
 | The Bigs | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | The Chronicles of Narnia: Prince Caspian | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | The Club | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -266,7 +266,7 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | The Legend of Spyro: Dawn of the Dragon | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | The Orange Box | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | The Simpsons Game | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| The Trials of Topoq <br> _Somente digital_ | 2007 | Exclusivo |
+| The Trials of Topoq <br> _(somente digital)_ | 2007 | Exclusivo |
 | Tiger Woods PGA Tour 07 | 2006 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Tiger Woods PGA Tour 08 | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Tiger Woods PGA Tour 09 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -280,8 +280,8 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Tony Hawk's Project 8 | 2006 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Tony Hawk's Proving Ground | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Top Spin 3 | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
-| Tori-Emaki <br> _Somente digital_ | 2007 | Exclusivo |
-| Toy Home <br> _Somente digital_ | 2007 | Exclusivo |
+| Tori-Emaki <br> _(somente digital)_ | 2007 | Exclusivo |
+| Toy Home <br> _(somente digital)_ | 2007 | Exclusivo |
 | Transformers: The Game | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Turning Point: Fall of Liberty | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | Turok | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
@@ -296,7 +296,7 @@ Algumas desenvolvedoras lançaram _patches_ para adicioná-los ao jogo, mas nem 
 | Wangan Midnight {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
 | Winning Post 7 Maximum 2007 {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2007 | Exclusivo |
 | Winning Post 7 Maximum 2008 {% include emoji.html url="/imgs/bandeira-jap.png" title="Japão" %} | 2008 | Exclusivo |
-| Wolf of the Battlefield: Commando 3 <br> _Somente digital_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
+| Wolf of the Battlefield: Commando 3 <br> _(somente digital)_ | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | World Snooker Championship 2007 {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} | 2007 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | WSC Real 08: World Snooker Championship {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} | 2008 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
 | WSC Real 09: World Championship Snooker {% include emoji.html url="/imgs/bandeira-eur.png" title="Europa" %} | 2009 | {% include emoji.html url="/imgs/xbox.png" title="Também disponível no Xbox 360" %} |
