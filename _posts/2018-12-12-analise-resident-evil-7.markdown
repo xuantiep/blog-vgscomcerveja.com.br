@@ -6,7 +6,15 @@ author: felipebbarbosa
 session: Game Over
 categories: games jogando
 redirect_from: /jogando/analise/2018/12/12/analise-resident-evil-7.html
-tags: [sony, ps4, resident-evil-7, categoria-analise, serie-game-over]
+tags:
+  [
+    sony,
+    ps4,
+    resident-evil-7,
+    resident-evil,
+    categoria-analise,
+    serie-game-over,
+  ]
 related: serie-game-over
 thumbnail: /imgs/posts/game_over/40_resident_evil7/post_thumbnail.jpg
 cover: /imgs/posts/game_over/40_resident_evil7/post_header.jpg
