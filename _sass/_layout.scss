@@ -1191,6 +1191,11 @@
   outline: none;
   font-size: 15px;
   margin-bottom: 10px;
+
+  small {
+    float: right;
+    padding-top: 2px;
+  }
 }
 
 .spoiler {
