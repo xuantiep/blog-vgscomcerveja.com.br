@@ -1,23 +1,32 @@
 <div class="trophies">
+  {% if include.title %}
+    <span class="trophies-box-title">{{ include.title }}</span>
+  {% endif %}
   <div class="trophies-box">
     <h4>TROFÉUS</h4>
     <span><img src="/imgs/40-platinum.png"><br>{{ include.platinas }}</span>
     <span>
       <img src="/imgs/40-gold.png"><br>{{ include.ouros }}
       {% if include.dlc_ouros %}
-        <small style="font-weight:100">(+{{ include.dlc_ouros }})</small>
+        <small style="font-weight:100" title="Troféus extras de ouro (geralmente de DLCs)">
+          (+{{ include.dlc_ouros }})
+        </small>
       {% endif %}
     </span>
     <span>
       <img src="/imgs/40-silver.png"><br>{{ include.pratas }}
       {% if include.dlc_pratas %}
-        <small style="font-weight:100">(+{{ include.dlc_pratas }})</small>
+        <small style="font-weight:100" title="Troféus extras de prata (geralmente de DLCs)">
+          (+{{ include.dlc_pratas }})
+        </small>
       {% endif %}
     </span>
     <span>
       <img src="/imgs/40-bronze.png"><br>{{ include.bronzes }}
       {% if include.dlc_bronzes %}
-        <small style="font-weight:100">(+{{ include.dlc_bronzes }})</small>
+        <small style="font-weight:100" title="Troféus extras de bronze (geralmente de DLCs)">
+          (+{{ include.dlc_bronzes }})
+        </small>
       {% endif %}
     </span>
   </div>  
