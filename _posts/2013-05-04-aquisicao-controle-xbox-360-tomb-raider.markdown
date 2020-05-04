@@ -14,6 +14,7 @@ tags:
     crystal-dynamics,
     square-enix,
     categoria-colecao-pessoal,
+    serie-colecionando-games,
   ]
 thumbnail: /imgs/posts/colecao/15_controle_tomb_raider/post_thumbnail.jpg
 cover: /imgs/posts/colecao/15_controle_tomb_raider/post_header.jpg

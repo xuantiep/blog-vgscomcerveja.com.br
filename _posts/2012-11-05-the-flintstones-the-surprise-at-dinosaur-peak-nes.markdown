@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Mosca Branca
 categories: games colecionando
 redirect_from: /colecionando/mosca-branca/2012/11/05/the-flintstones-the-surprise-at-dinosaur-peak-nes.html
-tags: [nintendo, nes, playtronic, serie-mosca-branca]
+tags: [nintendo, nes, playtronic, serie-mosca-branca, serie-colecionando-games]
 thumbnail: /imgs/posts/mosca_branca/02_flintstones/post_thumbnail.jpg
 cover: /imgs/posts/mosca_branca/02_flintstones/post_header.jpg
 ---

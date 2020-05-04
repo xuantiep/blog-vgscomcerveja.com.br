@@ -17,6 +17,7 @@ tags:
     game-cube,
     wii,
     categoria-colecao-pessoal,
+    serie-colecionando-games,
   ]
 games:
   [

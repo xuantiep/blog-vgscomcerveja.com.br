@@ -18,6 +18,7 @@ tags:
     sony,
     sega,
     categoria-colecao-pessoal,
+    serie-colecionando-games,
   ]
 thumbnail: /imgs/posts/colecao/01_inicio/post_thumbnail.jpg
 cover: /imgs/posts/colecao/01_inicio/post_header.jpg

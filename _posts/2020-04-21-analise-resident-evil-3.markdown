@@ -20,7 +20,7 @@ Assim como na série clássica, Resident Evil 3 "remake" saiu um ano após seu a
 
 A primeira coisa que já chama atenção é que o jogo está visualmente E-S-P-E-T-A-C-U-L-A-R! Ouve uma notória evolução gráfica em relação ao RE2 (remake). Inclusive, estou bem curioso para ver onde eles podem chegar com esta tal de [RE Engine](https://residentevil.fandom.com/wiki/RE_Engine), motor gráfico da Capcom que vem sendo utilizado em diversos jogos da produtora, inclusive em jogos fora da franquia Resident Evil, como Devil May Cry 5.
 
-Mas enfim, o design de **Raccon City**, apesar de reimaginada, está ótimo! Os personagens também estão muito bem trabalhados, incluindo a atuação e dublagem, que mesmo apesar de ainda não termos a versão nacional (somente legendas em português), está muito bem lapidada e fluida, os atores mandaram muito bem! Alías, mandaram muito bem mesmo, eles conseguem transmitir um alto nível de carisma dos personagens ao jogador quase que imediatamente, principalmente o **Carlos Oliveira** (já irei falar mais dele abaixo).
+Mas enfim, o design de **Raccoon City**, apesar de reimaginada, está ótimo! Os personagens também estão muito bem trabalhados, incluindo a atuação e dublagem, que mesmo apesar de ainda não termos a versão nacional (somente legendas em português), está muito bem lapidada e fluida, os atores mandaram muito bem! Alías, mandaram muito bem mesmo, eles conseguem transmitir um alto nível de carisma dos personagens ao jogador quase que imediatamente, principalmente o **Carlos Oliveira** (já irei falar mais dele abaixo).
 
 {% include image.html
   url="/imgs/posts/game_over/42_resident_evil3/screenshot_re3_amarelinha.jpg"
@@ -82,7 +82,7 @@ Mas o que o jogo pecou mesmo, foi na sua durabilidade, eu joguei muito tranquila
 
 Enfim, eu costumo avaliar quando um jogo é bom, quando ele te prende do início ao fim. E Resident Evil 3 foi um exemplo disso, ele me prendeu logo cara com seu gameplay delicioso! Você avança muito rápido no game e não dá tempo de entediar. Tanto que no final, ficou aquele gostinho de quero mais, talvez seja por isso que o pessoal reclamou tanto da durabilidade. É aquela história: "O que é bom dura pouco", mas neste caso, MUITO pouco!
 
-Ah, também está incluso no disco o **Resident Evil: Resistance**, um jogo multiplayer totalmente à parte da campanha principal e é estilo aqueles games onde um jogador é o vilão e os outros tem que fugir para vencer a partida, tipo **Dead by Daylight** e **Friday 13th**. Não é meu tipo de jogo, mas parece ser bem legal!
+Ah, também está incluso no disco o **Resident Evil: Resistance**, um jogo multiplayer totalmente à parte da campanha principal (inclusive com outra lista de troféus e platina, é outro jogo mesmo) e é estilo aqueles games onde um jogador é o vilão e os outros tem que fugir para vencer a partida, tipo **Dead by Daylight** e **Friday 13th**. Não é meu tipo de jogo, mas parece ser bem legal!
 
 {% include ficha.html
   titulo='Resident Evil 3'

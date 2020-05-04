@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3x Naughty Dog!"
+title: "3 edições de colecionador fantásticas da Naughty Dog!"
 date: 2017-08-08 20:00
 author: felipebbarbosa
 session: Edição de Colecionador
@@ -15,6 +15,7 @@ tags:
     ps4,
     categoria-lista,
     serie-edicao-colecionador,
+    serie-colecionando-games,
   ]
 related: serie-edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/05_naughty_dog/post_thumbnail.jpg

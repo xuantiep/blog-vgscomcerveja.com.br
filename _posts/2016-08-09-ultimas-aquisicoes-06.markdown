@@ -20,6 +20,7 @@ tags:
     ps2,
     capcom,
     categoria-colecao-pessoal,
+    serie-colecionando-games,
   ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/20_aquisicoes06/post_thumbnail.jpg

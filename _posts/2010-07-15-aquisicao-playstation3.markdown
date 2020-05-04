@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2010/07/15/aquisicao-playstation3.html
-tags: [sony, ps3, categoria-colecao-pessoal]
+tags: [sony, ps3, categoria-colecao-pessoal, serie-colecionando-games]
 thumbnail: /imgs/posts/colecao/02_ps3/post_thumbnail.jpg
 cover: /imgs/posts/colecao/02_ps3/post_header.jpg
 ---

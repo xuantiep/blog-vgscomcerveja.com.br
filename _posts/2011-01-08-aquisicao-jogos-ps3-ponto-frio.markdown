@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/01/08/aquisicao-jogos-ps3-ponto-frio.html
-tags: [sony, ps3, categoria-colecao-pessoal]
+tags: [sony, ps3, categoria-colecao-pessoal, serie-colecionando-games]
 thumbnail: /imgs/posts/colecao/07_jogos_ps3/post_thumbnail.jpg
 cover: /imgs/posts/colecao/07_jogos_ps3/post_header.jpg
 ---

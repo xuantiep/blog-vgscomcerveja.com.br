@@ -22,6 +22,7 @@ tags:
     master-system,
     xbox-360,
     categoria-colecao-pessoal,
+    serie-colecionando-games,
   ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/17_aquisicoes03/post_thumbnail.jpg

@@ -6,7 +6,8 @@ author: felipebbarbosa
 session: Mosca Branca
 categories: games colecionando
 redirect_from: /colecionando/mosca-branca/2011/04/09/phantasy-star-tectoy.html
-tags: [sega, master-system, tectoy, serie-mosca-branca]
+tags:
+  [sega, master-system, tectoy, serie-mosca-branca, serie-colecionando-games]
 thumbnail: /imgs/posts/mosca_branca/01_phantasy_star/post_thumbnail.jpg
 cover: /imgs/posts/mosca_branca/01_phantasy_star/post_header.jpg
 ---

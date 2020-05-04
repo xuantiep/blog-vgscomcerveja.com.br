@@ -6,7 +6,15 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2010/10/02/aquisicao-resident-evil-ps1-longbox.html
-tags: [sony, ps1, capcom, resident-evil, categoria-colecao-pessoal]
+tags:
+  [
+    sony,
+    ps1,
+    capcom,
+    resident-evil,
+    categoria-colecao-pessoal,
+    serie-colecionando-games,
+  ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/04_resident_evil/post_thumbnail.jpg
 cover: /imgs/posts/colecao/04_resident_evil/post_header.jpg

@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2010/10/23/aquisicao-nintedo-ds-lite.html
-tags: [nintendo, nds, categoria-colecao-pessoal]
+tags: [nintendo, nds, categoria-colecao-pessoal, serie-colecionando-games]
 thumbnail: /imgs/posts/colecao/05_nintendo_ds/post_thumbnail.jpg
 cover: /imgs/posts/colecao/05_nintendo_ds/post_header.jpg
 ---

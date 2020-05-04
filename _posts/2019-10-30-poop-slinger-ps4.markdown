@@ -5,7 +5,7 @@ date: 2019-10-30 22:30
 author: felipebbarbosa
 session: Mosca Branca
 categories: games colecionando
-tags: [sony, ps4, serie-mosca-branca]
+tags: [sony, ps4, serie-mosca-branca, serie-colecionando-games]
 thumbnail: /imgs/posts/mosca_branca/04_poop_slinger/post_thumbnail.jpg
 cover: /imgs/posts/mosca_branca/04_poop_slinger/post_header.jpg
 ---

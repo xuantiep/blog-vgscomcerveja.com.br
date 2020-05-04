@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/01/08/aquisicao-mega-drive.html
-tags: [sega, mega-drive, categoria-colecao-pessoal]
+tags: [sega, mega-drive, categoria-colecao-pessoal, serie-colecionando-games]
 thumbnail: /imgs/posts/colecao/06_mega_drive/post_thumbnail.jpg
 cover: /imgs/posts/colecao/06_mega_drive/post_header.jpg
 ---

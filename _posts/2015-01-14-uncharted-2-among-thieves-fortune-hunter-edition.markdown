@@ -6,7 +6,15 @@ author: felipebbarbosa
 session: Edição de Colecionador
 categories: games colecionando
 redirect_from: /colecionando/edicao-colecionador/2015/01/14/uncharted-2-among-thieves-fortune-hunter-edition.html
-tags: [sony, ps3, naughty-dog, uncharted, serie-edicao-colecionador]
+tags:
+  [
+    sony,
+    ps3,
+    naughty-dog,
+    uncharted,
+    serie-edicao-colecionador,
+    serie-colecionando-games,
+  ]
 related: serie-edicao-colecionador
 thumbnail: /imgs/posts/ed_colecionador/03_uncharted2/post_thumbnail.jpg
 cover: /imgs/posts/ed_colecionador/03_uncharted2/post_header.jpg

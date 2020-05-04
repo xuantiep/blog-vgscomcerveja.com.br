@@ -26,6 +26,9 @@
     - title: Caçadores de Troféus
       url: /cacadores-de-trofeus
       logo: /imgs/tags/cacadores-de-trofeus.png
+    - title: Colecionando Games
+      url: /colecionando-games
+      logo: /imgs/tags/colecionando-games.png
     #    - title: Cervejando
     #      url: /cervejando
     #      logo: /imgs/tags/cervejando.png
@@ -35,8 +38,8 @@
     - title: Faça Você Mesmo
       url: /faca-voce-mesmo
       logo: /imgs/tags/faca-vc-mesmo.png
-    - title: Game DB
-      url: /game-db
+    - title: Game Database
+      url: /game-database
       logo: /imgs/tags/game-db.png
     - title: Game Over
       url: /game-over
@@ -44,9 +47,9 @@
     - title: Mosca Branca
       url: /mosca-branca
       logo: /imgs/tags/mosca-branca.png
-    - title: Pecados Gamísticos
-      url: /pecados-gamisticos
-      logo: /imgs/tags/pecados-gamisticos.png
+    #    - title: Pecados Gamísticos
+    #      url: /pecados-gamisticos
+    #      logo: /imgs/tags/pecados-gamisticos.png
     - title: Proseando
       url: /proseando
       logo: /imgs/tags/proseando.png
@@ -56,6 +59,6 @@
     - title: VCC Recomenda!
       url: /vcc-recomenda
       logo: /imgs/tags/vcc-recomenda.png
-#    - title: Videogames em Latas
-#      url: /videogames-em-latas
-#      logo: /imgs/tags/vgs-em-latas.png
+    #    - title: Videogames em Latas
+    #      url: /videogames-em-latas
+    #      logo: /imgs/tags/vgs-em-latas.png

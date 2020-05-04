@@ -25,6 +25,7 @@ tags:
     tectoy,
     ps4,
     categoria-colecao-pessoal,
+    serie-colecionando-games,
   ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/19_aquisicoes05/post_thumbnail.jpg

@@ -17,6 +17,7 @@ games:
     tomb-raider-legend,
     tomb-raider-underworld,
     need-for-speed-most-wanted,
+    serie-colecionando-games,
   ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/16_aquisicoes02/post_thumbnail.jpg

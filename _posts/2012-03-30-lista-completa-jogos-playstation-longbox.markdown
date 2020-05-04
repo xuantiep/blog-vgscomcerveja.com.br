@@ -6,7 +6,15 @@ author: felipebbarbosa
 session: Game DB
 categories: games colecionando
 redirect_from: /colecionando/utilidade-publica/2012/03/30/lista-jogos-playstation-longbox.html
-tags: [sony, ps1, complete-lists, categoria-utilidade-publica, serie-game-db]
+tags:
+  [
+    sony,
+    ps1,
+    complete-lists,
+    categoria-utilidade-publica,
+    serie-game-db,
+    serie-colecionando-games,
+  ]
 related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_thumbnail.jpg
 cover: /imgs/posts/utilidade_publica/05_jogos_ps1_longbox/post_header.jpg

@@ -15,6 +15,7 @@ tags:
     complete-lists,
     categoria-utilidade-publica,
     serie-game-db,
+    serie-colecionando-games,
   ]
 related: complete-lists
 thumbnail: /imgs/posts/utilidade_publica/04_jogos_master_system_tectoy/post_thumbnail.jpg

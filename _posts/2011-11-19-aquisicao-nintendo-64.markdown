@@ -6,7 +6,7 @@ author: felipebbarbosa
 session: Coleção Pessoal
 categories: games colecionando
 redirect_from: /colecionando/colecao-pessoal/2011/11/19/aquisicao-nintendo-64.html
-tags: [nintendo, n64, categoria-colecao-pessoal]
+tags: [nintendo, n64, categoria-colecao-pessoal, serie-colecionando-games]
 thumbnail: /imgs/posts/colecao/10_nintendo_64/post_thumbnail.jpg
 cover: /imgs/posts/colecao/10_nintendo_64/post_header.jpg
 ---

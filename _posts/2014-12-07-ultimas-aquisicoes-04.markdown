@@ -24,6 +24,7 @@ tags:
     lego,
     metal-gear-solid,
     categoria-colecao-pessoal,
+    serie-colecionando-games,
   ]
 related: colecao-pessoal
 thumbnail: /imgs/posts/colecao/18_aquisicoes04/post_thumbnail.jpg
