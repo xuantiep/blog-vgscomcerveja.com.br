@@ -13,6 +13,7 @@ tags:
     complete-lists,
     categoria-lista,
     categoria-utilidade-publica,
+    serie-game-db,
     serie-cacadores-trofeus,
   ]
 related: serie-cacadores-trofeus
