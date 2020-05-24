@@ -36,7 +36,7 @@ jogos dos últimos tempos!
 
 {% include youtubePlayer.html id='RO90omga8D4' %}
 
-Você assume o papel de **_Doomguy_**, o famoso protagonista desconhecido da série, que acorda
+Você assume o papel de **_Doomguy_**, o famoso protagonista de nome desconhecido da série, que acorda
 em Marte numa base totalmente desvastada por demônios, pois um portal para o inferno foi aberto.
 Sua missão: matar a todos e fechar o portal.
 
@@ -49,7 +49,7 @@ Entretanto, o grande atrativo do jogo é com certeza sua mecânica quase que per
 para um jogo de tiro, onde o nível de dificuldade vai subindo progressivamente conforme avança no
 jogo. Você começa sendo apresentado ao seu traje, conhecido como _Praetor Suit_, a uma pistola de
 munição infinita e a seu primeiro inimigo. Atire nele sem dó, aí de repente ele começa a piscar
-laranja e você conhece um dos recursos mais viciantes do jogo: a **execução gloriosa** (_Glory Kills_),
+laranja, é nesta hora que você conhece um dos recursos mais viciantes do jogo: a **execução gloriosa** (_Glory Kills_),
 onde você finaliza o inimigo de forma violentamente brutal com apenas um botão!
 
 {% include image.html
@@ -58,9 +58,9 @@ onde você finaliza o inimigo de forma violentamente brutal com apenas um botão
 
 Conforme você avança, a quantidade de inimigos vai aumentando, assim como, seus tamanhos. Porém,
 seu arsenal também aumenta, contando com _shotguns_ (são duas: a combat e a super), metralhadora
-giratória, rifle de assalto, arma de plasma, de raio, granadas, serras elétricas, bazucas e
+giratória, rifle de assalto, arma de plasma e de raio, granadas, serras elétricas, bazucas e
 a mais mortal, desvastadora e famosa BFG-9000, onde com apenas um tiro elimina praticamente todos
-inimigos de uma vez. E quase todas elas possuem _upgrades_ que você pode realizar durante o jogo,
+inimigos presentes na sala de uma só vez. E quase todas elas possuem _upgrades_ que você pode realizar durante o jogo,
 basta encontrar os drones espalhados pelas fases.
 
 Ao todo são 13 fases, todas elas bem trabalhadas e com áreas abertas, onde escondem vários segredos.
@@ -98,7 +98,7 @@ E é isso! Talvez não tenha consiguido transmitir o quão legal é esse **DOOM*
 
 DOOM foi desenvolvido pela [id Software](https://www.idsoftware.com/en-us) e publicado pela
 [Bethesda](https://bethesda.net/pt/dashboard) em 2016 para as plataformas PlayStation 4, Xbox One,
-PC e recentemente saiu para o Nintendo Switch!
+PC e recentemente saiu para o Nintendo Switch (incrível, não?)!
 
 {% include ficha.html
   titulo='DOOM'
