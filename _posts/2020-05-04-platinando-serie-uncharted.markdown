@@ -25,7 +25,7 @@ Como incentivo para ficarmos em casa durante essa quarentena (devido a pandemia 
 
 Bom, para começar, todos os jogos da série seguem praticamente o mesmo padrão de troféus, ou seja, é mais ou menos assim: zere na dificuldade mais díficil (demolidor ou crushing se tiver em inglês), mate "X" inimigos usando a arma "Y", encontre todos os tesouros escondidos, mate "X" inimigos com tiro na cabeça (headshot) e por aí vai... Entretanto, cada jogo tem suas particularidades, como por exemplo modo multiplayer com troféus incluídos na lista de troféus principal (obrigatórios para platina) ou se estão em lista separadas em DLCs (opcionais). Enfim, tentarei apontar os detalhes aqui, mas definitivamente **não é um guia detalhado**.
 
-## Uncharted: Drake's Fortune
+## Uncharted: Drake's Fortune {#uncharted}
 
 ##### PlayStation 3
 
@@ -41,7 +41,7 @@ Ah, o jogo foi lançado antes do sistema de troféus ter sido implementado pela 
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=3 pratas=8 bronzes=36 %}
 
-## Uncharted 2: Among Thieves
+## Uncharted 2: Among Thieves {#uncharted-2}
 
 ##### PlayStation 3
 
@@ -51,7 +51,7 @@ Considerado por muitos o melhor da série no PS3, ele é um dos jogos que, infel
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=3 pratas=8 dlc_pratas=2 bronzes=36 dlc_bronzes=21 %}
 
-## Uncharted 3: Drake's Deception
+## Uncharted 3: Drake's Deception {#uncharted-3}
 
 ##### PlayStation 3
 
@@ -65,7 +65,7 @@ Mas fique tranquilo que na versão de PS4, como você irá ver abaixo, ambos os 
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=1 pratas=10 dlc_pratas=15 bronzes=43 dlc_bronzes=35 %}
 
-## Uncharted: Golden Abyss
+## Uncharted: Golden Abyss {#uncharted-golden-abyss}
 
 ##### PS Vita
 
@@ -79,7 +79,7 @@ Você pode concluir 100% do jogo em mais ou menos **25 horas**.
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=2 pratas=5 bronzes=48 %}
 
-## Uncharted: The Nathan Drake Collection
+## Uncharted: The Nathan Drake Collection {#uncharted-collection}
 
 ##### PlayStation 4
 
@@ -102,7 +102,7 @@ Mas, se você gosta de fazer 100%, os jogos contam com uma lista estendida opcio
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=3 pratas=5 bronzes=47 dlc_bronzes=5
     title="Uncharted 3: Drake's Deception Remastered" %}
 
-## Uncharted 4: A Thief's End
+## Uncharted 4: A Thief's End {#uncharted-4}
 
 ##### PlayStation 4
 
@@ -116,7 +116,7 @@ Para os completonistas que gostam de fazer 100%, você precisará conquistar os 
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=1 pratas=9 dlc_pratas=1 bronzes=45 dlc_bronzes=11 %}
 
-## Uncharted: The Lost Legacy
+## Uncharted: The Lost Legacy {#uncharted-lost-legacy}
 
 ##### PlayStation 4
 
@@ -128,7 +128,7 @@ O jogo segue a mesma fórmula, com excessão que, felizmente, não temos multipl
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=2 pratas=11 bronzes=36 %}
 
-#### Bônus: Uncharted: Fight Fortune (PS Vita)
+#### Bônus: Uncharted: Fight Fortune (PS Vita) {#uncharted-fight-fortune}
 
 Ah, só para finalizar: um bônus! Existe um jogo de cartas no PS Vita baseado na série, mas que infelizmente, como ele não possui platina em sua lista de troféus, e por isso, eu meio que deixei ele de fora. Mas, caso você queira fazer 100% sem platina mesmo, uma péssima notícia: infelizmente, ele tem um troféu online que não está mais disponível, pois os servidores também estão desligados. Ele não era difícil, mas você levaria umas 25 horas para completá-lo, o que poderia ser meio maçante para um jogo de cartas!
 

@@ -15,7 +15,7 @@ Feliz 2020! Quem acompanha o blog já sabe: o primeiro post do ano é a presenç
 
 <!--more-->
 
-## Super Metroid
+## Super Metroid {#super-metroid}
 
 ##### Super Nintendo (Classic Edition)
 
@@ -25,7 +25,7 @@ Apesar de já estarmos quase na metade de Janeiro e ainda não tive a oportunida
 
 **Super Metroid** é um clássico absoluto que acredito que nunca envelhecerá, pois continua ótimo e divertido até mesmo para os padrões atuais! Para [muitos](https://vaojogar.com.br/escrito/como-virei-fa-de-metroid) ele é melhor jogo de SNES. Eu não diria o melhor, mas com certeza estaria num TOP 5 ou até mesmo TOP 3! Jogo imperdível!
 
-## Resident Evil 2
+## Resident Evil 2 {#resident-evil-2}
 
 ##### PlayStation 4
 
@@ -45,7 +45,7 @@ Ela acertou em praticamente tudo: clima tenso do início ao fim, momentos de nos
 
 Que este é um clássico que dispensa comentários, todos sabem! Apesar de eu de ter jogado apenas algumas horas (mas chegando ao final do jogo), ele entrou na lista por ter sido um momento legal, pois foi dividido com um amigo que tinha ótimas recordações com esse jogo (e o Enduro do Atari) na infância e que fazia muito tempo que não jogava. Então, após um convite, passamos uma tarde à la videogames com cerveja, com algumas brejas e muita nostalgia e diversão!
 
-## Wolfenstein: The New Order
+## Wolfenstein: The New Order {#wolfenstein}
 
 ##### Xbox One
 
@@ -57,7 +57,7 @@ Apesar da história ser intrigante, é o gameplay que faz tudo valer a pena, [me
 
 Esse ano pretendo, sem falta, jogar a continuação: **Wolfenstein II: The New Colossus**. Inclusive, ambos estão disponíveis no [Xbox Game Pass](https://www.xbox.com/pt-BR/xbox-game-pass/games)! :)
 
-## Days Gone
+## Days Gone {#days-gone}
 
 ##### PlayStation 4
 
@@ -65,7 +65,7 @@ Esse ano pretendo, sem falta, jogar a continuação: **Wolfenstein II: The New C
 
 Jogos pós-apocalípticos com zumbis são meio que meu calcanhar de Aquiles, pois sempre me despertam o interesse em jogá-los. Não sei se é por causa da exploração em mundo deserto e desvastado ou se.. não, é só por isso mesmo. Lógico, que tem que ter um bom gameplay e, se possível, uma ótima narrativa também. E **Days Gone**, apesar dos seus defeitos, consegue entregar um ótimo universo, acompanhado de uma história interessante e uma jogabilidade divertida. Foi um dos jogos que mais me diverti no ano... até platinar, aí não joguei mais! rs
 
-## Sega Heroes
+## Sega Heroes {#sega-heroes}
 
 ##### Android
 
@@ -73,7 +73,7 @@ Jogos pós-apocalípticos com zumbis são meio que meu calcanhar de Aquiles, poi
 
 É _pay-to-win_? Sim! Fica te ofertando pacotes caros de itens o tempo todo? Sim! Mas tirando essas partes ~~extremamente~~ chatas e tendo paciência na sua evolução, é um jogo divertido! Eu o encaro como um jogo casual para passar o tempo, sem pressa nenhuma na evolução dos personagens, pois é totalmente feito para você gastar dinheiro nele. Mas eu recuso a fazer isso... talvez se fosse menos abusivo nos valores! Ah, até temos uma guilda ~~meio morta~~ por lá... procure por "vgscomcerveja". :)
 
-## Need for Speed: Most Wanted
+## Need for Speed: Most Wanted {#nfs-most-wanted}
 
 ##### PS Vita
 
@@ -83,7 +83,7 @@ Tava demorando, né? Quem acompanha os memes sabe: todo ano tem pelo menos um **
 
 Consegui platiná-lo, mas devo dizer que é uma tarefa meio chatinha devido à presença de troféus de multiplayer online e, pior ainda, não basta apenas jogar na rede com jogadores desconhecidos, alguns troféus exigem que você seja o _host_ das corridas jogando com seus amigos. E a dificuldade para encontrar esse "amigo"? Tive que recorrer aos _boosts_ de sites como o [MyPSt](https://mypst.com.br/) e o [PSN Profiles](https://psnprofiles.com/), mas que mesmo assim era difícil de conciliar os horários de jogatina... enfim, deu trabalho!
 
-## Horizon Chase - World Tour
+## Horizon Chase - World Tour {#horizon-chase}
 
 ##### Android
 
@@ -95,7 +95,7 @@ Para quem não conhece, esse é um jogo de corrida arcade brasileiro que tem a m
 
 Jogo imperdível! Acredito que seja um dos melhores (senão o melhor) jogos de corrida para celular!
 
-## Hollow Knight
+## Hollow Knight {#hollow-knight}
 
 ##### PlayStation 4
 
@@ -107,7 +107,7 @@ Retomei, aliás, recomecei para valer neste ano que passou, só que desta vez no
 
 Com certeza, um dos melhores _metroidvanias_ que joguei nos últimos tempos. Dificuldade um pouco elevada, porém, acredito, que na dose certa (pelo menos para concluir a campanha principal). Você irá passar raiva algumas vezes, mas acredite, é um jogo lindo e prazeroso de jogar! Quando você menos espera, está totalmente viciado e imersivo à ele! **JOGÃO!**
 
-## Need for Speed: Heat
+## Need for Speed: Heat {#nfs-heat}
 
 ##### PlayStation 4
 

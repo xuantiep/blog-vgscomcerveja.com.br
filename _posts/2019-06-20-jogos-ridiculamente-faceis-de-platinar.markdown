@@ -18,7 +18,7 @@ cover: /imgs/posts/toplist/13_cacadores_trofeus3/post_header.jpg
 
 ### Mecho Tales {#mecho-tales}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/mecho_tales.jpg" %}
 
 **Mecho Tales** até consegue apresentar um _run and shoot_ minimamente divertido, porém, o jogo deixa muito a desejar, começando pela escolha das texturas do jogo, não tem como alguém achar que aquilo ali estava bonito. É tudo meio psicodélico e confuso. Mas enfim, pelo menos, você não terá que investir muitas horas no game, pois ao todo são apenas 8 fases com 2 estágios cada e alguns chefes.
@@ -42,7 +42,7 @@ Acredite, esse é o menos pior da lista.
 
 ### Orc Slayer {#orc-slayer}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/orc_slayer.jpg" %}
 
 Quais foram os piores jogos de tiro (FPS) que você já jogou? Se [Orc Slayer](http://www.theorcslayer.com/) não está lista, é porque você ainda não o jogou! Sério, o game peca em praticamente TUDO. Gráficos muito pobres, jogabilidade muito fraca, som bem genérico e a história... bem, que história? Suas opções de armas são apenas um machado, uma espada, uma tocha ou um arco-e-flecha e seu objetivo é matar todos os orcs e porcos voadores da fase... E só!
@@ -65,7 +65,7 @@ O jogo foi desenvolvido pela [Cooply Solutions](https://www.cooply.com/) e está
 
 ### Mr. Massagy {#mr-massagy}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/mr_massagy.jpg" %}
 
 Este é até que é um jogo bem feitinho visualmente, porém, sua proposta de jogo não é das melhores! Ao menos não faz sentido para mim. Seu objetivo é ser "bom de lábia" com mulheres solteiras para conseguir uma recompensadora massagem! E sim, o controle vibra para simular a massagem! :D
@@ -86,7 +86,7 @@ Desenvolvido pela [Green Lava Studios](https://www.greenlavastudios.com/), o jog
 
 ### Energy Cycle {#energy-cycle}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_cycle.jpg" %}
 
 Um jogo de puzzle onde seu objetivo é deixar todas "bolinhas" da mesma cor. Funciona assim: ao clicar em uma bolinha, ela muda de cor e também muda as cores das bolinhas adjacentes na vertical e horizontal. Parace fácil no começo, mas conforme o desafio vai aumentando, vai ficando complicado. Caso você só esteja interessado na platina, recomendo seguir um [guia](https://psnprofiles.com/guide/7820-energy-cycle-trophy-guide) e assim poderá obter a platina em menos de 30 minutos.
@@ -110,7 +110,7 @@ O jogo tem 3 modos: Puzzle mode, Time attack e Infinity layer. Todos eles seguem
 
 ### Energy Balance {#energy-balance}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_balance.jpg" %}
 
 Mais um jogo da série "Energy", porém esse é mais díficil e meio controverso no quesito "fácil de platinar". Pois para se tornar fácil, você terá que "burlar o sistema" e usar um programa para resolver os puzzles para você. Entretanto, não é tão simples quanto parece, pois a cada desafio, você terá que modificar o código-fonte deste [software](https://github.com/xuyiqi/EnergyBalance) para ele te dar o resultado, pois os desafios do jogo são aleatórios. Então, caso você não tenha muita familiaridade com programação, isso pode ser tornar um desafio ainda maior do que o do próprio jogo. :)
@@ -130,7 +130,7 @@ Mas caso se interesse, [aqui tem um tutorial](https://www.playstationtrophies.or
 
 ### Energy Invasion {#energy-invasion}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/energy_invasion.jpg" %}
 
 Outro da série "Energy", porém esse não tem nada de puzzles. Ele é meio que um clone do [Breakout](http://blogtectoy.com.br/conheca-breakout-o-classico-jogo-desenvolvido-por-steve-jobs-para-atari/), onde você tem que destruir todos os blocos rebatendo uma bolinha (ou várias) com sua barra (que neste caso não é bem uma barra, sei lá o que é aquilo), sem deixar que a bolinha caia.
@@ -150,7 +150,7 @@ Para platinar, você tem chegar nos níveis correspondentes de cada modo, são t
 
 ### Puzzle Showdown 4K {#puzzle-showdown-4k}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/puzzle_showdown_4k.jpg" %}
 
 Esse não tem muito segredo, basta você montar os quebra-cabeças! Sim, esse é um jogo de montar quebra-cabeças literalmente. Ah, você irá precisar de dois controles, pois tem alguns troféus de multiplayer local. Mas basta plugar o segundo controle e jogar normalmente só com o primeiro.
@@ -169,7 +169,7 @@ Mas caso você tenha alguém para jogar contigo, o jogo se torna bem mais fácil
 
 ### My Name Is Mayo {#my-name-is-mayo}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/my_name_is_mayo.jpg" %}
 
 Fiquei na dúvida de qual jogo eu elegeria como pior jogo desta lista. E este escapou só porque, apesar do seu propósito ser rídiculo, o "acabamento" dele é melhor, pois teve um trabalho artistíco e tudo mais.
@@ -188,7 +188,7 @@ Mas como eu disse, o propósito deste "jogo" é rídiculo, pois tudo que você t
 
 ### Little Adventure on the Prairie {#little-adventure-prairie}
 
-{% include image.html
+{% include image.html full="true"
   url="/imgs/posts/toplist/13_cacadores_trofeus3/little_adventure_on_the_prairie.jpg" %}
 
 Eis o jogo "campeão" desta lista! Imagine que você está aprendendo a desenvolver jogos, aí quando você começa a "brincar" um pouco com movimentação de personagens, controle de colisão, um pouco de inteligência artificial e faz um "projetinho" para explorar seus conhecimentos. Bom, talvez, o seu projeto fique melhor acabado do que esse jogo! É sério! Veja por si só:

@@ -15,7 +15,7 @@ E aí como está sendo sua quarentena? Espero que bem! Que tal aproveitar esse t
 
 <!--more-->
 
-## Burly Men At Sea
+## Burly Men At Sea {#burly-men-at-sea}
 
 ##### PS Vita / PlayStation 4
 
@@ -27,7 +27,7 @@ O jogo já foi disponibilizado gratuitamente aos assinantes da PS+ no passado, m
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=6 pratas=14 bronzes=4 %}
 
-## Black & White Bushido
+## Black & White Bushido {#black-white-bushido}
 
 ##### PlayStation 4
 
@@ -47,7 +47,7 @@ Para platinar, você terá que basicamente realizar algumas façanhas nos três 
   platinas=1 ouros=10 pratas=2 bronzes=0
   xboxAvailable="true" xboxConsole="Xbox One" xboxPoints="1000" %}
 
-## Storm Boy - The Game
+## Storm Boy - The Game {#storm-boy}
 
 ##### PlayStation 4
 
@@ -61,7 +61,7 @@ Para platinar não tem segredo, você consegue completar a lista de troféus ent
   platinas=1 ouros=11 pratas=0 bronzes=0
   xboxAvailable="true" xboxConsole="Xbox One" xboxPoints="1000" %}
 
-## The Mooseman
+## The Mooseman {#mooseman}
 
 ##### PlayStation 4
 
@@ -81,7 +81,7 @@ Além disso, [o jogo](https://store.playstation.com/pt-br/product/UP1675-CUSA121
   platinas=1 ouros=5 pratas=3 bronzes=2
   xboxAvailable="true" xboxConsole="Xbox One" xboxPoints="1000" %}
 
-## Drowning
+## Drowning {#drowning}
 
 ##### PS Vita / PlayStation 4
 
@@ -95,7 +95,7 @@ O jogo tem para [PS Vita](https://store.playstation.com/pt-br/product/UP1675-PCS
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=9 pratas=3 bronzes=4 %}
 
-## Breeder Hometown: Director's Cut
+## Breeder Hometown: Director's Cut {#breeder}
 
 ##### PS Vita / PlayStation 4
 
@@ -107,7 +107,7 @@ O jogo é bem simples de completar e provavelmente você pegará a maioria dos t
 
 {% include game-psn-trophies-card-simple.html platinas=1 ouros=11 pratas=0 bronzes=0 %}
 
-## Planet RIX-13
+## Planet RIX-13 {#planet-rix-13}
 
 ##### PS Vita / PlayStation 4
 
