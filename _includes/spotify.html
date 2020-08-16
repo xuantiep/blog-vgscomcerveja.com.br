@@ -1,0 +1,22 @@
+<style>
+  .embed-container {
+    position: relative;
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+    height: 100px;
+  }
+  .embed-container iframe,
+  .embed-container object,
+  .embed-container embed {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 80px;
+  }
+</style>
+
+<div class='embed-container'>
+    <iframe src='https://embed.spotify.com/?uri=spotify:track:{{ include.track }}' frameborder='0' allowtransparency='true'></iframe>
+</div>
