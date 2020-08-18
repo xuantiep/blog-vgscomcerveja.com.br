@@ -54,7 +54,9 @@
 
   <h2>#vgscomcerveja</h2>
 
-  {% include instagram.html id="BlN9gyllydS" %}
+  {% assign instaphoto = site.data.instagram | sample: 2 %}
+
+  {% include instagram.html id="{{ instaphoto[0].id }}" %}
 
   <h2>Colunas e Séries</h2>
 
