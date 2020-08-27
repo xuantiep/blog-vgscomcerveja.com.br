@@ -5,8 +5,8 @@
   <div class="psn-game-card-col2">
     <h3><a href="{{ include.link }}">{{ include.title }}</a></h3>
     <span title="Preço">{{ include.price }}</span>
-    <span title="Dificuldade">{{ include.difficulty }}</span>
-    <span title="Tempo">{{ include.duration }}</span>
+    {% if include.difficulty %}<span title="Dificuldade">{{ include.difficulty }}</span>{% endif %}
+    {% if include.duration %}<span title="Tempo">{{ include.duration }}</span>{% endif %}
     {% if include.obs %}
       <br>
       <small>
