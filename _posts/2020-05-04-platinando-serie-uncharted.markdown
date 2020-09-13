@@ -3,7 +3,7 @@ layout: post
 title: "Platinando a série Uncharted!"
 date: 2020-05-04 20:00
 author: felipebbarbosa
-session: Caçadores de Troféus
+session: Gametrofista
 categories: games jogando
 tags:
   [
@@ -13,8 +13,9 @@ tags:
     naughty-dog,
     uncharted,
     categoria-lista,
-    serie-cacadores-trofeus,
+    serie-gametrofista,
   ]
+related: serie-gametrofista
 thumbnail: /imgs/posts/toplist/18_platinando_uncharted/post_thumbnail.jpg
 cover: /imgs/posts/toplist/18_platinando_uncharted/post_header.jpg
 ---

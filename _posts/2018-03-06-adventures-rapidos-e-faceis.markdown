@@ -3,11 +3,11 @@ layout: post
 title: "6 adventures rápidos e fáceis para PS4 (e que não são da Telltale)"
 date: 2018-03-06 21:30
 author: felipebbarbosa
-session: Caçadores de Troféus
+session: Gametrofista
 categories: games jogando
 redirect_from: /jogando/toplist/2018/03/06/adventures-rapidos-e-faceis.html
-tags: [sony, ps4, categoria-lista, serie-cacadores-trofeus]
-related: serie-cacadores-trofeus
+tags: [sony, ps4, categoria-lista, serie-gametrofista]
+related: serie-gametrofista
 thumbnail: /imgs/posts/toplist/11_cacadores_trofeus2/post_thumbnail.jpg
 cover: /imgs/posts/toplist/11_cacadores_trofeus2/post_header.jpg
 ---

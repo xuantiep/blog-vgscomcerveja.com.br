@@ -3,9 +3,10 @@ layout: post
 title: "42 platinas rápidas na promoção 'Totally Digital' da PS Store!"
 date: 2020-01-25 14:00
 author: felipebbarbosa
-session: Caçadores de Troféus
+session: Gametrofista
 categories: games jogando
-tags: [sony, ps4, categoria-lista, serie-cacadores-trofeus]
+tags: [sony, ps4, categoria-lista, serie-gametrofista]
+related: serie-gametrofista
 thumbnail: /imgs/posts/toplist/16_psn-totally-digital/post_thumbnail.jpg
 cover: /imgs/posts/toplist/16_psn-totally-digital/post_header.jpg
 ---
@@ -14,11 +15,13 @@ Toda vez que a **Sony** lança uma promoção na **PlayStation Store**, lá vou 
 
 <!--more-->
 
-Lembrando que a promoção ficará disponível o dia **4/2**, mas a lista pode ficar como referência futura aos [Caçadores de Troféus](/cacadores-de-trofeus) de plantão. Ah, e se você curtiu a ideia, deixe um comentário para eu ver se isso é interessante para mais alguém ~~(além de mim)~~!
+Lembrando que a promoção ficará disponível até o dia **4/2**, mas a lista pode ficar como referência futura aos [Caçadores de Troféus](/cacadores-de-trofeus) de plantão. Ah, e se você curtiu a ideia, deixe um comentário para eu ver se isso é interessante para mais alguém ~~(além de mim)~~!
 
 Antes de seguir com a lista, gostaria de dizer que o preço pode variar um pouco caso você não seja assinante da **PS+**. Se você se interessar por algum jogo, basta clicar no título para ser direcionado para a loja. **Não são links patricionados!** ~~(Até porque eu não sei fazer isso, mas aceito dicas de quem saiba!)~~. Além disso, vale mencionar que **não** joguei todos eles e os critérios usados para dificuldade e tempo são baseados em sites como o [MyPST](https://mypst.com.br/), [PSN Profiles](https://psnprofiles.com/) e outros..
 
 Sem mais delongas, segue a lista em ordem alfabética:
+
+{% include warning-alert.html msg="Promoção encerrada!" %}
 
 {% include psn-game-card.html
     cover="/imgs/posts/toplist/16_psn-totally-digital/covers/11-11.jpg"

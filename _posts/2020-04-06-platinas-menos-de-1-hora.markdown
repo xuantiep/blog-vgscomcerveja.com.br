@@ -3,10 +3,11 @@ layout: post
 title: "7 platinas para pegar em um final de semana!"
 date: 2020-04-06 22:30
 author: felipebbarbosa
-session: Caçadores de Troféus
+session: Gametrofista
 categories: games jogando
 tags:
-  [sony, playstation, ps4, trofeus, categoria-lista, serie-cacadores-trofeus]
+  [sony, playstation, ps4, trofeus, categoria-lista, serie-gametrofista]
+related: serie-gametrofista
 thumbnail: /imgs/posts/toplist/17_platinas-fds/post_thumbnail.jpg
 cover: /imgs/posts/toplist/17_platinas-fds/post_header.jpg
 ---

@@ -3,16 +3,19 @@ layout: post
 title: "63 platinas rápidas e fáceis que estão na Promoção Tesouros Ocultos por menos de R$ 12!"
 date: 2020-08-26 23:30
 author: felipebbarbosa
-session: Caçadores de Troféus
+session: Gametrofista
 categories: games jogando
-tags: [playstation, ps4, psvita, sony, categoria-lista, serie-cacadores-trofeus]
+tags: [playstation, ps4, psvita, sony, categoria-lista, serie-gametrofista]
+related: serie-gametrofista
 thumbnail: /imgs/posts/toplist/22_psn-tesouros-ocultos/post_thumbnail.jpg
 cover: /imgs/posts/toplist/22_psn-tesouros-ocultos/post_header.jpg
 ---
 
-A Sony liberou nesta quarta-feira (26/08) uma promoção chamada [Tesouros Ocultos](https://store.playstation.com/pt-br/grid/STORE-MSF77008-HIDDENGEMSSALE/1) com uma ENORME quantidade de jogos com platina rápida e fácil! Porém, como são muitos, selecionei apenas os jogos que estão **abaixo dos R$ 12,00** e, mesmo assim, foram muitos! Enfim, essa é uma bela oportunidade de dar aquele upgrade na sua coleção de troféus de platina, ainda mais se tiver alguns trocos sobrando na sua carteira por lá! 
+A Sony liberou nesta quarta-feira (26/08) uma promoção chamada **Tesouros Ocultos** com uma ENORME quantidade de jogos com platina rápida e fácil! Porém, como são muitos, selecionei apenas os jogos que estão **abaixo dos R$ 12,00** e, mesmo assim, foram muitos! Enfim, essa é uma bela oportunidade de dar aquele upgrade na sua coleção de troféus de platina, ainda mais se tiver alguns trocos sobrando na sua carteira por lá! 
 
 <!--more-->
+
+{% include warning-alert.html msg="Promoção encerrada!" %}
 
 ## Menos de R$ 6,00
 

@@ -5,7 +5,7 @@ date: 2019-12-14 7:30
 author: felipebbarbosa
 session: Caçadores de <s>Troféus</s> Conquistas
 categories: games jogando
-tags: [microsoft, xbox, xbox-one, categoria-lista, serie-cacadores-trofeus]
+tags: [microsoft, xbox, xbox-one, categoria-lista, serie-gametrofista]
 thumbnail: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_thumbnail.jpg
 cover: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_header.jpg
 ---

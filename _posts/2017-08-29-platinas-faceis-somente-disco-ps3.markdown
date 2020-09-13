@@ -3,11 +3,11 @@ layout: post
 title: "3 platinas fáceis, porém somente em disco no PS3!"
 date: 2017-08-29 21:00
 author: felipebbarbosa
-session: Caçadores de Troféus 
+session: Gametrofista 
 categories: games jogando
 redirect_from: /jogando/toplist/2017/08/29/3-platinas-faceis-somente-disco-ps3.html
-tags: [sony, ps3, categoria-lista, serie-cacadores-trofeus]
-related: serie-cacadores-trofeus
+tags: [sony, ps3, categoria-lista, serie-gametrofista]
+related: serie-gametrofista
 thumbnail: /imgs/posts/toplist/09_cacadores_trofeus1/post_thumbnail.jpg
 cover: /imgs/posts/toplist/09_cacadores_trofeus1/post_header.jpg
 ---
