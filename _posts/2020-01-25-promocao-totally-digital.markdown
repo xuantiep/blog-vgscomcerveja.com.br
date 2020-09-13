@@ -11,7 +11,7 @@ thumbnail: /imgs/posts/toplist/16_psn-totally-digital/post_thumbnail.jpg
 cover: /imgs/posts/toplist/16_psn-totally-digital/post_header.jpg
 ---
 
-Toda vez que a **Sony** lança uma promoção na **PlayStation Store**, lá vou eu verificar se tem algum jogo interessante por lá, e quando digo interessante, quero dizer os jogos de platinas rápidas e fáceis, óbvio! Esta semana a [Promoção Totally Digital](https://store.playstation.com/pt-br/grid/STORE-MSF77008-TOTALLYDIGITAL/1) foi disponibilizada e como quase sempre, já olhei os jogos que atendem os critérios mencionados acima, a diferença que desta vez, eu resolvi compartilhar o resultado desta busca! E com isso selecionei 42 jogos que podem ser platinados em menos de 10h, aproveite!
+Toda vez que a **Sony** lança uma promoção na **PlayStation Store**, lá vou eu verificar se tem algum jogo interessante por lá, e quando digo interessante, quero dizer os jogos de platinas rápidas e fáceis, óbvio! Esta semana a **Promoção Totally Digital** foi disponibilizada e como quase sempre, já olhei os jogos que atendem os critérios mencionados acima, a diferença que desta vez, eu resolvi compartilhar o resultado desta busca! E com isso selecionei 42 jogos que podem ser platinados em menos de 10h, aproveite!
 
 <!--more-->
 
