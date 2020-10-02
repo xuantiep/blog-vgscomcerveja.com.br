@@ -1,0 +1,21 @@
+---
+layout: default
+header: false
+footer: false
+---
+
+<div class="page-title">
+  <a href="/" title="{{ site.name }}">
+    <img src="/imgs/favicon.png" class="tag-logo">
+  </a>
+</div>
+
+{{ content }}
+
+<div class="page-title share-social-links">
+  {% for socialLink in site.data.social_links %}
+    <a href="{{ socialLink.url }}" title="{{ socialLink.title }}" class="{{ socialLink.classe }}"></a>
+  {% endfor %}
+</div>
+
+

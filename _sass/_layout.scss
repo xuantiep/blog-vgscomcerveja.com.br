@@ -1262,4 +1262,39 @@
 
 }
 
+/*
+ * Share page
+ */
+
+.share-links {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: stretch;
+  align-content: center;
+  width: 100%;
+  
+}
+
+.share-link {
+  border: 1px solid gray;
+  border-bottom-width: 4px;
+  border-right-width: 4px;
+  border-radius: 2px;
+  font-weight: normal;
+  padding: 10px;
+  margin: 6px;
+  text-align: center;
+}
+
+.share-link:hover {
+  border-bottom-width: 1px;
+  border-right-width: 1px;
+}
+
+.share-social-links {
+  margin-top: 10px;
+  font-size: 2em;
+}
+
 

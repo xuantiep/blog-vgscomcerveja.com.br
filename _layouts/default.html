@@ -14,7 +14,9 @@
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
 
-    {% include header.html %}
+    {% if layout.header != false %}
+      {% include header.html %}
+    {% endif %}
 
     <main class="page-content">
 
@@ -24,7 +26,9 @@
 
     </main>
 
-    {% include footer.html %}
+    {% if layout.footer != false %}
+      {% include footer.html %}
+    {% endif %}
 
     {% if site.enable_disqus %}
       <script id="dsq-count-scr" src="//videogamescomcerveja.disqus.com/count.js" async></script>
