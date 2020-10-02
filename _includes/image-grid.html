@@ -1,0 +1,5 @@
+<div class="image-grid">
+  {% for i in (1..include.count) %}
+    <img src="{{ include.base_url }}{{ i }}.{{ include.image_ext }}">
+  {% endfor %}
+</div>

@@ -1246,4 +1246,20 @@
   margin: -10px 0 10px;
 }
 
+/*
+ * Image grid
+ */
+
+.image-grid {
+  displaY: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px 0 20px;
+
+  img { 
+    margin: 5px; 
+  }
+
+}
+
 
