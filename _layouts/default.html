@@ -16,9 +16,10 @@
 
     {% if layout.header != false %}
       {% include header.html %}
+      <main class="page-content">
+    {% else %}
+      <main class="page-content" style="margin-top:0">
     {% endif %}
-
-    <main class="page-content">
 
       <div class="main-wrapper wrapper">
         {{ content }}
