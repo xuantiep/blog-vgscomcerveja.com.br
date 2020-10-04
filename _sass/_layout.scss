@@ -585,13 +585,14 @@
 .read-more {
   padding: 7px 30px;
   text-align: left;
-  color: #2288bb;
-  border: 1px solid #2288bb;
+  color: white !important;
+  background-color: #2288bb;
+  text-transform: uppercase;
 }
 
 .read-more:hover {
-  background-color: #2288bb;
-  color: white !important;
+  border-bottom: 3px solid #1b5e80;
+  font-weight: normal;
 }
 
 /**
