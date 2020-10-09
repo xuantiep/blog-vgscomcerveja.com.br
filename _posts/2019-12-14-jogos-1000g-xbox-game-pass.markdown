@@ -85,6 +85,8 @@ Resumindo, o jogo é uma mistura de _walking simulator_ com _adventure sci-fi_. 
 
 ### Old Man's Journey {#old-mans-journey}
 
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass no dia 31/05/20." %}
+
 Desenvolvido pela [Broken Rules](http://brokenrul.es/) em 2017, este é um _puzzle adventure_ com um belo visual e uma ótima história! Após receber uma carta, você (no papel de um senhor de idade) partirá numa jornada em busca do local destino. A mecânica do jogo é estilo _point-and-click_, onde basicamente, só serve para você manipular o caminho e continuar a viagem!
 
 {% include image.html
@@ -122,6 +124,8 @@ Que tal um simulador de trens... de brinquedo de madeira? Isso mesmo, neste jogo
 
 ### ACA NEOGEO METAL SLUG X {#metal-slug-x}
 
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass no dia 30/06/20." %}
+
 Um clássico absoluto que dispensa apresentações. Esta será uma ótima desculpa (ou oportunidade) para re-jogar este ótimo jogo!
 Mas não se engane, o tempo informado abaixo é relativo a sua habilidade no jogo, pois será necessário jogar e conseguir determinada quantidade de pontos nos três modos diferentes disponíveis: _Original_, _Hi-Score_ e _Caravan Mode_.
 
@@ -142,6 +146,8 @@ E quem conhece **Metal Slug** sabe que não é um jogo fácil. Então mesmo tend
 
 ### Brothers: a Tale of Two Sons {#brothers}
 
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass no dia 31/05/20." %}
+
 Um excelente jogo _indie_ que conquistou a todos. Com uma mecânica diferenciada, o jogo conta a história de dois irmãos que precisam trabalhar em conjunto para conseguir a "água da vida" e salvar seu pai adoecido. Quando digo mecânica diferenciada, estou me referindo ao fato de você ter que controlar os dois irmãos ao mesmo tempo, um em cada analógico. No começo é meio estranho, mas depois que acostuma, se torna divertido!
 
 Para finalizar o jogo, você deverá explorar e enfrentar alguns _puzzles_! Porém, nenhuma das 12 conquistas é relacionadas à história. Todas elas você tem que realizar determinada tarefa em cada capítulo! Mas não se preocupe também, pois o jogo conta com seleção de fases.
@@ -160,6 +166,8 @@ Para finalizar o jogo, você deverá explorar e enfrentar alguns _puzzles_! Por�
   linkPlayStation="https://store.playstation.com/pt-br/product/UP4040-CUSA02297_00-BROTHERSLICENSE4" %}
 
 ### MINIT {#minit}
+
+{% include warning-alert.html msg="Esse jogo vai ser removido do catálogo de jogos do Game Pass no próximo dia 15/10/20." %}
 
 Com um visual retrô e totalmente em preto e branco, este é outro jogo com uma mecânica diferenciada. Pois você só pode jogar por apenas 60 segundos antes de morrer. Isso mesmo, você tem 1 minuto para explorar o local, encontrar itens e abrir locais antes de renascer no local de origem. Logicamente, após coletar um item, você o terá na próxima jogada, assim como, com avanço do jogo, você encontra novos locais de "renascimento". Bem interessante!
 
