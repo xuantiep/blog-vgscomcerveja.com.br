@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "Como funciona o sistema de troféus da Sony"
+title: "Como funciona o sistema de troféus da Sony (Atualizado)"
 date: 2017-03-30 22:00
+last_modified_at: 2020-10-08 20:30
 author: felipebbarbosa
 session: Gametrofista
 categories: games jogando
@@ -27,7 +28,7 @@ Bom, os troféus são classificados em **bronze**, **prata** ou **ouro** de acor
 
 Se você olhar a lista de troféus do jogo, irá notar que cada troféu possui um descritivo rápido de como obtê-lo, aí é só cumprir o que ele pede que será seu! Porém, alguns não revelam sua identidade, são os chamados **troféus escondidos**. Estes, você terá que conquistá-los na raça, mas são, geralmente, troféus de terminar o jogo ou relacionados à história (para evitar spoiler talvez?). Mas não se preocupe, existem vários sites que revelam para você o que precisa fazer (ver "Redes de caçadores de troféus" abaixo).
 
-> **Atualização:** Conforme a dica do amigo Pablo Costa nos comentários, no PS4 é possível visualizar o troféu escondido. Basta entrar nele e apertar {% include emoji.html url="/imgs/buttons/ps4/square.png" %} para ver sua descrição!
+> **Dica:** Conforme a dica do amigo Pablo Costa nos comentários, no PS4 é possível visualizar o troféu escondido. Basta entrar nele e apertar {% include emoji.html url="/imgs/buttons/ps4/square.png" %} para ver sua descrição!
 
 A partir do PS4, a Sony colocou um elemento adicional aos troféus: **nível de raridade**, classificando os como **comum**, **raro**, **muito raro** e **ultrararo**, baseado na quantidade de jogadores que conquistaram determinado troféu.
 
@@ -42,14 +43,22 @@ A partir do PS4, a Sony colocou um elemento adicional aos troféus: **nível de 
 
 Os troféus serão sempre vinculados ao usuário logado no seu PlayStation e para cada troféu obtido você ganhará "x" pontos e a cada "x" pontos, você evolui de nível (level). Sendo os valores dos troféus distribuídos da seguinte forma:
 
-| Troféu  | Pontos     |
-| ------- | ---------- |
-| Bronze  | 15 pontos  |
-| Prata   | 30 pontos  |
-| Ouro    | 90 pontos  |
-| Platina | 180 pontos |
+**ATUALIZAÇÃO:** A partir do dia 07/10/2020, a Sony [modificou o sistema de pontuação](https://blog.br.playstation.com/2020/10/07/confira-novidades-sobre-as-alteracoes-de-niveis-para-os-trofeus/) para aumentar o limite máximo do nível do usuário de 99 para 999, atendendo assim, a demanda da nova geração. Porém, como ela não deixou exatamente claro como funcionaria o novo sistema de pontuação, o usuário **NathanielJohn** do fórum do PSN Profiles fez uma [engenharia reversa para chegar nos novos valores](https://forum.psnprofiles.com/topic/96498-new-platinum-trophy-value-and-trophy-level-formula/). Confira:
 
-E a quantidade de pontos que você precisa ter para chegar ao próximo nível, respeita a seguinte regra:
+| Troféu  | Valor antigo   | Novo valor |
+| ------- | -------------- | ---------- |
+| Bronze  | 15 pontos      | 15 pontos  |
+| Prata   | 30 pontos      | 30 pontos  |
+| Ouro    | 90 pontos      | 90 pontos  |
+| Platina | 180 pontos     | 300 pontos |
+
+A única alteração de fato nessa parte foi a valorização do troféu de platina, passando de 180 para 300 pontos. 
+
+### Cálculo do nível de usuário
+
+Antes, a quantidade de pontos que você precisava ter para chegar ao próximo nível, respeitava a seguinte regra:
+
+#### Tabela antiga e obsoleta
 
 | Para chegar no...    | Você precisa estar com... |
 | -------------------- | ------------------------- |
@@ -83,14 +92,31 @@ E a quantidade de pontos que você precisa ter para chegar ao próximo nível, r
 | Nível 28             | 148.000 pontos            |
 | Nível 29             | 158.000 pontos            |
 | Nível 30             | 168.000 pontos            |
-| E assim por diante.. |
+| Nível 30+ | E assim por diante..  você só precisava sempre de 10.000 pontos para subir para o próximo nível. |
 
-A partir do nível 26, você precisará sempre de 10.000 pontos para subir para o próximo nível.
+#### Nova tabela
 
-Os troféus são vinculados ao seu usuário na **PlayStation Network** e você pode optar por deixar seus troféus abertos publicamente, podendo assim, outros usuários visualizar e comparar os troféus deles com os seus (essa é a um pouco da graça do negócio). Mas você pode optar por não compartilhar suas conquistas. Além disso, é usual usar a mesma conta em outras plataformas PlayStation para aumentar ainda mais o nível do seu perfil. Atualmente, os sistemas que possuem suporte à troféus são: o **PS3**, **PS4** e o **PS Vita**.
+Agora com a atualização da Sony a tabela ficou assim:
 
-{% include image.html url="/imgs/posts/utilidade_publica/09_trofeus_playstation/perfil-psn-felipebbarbosa.jpg"
-   description="Meu perfil PlayStation, me adicionem! :)" %}
+| Níveis  | Quantidade de pontos por nível |
+| ------- | ------------------------------ |
+| 1-99    | 60 pontos                      |
+| 100-199 | 90 pontos                      |
+| 200-299 | 450 pontos                     |
+| 300-399 | 900 pontos                     |
+| 400-499 | 1.350 pontos                   |
+| 500-599 | 1.800 pontos                   |
+| 600-699 | 2.250 pontos                   |
+| 700-799 | 2.700 pontos                   |
+| 800-899 | 3.150 pontos                   |
+| 900-999 | 3.600 pontos                   |
+
+Ou seja, além de valorizar o troféu de platina, a progressão dos níveis vai ficando mais díficil conforme aumenta.
+
+{% include image.html url="/imgs/posts/utilidade_publica/09_trofeus_playstation/novo-nivel-psn-felipebbarbosa.jpg"
+   description="Meu nível na PSN após a atualização!" %}
+
+Os troféus são vinculados ao seu usuário na **PlayStation Network** e você pode optar por deixar seus troféus abertos publicamente, podendo assim, outros usuários visualizar e comparar os troféus deles com os seus (essa é a um pouco da graça do negócio). Mas você pode optar por não compartilhar suas conquistas. Além disso, é usual usar a mesma conta em outras plataformas PlayStation para aumentar ainda mais o nível do seu perfil. Atualmente, os sistemas que possuem suporte à troféus são: o **PS3**, **PS4**, **PS Vita** e em breve o **PS5**.
 
 ### Redes de caçadores de troféus
 
@@ -110,7 +136,7 @@ Não sei exatamente qual é o critério dela para definir quais jogos terão ou 
 
 Entretanto, a diferença de pontos que você pode obter entre um jogo com platina com um sem, é grande! Um jogo platinável te oferece algo em torno de 1200 pontos, isso sem contar as DLC's que podem adicionar novos troféus ao jogo. Já um jogo sem platina, a maioria deles oferece algo em torno de 315 pontos! Eu não sei porque a Sony não padroniza para que todos os jogos tenham platina!
 
-Só a critério de curiosidade, o jogo que mais possuí troféus até o momento é o [Driveclub](https://psnprofiles.com/games?order=points) (PS4) com 128 troféus (1 platina, 26 ouros, 47 pratas e 54 bronzes) totalizando 4.740 pontos, isto é claro, incluindo todas as DLC's.
+Só a critério de curiosidade, o jogo que mais possuí troféus até o momento é o [Driveclub](https://psnprofiles.com/games?order=points) (PS4) com 128 troféus (1 platina, 26 ouros, 47 pratas e 54 bronzes) totalizando ~~4.740~~ 4.860 pontos, isto é claro, incluindo todas as DLC's.
 
 ### E aí, o que você acha deste recurso?
 
