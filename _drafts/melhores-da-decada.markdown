@@ -5,7 +5,7 @@ date: 2019-11-15 7:30
 author: felipebbarbosa
 session: VCC Recomenda! // Pecados Gamísticos
 categories: games jogando
-tags: [microsoft, xbox, xbox-one, categoria-lista, serie-cacadores-trofeus]
+tags: [microsoft, xbox, xbox-one, categoria-lista, serie-gametrofista]
 thumbnail: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_thumbnail.jpg
 cover: /imgs/posts/toplist/15_melhor_decada_2010/post_header.jpg
 ---
