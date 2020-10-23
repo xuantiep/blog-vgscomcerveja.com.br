@@ -37,7 +37,11 @@ layout: default
 
   {% if page.cover %}
     <div class="post-highlight">
-      <img class="" src="{{ page.cover }}">
+      {% assign cover = page.cover | split: "." | first %}
+      <picture>
+        <source type="image/webp" srcset="{{ cover }}.webp">
+        <img class="" src="{{ page.cover }}" alt="{{ page.title }} Cover">
+      </picture>
     </div>
   {% endif %}
 

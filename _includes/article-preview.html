@@ -6,7 +6,11 @@
 
   {% if post.thumbnail %}
     <div class="post-cover">
-      <img src="{{ post.thumbnail }}">
+      {% assign thumb = post.thumbnail | split: "." | first %}
+      <picture>
+        <source type="image/webp" srcset="{{ thumb }}.webp">
+        <img src="{{ post.thumbnail }}" alt="{{ post.title }} Cover">
+      </picture>
     </div>
   {% endif %}
 

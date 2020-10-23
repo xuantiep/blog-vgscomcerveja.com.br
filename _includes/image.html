@@ -12,6 +12,8 @@
   {% endif %}
 {% endcapture %}
 
+{% assign img = include.url | split: "." | first %}
+
 <figure 
 
   {% if include.full != null %}
@@ -21,7 +23,11 @@
   <a href="{{ include.url }}"
      data-lightbox="{{ data_lightbox }}"
      data-title="{{ image_title }}">
-    <img src="{{ include.url }}" alt="{{ image_title }}">
+
+    <picture>
+      <source type="image/webp" srcset="{{ img }}.webp">
+      <img src="{{ include.url }}" alt="{{ image_title }}">
+    </picture>
   </a>
   {% if include.description != null %}
     <figcaption>{{ image_title }}</figcaption>
