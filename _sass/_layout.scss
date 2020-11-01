@@ -1252,16 +1252,24 @@
  */
 
 .image-grid {
-  displaY: flex;
+  display: flex;
   flex-wrap: wrap;
   justify-content: center;
   margin: 10px 0 20px;
 
   img { 
-    margin: 5px; 
+    margin: 5px;
+    cursor: pointer;
   }
 
 }
+
+.item-checked {
+  opacity: 50%;
+  border: 5px solid green;
+  border-radius: 130px;
+}
+
 
 /*
  * Share page

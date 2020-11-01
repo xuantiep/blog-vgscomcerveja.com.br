@@ -1,0 +1,49 @@
+<div class="image-grid" id="{{ include.name }}">
+  {% for i in (1..include.count) %}
+    <img id="item-{{ i }}" class="item-collection" 
+      {% if include.image_width %} width="{{ include.image_width }}" {% endif %}
+      src="{{ include.base_url }}{{ i }}.{{ include.image_ext }}" 
+      onclick="addInCollection({{ i }})">
+  {% endfor %}
+</div>
+
+<p style="text-align:right;font-weight:bold">TOTAL: <span id="collection-count"></span> / {{ include.count }}</p>
+
+<script>
+  const collectionName = document.querySelector(".image-grid").id;
+  var collection = JSON.parse(localStorage.getItem(collectionName)) || [];
+
+  listCollection();
+
+  function addInCollection(id) {
+    const itemFound = collection.find(item => item == id);
+
+    if (itemFound === undefined) {
+      collection.push(id);
+    } else {
+      collection.splice(collection.indexOf(itemFound), 1);
+    }
+
+    localStorage.setItem(collectionName, JSON.stringify(collection));
+    listCollection();
+
+  }
+
+  function listCollection() {
+    clearCollection();
+    collection.forEach(function(item) {
+      var itemEl = document.getElementById("item-" + item.toString());
+      itemEl.classList.add("item-checked");
+    });
+
+    var collectionCount = document.getElementById("collection-count");
+    collectionCount.innerHTML = collection.length;
+  }
+
+  function clearCollection() {
+    var items = document.querySelectorAll(".item-collection");
+    [].forEach.call(items, function(item) {
+      item.classList.remove("item-checked");
+    });
+  }
+</script>

@@ -23,6 +23,10 @@ Vale destacar que os tazos não são numerados e cada um deles vem com um códig
 
 Mas sem mais delongas, eis a coleção completa dos tazos:
 
-{% include image-grid.html base_url="/imgs/posts/utilidade_publica/12_elma_chips/tazo-pacman_" image_ext="png" count=40 %}
+{% include update-alert.html title="NOVIDADE!" msg="Agora você consegue gerenciar sua coleção por aqui, basta selecionar os tazos que você já clicando sobre eles! :D" %}
+
+{% include collection-control.html name="tazos-elma-chips-pac-man" 
+  base_url="/imgs/posts/utilidade_publica/12_elma_chips/tazo-pacman_" 
+  image_ext="png" count=40 image_width="130px" %}
 
 E aí, já conseguiu algum? Pretende colecionar todos? Deixe nos comentários sua opinião.
