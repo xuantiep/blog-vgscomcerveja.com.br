@@ -11,38 +11,42 @@
 
 <script>
   const collectionName = document.querySelector(".image-grid").id;
-  var collection = JSON.parse(localStorage.getItem(collectionName)) || [];
+  var collectionList = JSON.parse(localStorage.getItem(collectionName)) || [];
 
   listCollection();
 
   function addInCollection(id) {
-    const itemFound = collection.find(item => item == id);
+    const itemFound = Array.prototype.find.call(collectionList, item => item == id);
 
-    if (itemFound === undefined) {
-      collection.push(id);
-    } else {
-      collection.splice(collection.indexOf(itemFound), 1);
+    if (!Array.isArray(collectionList)) {
+      collectionList = [];
     }
 
-    localStorage.setItem(collectionName, JSON.stringify(collection));
+    if (itemFound === undefined) {
+      collectionList.push(id);
+    } else {
+      collectionList.splice(collectionList.indexOf(itemFound), 1);
+    }
+
+    localStorage.setItem(collectionName, JSON.stringify(collectionList));
     listCollection();
 
   }
 
   function listCollection() {
     clearCollection();
-    collection.forEach(function(item) {
+    Array.prototype.forEach.call(collectionList, function(item) {
       var itemEl = document.getElementById("item-" + item.toString());
       itemEl.classList.add("item-checked");
     });
 
     var collectionCount = document.getElementById("collection-count");
-    collectionCount.innerHTML = collection.length;
+    collectionCount.innerHTML = collectionList.length;
   }
 
   function clearCollection() {
     var items = document.querySelectorAll(".item-collection");
-    [].forEach.call(items, function(item) {
+    Array.prototype.forEach.call(items, function(item) {
       item.classList.remove("item-checked");
     });
   }
