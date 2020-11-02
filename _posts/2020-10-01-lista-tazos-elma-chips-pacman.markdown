@@ -25,7 +25,7 @@ Mas sem mais delongas, eis a coleção completa dos tazos:
 
 {% include update-alert.html title="NOVIDADE!" msg="Agora você consegue gerenciar sua coleção por aqui, basta selecionar os tazos que você já clicando sobre eles! :D" %}
 
-{% include collection-control.html name="tazos-elma-chips-pac-man" 
+{% include collection-control.html name="tazos-elma-chips-pac-man-2020" 
   base_url="/imgs/posts/utilidade_publica/12_elma_chips/tazo-pacman_" 
   image_ext="png" count=40 image_width="130px" %}
 
