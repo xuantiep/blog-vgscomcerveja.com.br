@@ -15,13 +15,15 @@ Os jogos distribuídos pela [Ratalaika Games](https://www.ratalaikagames.com/gam
 
 <!--more-->
 
-Antes de continuar, vale citar que todos os jogos listados aqui também estão disponíveis para PlayStation 4 com uma **lista de troféus separada** e, além disso, **são cross-buy**, ou seja, você compra o jogo apenas uma vez e pode jogar em ambas as plataformas, ou seja, se tiver as duas plataformas e não ligar de jogar duas vezes o mesmo jogo, dará para dar uma boa alavancada na sua coleção de troféus de platina. Agora, se você tem um Xbox One, não se preocupe, o mesmo vale para o console da Microsoft, só que ao invés de 11 troféus de ouro, você terá 11 conquistas de 90G cada para pegar. A única excessão é o primeiro game da lista que não saiu para Xbox.
+Antes de continuar, vale citar que todos os jogos listados aqui também estão disponíveis para PlayStation 4 com uma **lista de troféus separada** e, além disso, **são cross-buy**, ou seja, você compra o jogo apenas uma vez e pode jogar em ambas as plataformas, ou seja, se tiver as duas plataformas e não ligar de jogar duas vezes o mesmo jogo, dará para dar uma boa alavancada na sua coleção de troféus. 
+
+Agora, se você tem um **Xbox One**, não se preocupe, o mesmo vale para o console da Microsoft, só que ao invés de 11 troféus de ouro, você terá 11 conquistas de 90G cada para pegar. A única excessão é o primeiro game da lista que não saiu para Xbox.
 
 ## 36 Fragments of Midnight
 
-Começando em ordem alfabética por um jogo onde você é um quadradinho branco e seu objetivo é coletar os 36 fragmentos do jogo. A jogabilidade é bem simples, basta de movimentar para esquerda ou direita, dar um pulo simples ou duplo para enfrentar os obstáculos, sejam eles espinhos, serras ou lasers e coletar os fragmentos. O jogo é de plataforma e possuí um visual interessante com cores frias e noturnas.
+Começando em ordem alfabética por um jogo onde você é simplesmente um quadradinho branco e seu objetivo é coletar os 36 fragmentos do jogo. A jogabilidade é bem simples, basta de movimentar para esquerda ou direita, dar um pulo simples ou duplo para enfrentar os obstáculos, sejam eles espinhos, serras ou lasers e coletar os fragmentos. O jogo é de plataforma e possuí um visual interessante com cores frias e noturnas.
 
-Para platiná-lo, você precisará basicamente, além de coletar os 36 fragmentos, morrer algumas vezes, primeiro para cada tipo de obstáculos citados acima e a mais "chatinha", onde você terá que coletar 35 fragmentos, restando apenas 1 para completar o game e morrer. Dependendo do seu nível de habilidade, você consegue platiná-lo em **menos de 30 minutos**. O game é bem legal e até possui um certo nível de desafio.
+Para platiná-lo, você precisará basicamente, além de coletar os 36 fragmentos, morrer algumas vezes, primeiro para cada tipo de obstáculos citados acima e a morte mais "chatinha" é que você terá que coletar 35 fragmentos, restando apenas 1 para completar o game e morrer. Dependendo do seu nível de habilidade, você consegue platiná-lo em **menos de 30 minutos**, pois não existe fases, só os fragmentos em uma única fase com bastante obstáculos. O game é bem legal e até possui um certo nível de desafio.
 
 ## Gravity Duck
 
@@ -29,9 +31,9 @@ No papel de um pato que não respeita muito as leis da física, seu objetivo é 
 
 {% include image.html url="/imgs/posts/toplist/21_11ouros/gravity-duck_screenshot.jpg" %}
 
-O jogo é bacana e possuí um nível de desafio progressivo, porém para platiná-lo, você nem precisará concluir todas as 140 fases (divididas em 4 capítulos), apenas as 50 primeiras já serão suficientes. Parece muito, mas são fases bem curtinhas, acredito que em no máximo **30 minutos**, você consegue completá-las e platinar o game!
+O jogo é bacana e possuí um nível de desafio progressivo, porém para platiná-lo, você nem precisa concluir todas as 140 fases (divididas em 4 capítulos), apenas as 50 primeiras já serão suficientes. Parece muito, mas são fases bem curtinhas, acredito que em no máximo **30 minutos**, você consegue completá-las e platinar o game!
 
-O jogo foi desenvolvido em 2019 pela [Woblyware](http://www.woblyware.com) e está disponível para PS Vita, PlayStation 4, Xbox One e Nintendo Switch.
+O jogo foi desenvolvido em 2019 pela [Woblyware](http://www.woblyware.com) e está disponível para PS Vita, PlayStation 4, Xbox One e Nintendo Switch. Jogo divertido!
 
 ## Himno
 
@@ -43,7 +45,7 @@ O jogo foi desenvolvido por apenas um cara, o David Moralejo Sánchez, represent
 
 ## Hoggy2
 
-Outro jogo de plataforma que, assim como em Gravity Duck, não respeita as leis da física, porém, aqui você é uma espécie de geléia, lesma ou sei lá o que, e seu pulo é só entre o teto e o chão. Seu objetivo em cada fase, ou melhor, jarro é comer todas as frutinhas para pegar a chave no final. Conforme você vai adquirindo chaves vai abrindo novas aréas para explorar. Quando disse jarro agora de pouco, é porque em cada área possui jarros espalhados e você tem que entrar neles para acessar a fase daquele jarro e conquistar a chave no final dela.
+Outro jogo de plataforma que, assim como em Gravity Duck, não respeita as leis da física, porém, aqui você é uma espécie de geléia, lesma ou sei lá o que, e seu pulo é só entre o teto e o chão. Seu objetivo em cada fase, ou melhor, em cada jarro é comer todas as frutinhas para pegar a chave no final. Conforme você vai adquirindo chaves vai abrindo novas aréas para explorar. Quando disse jarro agora de pouco, é porque em cada área possui jarros espalhados e você tem que entrar neles para acessar a fase daquele jarro e conquistar a chave no final dela.
 
 {% 
   include image.html
@@ -51,7 +53,7 @@ Outro jogo de plataforma que, assim como em Gravity Duck, não respeita as leis 
   description="Não se engane pelo visual cartunesco, o jogo oferece um bom desafio!" 
 %}
 
-O jogo oferece um bom nível de desafio, pois em algumas fases você terá que quebra a cabeça para resolver alguns puzzles. Mas assim como os outros, você não precisa completar todas as fases para platinar. Não tem segredo, basta ir jogando até chegar ao primeiro chefão que você coletará a maioria dos troféus. Aí basta jogar e completar o modo Kid para pegar os dois últimos troféus.
+O jogo oferece um bom nível de desafio, pois em algumas fases você terá que quebrar um pouco a cabeça para resolver alguns puzzles. Mas assim como os outros, você não precisa completar todas as fases para platinar. Não tem segredo, basta ir jogando até chegar ao primeiro chefão que você coletará a maioria dos troféus. Aí basta jogar e completar o modo Kid para pegar os dois últimos troféus.
 
 ## Jack N' Jill DX
 
@@ -63,17 +65,17 @@ Outro jogo de plataforma interessante. Você é Jack e ao apertar o botão pela 
   description="O visual do jogo é em pixelart minimalista em tons de cinza, estilo Game Boy! Bem legal." 
 %}
 
-Mas você não precisará completar todas as fases para obter a platina. Isso mesmo, apesar do jogo contar com 7 mundos com 20 fases em cada, você precisa apenas completar o primeiro e algumas fases do segundo para platinar. Jogar uma vez o modo Minigames comprando o primeiro com suas moedas após completar o primeiro mundo. O jogo também conta com o modo Challenges, mas não é necessário para os troféus. 
+Mas você não precisará completar todas as fases para obter a platina. Isso mesmo, apesar do jogo contar com 7 mundos com 20 fases em cada, você precisa apenas completar o primeiro e algumas fases do segundo para platinar. Minto, você precisará também jogar uma vez o modo Minigames comprando o primeiro com suas moedas após completar o primeiro mundo. O jogo também conta com o modo Challenges, mas não é necessário para os troféus. 
 
-Mas enfim, é um jogo bem legal e também desenvolvido por apenas uma pessoa, o [Rohan Narang](http://rohansgames.website).
+Mas enfim, é um jogo bem legal e também foi desenvolvido por apenas uma pessoa, o [Rohan Narang](http://rohansgames.website).
 
 ## METAGAL
 
-Fortemente inspirado em Mega Man, porém nada além disso, passa muito longe do clássico da Capcom. 
+Fortemente inspirado em Mega Man, porém nada além disso, pois passa muito longe do clássico da Capcom. 
 
 ## Super Box Land Demake
 
-Quando vi a premissa do jogo pela primeira vez, pensei: "Legal, lembra Goof Troop do Super Nintendo", porém ao jogar, vi que apesar do fato de empurrar blocos sejam semelhantes, o jogo não tem a mesma mecânica do clássico da Disney e nem ao menos oferece desafio. Basta empurrar os blocos até os botões para abrir o portão e passar de fase.
+Quando vi a premissa do jogo pela primeira vez, pensei: "Legal, lembra Goof Troop do Super Nintendo", porém ao jogar, vi que apesar do fato de empurrar blocos sejam semelhantes, o jogo não tem a mesma mecânica do clássico da Disney e nem ao menos oferece desafio. Basta empurrar os blocos até os botões para abrir o portão e passar de fase, provavelmente é um jogo voltado para crianças.
 
 {% 
   include image.html

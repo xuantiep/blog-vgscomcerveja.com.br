@@ -1,0 +1,6 @@
+{% assign img = include.url | split: "." | first %}
+
+<picture>
+  <source type="image/webp" srcset="{{ img }}.webp">
+  <img src="{{ include.url }}" alt="{{ image_title }}">
+</picture>
