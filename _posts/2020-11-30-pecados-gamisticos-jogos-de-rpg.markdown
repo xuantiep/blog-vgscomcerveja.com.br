@@ -162,6 +162,6 @@ Esse ainda é recente para colocá-lo aqui (lançado em abril de 2020), mas mesm
 - E todos os outros jogos da série The Legend of Zelda, principalmente Ocarina of Time, Majora's Mask e Breath of the Wild.
 
 ---
-E você, gosta de jogos de RPG? Ficou abismado com a quantidade de jogos clássicos não jogados? Quais outros jogos você me indicaria? Deixe seu comentário!
+E você, gosta de jogos de RPG? Ficou abismado com a quantidade de jogos clássicos não jogados? Daria para dizer que essa lista seria um "starter pack", ou seja, jogos obrigatórios que iniciar no mundo dos RPGs? Quais outros jogos você me indicaria? Deixe seu comentário!
 
 Este post foi inspirado no escrito do [Arquivos do Woo](https://www.arquivosdowoo.com.br/2020/04/08/os-meus-pecados-gamisticos-rpg/)
