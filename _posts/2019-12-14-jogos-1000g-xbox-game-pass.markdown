@@ -20,6 +20,8 @@ Mas como nem tudo são flores, o catálogo é renovado de tempo em tempos, sendo
 
 ### ABZÛ {#abzu}
 
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass." %}
+
 Do mesmo diretor de [Journey](https://thatgamecompany.com/journey/), este é um jogo relaxante feito para você apreciar sua beleza durante a jornada. No papel de uma mergulhadora, seu objetivo é explorar o oceano e restaurar a vida marinha por meio de fontes mágicas.
 
 {% include image.html
@@ -63,6 +65,8 @@ Para conseguir os 1000G, você deverá terminar o jogo uma vez, sendo que 5 conq
   linkPlayStation="https://store.playstation.com/en-us/product/UP4266-CUSA10848_00-GARDENSBETWEEN00" %}
 
 ### Tacoma {#tacoma}
+
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass." %}
 
 Dos mesmos criadores de [Gone Home](/post/analise-gone-home), Tacoma segue a mesma pegada no quesito exploração e investigação, porém, desta vez, ocorre em uma estação espacial no ano de 2088!
 
@@ -108,6 +112,8 @@ Suas conquistas são bem simples, porém quase todas as 12 podem ser perdidas. M
   linkPlayStation="https://store.playstation.com/en-us/product/UP3141-CUSA12206_00-USOLDMANSJOURNEY" %}
 
 ### Tracks: The Train Set Game {#tracks}
+
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass." %}
 
 Que tal um simulador de trens... de brinquedo de madeira? Isso mesmo, neste jogo você poderá montar o cenário que quiser usando trens, trilhos, casas e tudo mais. Desenvolvido pela [Whoop Group](http://whoop.group/) e publicado pela **Excalibur Publishing**, este jogo fará você passar horas sem perceber (se você gostar disso, é claro) montando cenários e brincando de trenzinho! Mas caso deseje conquistar os 1000G rapidamente, sugiro seguir [um guia](https://www.trueachievements.com/game/Tracks-The-Train-Set-Game/walkthrough/3) para não se perder no tempo.
 
@@ -167,7 +173,7 @@ Para finalizar o jogo, você deverá explorar e enfrentar alguns _puzzles_! Por�
 
 ### MINIT {#minit}
 
-{% include warning-alert.html msg="Esse jogo vai ser removido do catálogo de jogos do Game Pass no próximo dia 15/10/20." %}
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass no dia 15/10/20." %}
 
 Com um visual retrô e totalmente em preto e branco, este é outro jogo com uma mecânica diferenciada. Pois você só pode jogar por apenas 60 segundos antes de morrer. Isso mesmo, você tem 1 minuto para explorar o local, encontrar itens e abrir locais antes de renascer no local de origem. Logicamente, após coletar um item, você o terá na próxima jogada, assim como, com avanço do jogo, você encontra novos locais de "renascimento". Bem interessante!
 
@@ -231,6 +237,8 @@ Bom, sobre as conquistas, apesar de 13 das 14 serem totalmente relacionadas à h
   linkPlayStation="https://store.playstation.com/pt-br/product/UP3064-CUSA07511_00-HELLB2017NT002EN" %}
 
 ### The Turing Test {#turing-test}
+
+{% include warning-alert.html msg="Esse jogo foi removido do catálogo de jogos do Game Pass." %}
 
 E para finalizar, um jogo em primeira pessoa desenvolvido pela [Bulkhead](https://bulkheadinteractive.com/), onde no papel de Ava Turing, você deverá ajudar a inteligência artificial da sua estação espacial a encontrar o restante da tripulação que estão desaparecidas. Este é um jogo de _puzzle_ com o mesmo estilo do aclamado **Portal**, onde você tem que resolvê-los usando um dispositivo semelhante a uma arma.
 
