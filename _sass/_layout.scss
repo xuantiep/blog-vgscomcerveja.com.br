@@ -1058,7 +1058,19 @@
 
 #mc_embed_signup {
   clear: left;
-  font: 14px Helvetica, Arial, sans-serif;
+
+  form input {
+    border-radius: 0 !important;
+    font-size: 1.2em !important;
+  }
+
+  .email {
+    width: 80% !important;
+    margin-bottom: 6px !important;
+    font-size: 1.6em !important;
+    text-align: center !important;
+    padding: 30px !important;
+  }
 }
 
 .newsletter-page-msg {
