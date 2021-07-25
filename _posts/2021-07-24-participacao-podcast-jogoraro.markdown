@@ -20,11 +20,11 @@ E o [episódio 22](https://www.podpage.com/jogo-raro/ep-22-entrevista-felipe-bar
 
 {% include spotify-podcast.html episode="3tRHIKE2wS82WEjHTuSsQz" %}
 
-Para complementar o post, gostaria de mostrar aqui algumas fotos dos itens citados nas repostas do cast.
+Para complementar o post, gostaria de mostrar aqui algumas fotos dos itens citados nas respostas do cast.
 
 **Quando eu comecei a jogar videogame e em qual plataforma?**
 
-A resposta foi Atari 2600 da minha irmã mais velha com jogos tipo Enduro, River Raid e Megamania.
+A resposta foi **Atari 2600** da minha irmã mais velha com jogos tipo **Enduro, River Raid e Megamania**.
 
 {% include image.html url="/imgs/posts/especial/11_podcast-jogoraro/atari_2600.jpg" %}
 
@@ -34,16 +34,16 @@ Felizmente eu consegui esse Atari lindão aí com um colega do trabalho. Para el
 
 **Qual meu item mais raro brasileiro (de PS3 especificamente)?**
 
-Com certeza é essa variação do Chaves Kart sem o cristo redentor na capa. Inclusive, tem um [post dele no Colecionando.Games](https://blog.colecionando.games/chaves-kart-ps3-capa-alternativa/) com mais detalhes, caso tenha interesse.
+Com certeza é essa variação do **Chaves Kart** sem o cristo redentor na capa. Inclusive, tem um [post dele no Colecionando.Games](https://blog.colecionando.games/chaves-kart-ps3-capa-alternativa/) com mais detalhes, caso tenha interesse.
 
 {% include image.html url="/imgs/posts/especial/11_podcast-jogoraro/chaves_kart.jpg" %}
 
 **...E qual o mais afetivo?**
 
-Aí não teve jeito, fiquei com os jogos de Master System que tive na infância, pois quase todos eles sobreviveram, alguns só perderam suas capas e manuais. Mas já consegui recuperar quase todos, só falta a caixa do Double Dragon. Esses jogos são meus xodós!
+Aí não teve jeito, fiquei com os jogos de **Master System** que tive na infância, pois quase todos eles sobreviveram, alguns só perderam suas capas e manuais. Mas já consegui recuperar quase todos, só faltam a caixa do **Double Dragon** e o manual do **Taz-mania**. Esses jogos são meus xodós!
 
-{% include image.html url="/imgs/posts/especial/11_podcast-jogoraro/master_system_3_jogos.jpg" %}
+{% include image.html url="/imgs/posts/especial/11_podcast-jogoraro/master_system_3_jogos1.jpg" %}
 
 - - -
 
-E é isso, é hora de darmos uma breve pausa... Ops, jargão errado! hehe.. Mas é isso, comente aí o que achou do episódio. Ouçam os outros episódios também, pois são muito legais! Sou um ouvinte assíduo e fiquei extremamente feliz de ter participado!
+E é isso, é hora de darmos uma breve pausa... Ops, jargão errado! hehe.. Mas é isso, comente aí o que achou do episódio, ouçam os outros episódios também, pois são muito legais! Sou um ouvinte assíduo e fiquei extremamente feliz de ter participado!
