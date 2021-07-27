@@ -40,7 +40,7 @@
     <p>{{ post.excerpt }}</p>
     {% if post.external %}
       <a class="read-more" href="{{ post.external }}" target="_blank">
-        Ler no {{ post.session }} <span class="icon-link-ext"></span>
+        {{ post.session }} <span class="icon-link-ext"></span>
       </a>
     {% else %}
       <a class="read-more" href="{{ post.url | prepend: site.baseurl }}">
