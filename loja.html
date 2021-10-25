@@ -15,31 +15,16 @@ sitemap:
 
 <div class="home">
 
-  <p style="padding: 0 10px">
-  Bem-vindo à nossa venda de usados! Aqui você encontrará alguns jogos repetidos
-  que estão à venda pelo <b>Mercado Livre</b>. Se interessar por algo, é só clicar
-  no item para ver mais detalhes! ;)
-</p>
+  <p style="padding: 0 10px 40px">
+    Você pode encontrar os joguinhos que estou vendendo nos dois canais abaixo, só escolher!
+  </p>
 
-  <div class="vitrine">
-
-
-    {% for sale in site.data.sales %}
-      
-      <a href="{{ sale.url }}" target="_blank">
-        <h2>{{ sale.titulo }}</h2>
-        <span>R$ {{ sale.valor }}</span>
-        <img src="{{ sale.thumb }}">
-        <img src="/imgs/mercado-livre-logo.jpg" style="float:right;">
-      </a>
-
-    {% endfor %}
-
-  </div>
-
-  <p>
-    Caso se interesse por algo e o anúncio do Mercado Livre está finalizado, 
-    consulte a disponibilidade! <font style="color:red">PREÇOS NEGOCIÁVEIS!</font>
+  <p align="center">
+    <a href="https://vgscomcerveja.mercadoshops.com.br/nossos-produtos"><img src="/imgs/mercado-livre-logo.jpg"></a>
+  </p>
+  <p align="center">- - -</p>
+  <p align="center">
+    <a href="https://shopee.com.br/felipebbarbosa"><img src="/imgs/shopee-logo.jpg"></a>
   </p>
 
   {% include googleads.html %}
