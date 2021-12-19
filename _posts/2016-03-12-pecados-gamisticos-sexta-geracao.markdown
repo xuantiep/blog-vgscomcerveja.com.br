@@ -101,6 +101,8 @@ Mas quem precisa de Resident Evil se temos God of War? Essa era, acredito, uma b
 
 GC dominando a lista! **Luigi's Mansion** é um jogo que só pelo fato de não ser o Mario como protagonista já me deixa com muita curiosidade de jogá-lo! ^^
 
+**UPDATE 28/10/21:** Finalmente joguei, terminei o jogo e deixei minhas impressões [aqui](/post/analise-luigis-mansion).
+
 ## Série Kingdom Hearts
 
 ##### PlayStation 2
