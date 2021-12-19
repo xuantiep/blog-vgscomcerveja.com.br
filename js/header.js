@@ -13,7 +13,7 @@ function init() {
 }
 
 function checkScroll() {
-  if (window.innerWidth >= 860) {
+  if (window.innerWidth >= 900) {
     var distanciaY = window.pageYOffset || document.documentElement.scrollTop;
     if (distanciaY >= HEADER_MIN_SIZE) {
       header.classList.add(SMALLER_CLASS);
