@@ -22,7 +22,9 @@ A história é mais ou menos assim: Após receber uma carta e ler que havia ganh
 
 {% include image.html
     url="/imgs/posts/game_over/44_luigis_mansion/luigis-mansion_screenshot2.jpg"
-    description="Eis a mansão que ele supostamente ganhou na loteria - Imagem: IGDB" %}
+    description="Eis a mansão que ele supostamente ganhou na loteria"
+    credits="IGDB"
+    credits_link="https://www.igdb.com/games/luigi-s-mansion/" %}
 
 Porém, antes de descobrir que a mansão é mal-assombrada, você tenta entrar nela e dá de cara com um fantasma! Medroso por si só, Luigi sai correndo e é salvo pelo **professor E. Gadd**, um cientista maluco, que explica o porquê dos fantasmas na casa e também diz que tem a solução ideal para capturá-los: o aspirador de pó **"Poltergust 3000"**!
 
@@ -32,7 +34,9 @@ Para capturar um fantasma, você deve usar o aspirador e assim que começar a su
 
 {% include image.html
     url="/imgs/posts/game_over/44_luigis_mansion/luigis-mansion_screenshot1.jpg"
-    description="Maarriooo! - Imagem: IGDB" %}
+    description="Maarriooo!"
+    credits="IGDB"
+    credits_link="https://www.igdb.com/games/luigi-s-mansion/" %}
 
 O jogo é quase um metroidvania, onde você terá que percorrer a mansão de cabo a rabo várias vezes, porém, assim como é comum no gênero, diversas áreas, no caso, cômodos estão bloqueados. Como quase todo cômodo tem fantasmas, para avançar, você deve aspirar todos eles, pois com isso você receberá um baú com um item que pode ser uma chave de um outro cômodo, uma peça de um pequeno puzzle ou simplesmente moedas mesmo. 
 
@@ -40,7 +44,9 @@ O jogo também conta com diversos chefes que seguem a mesma lógica dos fantasma
 
 {% include image.html
     url="/imgs/posts/game_over/44_luigis_mansion/luigis-mansion_screenshot3.jpg"
-    description="Os chefes são divertidos - Imagem: IGDB" %}
+    description="Os chefes são divertidos"
+    credits="IGDB"
+    credits_link="https://www.igdb.com/games/luigi-s-mansion/" %}
 
 Como um desafio à parte, a mansão também está empestada de fantasmas **Boo** e capturar todos eles é um bônus legal de fazer!
 
@@ -48,7 +54,10 @@ Agora, um ponto do jogo que merece destaque são os gráficos, muito caprichados
 
 {% include image.html
     url="/imgs/posts/game_over/44_luigis_mansion/luigis-mansion_com_dama-catharia-sour.jpg"
-    description="A cerveja que me acompanhou foi a Dama Bier - Catharina Sour com Tangerina e Gengibre - Foto: @vgscomcerveja (Instagram)" %}
+    description="A cerveja que me acompanhou durante a jogatina foi a 'Catharina Sour com Tangerina e Gengibre' da Dama Bier"
+    credits="Instagram"
+    credits_type="Foto"
+    credits_link="https://www.instagram.com/p/CQmWK5pHCF4/" %}
 
 **Luigi's Mansion** foi lançado junto com o lançamento do **GameCube**, sendo assim, ele veio para mostrar todo potencial do novo console da Nintendo! Porém, o único ponto fraco do jogo é justamente esse, pois ele acabou se tornando um jogo sem muito desafio e também relativamente curto. Mas que na minha opinião é um ótimo jogo! A série ganhou uma sequência com o **Dark Moon** que saiu para o **Nintendo 3DS** em 2013 e  depois veio o terceiro título em 2019 para o **Nintendo Switch**. Ah, teve em 2018, um remake/port deste primeiro título para o **Nintendo 3DS** também, com diversas melhorias, entre elas o suporte ao multiplayer cooperativo.
 

@@ -30,6 +30,22 @@
     </picture>
   </a>
   {% if include.description != null %}
-    <figcaption>{{ image_title }}</figcaption>
+    <figcaption>
+      {{ image_title }}
+      {% if include.credits %}
+        {% if include.credits_type %}
+          - {{ include.credits_type }}:
+        {% else %}
+          - Imagem:
+        {% endif %}
+        {% if include.credits_link %}
+          <a href="{{ include.credits_link }}" target="_blank">
+        {% endif %}
+        {{ include.credits }}
+        {% if include.credits_link %}
+          </a>
+        {% endif %}
+      {% endif %}
+    </figcaption>
   {% endif %}
 </figure>
