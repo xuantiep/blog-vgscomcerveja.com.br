@@ -3,7 +3,7 @@ layout: post
 title: "11 jogos de 1000G rápidos disponíveis no Xbox Game Pass!"
 date: 2019-12-14 7:30
 author: felipebbarbosa
-session: Caçadores de <s>Troféus</s> Conquistas
+session: Gametrofista
 categories: games jogando
 tags: [microsoft, xbox, xbox-one, categoria-lista, serie-gametrofista]
 thumbnail: /imgs/posts/toplist/14_cacadores_trofeus_gamepass/post_thumbnail.jpg

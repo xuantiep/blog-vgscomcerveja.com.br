@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "63 platinas rápidas e fáceis que estão na Promoção Tesouros Ocultos por menos de R$ 12!"
+title: "63 platinas rápidas e fáceis que estão na promoção 'Tesouros Ocultos' por menos de R$ 12!"
 date: 2020-08-26 23:30
 author: felipebbarbosa
 session: Gametrofista

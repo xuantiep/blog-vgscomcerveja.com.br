@@ -3,15 +3,14 @@ layout: post
 title: "Análise - Music Racer (PS4)"
 date: 2020-02-01 17:30
 author: felipebbarbosa
-session: Game Over // Gametrofista
+session: Game Over
 categories: games jogando
 tags:
   [
     ps4,
     categoria-analise,
     serie-game-over,
-    serie-vcc-racing,
-    serie-gametrofista,
+    serie-vcc-racing
   ]
 thumbnail: /imgs/posts/game_over/41_music_racer/post_thumbnail.jpg
 cover: /imgs/posts/game_over/41_music_racer/post_header.jpg
