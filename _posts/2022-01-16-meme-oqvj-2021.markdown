@@ -1,0 +1,218 @@
+---
+layout: post
+title: "MeMe - O Que Você Jogou em 2021?"
+date: 2022-01-16 22:00
+author: felipebbarbosa
+session: Proseando // Especial
+categories: games jogando
+tags: [meme-oqvj, categoria-especial, categoria-lista, serie-proseando]
+related: meme-oqvj
+thumbnail: /imgs/posts/especial/12_meme2021/post_thumbnail.jpg
+cover: /imgs/posts/especial/12_meme2021/post_header.jpg
+---
+
+Quem acompanha o blog já sabe: o primeiro post do ano é a presença no, já tradicional, **"MeMe do Marvox"**, que chega à sua 11ª edição: **"O Que Você Jogou em 2021?"** e esta é minha 8ª participação. Como o próprio título já diz, a ideia é fazermos uma releitura do nosso ano "gamístico" dizendo o que de melhor (ou pior) a gente jogou no ano passou e 2021 foi um ano inesquecível para mim, simplesmente pelo fato de ser o ano do nascimento da minha filha Catarina! E quem é pai ou mãe, já sabe, o nosso mundo vira de cabeça para baixo e todas as atenções é praticamente voltadas para a pequena (ou pequeno)! Mas ainda sim, consegui encontrar energia e tempo para meu hobby favorito e tirei alguns jogos do backlog, inclusive, até de [podcast, eu participei](/post/participacao-podcast-jogoraro)! Enfim, selecionei (em ordem cronológica) alguns dos jogos que foram destaques na minha jogatina do ano.
+
+<!--more-->
+
+E não deixe de conferir os textos dos outros participantes do MeMe no final, afinal isso é uma éspecie de confraternização digital entre amigos que gostam de escrever sobre joguinhos!
+
+## Medal of Honor: Warfighter
+
+##### Xbox 360
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/01_moh-warfighter.jpg" full="true" %}
+
+Comecei o ano bem empolgado nos games, tinha terminado o ano anterior finalizando o **Medal of Honor (2010)** e resolvi já emendar em sua sequência. Pois, desde que esse jogo foi lançado, em 2012, que eu queria botar as mãos nele, isso porque tinha curtido demais o primeiro, que havia jogado na época em que tinha acabado de adquirir um PS3! Porém, o tempo foi passando e só fui comprar sua sequência no final de 2020, até porque o jogo não foi muito bem recebido pelas críticas.
+
+E com razão! O jogo é bem fraquinho e segue a mesma pegada do seu anterior, mas para mim, ele ainda assim é divertido e me prende, pois um dos seus pontos fracos é um ponto a favor na minha opinião: eles são curtinhos! Ambos os jogos foram uma tentativa de colocar a série na temática de guerra moderna que nitidamente não deram muito certo, pois a série está praticamente morta ([jogo para VR não conta](https://en.wikipedia.org/wiki/Medal_of_Honor:_Above_and_Beyond))!
+
+## Lost Planet: Extreme Condition
+
+##### Xbox 360
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/02_lost-planet.jpg" full="true" %}
+
+Depois do Medal of Honor, resolvi tirar um jogo meio que aleatoriamente da prateleira (não disse que estava empolgado com os games?) e escolhi esse quase obscuro jogo da **Capcom**!
+
+Fazia tempo que estava ensaiando em conhecer esse game, pois já ouvi algumas pessoas dizer coisas boas sobre ele. Mas sempre adiei essa decisão de jogá-lo, até um certo dia tirei ele da prateleira e coloquei no Xbox 360 sem pensar muito e não é que o jogo me prendeu de cara! Até escrevi sobre ele [aqui no blog](/post/analise-lost-planet), mas é basicamente um jogo do estilo tiro em terceira pessoa com mechas (robôs gigantes estilo Gundam) em um planeta perdido... e gelado!
+
+## DOOM (1993)
+
+##### PC
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/14_doom.jpg" full="true" %}
+
+Desde que me tornei fã da franquia DOOM (após jogar o [reboot de 2016](/post/analise-doom) em 2018) que eu queria explorar melhor esse clássico e apesar de ter várias maneiras de fazer isso (afinal DOOM roda em qualquer lugar), eu queria jogar no [meu primeiro PC com Windows 98](https://www.instagram.com/p/CKmw60XnH8G/) que restaurei e reativei um tempinho atrás.
+
+Consegui jogar desta forma, entretanto não cheguei a terminar todos os episódios, concluindo apenas o primeiro com suas 10 fases (Knee-Deep in the Dead), que também é conhecido como _Shareware Doom_. A partir do episódio 2, o negócio começa a ficar mais complicado e não progredi muito (sou muito _noob_ ou melhor _I'm too young to die_). Mas pretendo retomar esse ano, pois é uma experiência bem legal [jogar desta forma](https://www.instagram.com/p/CKUqD47nqgO/)! :)
+
+## Axiom Verge
+
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/03_axiom-verge.jpg" full="true" %}
+
+Parti para um _metroidvania_, mas não é um qualquer e sim, **Axiom Verge**, um jogo indie desenvolvido por [uma só pessoa](http://www.axiomverge.com/author) e que é fortemente inspirado nos clássicos do gênero.
+
+Com um visual retrô e belíssimo, esse jogo tem tudo que um bom _metroidvania_ tem que ter, bastante *backtrackings*, *power-ups*, lutas com chefes, coleta de itens, enfim... Até a trilha sonora (que também foi composta pelo desenvolvedor) é ótima! Um baita jogo, recomendo muito para os fãs do gênero. Recentemene saiu o [Axiom Verge 2](https://www.axiomverge2.com/) e já coloquei na lista para comprar!
+
+## Hellblade: Senua's Sacrifice
+
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/04_hellblade.jpg" full="true" %}
+
+Outro jogo que fazia tempo que queria jogar, mas que adiava por saber que o jogo aborda um tema pesado, a psicose. No final das contas o jogo é sim sinistro, mas nada absurdo, nem pode ser considerado um jogo de terror. Mas enfim, é um jogo que possui um ritmo lento, mas que ao mesmo tempo é bem intenso devido sua abordagem. O tempo todo *Senua*, a protagonista do jogo, fica discutindo (sussurando) com sua mente dizendo que tudo pode dar errado, que você não está fazendo certo. Uma luta contra ela mesma.
+
+O jogo tem a temática da mitologia nórdica e celta e seu objetivo é salvar a alma do seu amado *Dilion*, porém, durante esta jornada, você enfrentará seu passado e seus traumas. O combate do jogo é interessante, onde você tem que atacar, se defender e se esquivar nos momentos certos, pois senão é morte na certa. E a cada morte, uma mancha negra percorre seu corpo e, segundo o jogo diz, se preencher o corpo todo é morte permanente, você terá que começar desde o início. Mas aparentemente isso foi [um blefe](https://www.pcgamesn.com/hellblade-senuas-sacrifice/hellblade-permadeath-bluff) da desenvolvedora.
+
+Enfim, é um baita jogo. O pessoal reclama dele ser curto, mas para mim, foi uma jornada de tamanho satisfatório, recomendo! Ah, e se você for jogar, recomendo fortemente jogar com um fone de ouvido, a experiência é outra! Uma sequência está à caminho e desta vez será exclusivo para Xbox Series e PC, já que a Microsoft [comprou o estúdio Ninja Theory](https://jovemnerd.com.br/nerdbunker/microsoft-compra-unded-labs-ninja-theory-e-varios-outros-estudios/), desenvolvedora do jogo.
+
+## Medal of Honor: Underground
+
+##### PlayStation
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/05_moh-underground.jpg" full="true" %}
+
+Fazia anos que não revisitava esse clássico! O segundo jogo da série que nasceu no próprio PS1, **Medal of Honor: Underground** foi lançado em 2000 e até hoje é um jogo totalmente jogável e ótimo, mesmo sendo um jogo de tiro em primeira pessoa (que tem tendência à envelhecer mal). Mas sou suspeito para falar pois sou muito fã da série, principalmente destes dois primeiros MOH. Para mim, o trabalho de ambientação e jogabilidade é excepcional, muito acima da média!
+
+## The Last of Us: Remasterizado
+
+##### PlayStation 4
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/06_tlou.jpg" full="true" %}
+
+Outro que fazia tempo que não jogava, até tinha cogitado de jogá-lo antes do [lançamento da Parte 2](/post/meme-oqvj-2020) no ano retrasado (2020), mas acabei não jogando. Impressionante como esse jogo é excelente! Foi interessante jogá-lo novamente após ter jogado a parte 2, principalmente em ver como a série evoluiu tecnicamente e também como enredo me cativou ainda mais depois que me tornei pai.
+
+Vou deixar [aqui minha resenha](/post/analise-the-last-of-us) de quando joguei a versão de PS3 em 2013 para quem tiver interesse.
+
+## Resident Evil 6
+
+##### PlayStation 3
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/07_re6.jpg" full="true" %}
+
+Que contraste sair de TLOU para jogar esse **Resident Evil**. Mas como fã da franquia, estava empenhado em tirar esse e o RE5 (mais abaixo) da minha de lista de backlog da série, pelo menos, da série numerada principal (sem contar os remakes e os spin-offs).
+
+O mais triste desse jogo é que ele tinha tudo para ser excelente, pois reune quase todos os principais personagens da série (Leon, Chris, Sherry e Ada), tem bastante referências a série clássica e outros detalhes legais. Porém, o jogo tem tanta ação e muita vezes meio "pastelonas" que o torna em quase um jogo genérico de ação.
+
+O jogo possui quatro campanhas, uma para cada de dupla de personagens (menos a da Ada que é "forever alone") e isso é uma característica interessante do jogo, pois ele é pensado para ser jogado em co-op (assim como RE5). Mas como eu sou do time da Ada, joguei todas elas sozinho e no fim, até acabei me divertindo com o jogo, mas é um daqueles que dificilmente voltarei a jogar no futuro. Uma vez já basta!
+
+## Luigi's Mansion
+
+##### GameCube
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/08_luigis-mansion.jpg" full="true" %}
+
+Esse era um desejo antigo, namoro esse jogo desde antes mesmo comprar meu GameCube (já tardiamente em 2012), pois lembro dele em revistas. Porém, mesmo depois de ter comprado o console, só fui conseguir o jogo no ano passado (os preços estão cada vez mais abusivos) e ele nem foi para prateleira, mas sim direto para o console. E pensa num joguinho divertido de se jogar. Ele fez parte dos títulos de lançamento do GameCube que, se não me falha memória, foi a primeira vez que não tínhamos um jogo do Mario no lançamento de um console e sim do Luigi. Sendo assim, ele veio para mostrar todo o potencial do console.
+
+No papel de Luigi, sua missão é capturar todos os fantasmas de uma mansão mal assombrada e resgatar seu irmão Mario. E para isto, você contará com a ajuda do aspirador de pó **"Poltergust 3000"** como arma contra os inimigos. O jogo não oferece um desafio muito grande, mas para cada tipo de fantasma, você terá que usar uma estratégia diferente para derrotá-lo. Eu até [escrevi sobre ele aqui](/post/analise-luigis-mansion), mas resumidamente é um jogo muito bem feito em todos os aspectos, porém não é muito longo, recomendo!
+
+## Resident Evil 5
+
+##### PlayStation 3
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/09_re5.jpg" full="true" %}
+
+Esse também era outro que tinha me despertado o interesse através de revistas. Antes mesmo do lançamento do PS3, eu já via os anúncios dele e achava o máximo. Porém, quando eu [comprei meu PS3 anos mais tarde](/post/aquisicao-playstation3), não sei por qual motivo, mas já tinha perdido o interesse nele. Na verdade, já tinha perdido o interesse pela série como um todo (apesar de ter curtido demais todos da série até o Resident Evil 4). 
+
+Só fui recuperar com o [Resident Evil VII](/post/analise-resident-evil-7), aí meio que por "obrigação", coloquei na cabeça que tinha que conferir por conta própria os dois da série numerada que havia pulado, o 5 e o 6. Como você deve ter notado, comecei de trás para frente e terminei o 6 primeiro e nesse meio tempo conversando com amigos no Instagram, a maioria disse que se eu terminasse o 6, o 5 iria ser de boa, pois era muito melhor que ele.
+
+Porém, ao começar a jogá-lo, ele não me cativou de primeira, senti falta de algumas coisas que tinha no seis, como o combate corpo a corpo por exemplo. Mas insisti e consegui chegar ao final. 
+
+O jogo tem a mesma pegada de ação do RE6, com direito à socos em pedras gigantes para movê-las e tudo mais. Além disso, ele também foi o primeiro jogo projetado para ter uma jogabilidade cooperativa de dois jogadores, onde você assume os papeis de **Chris Redfield** e sua parceira **Sheva Alomar**. Vocês estão em uma região da África para investigar o tráfico de uma arma bio-orgânica e acaba descobrindo que até **Albert Wesker** (clássico vilão da série) está envolvido.
+
+Enfim, no final das contas, foi divertido de jogar!
+
+## The Legend of Zelda: A Link to the Past
+
+##### Super Nintendo (via 3DS)
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/10_zelda-alttp.jpg" full="true" %}
+
+Esse é um [pecado gamístico antigo meu](/post/pecados-gamisticos-jogos-de-rpg) e é um clássico absoluto que dispensa apresentações! No ano passado eu descobri uma forma de encaixá-lo em minha rotina e estava empenhado a terminá-lo. Estava jogando no 3DS no meu horário de almoço do serviço! Estava indo bem até um dia o pessoal apareceu com uma mesa ping-pong por lá, aí perdi o foco e fui jogar com o pessoal.
+
+Por isso ainda não tirei esse pecado da minha lista. Mas já voltei a jogá-lo, porém em outro horário: um pouquinho antes de dormir, vamos ver se vai dar certo?
+
+## Horizon Chase Turbo
+
+##### PlayStation Vita
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/11_horizon-chase-turbo.jpg" full="true" %}
+
+Quando **Horizon Chase** foi lançado lá trás (2015) para dispositivos mobiles, antes mesmo de chegar nos consoles, eu já desejava jogá-lo de maneira portátil porém com controles físicos, então estava torcendo para quando eles cumprisse a promessa do lançamento para os consoles, chegasse também para o Vita. A chegada aos consoles demorou três anos (2018), mas veio... E nada do Vita!
+
+Mas eis que em 2021 o jogo chega oficialmente ao portátil da Sony. Porém, de maneira totalmente tímida e ESCASSA! Digo isso, porque o jogo foi lançado em tiragem limitada (2200 cópias) pela **Estasiasoft** (via [Play-Asia](https://www.play-asia.com/horizon-chase-turbo-limited-edition/13/70ej9l)) e o detalhe principal: **não existe cópia digital do jogo**, a única maneira (legal) de jogá-lo é atráves dessa versão (até onde sei).
+
+{% include youtubePlayer.html id='XJyzRUX_nbw' %}
+
+Felizmente eu consegui garantir minha cópia e pretendo platiná-lo também (sim, é uma platina separada da versão de PS4) e para isso, já terminei o modo **Volta ao Mundo** e estou jogando os **Campeonatos** para depois jogar o modo **Resistência**. Essa versão não possui nenhuma das DLCs lançadas, mas mesmo assim fiquei feliz em poder finalmente jogar no PS Vita!
+
+## Forza Horizon 5
+
+##### Xbox One
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/12_forza-horizon-5.jpg" full="true" %}
+
+O único jogo de 2021 que não resisti ao lançamento, bom, tirando a versão de PS Vita do Horizon Chase Turbo acima. Enfim, mesmo sabendo que o jogo estaria disponível no **Dia 1** aos assinantes do **Xbox Game Pass**, preferi não voltar a ser assinante e comprar a cópia física mesmo ([que até vem com um boné](https://www.youtube.com/watch?v=WbRiSAts-14)). E apesar do jogo ser mais do mesmo (só que agora no México), eu tô curtindo para caramba! 
+
+## #DRIVE
+
+##### Android
+
+{% include image.html url="/imgs/posts/especial/12_meme2021/13_drive.jpg" full="true" %}
+
+[#Drive](https://www.drive.game) é um jogo indie de corrida, ou melhor, de condução de carro muito bem caprichado. Digo condução de carro, pois não é bem uma corrida, seu objetivo é dirigir seu carro por uma estrada infinita (acho) desviando de outros veículos e coletando tampinhas de garrafas. 
+
+A temática do jogo é inspirada em filmes de estrada e de ação dos anos 70 e o visual do jogo é muito legal, apesar dos gráficos serem "simples", tudo é muito rico em detalhes. 
+
+Durante seu percurso, além de desviar de outros carros, você terá que dar manutenção, abastecer seu carro e fugir algumas vezes da polícia. E uma maneira legal de fugir é dar uma "rosquinha" (que você coleta durante o percurso) à eles. E a atenção aos detalhes é tão bem feita, que dependendo a região/país que você está, a "rosquinha" muda, passando a ser um bolinho de arroz (Oniguiri) no Japão ou então um Pretzel se tiver na Alemanha, por exemplo.
+
+{% include image.html
+    url="/imgs/posts/especial/12_meme2021/drive_screenshot.jpg"
+    description="Visual caprichado!" %}
+
+A "corrida" termina quando seu carro quebra, geralmente batendo de frente com outro, ou quando acaba a gasolina. As tampinhas de garrafa que você coleta na estrada são suas moedas, com elas você pode comprar novos carros ou então estilizar seu atual. Existem também os cartões postais que você ganha no final da corrida e eles servem para você liberar novas localidades.
+
+O [jogo é gratuito com propagandas](https://play.google.com/store/apps/details?id=com.pixelperfectdude.htdrive), mas você pode comprar a versão Premium (sem propagandas) por R$ 15,99. Ah, você pode comprar tampinhas e postais com dinheiro também, mas aí perde a graça! 
+
+### Menções honrosas
+
+E para fechar, algumas menções honrosas:
+
+- **Ghosts of Tsushima (PlayStation 4)** - Este é um jogo bastante elogiado que eu tenho certeza que vou curtir bastante, porém, comecei a jogá-lo no final do ano e ele não me prendeu ainda. Por quê digo ainda? Porque já aconteceu comigo antes com dois jogos de mundo aberto: Horizon Zero Dawn e Days Gone, que são dois jogos que não me fisgaram de primeira, mas que depois que engrenei, se tornaram grandes jogos que com certeza entrariam na minha lista de Top 10 da plataforma (PS4).
+- **Ori and the Blind Forest (Xbox One)** - Esse é outro, tenho certeza que é um grande jogo! Mas joguei tão pouco que não deu tempo de engrenar nele. Colocando ele aqui para ficar registrado e me cobrar de terminá-lo neste ano, pois é um "metroidvania" lindíssimo!
+- **Tomb Raider: Angel of Darkness (PC)** - Sabe aquela história com os Resident Evils acima? Pois bem, isso acontece comigo também com **Tomb Raider** e faltam apenas dois jogos da série principal para eu terminar: o segundo jogo (TR2) e esse, o patinho feio da franquia. O legal é que tava jogando essa versão para PC que possui dublagem em português! Pretendo retomar em breve.
+- **Horizon Chase Turbo: Senna Sempre (DLC) (PS4)** - Outro jogo que comprei no lançamento, porém, esse na verdade é uma DLC. **Senna Sempre** é o conteúdo adicional mais recente de **Horizon Chase Turbo** que, além de trazer diversas homenagem ao nosso ídolo Ayrton Senna, tem um modo de jogo novo com carros de Fórmula 1 e visão do cockpit em primeira pessoa, lembrando bastante os **Super Mônaco GP** do Mega Drive.
+
+### Todos os zerados
+
+| **02/01** | Medal of Honor: Warfighter (Xbox 360) |
+| **23/01** | Lost Planet: Extreme Condition (Xbox 360) |
+| **01/02** | Axiom Verge (PS4) |
+| **09/02** | Hellblade: Senua's Sacrifice (PS4) | **PLATINADO!** |
+| **28/02** | Medal of Honor: Underground (PS1) |
+| **03/06** | The Last of Us: Remasterizado (PS4) |
+| **13/06** | Resident Evil 6 (PS3) |
+| **26/06** | Luigi's Mansion (GC) |
+| **23/08** | Resident Evil 5 (PS3) |
+| **07/11** | Horizon Chase Turbo (PS Vita) |
+
+**Total:** 10 jogos
+
+Obviamente esse número diminuiu drasticamente em relação ao [ano passado](/post/meme-oqvj-2020), mas ainda sim, foi um ótimo ano gamístico também!
+
+---
+
+Este post faz parte do tradicional MeMe do Blog do Marvox, sendo assim não deixe de conferir os demais participantes:
+
+- [A TV Vai Estragar!](https://atvvaiestragar.wordpress.com) - Eduardo Farnezi
+- [Arquivos do Woo](https://www.arquivosdowoo.com.br) - Diogo Batista
+- [Arquivos do Woo](https://www.arquivosdowoo.com.br/2022/01/13/meme-gamer-o-que-voce-jogou-em-2021-geovane-sancini/) - Geovane Sancini
+- [Gamer Caduco](https://gamercaduco.com/2022/01/12/meme-gamer-o-que-voce-jogou-em-2021-oqvj2021/) - Caduco
+- [MarvoxBrasil](https://marvoxbrasil.wordpress.com/2022/01/08/oqueeujogueiem2021/) - Marvox
+- [UsoppBR (Alvanista)](http://alvanista.com/usoppbr/posts/3895866-meme-gamer-o-que-voce-jogou-em-2021-11-edicao) - João Carlos
+- [Vão Jogar!](https://vaojogar.com.br) - Tchulanguero
+- [Vão Jogar!](https://vaojogar.com.br) - SucodelarAngela
+- [Vão Jogar!](https://vaojogar.com.br) - Somari
