@@ -33,11 +33,6 @@ layout: default
   {% assign tags_content = '' %}
 {% endif %}
 
-<entry>
-  <media:content url="{{ page.thumbnail | prepend: site.url }}" medium="image"></media:content>
-  <media:thumbnail url="{{ page.thumbnail | prepend: site.url }}"></media:thumbnail>
-</entry>
-
 <div class="post">
   {% if page.cover %}
     <div class="post-highlight">
