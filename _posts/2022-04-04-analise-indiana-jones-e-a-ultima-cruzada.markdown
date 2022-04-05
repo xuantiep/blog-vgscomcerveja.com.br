@@ -52,7 +52,9 @@ Talvez o ponto que o jogo mais peca é na sua jogabilidade que é bastante lenta
     credits_type="Foto"
     credits_link="https://www.instagram.com/p/CZQIQj3OroC/" %}
 
-No final das contas, este Indiana Jones se tornou um baita jogo para mim, principalmente pelo fator nostalgia que ele me transmite (mesmo que anteriormente era uma nostalgia negativa, pois não conseguia terminá-lo). Mas se parar para analisar, é um jogo bem feito apesar da jogabilidade cadenciada. E aí, já jogou esse clássico baseado no filme do [George Lucas](https://pt.wikipedia.org/wiki/George_Lucas) e [Steven Spielberg](https://pt.wikipedia.org/wiki/Steven_Spielberg)? Comente aí!
+No final das contas, este Indiana Jones se tornou um baita jogo para mim, principalmente pelo fator nostalgia que ele me transmite (mesmo que anteriormente era uma nostalgia negativa, pois não conseguia terminá-lo). Mas se parar para analisar, é um jogo bem feito apesar da jogabilidade cadenciada. Inclusive, caso queria ver um gameplay completo (e acelerado) do jogo, eu gravei um vídeo e [disponibilizei no Instagram](https://www.instagram.com/p/CZUYw1CIVgu/)! :)
+
+E aí, já jogou esse clássico baseado no filme do [George Lucas](https://pt.wikipedia.org/wiki/George_Lucas) e [Steven Spielberg](https://pt.wikipedia.org/wiki/Steven_Spielberg)? Comente aí!
 
 {% include ficha.html
   titulo='Indiana Jones e a Última Cruzada'
